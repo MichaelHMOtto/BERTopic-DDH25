@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leopold R. Kráčelik an Hugo Schuchardt (01-05762)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1948">
+            <forename>Leopold R.</forename>
+            <surname>Kráčelik</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11676" type="PID">o:hsa.letter.11676</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-05762</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05762</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1948">
+                <forename>Leopold R.</forename>
+                <surname>Kráčelik</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6479" ref="http://sws.geonames.org/3063739">Ungarisch Hradisch</origPlace>
+              <origDate ana="dcterms:created" when="1886-05-19">1886-05-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Leopold R. Kráčelik und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1948"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11676">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1948">
+            <forename>Leopold R.</forename>
+            <surname>Kráčelik</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6479" key="#GID.1" ref="http://sws.geonames.org/3063739">Ungarisch Hradisch</placeName>
+          <date when="1886-05-19">1886-05-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Czechia</country>
+                <settlement>Uherské Hradiště</settlement>
+                <name ref="http://geonames.org/3063739" type="fcode:PPL">Uherské Hradiště</name>
+                <location>
+                  <geo>17.45969,49.06975</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1948" type="context">
+                        Korrespondenz Leopold R. Kráčelik - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.477" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Etymologie</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11676" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11676" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11676" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11676" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>LEOPOLD R. KRÁČELÍK<lb/> VERLAGSBUCHHANDLUNG<lb/> UNG, HRADISCH, MÄHREN<lb/> 19. Mai 1886. </dateline>
+        <opener>Lieber Freund!</opener>
+
+        <p>Aufdass ich nicht vergesse, richte ich vor allem anderen Dir den Gruß unseres Bürgermeisters Herrn Johann Protzkar<note
+            n="1" place="foot" type="editorial">Johann / Jan Protzkar (1820-1903), tschechischer Politiker (vgl. <ref
+            target="https://cs.wikipedia.org/wiki/Johann_Protzkar">
+https://cs.wikipedia.org/wiki/Johann_Protzkar</ref>); es ist keine Korr. mit Schuchardt erhalten.</note>, der inzwischen Ritter des Franz Josef Ordens geworden ist – und den ich auch hernahm, ob er als alter Herr in seiner Jugend nicht etwa über <hi
+            rend="unknown" rendition="#none">Kračoun (Kračún)</hi> hörte, auf das freundlichste aus.<note n="2"
+            place="foot"
+              type="editorial">Schuchardt veröffentlichte 1886 in verschiedenen Aufsätzen einige kurze Bemerkungen zum Thema der <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.477">Etymologie</ref> des Wortes für Weihnachten, so <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.419">
+                <hi rend="unknown" rendition="#none">Kračunъ - karačunъ</hi>
+              </ref>
+            </bibl> in Jagis Archiv (Brevier/HSA 189), aber auch die <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.447">Ásbóth Besprechung</ref>
+            </bibl> (Brevier/HSA 193) und einen kurzen Artikel im <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.236">
+                <hi rend="unknown" rendition="#none">Magyar Nyelvőr</hi>
+              </ref>
+            </bibl> (Brevier/HSA 190).</note>
+        </p>
+
+        <p>Ich setzte alle Hebel in Bewegung, doch weiß sich Niemand eines solchen Ausdruckes auch nur zu erinnern – heute war ich im slov. Gymnasium und bat den Direktor, daß er Schüler aus der ungarischen Slovakei an der Anstalt befindlich, citieren möge, was er bereitwillig that. Wir frugen sie, ob für <hi
+            rend="unknown"
+            rendition="#none">
+Vánoce</hi> eine andere Bezeichnung bei ihnen noch existiere, wir nannten <pb
+            facs="#IMG.2"
+            n="2"/> ihnen, um die Erinnerung zu unterstützen, die Ausdrücke, aber um hierbei nur zu erfahren, daß sie derartiges <hi
+            rend="unknown" rendition="#none">nicht</hi> hörten.</p>
+        <p>Was ich ermittelte ist noch Kottur slowák.: Kračouny, krátké dui, vánoce. (Na kračouny desátek odvádĕti.)</p>
+        <p>Nach Rank<note n="3" place="foot"
+            type="editorial">Nicht identifiziert.</note> „Wörterbuch“ „Kračouny“ = kurze Weihnachtstage und nach Sumavsky<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8659">Josef Franta Šumavský, <hi
+                  rend="unknown" rendition="#none">Deutsch-böhmisches Wörterbuch</hi>, Prag: Spurný, 1844.</ref>
+            </bibl>
+          </note> slovník „kračoun“ Weihnachten. Dieser letzte wäre für Dein <hi rend="unknown"
+            rendition="#none">Kráčun</hi>, da, wie Dir bekannt ou gleich ú ist, somit gleich ist, <hi rend="unknown" rendition="#none">kračun</hi>, Nach Sumavsky ist es in der ungarischen Slowakei gebräuchlich, wie aber bereits erwähnt, haben die Nachfragen bei Kindern aus der Gegend auch zu keinem befriedigenden Ergebnis geführt.</p>
+        <closer>
+          <salute>Ich wünsche, daß das Wenige <pb facs="#IMG.3" n="3"/> Dir dienlich sei und begrüße Dich herzlich als Dein alter</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1948">Kráčelík</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

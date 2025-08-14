@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ernest-Marie Ménager an Hugo Schuchardt (02-06994)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2163">
+            <forename>Ernest-Marie</forename>
+            <surname>Ménager</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12449" type="PID">o:hsa.letter.12449</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-06994</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06994</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2163">
+                <forename>Ernest-Marie</forename>
+                <surname>Ménager</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6749" ref="http://sws.geonames.org/2395752">Agoué</origPlace>
+              <origDate ana="dcterms:created" when="1883-02-19">1883-02-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Ernest-Marie Ménager und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2163"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12449">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2163" ref="https://viaf.org/viaf/107160483868904992577">
+            <forename>Ernest-Marie</forename>
+            <surname>Ménager</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6749" key="#GID.1" ref="http://sws.geonames.org/2395752">Agoué</placeName>
+          <date when="1883-02-19">1883-02-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Benin</country>
+                <settlement>Agoué</settlement>
+                <name ref="http://geonames.org/2395752" type="fcode:PPL">Agoué</name>
+                <location>
+                  <geo>1.67624,6.2463</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2163" type="context">
+                        Korrespondenz Ernest-Marie Ménager - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.844" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Portugiesisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.168" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Portugiesisch (Brasilien)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12449" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12449" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12449" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12449" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12449" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Monsieur le Dr Hugo Schuchardt, professeur à l’université de [Gratz]<note n="1" place="foot"
+              type="editorial">Der Name „<placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName>“ (franz. meist „Gratz“) fehlt im Original.</note>
+          <lb/>MISSIONS CATHOLIQUES<lb/> VICARIAT APOSTOLIQUE DU BÉNIN<lb/> AGOUÈ<lb/> (Côte occidentale d’Afrique)</dateline>
+        <opener>Monsieur.</opener>
+
+        <p> Veuillez m’excuser du retard que je mets à répondre à votre honorée du 23 Août, mais ici la poste est loin d’être aussi régulière qu’en Europe, heureux encore quand la lettre arrive à destination. La vôtre m’est arrivée, mais comme j’était en voyage, je ne l’a reçue qu’au retour, et au retour j’ai été deux mois malade. Jusqu’ici, par suite des travaux qui ont suscité mes voyages à <placeName> Port Moro</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6072">Wydah</placeName>, <placeName> Grand-Popo</placeName>, <placeName> Petit Popo</placeName>, <placeName> Seguro</placeName>, je n’ai pu m’occuper du travail que vous me demandez et que je serai heureux de faire. Il y a dix ans que je suis ici et ne parle que <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.844"> portugais</ref> pour la prédication. Je n’ai jamais trouvé une très-grande différence entre le portugais que nous apprenons grammaticalement pour nous, afin de l’enseigner et le portugais parlé. Pour l’exemple que vous me donnez „m como, je mange“, ils prononcent généralement l‘“o“ de como, un peu entre l’o et l’u. La grande différence entre le portugais parlé ici par les portugais et les noirs venus du <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5957">Brésil</placeName>, consiste dans l’accent que ces derniers ont l’habitude de prononcer d’une manière très démesurée en l’allongeant, ce qui certainement ne provient <pb
+            facs="#IMG.2"
+            n="2"/> pas des langues du pays. Ce défaut doit venir du Brésil où ces noirs avaient été emmenés esclaves. Quant à l’extension de la langue portugaise dans les points qui dépendent d‘Agoué<note
+            n="2" place="foot"
+            type="editorial">Stadt und ein Arrondissement im Departement Mono in <placeName> Benin</placeName>.</note>, je puis dire qu’elle est très répandue quoiqu’elle tende à disparaître sous l’infuence du commerce anglais. Ici nous avons été obligés même d’abandonner les écoles portugaises pour enseigner l’<ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.891">anglais</ref>. Cette langue grammaticalement simple a beaucoup d’avantages sur le portugais dont les conjugaisons sont très compliquées, et les verbes irréguliers assez nombreux et difficiles. La construction d’une phrase anglaise offre de très grand rapports avec celle de la langue parlée dans les Popo<note
+            n="3" place="foot" type="editorial"> Stadt im Südwesten des heutigen Benin.</note>. </p>
+        <p>Wydah<note n="4" place="foot"
+            type="editorial">Ouidah, Stadt in Benin englischer Name von Sahé, ehemaliges westafrikanisches Königreich.</note> où nous avons une école dépendant d’Agouè, on parle plus le portugais que sur les autres points. Ceci provient d’une famille très-nombreuse sortie d’un portugais F. de Souza<note
+            n="5" place="foot" type="editorial">
+
+            <persName> Francisco Félix de Souza </persName>(1754-1849), brasilianischer Sklavenhändler,</note> qui avait un véritable sérail. En outre du temps de la traite, ce point était très fréquenté par les nègriers qui pour n’avoir peut-être un langage très-régulier, affectaient cependant de parler correctement leur langue devant les négriers noirs qui parlaient le <ref target="https://gams.uni-graz.at/o:hsa.languages#L.168">Brésilien portugais</ref>. </p>
+
+        <p>A Agoué, la langue portugaise, comme je vous l’ai déjà dit, tend à diminuer pour faire place à l’Anglais, cependant tout noir habillé la parle assez correctement, en recherchant surtout les expressions les plus bizarres. <pb
+            facs="#IMG.3"
+            n="3"/> A Grand et à Petit-Popo, le portugais est bien moins parlé qu’à Agoué, à Petit-Popo il n’y a guère que deux familles à le parler, l’une d’elle est, i lest vrai [Wort fehlt im Original]. Le père en mourant, il y a trois ans, laissait vivants 73 garçons, sans compter les filles dont le nombre était supérieur. Un jour me promenant avec le père (F. d’Almeida) noir comme jai<note
+            n="6" place="foot" type="editorial">Vermutlich ist „jais“ gemeint (Pechkohle, Gagat).</note>, nous rencontrâmes un charmant petit négrillon aux grands yeux noirs, „il paraît être votre enfant“, dis-je à mon compagnon, pode ser, me répondit-il. Il appelle l’enfant et lui demande le nom de sa mère, Oui, c’est un de mes enfants. Il lui fallut de même s’adresser à son fils pour savoir s’il était baptisé. </p>
+        <p>À Porto Seguro qui est un tout petit point, q. q. cents âmes seulement, il n’y a pas plus de dix personnes à parler portugais. </p>
+        <p>Quant à l’origine de cette langue sur cette partie de la côte des Esclaves, je vous l’ai déjà donné en vous parlant des portugais négriers et du retour dans leur pays natal ou plutôt sur cette plage des esclaves libérés au Brésil. Je vous dis sur cette plage car les esclaves libérés, nés dans l’intérieur ne voulaient pas retourner dans leur pays natal, dans la crainte d’être volés et vendus de nouveau. Les noirs ont une véritabe passion pour se voler et se vendre entre eux, il ne se passe pas de semaines où je n’entende dire; un tel avec un ou deux de ses esclaves volés, à cause d’une dette d’un sac cauris ou chose de peu d’importance. Le sac cauris: 20,000 cauris vaut actuellement 8 sh ou marks, et est la charge d’un homme. </p>
+        <pb facs="#IMG.4" n="4"/>
+        <p>Je regrette de ne pouvoir pour le moment vous donner de plus amples détails, aussitôt que mes occupasions me le permettent, j’espère vous fournir quelques fragments de conversation etc comme vous me le demandez. </p>
+
+        <p>J’oubliais de vous signaler que l’élément portugais blanc diminue beaucoup à la côte, il n’y a plus ici que deux portugais ex-négriers, à Wydah où ils étaient nombreux autrefois, il n’y en a plus qu’un assez âgé ex-négrier aussi. Le gouvernement portugais soutient cependant toujours un semblant de port, honte de sa nation par les misérables soldats qu’il y envoie. Ces soldats sont généralement des déportés ou des Créoles de Louanda<note
+            n="7" place="foot" type="editorial">„<placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6632">Luanda</placeName>“, Hauptstadt von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.567"> Angola</placeName>.</note>. Il paraît qu’il est question de retirer la garnison, composée généralement de 20 blancs et d‘autant de noirs. Le temps de gloire du <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5895">
+Portugal</placeName> sur ces côtes est passé. </p>
+        <p>Puisses ces quelques lignes écrites à la hâte vous pouvoir être de quelqu’utilité. Je ne sais si je resterai désormais longtemps à la côte, car je suis fatigué, mais probablement après un séjour de quelques mois dans ma famille, je reviendrai. Je pense partir en Avril. Je me permets de vous donner mon adresse: M.e Ménager, Grande rue Notre Dame, 4, Vitré (Ille et Vilaine). </p>
+        <closer>
+          <salute>Daignez agréer, Monsieur le Docteur, mes bien respectueuses salutations </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2163">E Ménager </persName>m. ap. f. M.<note n="8"
+              place="foot" type="editorial">Abkürzung nicht aufgelöst!</note>
+          </signed>
+          <dateline>Agoué 19 Février 1883 </dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

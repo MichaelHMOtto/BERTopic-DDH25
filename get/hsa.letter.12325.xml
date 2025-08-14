@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Octavio Hermann  Schroeder an Hugo Schuchardt (07-10253)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2678">
+            <forename>Octavio Hermann </forename>
+            <surname>Schroeder</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12325" type="PID">o:hsa.letter.12325</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">07-10253</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10253</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2678">
+                <forename>Octavio Hermann </forename>
+                <surname>Schroeder</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6737" ref="http://sws.geonames.org/2661527">Bex</origPlace>
+              <origDate ana="dcterms:created" when="1885-10-25">1885-10-25</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Octavio Hermann  Schroeder und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2678"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12325">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2678" ref="https://viaf.org/viaf/269012171">
+            <forename>Octavio Hermann </forename>
+            <surname>Schroeder</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6737" key="#GID.1" ref="http://sws.geonames.org/2661527">Bex</placeName>
+          <date when="1885-10-25">1885-10-25</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Switzerland</country>
+                <settlement>Bex</settlement>
+                <name ref="http://geonames.org/2661527" type="fcode:PPL">Bex</name>
+                <location>
+                  <geo>7.0098,46.24965</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2678" type="context">
+                        Korrespondenz Octavio Hermann  Schroeder - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5022" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Académie française</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.226" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12325" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12325" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12325" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12325" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12325" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Bex (Canton de Vaud) <note n="1" place="foot"
+              type="editorial">Bex ist eine politische Gemeinde im Distrikt Aigle des Kantons Waadt (Vaud) in der <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6003">Schweiz</placeName>. Der ehemalige deutsche Name Beis wird heute nicht mehr verwendet. – <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">Wolf, <hi rend="unknown" rendition="#none">Nachlaß</hi>
+              </ref>
+            </bibl>, 345 löst den Namen nicht auf und gibt stattdessen als Absendort „O. O.“ an!</note>
+          <lb/> 25 October 85.</dateline>
+        <opener> Mein werther Herr Professor,</opener>
+
+        <p> Als ich gestern im Lesezimmer unseres Hôtels das Pariser Journal „Le Temps“ durchblätterte, fand ich in einem Aufsatz über die letzte Sitzung der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5022">Académie française</ref>, daß Sie mit einer Arbeit über die philologie comparée<note
+            n="2" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109"> Schuchardt</persName> erhielt den Prix Volney für sein Buch<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.184">
+                <hi rend="unknown" rendition="#none">Slawo-deutsches und Slawo-italienisches</hi>
+              </ref>
+
+            </bibl>.</note> den Prix Volney errungen haben. Diese Mittheilung kam mir doppelt erwünscht, da sie mich daran erinnert, daß ich noch eine Briefschuld an Sie abzutragen habe. Unsere Correspondenz stockt seit ungefähr zwei Jahren<note
+            n="3" place="foot"
+            type="editorial">Der letzte erhaltene Brief ist zu diesem Zeitpunkt Nr. 10252 vom 31.12.1882.</note> und meine Frau behauptet daß ich der rückständige Theil sei. Ich hoffe einige Entschuldigung bei Ihnen gefunden zu haben durch mein Leiden, das mich in den letzten Jahren noch mehr gequält hat als sonst. Ich habe mich entschließen müssen, <pb
+            facs="#IMG.2"
+            n="2"/> mein Senatsamt aufzugeben und behalte nur auf Wunsch meiner Collegen die Stellung im Deutschen Bundesrathe bei. Der Rücktritt ist mir sehr sauer geworden. Um mich zu zerstreuen, ging ich mit meiner Familie, im Winter nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6489">Wiesbaden</placeName>, im Frühjahr nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.738"> Baden-Baden</placeName>, dann nach <placeName> Flims</placeName> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5999">Graubünden</placeName>, von dort nach <placeName> Scheveningen</placeName>, dann auf 14 Tage nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.242"> Brüssel</placeName> und jetzt bin ich seit Anfang October hier in Bex. Wie immer urplötzlich ist auch dieses Mal mit dem Tage meiner Ankunft hierselbst eine Besserung eingetreten, welche rapide Fortschritte macht und mich mit neuer Lebenslust erfüllt. Einen großen Antheil daran schreibe ich dem Aufenthalt in dieser tröstlichen Landesruhe (??) bei und dem Wohlgefallen, mit dem mich Landvolk, Sitten und Ruhe erfüllen. Genug, ich athme wieder auf und erwarte dauerndes Wohlbefinden von der Arbeitsfreiheit oder richtiger von der Abschüttelung der Arbeitshetze. </p>
+        <p>In einigen Tagen müssen wir – ich reise mit Frau und beiden Töchtern – von hier aufbrechen, <pb facs="#IMG.3"
+            n="3"/> da das äußerst gemüthliche Hôtel, das wir bewohnen, für die Wintermonate geschlossen wird. Wir gehen dann nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6380">Montreux</placeName>, um dort die Wintermonate zu verbringen und hoffe in dem Hôtel Lorius<note
+            n="4" place="foot"
+            type="editorial">Zweitname: „Deutscher Hof“.</note> eine gute Wahl getroffen zu haben. Margarethe wird dort eine Erziehungsanstalt besuchen, um tüchtig <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.226">Französisch</ref> zu lernen, und wohin wir dann im Frühjahr unsere Schritte richten, ist ungewiß, vielleicht nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666"> Paris</placeName> und dann zurück nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.265">Hamburg</placeName>. </p>
+
+        <p>Und nun genug von uns. Wie sieht es denn bei Ihnen aus? Daß Sie tüchtig bei der Arbeit sind, darüber belehrt mich die Krönung mit dem Academiepreise<note
+            n="5" place="foot" type="editorial">Gemeint ist der „Prix Volney“, den Schuchardt 1885 für sein Buch <hi
+              rend="unknown"
+            rendition="#none">Slawo-deutsches und Slawo-italienisches</hi> erhielt.</note>. Herzlichen Glückwunsch zu dieser Auszeichnung, von den Meinigen nicht minder als von mir! Hoffentlich geht es auch im Uebrigen mit Ihrer Gesundheit gut, worüber eine schriftliche Bestätigung uns sehr erfreuen würde. Prächtig wäre es, wenn Sie uns in unserem Dolce far niente in Montreux einmal aufsuchen wollten. Sie pflegen ja auch im Winter oder wenigstens im Frühjahrsgrauen solche <pb
+            facs="#IMG.4" n="4"/>Ausflüge zu unternehmen. Im März soll es in Montreux sehr schön sein, im April oft schon zu warm, so daß wir dann wahrscheinlich nach Bex zurückkehren, um dann im Mai das Pariser Frühjahr aufzusuchen. </p>
+        <p>Frl. Probst<note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2450">Anita Probst</persName> (1858-1944) wurde am 27.1. 1858 in <placeName> Brooklyn</placeName> geboren, lebte später nach ihrer Eheschließung mit<persName> Hendrik Theodor Brauss</persName> (1851-?) in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.963">'s-Gravenhage</placeName> eine Zeitlang in Hamburg; ihre Korrespondenz mit Schuchardt findet sich unter <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2450">HSA 09034-09036</ref>.</note> hat Ihnen ihre Verlobung selbst mitgetheilt. Sie macht wahrscheinlich im Januar Hochzeit und geht dann wahrscheinlich ?? zunächst nach <placeName> Antwerpen</placeName>, später nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6488">Buenos Ayres</placeName>. In Scheveningen und Brüssel war sie mit uns. Tavasy (??) nimmt immer noch eine vornehme Stelle in unsern Reiseerinnerungen ein, nicht am Wenigsten der Moment als Sie eines Abends beim Thee plötzlich ins Zimmer traten. Das Unglück, welches Vettau (??)<note
+            n="7" place="foot"
+            type="editorial">Nicht identifiziert.</note> betroffen hat, werden Sie gewiß auch mit Theilnahme erfahren haben. In der Fremdenliste dieses Sommers war wieder der Cultusminister Gossler<note
+            n="8" place="foot" type="editorial">
+
+            <persName> Gustav von Goßler</persName> (1838-1902), 1881 bis 1891 Preuß. Kultusminister.</note> zu lesen, auf Meyerheims<note
+            n="9" place="foot" type="editorial">
+
+            <persName> Paul Friedrich Meyerheim</persName> (1842-1915), deutscher Maler.</note> ?? ich nicht ein. Krüger<note
+            n="10" place="foot"
+            type="editorial">
+Nicht identifziert.</note> ist leidend und wird wie ich höre den ganzen Winter in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italien</placeName> zubringen. </p>
+        <p>Aber nun genug. Frau und Tochter grüßen aufs Herzlichste und bitten mit mir um die Fortdauer Ihrer Gewogenheit. </p>
+        <closer>
+          <salute>Ihr sehr ergebener</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2678"> Schroeder.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

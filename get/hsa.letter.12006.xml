@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Daniel Garrison Brinton an Hugo Schuchardt (05-01379)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1203">
+            <forename>Daniel Garrison</forename>
+            <surname>Brinton</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Andrea </forename>
+            <surname>Kröll</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Andrea </forename>
+            <surname>Wippel</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Petra </forename>
+            <surname>Hödl</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Daniel  </forename>
+            <surname>Wimmer</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Thomas </forename>
+            <surname>Schwaiger</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12006" type="PID">o:hsa.letter.12006</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-01379</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">01379</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="en"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1203">
+                <forename>Daniel Garrison</forename>
+                <surname>Brinton</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6631" ref="http://sws.geonames.org/4559575">Media</origPlace>
+              <origDate ana="dcterms:created" when="1889-09-04">1889-09-04</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Andrea </forename>
+              <surname>Kröll</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Andrea </forename>
+              <surname>Wippel</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Petra </forename>
+              <surname>Hödl</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Daniel  </forename>
+              <surname>Wimmer</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Thomas </forename>
+              <surname>Schwaiger</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Daniel Garrison Brinton und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1203"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12006">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1203" ref="https://viaf.org/viaf/24674392">
+            <forename>Daniel Garrison</forename>
+            <surname>Brinton</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6631" key="#GID.1" ref="http://sws.geonames.org/4559575">Media</placeName>
+          <date when="1889-09-04">1889-09-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>United States</country>
+                <settlement>Media</settlement>
+                <name ref="http://geonames.org/4559575" type="fcode:PPLA2">Media</name>
+                <location>
+                  <geo>-75.38769,39.91678</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1203" type="context">
+                        Korrespondenz Daniel Garrison Brinton - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="en">Englisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12006" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12006" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12006" xml:lang="en">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Sept. 4/89.<lb/> Prof. Dr. Schuchardt</dateline>
+        <opener> Dear Sir:</opener>
+        <p> Thanks for the copy of your article on "English Creole".<note n="1" place="foot" type="editorial">Es handelt sich wohl um <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.659">Schuchardt (1889 [= HSA 221])</ref>
+            </bibl>. In der Bibliothek Brintons ist offenbar auch ein Exemplar des Texts vorhanden (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3033">Weeks 2002: 333</ref>
+
+            </bibl>, fälschlicherweise unter dem Titel des Artikels, der direkt vor Schuchardts Text in der Zeitschrift 
+<hi
+              rend="unknown" rendition="#none">
+Englische Studien</hi>
+ zu finden ist).</note> I take great interest in such studies, &amp; have examined it with much pleasure. Some day you will doubtless give us a philosophic appreciation of what should be understood by linguistic disintegration. Is it not evolution? </p>
+        <closer>
+          <salute>Yrs tly</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1203">
+D.G.Brinton.</persName>
+          </signed>
+        </closer>
+      </div>
+      <div corresp="#L.12006" subtype="original" type="appendix" xml:lang="en">
+        <pb facs="#IMG.2" n="2"/>
+        <p>Personal. </p>
+        <p>Dr. Daniel G. Brinton, Editor of the 
+Medical and Surgical Reporter, at Philadelphia, has been elected "Professor of Ethnology and Archæology," in the 
+Academy of Natural Sciences, Philadelphia. Dr. Brinton has made numerous contributions to ethnological literature, especially in relation to the linguistics, mythology, ancient history and archæology of the native races of America. He is Vice-President of the 
+International Congress of Americanists, and a member of numerous learned societies. The Professors of the Academy deliver a course of lectures annually on their respective branches, and have charge of the museum and collections.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

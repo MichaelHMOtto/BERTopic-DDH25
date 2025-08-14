@@ -1,0 +1,478 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (60-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11767" type="PID">o:hsa.letter.11767</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">60-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 19-20</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1886-03-02">1886-03-02</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11767">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1886-03-02">1886-03-02</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3138" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue critique d'histoire et de littérature</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5511" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Académie des inscriptions et belles-lettres</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.329" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Lautgesetze</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4141" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Prix Volney</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f47" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f48" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f49" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f50" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7481" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz, 2.3.86.</dateline>
+        <opener>Mon cher ami,</opener>
+        <p> Il n’y a que quelques jours que j’ai lu dans la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3138">Revue critique</ref> la notice sur la séance de l’<ref target="https://gams.uni-graz.at/o:hsa.subjects#S.5511">Académie d. I. et B. l.</ref>
+          <note n="1" place="foot" type="editorial"> Le compte rendu de la séance de l’AIBL du 29 janvier (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8269">1886</ref>
+            </bibl>), publié dans le numéro du 8 février de la <hi rendition="#i">Revue critique</hi> et signé <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">
+Havet</persName>, résume des remarques de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1195">Bréal</persName> et de G. Paris portant sur l’école des néo-grammairiens beaucoup plus que sur le livre de Schuchardt, <hi
+              rendition="#i">Über die Lautgesetze: Gegen die Junggrammatiker</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">Schuchardt 1885</ref>
+            </bibl>). La supposition de Schuchardt s’y lit donc, si jamais, <hi
+            rendition="#i">ex negativo</hi>. </note>, par où je crois voir – il n’est pas dit – que vous ne partagez point mon opinion sur l’inexorabilité (comme dit M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1353">d’Ovidio</persName>) des <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.329">lois phonétiques</ref>
+          <note n="2" place="foot"
+              type="editorial">La notion d’«Ausnahmslosigkeit» des lois phonétiques, qui est au cœur de la théorie néogrammairienne et de sa réfutation par Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">Schuchardt 1885</ref>
+            </bibl>), se voit traduite, par d’Ovidio (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1916">1886</ref>
+
+            </bibl>, 413), par le terme d’«inesorabilità». Sur la polémique autour des lois phonétiques, voir notamment Vennemann et Wilbur (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2830">1972</ref>
+            </bibl>), Wilbur (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1538">
+1977</ref>
+            </bibl>), ainsi que Covino (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7355">2020</ref>
+            </bibl> et <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1353">
+2022</ref>).</note>. Les arguments qu’on m’a opposés jusqu’á présent, ne sont pas concluants; j’ai répondu d’une manière détaillée et comme j’espère satisfaisante, à la critique de M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2358">
+Paul</persName>
+          <note n="3" place="foot"
+              type="editorial">Hermann Paul (1846-1921), passé par les séminaires de Schuchardt, habilité comme lui à Leipzig (en 1872) et professeur ordinaire de langue et littérature allemandes à l’université de Fribourg en Brisgau depuis 1877. Attaché à l’école néo-grammairienne, son nom est l’un des plus cités dans le pamphlet de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">
+Schuchardt 1885</ref>
+
+            </bibl>), qui, malgré leurs différends scientifiques, le tenait en haute estime. Paul est l’un des premiers à réagir à <hi
+              rendition="#i">Über die Lautgesetze</hi>, dans un compte rendu paru en tête du premier numéro du <hi
+              rendition="#i">Literaturblatt</hi> de l’année 1886 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3537">Paul 1886</ref>
+            </bibl>). Schuchardt publie une «Erwiderung» dès le second numéro (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.624">
+Schuchardt 1886a</ref>
+            </bibl>), qui est suivie d’une réponse de Paul (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3537">Paul 1886</ref>
+            </bibl>) (voir aussi <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2438">Mücke 2015</ref>
+            </bibl> et <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8015">Storost 1991</ref>
+
+            </bibl>).</note> qui a renoncé à continuer la polémique. Avec moins de peine encore je serais à même de réfuter les assertions de M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3053">Zarncke</persName>
+          <note n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3053">Friedrich Zarncke</persName> (1825-1891), fondateur du <hi
+              rendition="#i">Literarisches Zentralblatt für Deutschland</hi>, professeur de langue et littérature allemandes à Leipzig, est parmi les instigateurs du mouvement néogrammairien. Schuchardt évoque ici le compte rendu publié anonymement (mais sans doute par Zarncke), dans le <hi
+              rendition="#i">Literarisches Zentralblatt</hi> de 1886 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1198">
+[Zarncke] 1886c</ref>
+
+            </bibl>).</note>; mais il avoue lui-même que, sur beaucoup de points, j’ai raison – seulement il ne saurait accepter mes conclusions. Et cette manière de voir – permettez-moi de la nommer <hi rendition="#u">
+dogmatique</hi>
+          <note n="5" place="foot"
+              type="editorial"> Écho à la conclusion sans appel formulée par Schuchardt dans son ouvrage: «Die Lehre von der Ausnahmslosigkeit der Lautgesetze lässt sich nach dem Gesagten ebensowenig auf deductivem wie auf inductivem Wege beweisen; wer ihr anhängt, muss sich zu ihr als einem Dogma bekennen» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">
+Schuchardt 1885</ref>
+
+            </bibl>, 29). </note> – je la retrouve dans toutes les manifestations accidentelles qui me sont venues de la part des néogrammairiens. <pb
+            facs="#IMG.2"
+            n="2"/> Vous autres vous craignez la terreur (rouge, s’entend); vous croyez que nous prêchons l’<hi
+            rendition="#u">améthodie</hi>. Voilà ce qui est une erreur; j’y insiste, n’ayant pas du reste l’ambition de vous <hi
+            rendition="#u">
+convertir</hi>. Je ne crois pas avoir traité cavalièrement les lois phonétiques; si j’ai commis à cet égard des péchés ou des peccadilles cela a été sans mon intention et j’en saurais me consoler en société des néogrammairiens les plus enragés. Mais qu’on me montre comment l’infaillibilité des lois phonétiques est applicable a des cas si nombreux comme <hi
+            rendition="#u">fome</hi> = <hi rendition="#u">fame</hi>
+          <note n="6" place="foot"
+              type="editorial">Exemple de changement sporadique qui contredit l’idée même d’une loi phonétique qui serait infaillible: «Betontes <hi
+              rendition="#i">a</hi> ist im heutigen Schriftportugiesisch nur einmal zu <hi
+              rendition="#i">o</hi> geworden, in <hi rendition="#i">fame</hi>=<hi rendition="#i">fome</hi>» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">Schuchardt 1885</ref>
+            </bibl>, 21). </note>, <hi rendition="#u">Usted</hi> = <hi rendition="#u">vuestra merced</hi>
+          <note n="7" place="foot"
+              type="editorial">
+Expression qui, au même titre que plusieurs formules de salutation, s’émancipe aussi des lois phonétiques, par le fait qu’elle est prononcée couramment, rapidement et sans accentuation (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.55">Schuchardt 1885</ref>
+            </bibl>, 25). </note>, <hi rendition="#u">idolatria</hi> = <hi rendition="#u">idololatria</hi>
+          <note n="8" place="foot"
+            type="editorial">Cet exemple ne figure pas dans le livre de Schuchardt. </note>, je ne demande pas mieux. Est-ce que c’est plus méthodique de dire que dans le dialecte qui a produit <hi
+            rendition="#u">fome</hi> on a dû dire une fois aussi <hi rendition="#u">
+fova</hi>, <hi
+            rendition="#u">moma</hi>, <hi
+            rendition="#u">boba</hi> etc. des formes que puis on a écarté par je ne sais quels procédés, ou de dire que dans <hi
+            rendition="#u">fome</hi> nous avons un <foreign
+            xml:lang="el">ἅπαξ λεγόμενον</foreign>, l’effet de plusieurs agents favorables? <pb facs="#IMG.3" n="3"/>
+        </p>
+        <p> M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1744">Victor Henry</persName> parlera dans la <hi
+            rendition="#i">Revue critique</hi> de ma brochure <note n="9" place="foot"
+              type="editorial"> Dans son compte rendu, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1744">Victor Henry</persName> (1850-1909), hellénisant autodidacte, docteur en droit et professeur d’économie à Lille depuis 1872, défend en effet le caractère absolu des lois phonétiques (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1085">Henry 1886</ref>
+            </bibl>). </note>, amicalement, oui, mais en défendant les vues de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2334">Osthoff</persName> etc. Il aimerait bien que je lui répondisse dans le même lieu; est-ce que la rédaction me le permettrait? Alors ce serait à vous que j’enverrais ma réplique<note
+            n="10" place="foot" type="editorial">Voir l. du 2 mars 1886 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11767">HS 60-24457</ref>), de 1886 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11768">GP 61-08588</ref>), du 15 mars 1886 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11769">HS 62-24457</ref>), du 20 mars 1886 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11770">GP 63-08589</ref>), du 27 mars 1886 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11771">HS 64-24457</ref>), et du 29 mars 1886 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11772">HS 65-24457</ref>).</note>. </p>
+        <p> À la suite de l’échange d’opinions que vous avez eu avec M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1195">Bréal</persName>
+          <note n="11" place="foot"
+              type="editorial">Référence au compte rendu de la séance de l’AIBL par <persName>Havet</persName> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8269">
+1886</ref>
+
+            </bibl>).</note> à l’occasion des néogrammairiens vous vous êtes accordés à rappeler qu’il faut rendre à M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">Paul Meyer</persName>, l’honneur d’avoir formulé le premier une théorie qui s’est accréditée en Allemagne sous le nom de M. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2651">
+Johann<hi rendition="#u">es</hi> Schmidt</persName>
+          <note n="12" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2651">Johannes Schmidt</persName> (1843-1901), dans Havet (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8269">1886</ref>
+            </bibl>) on lit en effet Johann Schmidt.</note>! En touchant la question des dialectes dans mon livre <bibl status="draft">
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.184">Sl.-d. und Sl.-it</ref>
+          </bibl>. p. 6. j’ai rangé M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">P. Meyer</persName> après M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2651">J. Schmidt</persName>. Est-ce que celui-là a établi sa thèse avant 1872? Comme j’ai dit au passage cité, j’ai cru entrevoir cette vérité dès 1867 (dans mon <bibl status="draft">
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">Voc. d. Vulg</ref>
+          </bibl>.) en parlant de la <hi
+            rendition="#u">modification géographique</hi> des dialectes. J’ai dit par exemple que selon que nous choi <pb
+            facs="#IMG.4"
+            n="4"/> sissons les marques distinctives des dialectes nous arrivons à des classifications se trouvant en conflit entre elles, mais également bien fondées<note
+            n="13" place="foot" type="editorial">Schuchardt tente ici de consolider la primauté de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2651">Johannes Schmidt</persName> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5168">
+1872</ref>
+            </bibl>) sur P. Meyer (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7918">1875</ref>
+            </bibl>, <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7919">
+1876</ref>
+            </bibl>) dans cette question, primauté qu’il avait déjà exposée dans le volume en l’honneur de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2200">Miklosich</persName> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.184">
+Schuchardt 1884</ref>
+            </bibl>, 6); il ne peut s’empêcher de signaler qu’il avait lui-même, dès sa thèse (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">Schuchardt 1868</ref>
+
+            </bibl>, 32, 34 et passim) souligné l’importance des «ondes» dans l’espace géographique. Dans sa leçon inaugurale à Leipzig, en 1870 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1175">Schuchardt 1900</ref>
+
+            </bibl>), cette discussion occupe également une place centrale. L’actualité qu’elle a gardée tout au long des années est certainement l’une des raisons décisives qui ont poussé Schuchardt à publier cette leçon 30 ans après l’avoir prononcée, sans aucune modification. Pour une mise au point de cette discussion, voir Storost (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1469">
+2008</ref>
+
+            </bibl>).</note>. Cependant je conviens de bon cœur que je suis encore loin, très loin de la netteté et explicité avec laquelle M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">Paul Meyer</persName> a exposé ses vues<note n="14"
+            place="foot" type="editorial">C’est notamment dans les comptes rendus qu’il fait de l’<hi
+              rendition="#i">Archivio glottologico italiano</hi> d’<persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1056">
+Ascoli</persName> que Meyer présente ses vues sur la formation des dialectes (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7918">P. Meyer 1875</ref>
+            </bibl>, <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7919">
+1876</ref>
+            </bibl>).</note>. </p>
+        <p> L’honneur que l’<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5511">
+Académie</ref> m’a fait en me décernant le <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4141">prix Volney</ref>, a retenti même dans des cercles qui en général ne portent pas beaucoup d’intérêt à ces choses là. Je viens de lire la lettre d’une jeune fille à sa mère (c’est celle-ci qui me l’a envoyée), où elle s’extasie au sujet de ces lauriers que je ne dois qu’à votre amitié. Mais je vous demande pardon, comment se fait-il que je n’en aie pas encore la communication officielle? </p>
+        <p> M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2288">Fritz Neumann</persName> est maintenant à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName>, bon garçon et néogrammairien très-fervent<note
+            n="14" place="foot"
+              type="editorial">Fritz Neumann (1854-1934). Par rapport à son engagement en faveur des néogrammairiens, voir une lettre à Schuchardt du 12 janvier 1886 (<ref target="https://gams.uni-graz.at/o:hsa.letter.4897">HSA 10-07768</ref>).</note>; j’espère que ce ne sont pas de manuscrits d’ancien francais qui l’ont tiré là. </p>
+
+        <p> Dans ces jours-ci j’ai commencé à faire des recherches sur le français qui se parle dans quelques colonies du <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6229">Banat</placeName>
+          <note n="15" place="foot" type="editorial"> Partie de l’actuelle <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.5944">Roumanie</placeName> autour de la ville de <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6619">
+Timisoara (Temesvar)</placeName> où habitait une minorité germanophone. Le <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6229">
+Banat</placeName> appartenait, à l’époque où écrit Schuchardt, à l’Empire austro-hongrois. </note> (lorraines, du siècle passé). Mais peut-être M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2403">Picot</persName>
+          <note n="16" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2403">Picot</persName> avait occupé le poste de vice-consul de France en Roumanie, à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6619">Timisoara</placeName>, entre 1868 et 1872.</note> qui fût si longtemps à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6619">Temesvar</placeName>, a-t-il visité ces colonies, et en sait-il quelquechose. Près d’<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6283">Éger</placeName> (en allem. Erlau) il y avait une colonie venue des environs de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.219">Liège</placeName> au 11<hi
+            rendition="#sup">ème</hi> siècle; au 16<hi rendition="#sup">ème</hi> siècle on y parlait encore «<foreign
+            xml:lang="la">linguam Gallicam</foreign>», c’est-à-dire probablement un wallon très-curieux<note n="17"
+            place="foot"
+              type="editorial"> Schuchardt ne poussera pas plus loin son investigation. Toutefois, la présence de Wallons dans le <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6229">
+Banat</placeName> est avérée. Voir p. ex. l’article «Wallons et Italiens en Europe centrale aux XI<hi
+              rendition="#sup">e</hi>-XVI<hi rendition="#sup">e</hi> siècles» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7908">
+Székely 1964</ref>
+            </bibl>).</note>. </p>
+
+        <p> En votre qualité de père de famille vous serez encore moins disposé qu’auparavant à venir nous voir, ce pauvre <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2264">Mussafia</persName> et moi; mais <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6534">Madame Paris</persName> ne voudrait-elle pas vous y persuader, pour voir elle-même nos Alpes? </p>
+        <closer>
+          <salute>Bien à vous.</salute>
+          <lb/>
+          <signed>H. Schuchardt</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

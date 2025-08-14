@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wilhelm Streitberg an Hugo Schuchardt (17-11322)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11825" type="PID">o:hsa.letter.11825</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">17-11322</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11322</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+                <forename>Wilhelm</forename>
+                <surname>Streitberg</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.851" ref="http://sws.geonames.org/2867543">Münster</origPlace>
+              <origDate ana="dcterms:created" when="1909-03-11">1909-03-11</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Wilhelm Streitberg und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2801"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11825">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2801" ref="https://viaf.org/viaf/76441249">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.851" key="#GID.1" ref="http://sws.geonames.org/2867543">Münster</placeName>
+          <date when="1909-03-11">1909-03-11</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Münster</settlement>
+                <name ref="http://geonames.org/2867543" type="fcode:PPLA2">Münster</name>
+                <location>
+                  <geo>7.62571,51.96236</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2801" type="context">
+                        Korrespondenz Wilhelm Streitberg - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11825" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11825" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11825" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11825" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Münster W. 11.3.09<lb/> Nordstraße 4.</dateline>
+        <opener>Hochverehrter Herr Hofrat,</opener>
+        <p> Verzeihn Sie mir, dass ich erst heute Ihr liebenswürdiges Schreiben vom 28.2. beantworte: die Unruhe der Abschiedstage und der Umzugsvorbereitungen lässt mich nicht zur regelmäßigen Erledigung meiner Korrespondenz kommen. </p>
+        <p>Das Buch von <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5812">
+            <hi rend="unknown" rendition="#none">Philipon</hi>
+          </persName> ist dem Anzeiger bis jetzt nicht zugegangen.<note n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8151">Édouard Philipon, <hi rend="unknown" rendition="#none">Les Ibères. Étude d'histoire d'archéologie et de linguistique.</hi> Avec une préface de d'Arbois de Jubainville, Paris: Champion, 1909.</ref>
+            </bibl>
+          </note> Ich würde es sehr gerne zur Besprechung einfordern, wenn ich wüsste, <hi rend="unknown"
+            rendition="#none">wem</hi> ich es zur Rezension geben sollte. Können Sie mir hierbei einen Rat geben so <pb
+            facs="#IMG.2"
+            n="2"/> wäre ich Ihnen sehr dankbar. Wenn Sie nicht selbst eine Besprechung übernehmen wollen<note n="2"
+            place="foot" type="editorial">Eine Rez. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardts</persName> ist nicht nachweisbar, doch geht er kurz kritisch auf Philipon in <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.565">„Iberische Personennamen“, <hi
+                  rend="unknown" rendition="#none">Revista Internacional de Estudios Vascos / Revue International des Études Basques</hi> 3, 1909, 237-247</ref>
+            </bibl> ein. – Schuchardt lag mit Philipon über Kreuz, vgl. seine Bemerkung <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.79">
+„[Zu Romania XXXV, 13, Anm. 1 [gegen Philipon]]“, <hi
+                  rend="unknown" rendition="#none">ZrP</hi> 30, 1906, 751</ref>
+            </bibl>, dann vor allem in <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.695"> „Die iberische Deklination“, <hi
+                  rend="unknown" rendition="#none">
+Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien. Philosophisch-Historische Klasse</hi> 157, 1907, 1-90</ref>
+            </bibl>, passim; und dann abermals in <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.490">„Iberische Deklination“, <hi
+                  rend="unknown" rendition="#none">Revista Internacional de Estudios Vascos / Revue International des Études Basques</hi> 4, 1910, 323</ref>
+
+            </bibl>.</note> und damit einen Hinweis auf Ihre Iberische Deklination verbinden können – was ich besonders gerne hätte –, so muss ich Sie bitten, mir einen oder zwei Rezensenten zu nennen, die Ihnen geeignet erscheinen, die beiden Werke zu besprechen. Ich zweifele nicht, dass die Vertreter der idg. Sprachwissenschaft aus einer solchen Anzeige viel würden lernen können und wäre daher sehr erfreut, wenn sie sich ermöglichen ließe. Hier geht es nicht ohne Ihren <pb
+            facs="#IMG.3" n="3"/> Rat und Beistand. </p>
+        <p>Bis Anfang nächster Woche bin ich noch hier. Ende März treffe ich in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.42">München</placeName> ein. <hi rend="unknown"
+            rendition="#none">Dorthin</hi> darf ich wohl eine Antwort erbitten. Adresse: Isabellastraße 31. Dank. Ms. Benehmen wie der Ton seines Briefes ist mir ein psychologisches Rätsel.<note
+            n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.207">Schuchardt, <hi rend="unknown" rendition="#none">Fliegendes Blatt [gegen R. Meringer]</hi>, Graz: Eigenverlag, 1908.</ref>
+            </bibl>
+          </note>
+        </p>
+        <closer>
+          <salute>Mit herzlichen Grüßen </salute>
+          <lb/>
+          <salute>Ihr verehrungsvoll</salute>
+          <lb/>
+          <salute>ergebenster</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">W. Streitberg</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

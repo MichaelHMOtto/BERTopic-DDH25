@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hermann Meurer an Hugo Schuchardt (01-07150)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2179">
+            <forename>Hermann</forename>
+            <surname>Meurer</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+                  Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12454" type="PID">o:hsa.letter.12454</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-07150</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität
+                     Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07150</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2179">
+                <forename>Hermann</forename>
+                <surname>Meurer</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.441" ref="http://sws.geonames.org/2812482">Weimar</origPlace>
+              <origDate ana="dcterms:created" when="1889">1889</origDate>
+            </origin>
+            <provenance> Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz. </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Hermann Meurer und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2179"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>, <ref
+            target="https://www.ediarum.org/">ediarum</ref> und
+               der <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und
+               befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des
+               Nachlasses von Hugo Schuchardt (1842-1927). Die Onlinepräsentation stellt alle
+               Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung. Die Bearbeitung
+               des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz, die
+               zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12454">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2179" ref="https://viaf.org/viaf/57379822">
+            <forename>Hermann</forename>
+            <surname>Meurer</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.441" key="#GID.1" ref="http://sws.geonames.org/2812482">Weimar</placeName>
+          <date when="1889">1889</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Weimar</settlement>
+                <name ref="http://geonames.org/2812482" type="fcode:PPLA3">Weimar</name>
+                <location>
+                  <geo>11.32903,50.9803</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2179" type="context"> Korrespondenz Hermann
+                        Meurer - Hugo Schuchardt </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5598" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Anglia. Zeitschrift für englische
+                     Philologie.</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Latein</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.860" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Italienisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12454" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12454" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12454" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12454" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12454" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Weimar, Tag zwischen Weißenburg und Wörth <note n="1" place="foot"
+              type="editorial">Im August 1870 kämpften die deutschen gegen die französischen Truppen auf
+                  den Schlachtfeldern von <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6356">Weißenburg</placeName> und
+                     <placeName>Wörth</placeName> im Nordelsaß. Der hier angesprochene Tag könnte
+                  der 4. August sein. (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">Wolf, <hi rend="unknown" rendition="#none">Nachlaß</hi>
+              </ref>
+            </bibl>, 271, gibt als Datum „[vor 1900]“ an. Der Hinweis auf <hi rend="unknown" rendition="#none">Anglia XII</hi> liefert jedoch das Datum
+                  1889.</note>
+        </dateline>
+        <opener>Geehrter Herr Doktor!</opener>
+        <p> Vor allem spreche ich Ihnen meine Freude aus, daß es mit Ihrer Gesundheit besser
+               geht. Mens sana in corpore sano. Ich beschäftige mich gerade mit geflügelten Worten
+               u. habe einiges Neue gefunden. So auch mit Alma mater, das <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10117">G. Winter,
+                     Unbeflügelte Worte, Augsburg 1888</ref>
+          </bibl> auf Bottin (†1741)<note n="2" place="foot" type="editorial">
+
+            <persName>Sébastien Bottin</persName> (1764-1853), franz. Statistiker.</note>
+               zurückführt, d. h. er behauptet, es müsse schon früher in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italien</placeName> üblich
+               gewesen sein. Ich habe eine solche Stelle von 1609 aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6083">England</placeName>. Ich hatte
+               nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.167">Padua</placeName>
+               u. <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.395">Bologna</placeName>
+               geschrieben. Der junge Mann, dem der Oberbibliothekar Guerrini von Bologna<note
+            n="3" place="foot" type="editorial">
+
+            <persName>Olindo Guerrini d. i. Lorenzo Stecchetti</persName> (1845-1916),
+                  Bibliothekar und Dichter, zeitweise tätig in Bologna.</note> die Beantwortung
+               aufgetragen hatte, teilte mir eine Stelle aus Anibale Monterenzi<note
+            n="4" place="foot" type="editorial">
+
+            <persName>Annibale Monterenzi</persName> (ca. 1510-1586), Bologneser Jurist und
+                  Literat.</note> über den Städtenamen mit, wonach es (Bologna) alma mater sudiorum
+               vocanda esset (1561). Leider hat er mir <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.667">deutsch</ref> geantwortet,
+               antworten wollen, seinem Dizzionario [sic] die Worte <pb
+            facs="#IMG.2"
+            n="2"/>aufgeschlagen u. folgenden Satz verbrochen: „dass er (wahrscheinlich „der Name oder
+               A(utor) zum Anstand der Städt und nicht des Studiums vorschlagt gewesen wäre“. Da
+               gehört höhere Konjekturalkritik dazu. Ich habe nun noch einmal <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.886">lateinisch</ref> u.
+               deutsch hingeschrieben u. gebeten, er soll mir <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.860">italienisch</ref> oder
+               lat. antworten; an Guerrini habe ich wieder lateinisch geschrieben. Von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6622">Prag</placeName>, <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.47">Kopenhagen</placeName>, habe ich
+               Antwort bekommen – alma als Beiwort der Universitas oder Academia beglaubigt, aber
+               nicht Alma mater. Ebenso in der Matrikel von <placeName>Frankfurt a. O.</placeName>
+               von 1506 an. </p>
+        <p>Von Ehrle, Jes. Pater, Bibliothekar (prefetto) an der Vaticana<note n="5" place="foot" type="editorial">
+
+            <persName>Franz Ehrle</persName> (1835-1934), Bibliothekar, Archivar und
+                  Kurienkardinal, Vorsteher der Biblioteca Vaticana.</note> oder vom Ordensgeneral
+               der Jesuiten, an die ich geschrieben, erwarte ich auch noch Antwort, wegen des
+               koptischen Worts mends = hircus Bock. Erman (Allg. D. B.) behauptet,<note
+            n="6" place="foot"
+            type="editorial">Adolf Erman, ADB 16 (1882), S. 1-4.</note> A.
+               Kircher geb. 1601<note n="7"
+            place="foot" type="editorial">
+
+            <persName>Athanasis Kircher</persName> (1602-1680), deutscher Jesuit; er lehrte
+                  und forschte die meiste Zeit seines Lebens am <hi
+              rend="unknown" rendition="#none">Collegium Romanum</hi> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.86">Rom</placeName>.</note>, über
+               den ich in der Magdeburgischen Zeitg einen längeren Auf- <pb
+            facs="#IMG.3"
+            n="3"/>
+               satz veröffentlicht habe, habe dies Wort gefälscht, um den Namen Mendes erklären zu
+               können, er habe es in der Handschrift des Petro de Valla eingesetzt. Ich erklärte:
+               ich meinerseits würde alles daran setzen, um die Richtigkeit festzustellen. In Peyron
+               Lex. Kopt. Lat.<note
+            n="8" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10114">Peyronis
+                           <hi
+                  rend="unknown" rendition="#none">lexicon copticum</hi>: accedunt
+                        auctaria ex ephemeridi aegyptiaca Berolinensi exerpta, Berolini: Calvari,
+                        1896.</ref>
+
+            </bibl> Ed. iterata ad editionis principis exemplum, [Nachdr. der Ausg.] Taurini,
+                  1835.</note> steht mends nicht, obgleich Herod. II, 46 u. viele Schriftsteller die
+               Verehrung des Bocks in Mendes<note
+            n="9" place="foot" type="editorial">
+
+            <placeName>Mendes</placeName> ist der griechische Name der altägyptischen Stadt
+                  Djedet im östlichen Nildelta</note> bezeugen. Was nun <hi
+            rend="unknown" rendition="#none">Linschmann</hi>
+          <note n="10" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2047">Theodor
+                     Linschmann</persName> (1850-1940), zunächst Pfarrer, dann Bibliotheksdirektor;
+                  vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2047">HSA
+                     06465-06540</ref>.</note> betrifft, so lebt er in <hi
+            rend="unknown"
+            rendition="#none">Oetzsch</hi> bei <placeName>Gautzsch-Leipzig</placeName>. Von da
+               habe ich einen Brief von ihm erhalten; er will als Volontär an der Bibliothek in L.
+               arbeiten. Er muß also wohl einige Mittel haben. Sein Brief war mir etwas unangenehm,
+               weil er mir vorwarf, die Anzeige stehe nicht auf der Höhe der neuesten Forschungen u.
+               ich <hi
+            rend="unknown"
+            rendition="#none">müsse</hi> Berichtigungen veröffentlichen.
+               Nun hatte ich ja absichtlich die neuen Studien von Vinson<note
+            n="11" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2939">Julien
+                     Vinson</persName> (1843-1926), franz. Baskologe; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.2939?locale=de">HSA
+                     12444-12480</ref>.</note>
+          <pb facs="#IMG.4"
+            n="4"/> u. s. w. nicht genannt, weil ich die Anzeige nur für ein
+               größeres Publikum berechnet hatte u. nicht für Gelehrte. Den Irrtum vom Doyen
+                  Bruston<note
+            n="12" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1222">Charles Auguste
+                     Bruston</persName> (1818-1927), prot. Theologe u. Semitist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1222?locale=de">HSA
+                     01434</ref>.</note> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6214">Montauban</placeName>, den
+               dieser bedauert begangen zu haben, da er meine deutsch gestellte Frage falsch
+               beantwortet hatte, will ich gern berichtigen, aber ich habe Linschmann geschrieben,
+               ich würde das erst nach Rücksprache mit D. Wetskÿ<note
+            n="13" place="foot"
+            type="editorial">Keine näheren Angaben.</note> thun, der jetzt auf Reisen ist. Wie kann ich
+               ferner wissen, daß Weiß<note
+            n="14" place="foot" type="editorial">Nicht
+                  identifiziert.</note> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName> die Jeanne
+               d’Albret ungünstig beurteilt? Oder wissen Sie etwas davon? Oder was interessiert das
+               große Publikum, daß noch in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.265">Hamburg</placeName> ein
+               unvollständiges Exemplar der Schriften Leiçarragas ist.<note
+            n="15" place="foot" type="editorial">Offenbar hatte <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> sich
+                  bei Meurer über Linschmann erkundigt und ihm über die Absicht der Leiçarraga
+                  Edition berichtet. Vgl. dann die Edition: I. Leiçarraga's baskische Bücher von
+                  1571. (Neues Testament, Kalender und ABC) im genauen Abdruck hrsg. von <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.448">Th.
+                        Linschmann u. H. Schuchardt, Strassburg: Trübner, 1900</ref>
+
+            </bibl>.</note> Gegenwärtig habe ich anderes zu thun, die erste Korrektur von
+               meiner Abhandl[un]g in der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5598">Anglia</ref> XII,<note n="16" place="foot"
+            type="editorial">Dieser Band erschien 1889.</note> 400-427,
+               zum Baron Shakespeare-Mythes, in Bezug auf die Rowleysche Sammlung<note
+            n="17" place="foot" type="editorial">
+
+            <persName>William Rowley</persName> (c. 1585 - February 1626), engl.
+                  Dramatiker</note> der 32 Trauerliederauf F. Baron †1626, den <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5557">G. Cantor</persName> in
+                  <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.77">Halle</placeName>
+               herausgegeben hat<note
+            n="18" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10115">Georg
+                        Cantor (Hrsg.), <hi
+                  rend="unknown" rendition="#none">Die Rawley'sche
+                           Sammlung von zweiunddreissig Trauergedichten auf Francis Bacon, ein
+                           Zeugnis zu Gunsten der Bacon-Shakespeare-Theorie; mit einem Vorwort</hi>,
+                        Halle: Niemeyer, 1897.</ref>
+            </bibl>
+          </note> (u. Edwin Bormann, der reizende Gedichte in den Fliegenden Blättern
+                  macht)<note
+            n="19" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10116">Edwin
+                        Bormann's <hi
+                  rend="unknown" rendition="#none">Liederhort in Sang und Klang,
+                           in Bild und Wort: ein Hausschatz und Festfreund für fröhliche
+                           Menschenherzen</hi>, Dichtungen von Edwin Bormann. Bildschmuck von Fedor
+                        Flinzer ... Singweisen von alten und neuen Meistern, Leipzig: Selbstverl.,
+                        1888.</ref>
+            </bibl>
+
+          </note>. Schuster bleib bei deinen Leisten kann man nur zu ihm sagen wenn er von
+               Baron <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.389">Shakespeare</persName> fabelt u. Linschmann wird es von mir sagen, der ich doch
+               nur als Exoteriker [sic] die Schriften hier angezeigt habe. </p>
+        <pb facs="#IMG.1" n="5"/>
+        <closer>
+          <salute>Rebus in adversis „humorem“ mittere noli!<note n="20" place="foot" type="editorial">Etwa: „Laß im Unglück den Mut nicht sinken!“</note>
+          </salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <signed>Dr. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2179">H.
+                     Meurer</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

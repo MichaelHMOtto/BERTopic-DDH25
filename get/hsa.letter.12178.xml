@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Karl Ferdinand Peters an Hugo Schuchardt (01-08773)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2387">
+            <forename>Karl Ferdinand</forename>
+            <surname>Peters</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12178" type="PID">o:hsa.letter.12178</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-08773</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08773</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2387">
+                <forename>Karl Ferdinand</forename>
+                <surname>Peters</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created">Unbekannt</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Karl Ferdinand Peters und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2387"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12178">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2387" ref="https://viaf.org/viaf/72136516">
+            <forename>Karl Ferdinand</forename>
+            <surname>Peters</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date>Unbekannt</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2387" type="context">
+                        Korrespondenz Karl Ferdinand Peters - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.226" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12178" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12178" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12178" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <opener>Hochgeehrter Herr College,</opener>
+        <p> Im Begriffe meine Tochter<note n="1" place="foot"
+            type="editorial">Peters war in erster Ehe mit <persName>
+Anna Maria Blumfeld</persName> (1833–1864) verheiratet, der Ehe entstammen die Kinder Selma, Otto, Hubert, Martha und Theodor. Nach Annas Tod ehelichte Peters deren Schwester Leopoldine (1839–1892), dieser Ehe entstammen Guido und Erwin. – Vermutlich ist Selma (1847-1913) gemeint, die sich eine Zeitlang in London aufhielt.</note> als deutsche Gouvernante nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6083">England</placeName> zu schicken, erfahre ich, daß in London schon zum Eintritt in ein Governess-home förmliche Zeugnisse erforderlich seien. Indem das Mädchen bestimmt sein wird, vorzugsweise als geschulte Clavierlehrerin und durch ihr <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.226">Französisch</ref> zu wirken, in welcher Sprache sie meines Wissens als Lehrerin besser qualifiziert ist, denn im <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.667">Deutschen</ref>, erlaube ich mir an Sie, hochgeehrter Herr College, die Bitte zu richten, daß Sie auf Grundlage einer jener Prüfungen, wie sie unter amtlicher Intervention des Decans der philosophischen Facultät bisweilen vorgenommen werden, ein amtliches Zeugnis über die sprachliche und litterarische Befähigung der zu Prüfenden auszustellen. Allerdings war es bislang nicht Sache des Professors, sondern des befugten Lehrers der französischen Sprache, dergleichen Prüfungen vorzunehmen. Ich selbst erinnere mich während meines Decanats zwei Fräuleins mit dem Lehrer Beriswyl in der Decanatskanzlei der Prüfung unterzogen und mit amtlichen Documenten versehen zu haben. Im Augenblick gibt es, wenn ich nicht irre, gar keinen berufenen Lector der französischen Sprache an unserer Universität. <pb
+            facs="#IMG.2" n="2"/> Ich erlaube mir deshalb, obige Bitte unmittelbar an Sie und durch Ihre gütige Vermittlung an den Herrn Decan zu richten. Meine Tochter ist jeden Augenblick bereit sich einer solchen Prüfung zu unterziehen und werde ich bezüglich der Geneigtheit beider Herren Collegen und der Bestimmung von Tag und Stunde am Decanate Nachfragen machen lassen, wo sich meine Tochter demnächst vorstellen wird. Der gesetzlich bestimmte Taxbetrag ist mir nicht mehr genau erinnerlich; die Zeugnisse werden mit 1 fl. Stempel versehen. </p>
+        <p>Was Litteratur betrifft, die im Zeugnisse nicht ausdrücklich erwähnt zu werden braucht, würden Sie allerdings die größte Nachsicht walten zu lassen, gebeten sein; im Sprachlichen müßte das Mädchen schriftlich sowol als mündlich und in der Lectüre Ihren Anforderungen entsprechen. </p>
+        <closer>
+          <salute>Ich glaube von Ihrer so oft bewährten Liebenswürdigkeit, wenn nicht die Gewährung, doch die Entschuldigung obiger Bitte hoffen zu dürfen und bin mit ehrerbietigem Gruße</salute>
+          <lb/>
+          <salute>Ihr stets ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2387">Peters</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

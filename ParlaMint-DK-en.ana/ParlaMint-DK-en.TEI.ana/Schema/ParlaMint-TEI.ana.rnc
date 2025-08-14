@@ -1,0 +1,167 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+
+a:documentation [
+  "RelaxNG XML schema for ParlaMint corpora: schema\x{a}" ~
+  "  for linguistically annotatated corpus component file."
+]
+a:documentation [
+  "The linguistic annotation markup covers sentences, tokens, lemmas,\x{a}" ~
+  "  morphosyntactic tags, UD morphological features, UD dependency relations, and named\x{a}" ~
+  "  entities."
+]
+include "ParlaMint-TEI.rnc" {
+  
+  ## One speech (i.e. 'utterance') with possible measure for sentiment annotation.
+  u = element u { utterance.atts, text-measure?, (seg | comment | pb)+ }
+  
+  ## The only element that contains analysed text is the segment. It can,
+  ##       however, contain transcription commentary.
+  seg =
+    element seg {
+      global.atts,
+      # Might have a linguistic analysis
+      ana.att?,
+      text-measure?,
+      (comment | pb | sentence)+
+    }
+}
+
+## A sentence.
+sentence =
+  element s {
+    global.atts,
+    # Has linguistic analysis
+    ana.att?,
+    text-measure?,
+    (comment | pb | ner | phr | word | punct)+,
+    syntax?
+  }
+
+## Gives a text-internal annotation with a decimal number as its value.
+##     ParlaMint currently uses it for giving the sentiment score of elements. The element has empty content
+##     and all information is stored in its attributes.
+text-measure =
+  element measure {
+    global.atts,
+    ana.att,
+    attribute type { "sentiment" },
+    attribute quantity { xsd:decimal }
+  }
+
+## Multi-Word Unit
+phr =
+  element phr {
+    global.atts,
+    attribute function { xsd:token },
+    attribute ana { xsd:anyURI }
+    >> a:documentation [
+         "Currently we only support phrases with semantic markers"
+       ],
+    attribute type { "sem" },
+    mwe_tokens
+  }
+
+## Named entity element
+ner =
+  
+  ## Standard name element
+  (element name {
+     global.atts,
+     ref.att,
+     attribute ana { xsd:anyURI }?,
+     attribute type { "PER" | "LOC" | "ORG" | "MISC" }?,
+     attribute subtype { xsd:token }?,
+     ner_tokens
+   }
+   >> a:documentation [ "Additional content used by CZ:" ]
+   | element date { ner.atts, temporal.atts?, ner_tokens }
+   | element time { ner.atts, ner_tokens }
+   | element num { ner.atts, ner_tokens }
+   | element unit { ner.atts, ner_tokens }
+   | element email { ner.atts, ner_tokens }
+   | element ref { ner.atts, ner_tokens })
+
+## Attributes for NEs.
+ner.atts =
+  global.atts,
+  attribute ana { xsd:anyURI }
+
+## Annotations that can appear in a MWE.
+mwe_tokens = (word | punct)+
+
+## Annotations that can appear in a NE.
+ner_tokens = (word | punct | comment | pb | ner)+
+
+## A series of tokens.
+tokens = (word | punct)+
+
+## Definition of word.
+word =
+  
+  ## cf. https://clarin-eric.github.io/parla-clarin/#sec-ananorm
+  element w {
+    
+    ## Simple word:
+    ((word.atts, normalized-space.string)
+     >> a:documentation [ "Word with several normalised words:" ]
+     | (word-optional.atts,
+        # This doesn't work: error: group of "string" or "data" element
+        
+        # ref name="normalized-space.string"/
+        text,
+        element w { word.atts, empty }+)
+       >> a:documentation [
+            "Normalised word with several surface words:"
+          ]
+     | (word.atts,
+        element w { normalized-space.string }+,
+        empty))
+  }
+
+## A punctuation element.
+punct = element pc { token.atts, non-empty.string }
+
+## Dependency syntax as a link group (inside a sentence).
+syntax =
+  element linkGrp {
+    attribute targFunc { "head argument" },
+    attribute type { "UD-SYN" },
+    element link {
+      attribute ana { xsd:anyURI },
+      attribute target { anyURIs },
+      empty
+    }+
+  }
+
+## Attributes of token elements.
+token.atts =
+  id.att?,
+  lang.att,
+  attribute join { "right" }?,
+  attribute norm { non-empty.string }?,
+  attribute msd { non-empty.string },
+  attribute ana { anyURIs }?,
+  attribute pos { non-empty.string }?,
+  attribute function {
+    # This is different from TEI, where it is a name token (which can't contain comma!?)
+    
+    # ref name="normalized-space.string"/
+    xsd:token
+  }?
+
+## Obligatory attributes of word.
+word.atts =
+  token.atts,
+  attribute lemma { normalized-space.string }
+
+## Optional attributes of word.
+word-optional.atts =
+  id.att?,
+  lang.att,
+  attribute join { "right" }?,
+  
+  ## UD PoS and morph.features, e.g. "UPosTag=NUM|NumForm=Digit":
+  (attribute msd { non-empty.string }?),
+  attribute ana { anyURIs }?,
+  attribute lemma { normalized-space.string }?

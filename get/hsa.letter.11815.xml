@@ -1,0 +1,456 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wilhelm Streitberg an Hugo Schuchardt (07-11316)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11815" type="PID">o:hsa.letter.11815</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">07-11316</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11316</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+                <forename>Wilhelm</forename>
+                <surname>Streitberg</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="15" unit="pages">15 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created" when="1894-07-11">1894-07-11</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Wilhelm Streitberg und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2801"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11815">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2801" ref="https://viaf.org/viaf/76441249">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date when="1894-07-11">1894-07-11</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2801" type="context">
+                        Korrespondenz Wilhelm Streitberg - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4182" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indogermanische Forschungen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5418" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Beiträge zur Geschichte der deutschen Sprache und Literatur</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3125" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literarisches Centralblatt für Deutschland</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.9">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.10">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.11">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.12">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.13">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.14">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11815" xml:id="IMG.15">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11815" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>11.VII.94.</dateline>
+        <opener>Sehr verehrter Herr Professor,</opener>
+
+        <p> Haben Sie verbindlichen Dank für Ihre Briefe, deren letzter mir soeben zugegangen ist. Ausserdem hat mir Prof. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1215">Brugmann</persName> Ihren an ihn gerichteten Brief vor ein paar Tagen zugeschickt. </p>
+
+        <p>Nach Ihrer Äusserung glaub ich nicht zu irren, wenn ich annehme, dass der unliebsame Zwischenfall zu einem alle Teile zufriedenstellenden Ende geführt werden wird. Eine Berichtigung folgt im nächsten Anzeigenheft, sei es nun eine selbständige Erklärung von unsrer Seite, wie Sie im Brief an Brugmann, sei es der Abdruck dieses Briefes, wie Sie in Ihrem gestrigen Schreiben an mich vorschlagen. Und dann wird, hoffe ich, diese Episode für immer abgeschlossen sein. <note
+            n="1" place="foot" type="editorial">
+Vgl. <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8664">K. Brugmann / W. Streitberg, „Eine verunglückte Konjektur Hugo Schuchardts“, <hi
+                  rend="unknown" rendition="#none">Indogermanische Forschungen</hi> 4, 1894, (Anzeiger für indogermanische Sprach- und Altertumskunde,168-169)</ref>
+            </bibl>, Anhang zur Leskien-Festschrift!</note>
+        </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p>Gestatten Sie mir nun, dass ich auf eine Beantwortung des allgemeinen Teils Ihres Briefes eingehe, noch ein paar Worte über den speziellen Fall. </p>
+        <p>Ganz so harmlos für uns sind Ihre Eingangsworte doch wohl nicht gewesen, wenn sie auch keinesfalls so verletzend gedacht waren, als sie der Lage der Dinge nach wirken mussten. </p>
+        <p>Wir haben uns seit zwei Jahren redlich Mühe gegeben Prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2031">Leskien</persName> zu seinem Fest eine Freude zu bereiten und haben alle uns irgendwie erreichbaren Freunde und Schüler zu diesem Zweck heranzuziehn versucht (wobei wir – in Parenthese sei es gesagt – verschiedne höchst verwunderliche Erfahrungen gemacht haben). Nachdem alles, nach verschiednen kleinern und grössern Hindernissen <pb
+            facs="#IMG.3" n="3"/> glücklich unter Dach und Fach ist, kommt uns am Vorabend Ihre Schrift zu, worin uns Parteilichkeit vorgeworfen und unser Charakter der milden Ruhe Leskiens in nicht zu verkennender Weise gegenübergestellt wird. Die ironischen oder wie Sie sagen humoristischen Wendungen, die Sie als Milderungen gedacht haben, wie Sie schrieben, sind jedenfalls nicht als solche, sondern als Verschärfungen empfunden worden. Wenigstens von mir. Und ich kann sie auch heute noch bei ruhiger Lektüre nicht anders fühlen. </p>
+
+        <p>Nach langer Bemühung und mancherlei Ärger trifft uns also der Vorwurf, eine persönliche Huldigung zu Parteizwecken missbraucht zu haben. Das musste uns aufs empfindlichste in doppelter Hinsicht treffen. Einmal als Herausgeber einer Zeitschrift, an der nicht nur Gelehrte <pb
+            facs="#IMG.4" n="4"/> der verschiedensten Richtung mitarbeiten, sondern die auch als kritisches Organ besonders auf den Ruf der Unparteilichkeit zu halten gezwungen ist. Doch würde diese Seite des Vorwurfs mir wenigstens an sich nicht allzunah gegangen sein. Denn in den fünf Jahren meines Hierseins sind mir so mancherlei törichte Ansichten Fernstehender über meine Persönlichkeit bekannt geworden, dass ich nachgerade abgebrüht bin und die Dinge laufen lasse, wie sie wollen. So würde mir auch die Anklage, die im schlimmsten Fall durch ein Versehen hervorgerufen war, nicht besonders zu Herzen gegangen sein. </p>
+
+        <p>Aber der Vorwurf war ganz geeignet, die Stimmung der Feier zu stören. Nicht, als ob ich auch nur einen Augenblick geglaubt hätte, vor Leskien in einem falschen Licht darzustehn. Denn dafür kennt mich dieser seit bald <pb
+            facs="#IMG.5"
+            n="5"/> zehn Jahren viel zu genau, um einer solchen Anschuldigung zu glauben. Aber dass dieser störende Zwischenfall grade Leskien treffen musste, dessen Feinfühligkeit mir so genau bekannt ist, das erregte und verstimmte mich in hohem Maasse. Und das schlimme dabei ist: Wir können Erklärungen, Sie Rektifizierungen erlassen, soviel wir wollen, <hi
+            rend="unknown" rendition="#none">dieser</hi> Punkt bleibt bestehn. Und ein unbehagliches Gefühl bei dem Gedanken daran ebenfalls. – </p>
+
+        <p>Auf der andern Seite will ich Ihnen gerne zugestehn, dass Sie sich durch die vermeintliche Übergehung und Zurücksetzung selber verletzt fühlen konnten. (Anm. 1: Ein zweites Zirkular ist nur an die Herrn versandt worden, die auf das erste hin einen Beitrag zugesagt hatten, konnte Ihnen also nicht geschickt werden.) Ich selber bin mutatis mutandis ähnlichen Stimmungen nur allzuleicht zugänglich, um sie nicht bei andern nachfühlen zu können. Eine auch scharfe Äusserung würde ich daher leicht entschudigt haben. Wäre sie nur nicht grad an diesem Orte erfolgt! Es gibt Stellen, Gelegenheiten, wo eine Polemik <pb
+            facs="#IMG.6"
+            n="6"/>auf mich unter allen Umständen höchst peinlich wirkt. Ich darf vielleicht als Beispiel <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4957">Roethes</persName> Angriff auf Brugmanns Genustheorie<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8670">Karl Brugmann, „Das Nominalgeschlecht in den indogermanischen Sprachen“, in: Heinz Sieburg, <hi
+                  rend="unknown" rendition="#none">Sprache-Genus/Sexus</hi>, Frankfurt a. M.: Lang, 1997, 33-44 (Dokumentation germanistischer Forschung; 3)</ref>
+            </bibl>.</note> im Vorwort seines Neudrucks der Grimmschen Gram. nennen. Überall sonst hätte er nach Lust und Laune Polemik treiben können, nur Grimms Meisterwerk hätte er frei davon halten müssen. Neben Grimms Gestalt hat die Person Herrn Roethes zu verschwinden. Es ist mir heute noch rätselhaft, wie Roethe, den ich als Menschen wie Gelehrten hochschätze, dies nicht hat fühlen können. </p>
+        <p>Sehr befremdlich ist es mir, dass auch Hr. Prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2185">Meyer</persName> gleicher Ansicht mit Ihnen sein konnte, Sie seien absichtlich ausgeschlossen worden. Da er schon vom Beginn der <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4182">
+IF.</ref> der Zeitschrift und dem Hrsg. nahe gestanden hat, hätte er uns besser kennen dürfen. </p>
+        <pb facs="#IMG.7" n="7"/>
+
+        <p>Das führt mich auf den allgemeinen Theil Ihres Briefes. Sowohl Sie wie Hr. Prof. Meyer sind der Ansicht gewesen, ein Aufsatz von Ihnen über die Lautgesetze werde keine Stätte in den IF. finden. Du lieber Himmel, warum denn nicht? Sie hätten ihn nur schicken sollen, wir würden ihn mit grösster Freude akzeptiert haben. Ich kann beim besten Willen keinen Grund sehn, der uns daran hindern könnte. Die Herausgeber einer Zeitschrift sind doch nicht dazu da, um <hi
+            rend="unknown"
+            rendition="#none">
+ihre</hi> Ansicht zum Ausdruck zu bringen. Das würde sehr bald langweilig werden. So wenig, wie sie die Pflicht haben, gewöhnlich das alles zu vertreten, was in ihrem Blatt erscheint. Sievers<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2734">Eduard Sievers</persName> (1850-1932), deutscher Germanist (Mediävist und Linguist) und Phonetiker; Hrsg. von Paul und Braunes <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.5418">
+              <hi rend="unknown" rendition="#none">Beiträge zur Geschichte der deutschen Sprache und Literatur</hi>
+
+            </ref>.</note> hat das anfangs, als er die Redaktion frisch angetreten hatte, in den Beiträgen durchzuführen gesucht und überall <pb
+            facs="#IMG.8"
+            n="8"/> in Fussnoten versichert, dass er mit den Ansichten der Verf. nicht übereinstimme, dass er sie für verfehlt halte etc. Wozu das? Jeder Autor muss doch seine Anschauungen selber vertreten, der Herausgeber hat nur die Pflicht darüber zu wachen, dass nach Form und Inhalt nichts unwürdiges unterlaufe. Also auch Ihr offner Brief gegen Prof. Meyer<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.675">
+Schuchardt, Weltsprache und Weltsprachen”. <hi
+                  rend="unknown" rendition="#none">An Gustav Meyer von Hugo Schuchardt</hi>, Straßburg: Trübner, 1894.</ref>
+            </bibl>
+          </note> wäre unbedenklich zum Abdruck gebracht worden, wenn wir Sie vielleicht auch gebeten hätten die <hi
+            rend="unknown"
+            rendition="#none">Brief</hi>form, die sich in einer Zeitschrift nicht zum besten ausnimmt, in die Form der <hi
+            rend="unknown" rendition="#none">Abhandlung</hi> umzugiessen. Warum sollen die IF., innerhalb des ihnen durch ihre Aufgabe gesteckten Rahmens, Ihnen weniger weit offen stehn als etwa Hrn. Prof. Meyer? </p>
+
+        <p>Dazu noch eins. Ich weiss nicht, ob Ihnen bekannt ist, dass ich bei Hrn Prof. Meyer anfragte, ob er die Anzeige Ihres offenen Briefes <pb
+            facs="#IMG.9" n="9"/> übernehmen wolle. Er lehnte damals ab. Ich habe diese Anfrage nicht deshalb zugestellt, weil mir etwa eine Widerlegung Ihrer Schrift erwünscht gewesen wäre, sondern einfach deshalb, weil [ich] Erörterungen strittiger Fragen von zwei einander gegenüber stehenden Parteien für fruchtbringend halte. Dass in unserem Falle zudem jede persönliche Polemik ausgeschlossen war, ward schon durch das Freundschaftsverhältnis zwischen Ihnen und Prof. M. garantiert. Eine Gefahr war also nicht vorhanden. </p>
+        <p>Was meine Anz. im <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3125">
+LCB.</ref> anlangt, so versteh ich Ihre Worte nicht: „bezüglich der Argumente haben Sie zwischen M. und mir nicht entschieden“.<note
+            n="5" place="foot" type="editorial">Vgl. oben Brief UB Leipzig, <ref target="https://gams.uni-graz.at/o:hsa.letter.11813">05-HSWS-02 (8.7.1894)</ref>.</note> Vielleicht haben Sie die Güte mir den Satz gelegentlich zu erläutern. </p>
+        <p>Zum Schluss noch ein allgemeines Glaubensbekenntnis ad vocem „Schule“. </p>
+        <p>Wenn ich heute von vorn anzufangen hätte, würd ich vieles, vielleicht alles anders machen, <pb facs="#IMG.10"
+            n="10"/> als ich es gethan habe. Eins aber bliebe sich gleich: Wenn ich überhaupt nochmals Germanistik und Indogermanistik als Beruf wählte, würd ich ohne Zaudern wieder nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName> gehen. Ich bin noch heute meinem gütigen Geschick dankbar, dass es mich, als ich, ohne von der entscheidenden Bedeutung des Schrittes eine Ahnung zu haben, zwischen <placeName>
+Berlin</placeName> und Leipzig schwankte, nach Leipzig geführt hat. Ich habe ein stark entwickeltes Unabhängigkeitsgefühl und könnte nichts weniger ertragen als in verba magistri zu schwören.<note
+            n="6" place="foot" type="editorial">Horaz, <hi rend="unknown"
+            rendition="#none">Epist.</hi>: „auf die Worte des Meisters schwören = einem Lehrer blind folgen“.</note> In Leipzig ist von einem Zwang dieser Art niemals etwas zu verspüren gewesen. Zarncke<note
+            n="7" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3053">Friedrich Zarncke</persName> (1825-1891), Germanist in Leipzig; <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.3053?locale=de">HSA 12978-12995</ref>.</note> ist niemals zufrieden gewesen, als wenn man eine selbständige Ansicht aussprach, mochte sie auch direkt gegen Aufstellungen von ihm gehn. Er rezensierte im Seminar scharf, aber immer <pb
+            facs="#IMG.11"
+            n="11"/>unbefangen. Und ich erinnere mich noch heute mit Vergnügen mancher kleinen Polemik, die ich als grüner Junge in aller Unschuld mit ihm ausgefochten habe, bald besiegt, bald Zustimmung findend. Und nicht anders ist es mir mit meinen andern Lehrern, Windisch,<note
+            n="8" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3018">Ernst Windisch</persName> (1844-1918), deutscher Keltist und Sanskritist; <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.3018?locale=de">HSA 12806-12832</ref>.</note> Leskien und (als er nach Leipzig kam) Brugmann gegangen. Namentlich mit dem letzten. Wenn Sie das oder dies meiner Sachen zur Hand nehmen, werden Sie in vielen, zum Teil recht wichtigen Punkten, Meinungsdifferenzen finden, die ich mich niemals auszusprechen gescheut habe. Aber niemals hab ich auch nur durch ein Wort oder eine Miene Misbilligung gespürt. – Und noch ein kleiner, aber sehr charakteristischer Zug aus dem Leipziger Gelehrtentum: Als nach dem Tode von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1349">Curtius</persName> Prof. Windisch die Leitung der gramm. Gesellschaft übernahm, gründeten einige ältere <pb
+            facs="#IMG.12" n="12"/> Semester eine „junggrammatische“ Gegengesellschaft. Auch ich trat bei, durfte jedoch nach wie vor in seinem Hause verkehren. Ja, unsere Gegengesellschaft erhielt das Recht, die Bibl. der gramm. Gesellschaft zu benützen. </p>
+        <p>Sie sehn also, in welcher Luft ich aufgewachsen bin. Den Unterschied hab ich erst später in Berlin kennen gelernt. Von einer Schule oder Koterie kann daher bei mir keine Rede sein. </p>
+
+        <p> Selbstverständlich bleibt natürlich, dass manches von dem, was man zu Anbeginn der Studienzeit überliefert bekommt, fürs ganze Leben haften bleibt und die Gedanken unbewusst beeinflusst. Selbstverständlich ist auch, dass man in einem auch wissenschaftlich engen Verhältnis zu denen steht, deren Lehre man empfangen hat, oder die mit uns gemeinsam den Weg zurückgelegt haben. Dass man eine grössere <pb
+            facs="#IMG.13" n="13"/> Summe gemeinsamer Anschauungen mit ihnen teilt, als mit ganz fremden. Ja, dass selbst die Differenzen, die bestehn u. deren man sich bewusst ist, weit weniger scharf empfunden werden, als wenn gar kein persönliches Band vorhanden wäre. Es wäre höchst sonderbar, wenns anders ginge. Deshalb scheint mir auch das Gerede von „absoluter“ Objektivität Nonsens. Grade die führen es im Mund, die am wenigsten objektiv sind. Kein Mensch kann aus seiner Haut heraus. Er wird an jede Thatsache, jede Meinung mit einer bestimmten Summe von Anschauungen und Kenntnissen herantreten, die er unmöglich wegwischen kann. Es wäre auch traurig, wenns anders käme. Ist doch auch destilliertes Wasser ein unleidlicher Trank. </p>
+        <p>Nur insofern kann und soll man, scheint mir, von Objektivität sprechen, als <pb facs="#IMG.14" n="14"/> man sich ehrlich Mühe gibt, sich in fremden Gedankengang zu versetzen und sich nicht durch die Scheuklappen der Tradition hindern lässt. Dass es auch beim besten Willen, immer ganz gelingt, bezweifle ich. Nur soll man nicht absichtlich sich den freien Blick verbauen. </p>
+
+        <p>Aus diesen Gründen rezensire ich eigentlich höchst ungern, muss mich beinah dazu zwingen. Auch persönliche Polemik macht mir nur in einem Falle Freude: wenn ich in einem Ton angegriffen werde, den ich mir nicht gefallen lassen will. So hab ich vor einigen Jahren eine scharfe Entgegnung auf Dr. Jellinek<note
+            n="9" place="foot" type="editorial">
+            <persName>
+Max Hermann Jellinek</persName> (1868-1938), österr. Altgermanist, Professor in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName>. – Die „Entgegnung“ konnte nicht nachgewiesen werden.</note> in Wien nicht in Erregung, sondern mit voller Überlegung geschrieben und halte noch heute jede starke Wendung aufrecht. – </p>
+        <p>Doch ich sehe, ich bin endlos <pb facs="#IMG.15"
+            n="15"/> weitschweifig geworden. Nachdem aber einmal die unangenehme Veranlassung zur Korrespondenz gegeben war, seh ich nicht ein, warum ich nicht etwas gutes daraus zieh und sie zur vollen Aussprache benutzen soll. Zumal Ihre Worte mich dazu zu ermuntern scheinen. Ich hoffe, dass schliesslich alles zu einem <hi
+            rend="unknown"
+            rendition="#none">beide</hi> Teile befriedigenden Abschluss kommen wird und dass auch Hr. Prof. Brugmann den unverdienten Vorwurf allmählich verschmerze.<note
+            n="10" place="foot"
+              type="editorial">Streitberg und Brugmann behalten sich das letzte Wort in dieser Sache vor. Vgl. K. Brugmann / W. Streitberg, „Eine verunglückte Konjektur Hugo Schuchardts“, <hi
+              rend="unknown"
+              rendition="#none">Indogermanische Forschungen</hi> 4, 1894, (Anzeiger für indogermanische Sprach- und Altertumskunde,168-169), Anhang zur Leskien-Festschrift! Ihre Replik ist „nicht ohne“, vgl. z. B. den Anfang: „H. Schuchardt hat zu Leskiens Jubiläum am 4. Juli d. J. einen Festgruss erscheinen lassen, dessen Eingang eine historische Thatsache zu deuten unternimmt und zwar der kombinatorischen Phantasie, über die der treffliche Grazer Gelehrte in so reichem Maasse verfügt, alle Ehre macht, leider aber nicht zugleich die sonst von ihm so oft bewährte Umsicht in der Abwägung der für die Ermittlung der Wahrheit in Betracht zu ziehenden Möglichkeiten ans Licht treten lassen. […] Sch. auszunehmen ist uns nie in den Sinn gekommen, wie wir auch bekennen dürfen uns durch seine sachlich und maassvoll gehaltene Polemik gegen jenes Axiom nie unangenehm berührt oder gar verletzt gefühlt zu haben. […] Diese übel geratene Konjektur Schuchardt’s mag ,den Humor‘ erhöhen, ,mit dem die Nachwelt auf unsere Zwistigkeiten blicken wird‘, und von dem Sch. etwas vorausnehmen möchte. Auch uns soll sie den Humor nicht weiter kürzen, und so falle über diese Tragikomödie für immer der Vorhang! August 1894 K. Brugmann W. Streitberg“. Diese Ausführungen könnten der Grund dafür sein, dass Schuchardt später nicht in den <hi
+              rend="unknown" rendition="#none">
+Indogermanischen Forschungen</hi> publizierte.</note>
+        </p>
+        <closer>
+          <salute>Mit vorzüglicher Hochachtung</salute>
+          <lb/>
+          <salute>Ihr ergebenster</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">W. Streitberg</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

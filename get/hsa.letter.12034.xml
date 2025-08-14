@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reinhold Rost an Hugo Schuchardt (13-09783)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2561">
+            <forename>Reinhold</forename>
+            <surname>Rost</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12034" type="PID">o:hsa.letter.12034</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">13-09783</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">09783</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2561">
+                <forename>Reinhold</forename>
+                <surname>Rost</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.656" ref="http://sws.geonames.org/2643743">London</origPlace>
+              <origDate ana="dcterms:created" when="1885-09-08">1885-09-08</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Reinhold Rost und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2561"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12034">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2561" ref="https://viaf.org/viaf/41991851">
+            <forename>Reinhold</forename>
+            <surname>Rost</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.656" key="#GID.1" ref="http://sws.geonames.org/2643743">London</placeName>
+          <date when="1885-09-08">1885-09-08</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <name ref="http://geonames.org/2643743" type="fcode:PPLC">London</name>
+                <location>
+                  <geo>-0.12574,51.50853</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2561" type="context">
+                        Korrespondenz Reinhold Rost - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3204" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Pantun</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12034" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12034" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12034" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>8 Sept. 1885. </dateline>
+        <opener>Sehr verehrter Herr Professor,</opener>
+
+        <p> Es freut mich ungemein, daß ich Ihnen durch Übersendung meiner malaiisch-portug. Hs. einen kleinen Dienst erwiesen habe. Leider kann ich Ihnen über die Geschichte derselben weiter gar nichts mittheilen als dass ich sie vor vielen (vielleicht 20) Jahren einmal bei dem Antiquar Quaritch<note
+            n="1" place="foot" type="editorial">
+            <persName>
+Bernard Quaritch</persName> (1819-1899).</note> gekauft habe. In den Quaritch'schen Catalogen aus jener Zeit ist sie aber nicht beschrieben, und so fehlt mir jeder Fingerzeig. </p>
+        <p>Am meisten vertraut mit den malaiischen <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3204">Pantuns</ref> und der dahin einschlagenden Litteratur sind Professor J. Pijnappel<note
+            n="2" place="foot" type="editorial">Direkter Kontakt zwischen <persName>
+
+Pijnappel</persName> und Schuchardt ist im HSA nicht nachgewiesen. Hier: <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8792">Pijnappel, Jan. 1883. Over de Maleische Pantoens. <hi
+                  rend="unknown" rendition="#none">
+Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië</hi>, uitgegeven vanwege ter gelegenheid van het Zesde Internationale Congres der Orientalisten de Leiden. ’s Gravenhage: Martinus Nijhoff, pp. 161-175</ref>
+
+            </bibl>. Er beschäftigt sich mit dem Verhältnis der Reimpaare zueinander. </note> und Herr H. C. Klinkert<note
+            n="3" place="foot" type="editorial">Eine Korrespondenz zwischen <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1921">Hildebrand Cornelis Klinkert</persName> (1829-1913) ist im HSA nachgewiesen, der Kontakt dürfte aber zum Zeitpunkt dieser Empfehlung schon bestanden haben (<ref target="https://gams.uni-graz.at/context:hsa.letters.1921?locale=de">HSA 05580-05583</ref>). Hier: <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8795">H. C. Klinkert. 1868. Jets over de Pantons of Minnezangen der Maleijers, <hi
+                  rend="unknown" rendition="#none">Bijdragen tot de Taal- Land- en Volkenkunde van Nederlandsch-Indië</hi> 1868: 309ff.</ref>
+            </bibl>
+          </note> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.94">Leiden</placeName>, die beide darüber geschrieben und Sammlungen herausgegeben haben. In den Bijdragen und der Tijdschrft der asiat. Gesellschaften vom Haag und von Batavia sind solche Sammlungen zu finden. Einiges steht auch in Marsden’s Malay Grammar, die noch jetzt sehr zu empfehlen ist. <note
+            n="4" place="foot" type="editorial">Marsden, William. 1812. <hi rend="unknown" rendition="#none">A Grammar of the Malayan Language</hi>. With an introduction and praxis. London. 1824. Das Buch war offenbar selten, weshalb bereits 1824 eine in Holland gedruckte Neuausgabe aufgelegt wurde, die in Schuchardts Privatbibliothek vorhanden ist: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8796">Maleische Spraakkunst (Marsden 1824)</ref>
+            </bibl>. </note>
+        </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p>Sonst sind auch die Bücher vom <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.4110">Abbé Favre</persName>
+          <note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8797">Favre, Pierre Étienne Lazare. 1875. <hi
+                  rend="unknown" rendition="#none">Dictionnaire malais-français</hi>
+              </ref>
+            </bibl> (2 Bde.) und <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8798">1880<hi rend="unknown" rendition="#none"> Dicionnaire français-malais</hi>. Wien: Imprimerie impériale et royale.</ref>
+            </bibl>
+          </note>, die Gr. von W. E. Maxwell<note n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7376">Maxwell, William Edward. 1882. <hi
+                  rend="unknown" rendition="#none">A Manual of the Malay Language</hi>. London: Trübner.</ref>
+            </bibl> In <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardts</persName> Privatbibliothek vorhanden. </note> (Trübner &amp;amp; C.) und einige holländische von Pijnappel, Klinkert und de Hollander<note
+            n="7" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7386">
+Hollander, Johannes Jacobus de. 1882. Handleidig bij de beoefening der maleische taal en letterkunde. 5. verb. Auflage. Breda: Broese.</ref>
+            </bibl>
+          </note> sehr brauchber. Das Wörterbuch von Pijnappel ist etwas zu knapp, das von Favre (in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName> gedruckt) ist, wenn auch nicht fehlerfrei, äußerst brauchbar, weil es alle vorkommenden abgeleiteten Formen und zahlreiche Citate gibt. </p>
+        <closer>
+          <salute>Mit bestem Gruss, in treuer Ergebenheit </salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2561"> R. Rost. </persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Sollte Ihnen die laufende Ausgabe des Encyclopaedia Britannica zugänglich sein, so finden Sie in meinem Artikel <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8802">“Malay Language and Literature”</ref>
+            </bibl> alle nöthigen Angaben.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

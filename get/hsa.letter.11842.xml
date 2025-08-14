@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (108-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11842" type="PID">o:hsa.letter.11842</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">108-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 55-56</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6046" ref="http://sws.geonames.org/2782070">Bad Aussee</origPlace>
+              <origDate ana="dcterms:created" when="1892-09-24">1892-09-24</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11842">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6046" key="#GID.1" ref="http://sws.geonames.org/2782070">Bad Aussee</placeName>
+          <date when="1892-09-24">1892-09-24</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Bad Aussee</settlement>
+                <name ref="http://geonames.org/2782070" type="fcode:PPLA3">Bad Aussee</name>
+                <location>
+                  <geo>13.78243,47.60998</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f111" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f112" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f113" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f114" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7529" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6046">
+Aussee</placeName> 24 sept 92</dateline>
+        <opener>Cher ami,</opener>
+        <p> Dans le dernier numéro de la <hi rendition="#u">Romania</hi> que j’ai trouvé chez <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2264">Mussafia</persName>, vous dites (p. 472) «Ainsi le principal argument de M. Schuchardt <hi
+            rendition="#u">
+se tourne contre lui</hi>.»<note n="1" place="foot" type="editorial">
+            <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7959">«Chronique» (1892, 472)</ref>
+
+            </bibl>. Il est question ici de l’utilisation des signes mathématiques ﹤ et ﹥ en philologie. Dans la «Chronique» de la Romania, G. Paris avait traduit un texte intitulé «Vorschlag» de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.32">1892c</ref>
+            </bibl>): «Dans le numéro de janvier du <hi
+              rendition="#i">Litteraturblatt für germ. u. rom. Philologie</hi>, M. H. Schuchardt a inséré cette proposition: ‘Pour éviter, dans des exposés linguistiques, l’équivoque du signe =, on s’est mis depuis quelque temps à se servir du signe ﹥, dirigé ainsi ou en sens inverse. Mais les uns lui donnent une valeur contraire à celle que lui attribuent les autres: les uns écrivent it. <hi
+              rendition="#i">cuore</hi> &gt; lat. <hi rendition="#i">cor</hi> ou <hi rendition="#i">cor</hi> ﹤ <hi
+              rendition="#i">cuore</hi>, les autres <hi rendition="#i">cuore</hi> ﹤ <hi rendition="#i">cor</hi> ou <hi
+              rendition="#i">
+cor</hi> ﹤ <hi rendition="#i">cuore</hi> [<hi
+              rendition="#i">sic</hi>] […] Il est grand temps de mettre fin à ce désordre et de se décider pour un des deux usages. Je crois que le meilleur est celui d’après lequel on met la forme la plus ancienne à la pointe, la forme la plus récente à l’ouverture (<hi
+              rendition="#i">
+cor</hi> ﹤ <hi rendition="#i">cuore</hi>)» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7959">«Chronique» 1892</ref>
+
+            </bibl>, 471‑72). G. Paris ne prend pas note de la publication simultanée de cette «proposition» dans plusieurs revues – <hi
+              rendition="#i">
+Zeitschrift für romanische Philologie</hi> (16, p. 288), <hi
+              rendition="#i">
+Beiträge zur Geschichte der deutschen Sprache und Literatur</hi> (16, p. 566), <hi
+              rendition="#i">Indogermanische Forschungen</hi> (1, p. 205), <hi
+            rendition="#i">Kuhns Zeitschrift</hi> (32, p. 595) – et semble donc sous-estimer l’importance que cette question revêt aux yeux de son correspondant.</note> Voilà que je ne comprends pas. J’avais dit: «la quantité supérieure est à l’inférieure dans un rapport de développement, et non l’inverse»<note
+            n="2" place="foot" type="editorial">Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.32">1892c</ref>
+            </bibl>, 1).</note>. Ce serait aux mathématiciens de me désapprouver. L’opinion de M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Verner</persName>
+          <note n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Karl Verner</persName> (1846-1896), linguiste danois. G. Paris cite dans sa «Chronique» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7959">
+1892</ref>
+
+            </bibl>, 471) une mise au point sur l’histoire de l’utilisation des signes mathématiques d’après Verner, publiée par le germaniste <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6553">Hugo Gering</persName> (1847-1925) dans le <hi
+              rendition="#i">Litteraturblatt für germanische und romanische Philologie</hi> du 9 mai 1892 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8776">Gering 1892</ref>
+
+            </bibl>). </note> est que la forme archaïque est à la forme récente dans le rapport de la quantité supérieure à l’inférieure. Son point de vue est donc tout-à-fait différent du mien; et il s’agit de savoir lequel est le meilleur. Quand on <pb
+            facs="#IMG.2"
+            n="2"/> fait – comme pris dans la logique – des emprunts à la terminologie mathématique, on cherche à saisir les rapports dans leur généralité, on fait abstraction de tout ce qui est spécial. Selon M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Verner</persName> on devrait écrire <hi
+            rendition="#u">bon</hi> ﹤ <hi rendition="#u">bonum</hi> mais <hi rendition="#u">buona</hi> ﹥ <hi
+            rendition="#u">bona</hi>, et peut-être <hi rendition="#u">bien</hi> = <hi
+            rendition="#u">bene</hi> parce que les deux formes sont également pleines ou complètes. Comment voudrait-on justifier cet usage du signe ﹥ quand il s’agit du développement de la signification: (lat.) Subj. du plusqueparfait ﹥ (rom.) Subj. de l’imparfait? Vous me feriez grand plaisir si vous vouliez – peut-être à <pb
+            facs="#IMG.3"
+            n="3"/> l’occasion de l’article que je viens de vous envoyer – toucher une autre fois le côté <hi rendition="#u">théorique</hi> de la question que vous avez tranchée.</p>
+        <p> Quant à la <hi
+            rendition="#u">pratique</hi> je vous avoue franchement que je me trouve assez embarrassé: je dois me mettre en contradiction où avec les linguistes scandinaves où avec moi-même<note
+            n="4" place="foot"
+              type="editorial">En plus de Verner, on apprend que ces signes sont utilisés de manière identique par <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2862">Vilhelm Thomsen</persName>, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2319">Kristoffer Nyrop</persName>, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6324">
+Ludvig Wimmers</persName> ainsi que l’Américain <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6603">Francis Andrew March</persName> («Chronique» <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7959">1892</ref>
+            </bibl>, 472; <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8776">Gering 1892</ref>
+
+            </bibl>).</note>. Maintenant, je crois que j’ai fait un emploi plus abondant de ce signe qu’aucun autre et que je suis, parmi les romanistes, le premier à l’avoir employé. Il se pourrait bien que je me trompasse; mais je ne me rappelle <pb
+            facs="#IMG.4" n="4"/> pas d’avoir rencontré le signe dans la <hi
+            rendition="#u">Romania</hi>, sauf dans le dernier volume. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1391">M. Dietrich</persName> l’a employé dans le même sens que moi<note
+            n="5" place="foot" type="editorial">Dietrich (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4564">
+1891</ref>
+
+            </bibl>).</note>; vous auriez dû lui dire qu’il fait fausse route. – Vous voyez que tout le monde n’est pas d’accord; il y a des <hi rendition="#u">malcontents</hi>, mais cela n’empêche pas qu’ils ne vous serrent la main très cordialement </p>
+        <closer>
+          <signed>HS.</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

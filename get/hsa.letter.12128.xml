@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Władysław Nehring an Hugo Schuchardt (01-07747)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2281">
+            <forename>Władysław</forename>
+            <surname>Nehring</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12128" type="PID">o:hsa.letter.12128</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-07747</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07747</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2281">
+                <forename>Władysław</forename>
+                <surname>Nehring</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.191" ref="http://sws.geonames.org/3081368">Breslau</origPlace>
+              <origDate ana="dcterms:created" when="1883-09-30">1883-09-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Władysław Nehring und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2281"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12128">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2281" ref="https://viaf.org/viaf/7631298">
+            <forename>Władysław</forename>
+            <surname>Nehring</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.191" key="#GID.1" ref="http://sws.geonames.org/3081368">Breslau</placeName>
+          <date when="1883-09-30">1883-09-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Poland</country>
+                <settlement>Wroclaw</settlement>
+                <name ref="http://geonames.org/3081368" type="fcode:PPLA">Wroclaw</name>
+                <location>
+                  <geo>17.03333,51.1</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2281" type="context">
+                        Korrespondenz Władysław Nehring - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.840" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Sprachkontakt (allgemein)</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.644" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Polnisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.287" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Tschechisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12128" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12128" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12128" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12128" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12128" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Breslau, d. 30.IX.83.</dateline>
+        <opener>Verehrter Herr College!</opener>
+        <p>Ihren Brief habe ich nach meiner Rückkehr aus Misdroy<note n="1" place="foot"
+            type="editorial">Heute Międzyzdroje, eine etwa 5500 Einwohner umfassende Stadt mit Sitz einer Stadt- und Landgemeinde auf der Insel Wolin, im Powiat Kamieński der polnischen Woiwodschaft Westpommern.</note> vorgefunden und beeile mich in Erwiderung auf die darin enthaltenen Fragen Ihnen mitzutheilen, daß ich den <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.840">Einfluß</ref> des <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.644">Polnischen</ref> und <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.287">Czechischen</ref> auf das Deutsche vorwiegend in dem von den Slaven selbst gesprochenen Deutsch bemerkt habe. Er äußert sich zunächst in der Behandlung der Laute, so in der Ausgleichung der u-, ä-, ö-Laute, so daß werden, schwer, schön, böhmisch, Wärme einen gleichen, dem poln. e (=ä) entsprechenden e-Vocal haben; die Diphthonge ei und ai sind ebenfalls ausgeglichen, so daß man frai, aigentlich, zwai hört, selbst eu und äu entziehen sich dieser Behandlung nicht: deutsch Äuglein werden wie dajez, ajglajn gesprochen, Aufmerksamere gebrauchen für eu, äu das slavische oj (frojde, ojglajn). Die Aussprache des au macht selbst den ungebildeten Slaven keine Schwierigkeiten, obgleich das Polnische Diphthonge nicht kennt, man hört deutlich Glaube, <pb
+            facs="#IMG.2"
+            n="2"/> sauber, Baum, selbst grauß f. groß, wenn auch das a hin u. wieder (namentlich vor u-Lauten) zu o, d. h. dem poln. á sich trübt: bronn f. braun, Boum f. Baum; Hauptmann und Frauenzimmer habe ich oft Ho(u)ptmann (mit verhallendem u) u. Fronzimmer gehört, das letzte Wort und zwar in der urspr. Bedeutung γυναικεῖον lautete schon im 16. Jahrh. in Polen nicht anders als froncymer. Noch mehr äußert sich der Einfluß der Muttersprache bei den Slawen, wenn sie deutsch sprechen, auf das Deutsche in der Behandlung der Consonanten: weil das poln. ch ein Gutturallaut ist, so muß wel<hi
+            rend="unknown"
+            rendition="#none">ch</hi>er sich ein hartes ch gefallen lassen, selbst h entzieht sich diesem Schicksal nicht: Herr, Eichhörnchen wie Gerr, Aichgernchen, dagegen sind die deutsch sprechenden Polen geneigt die Silben ge (u. he) wie gié (hie) zu sprechen. Weil im Polnischen die schließenden <hi
+            rend="unknown" rendition="#none">media</hi> wie <hi rend="unknown"
+            rendition="#none">tenuis</hi> lautet, so hört man oft Wak st. Wag, cherausgab f. herausgab. Bei dem Gebrauch der Nomina ist die Artikelnoth bei den weniger Gebildeten bekannt; das Genus wird nach der Muttersprache bestimmt; oft wird der Artikel weggelassen: Gieb Kaffee, bring Lampe (wohl mit Anlehnung an partitiv <pb
+            facs="#IMG.3"
+            n="3"/> gebrauchte Nomina: Obst bringen, Eier kaufen etc.); gewöhnlich ist die Weglassung des Artikels bei paar: mit paar Pferden. Bezüglich das Verbum fällt mir ein die Weglassung der Pronomen bei der Frage: Was meinen? und der Gebrauch einer Imperativform, welche ich einmal gehört habe: gehwa (gehen wir!) und welche dem polischen volksdeutschen idźwa (dualis) nachgebildet zu sein scheint. – Daß die Bildung und Fügung der Sätze sich hin u. wieder an die Muttersprache anlehnt, ist selbstverständlich: man setzt ohne Anstand zwei Negationen (in keinem Falle nicht!), was kaum anders als durch den Einfluß der slavischen Muttersprache zu klären ist; man gebraucht das <hi
+            rend="unknown"
+            rendition="#none">relativum</hi> was für welcher, e, es, genau wie im Polnischen co (dieses als nomin. oder accus.), z. B. der Herr, was bei uns zu Besuch war; die Wortfolge ist oft wie im Polnischen und Czechischen, und statt den Infinitiv zu setzen, wird häufig ein Satz gebildet. Sehr häufig ist der Gebrauch des <hi
+            rend="unknown" rendition="#none">reflexivum</hi> sich, welches auf alle <hi rend="unknown"
+            rendition="#none">genera</hi> und beide <hi rend="unknown"
+            rendition="#none">numeri</hi> wie im Poln. się, sobie, Czech. se, sobé, si sich beziehen kann: wir würden sich freuen, wir spielen sich, und dem entsprechend auch der Gebrauch des Pron. poss. sein bei der 3<hi
+            rendition="#sup">t</hi> Person: sie hat <pb facs="#IMG.4"
+            n="4"/> Haus (ihr Haus) verkauft. – In lexikalischer Beziehung sind so manche Wörter aus dem Polnischen und Czechischen in das von Schlesiern gesprochene Deutsch aufgenommen: abgesehen von den mehr oder weniger bekannten, wie Peitsche (<hi
+            rend="unknown" rendition="#none">biez</hi>), Blotte (<hi rend="unknown"
+            rendition="#none">bloto, bláto</hi>) gebraucht man z. B. in Schlesien Lusche (gesprochen <hi rend="unknown"
+            rendition="#none">luże</hi>) Sumpf nach dem slav. <hi rend="unknown"
+            rendition="#none">luże, Katuża; Gumùlle</hi>, welches dem polnischen <hi rend="unknown"
+            rendition="#none">pomyje</hi>; <hi rend="unknown" rendition="#none">mudele</hi>, welches dem poln. <hi
+            rend="unknown" rendition="#none">
+mudjić</hi> nachgebildet ist. Schleußerin<note n="2" place="foot"
+            type="editorial">Am Rand mit einem „?“ versehen (vermutlich von Schuchardt), der dieses Wort auch nicht kennt. Es ist wohl „Schließerin“ gemeint.</note> ist nach dem Vorbild des poln. <hi
+            rend="unknown" rendition="#none">Klucznica</hi> gebildet.</p>
+        <p>Doch genug der Plaudereien, zu viel für bloße Andeutungen, zu wenig für ausreichende Verwendung. Es wird mich freuen, wenn ich Ihnen auf bestimmte Fragen, die Sie in Aussicht stellen, eingehende Aussicht ertheilen kann.</p>
+        <closer>
+          <salute>Mit hochachtungsvollen Empfehlungen</salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <salute>ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2281">Nehring</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

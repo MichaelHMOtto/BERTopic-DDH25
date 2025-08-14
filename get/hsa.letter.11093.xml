@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (09-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11093" type="PID">o:hsa.letter.11093</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">09-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 427-428</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.177" ref="http://sws.geonames.org/2879139">Leipzig</origPlace>
+              <origDate ana="dcterms:created" when="1873-02-22">1873-02-22</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11093">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.177" key="#GID.1" ref="http://sws.geonames.org/2879139">Leipzig</placeName>
+          <date when="1873-02-22">1873-02-22</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Leipzig</settlement>
+                <name ref="http://geonames.org/2879139" type="fcode:PPLA3">Leipzig</name>
+                <location>
+                  <geo>12.37129,51.33962</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f858" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f859" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f860" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f861" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7430" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>L., 22.2.73.</dateline>
+        <opener>Mon cher ami!</opener>
+        <p>
+          <foreign xml:lang="fr">Je vous donne la traduction allemande des citations en roumain</foreign>
+          <note n="1" place="foot"
+              type="editorial">Ces citations seront traduites par G. Paris et publiées en notes de bas de page de l’article de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.406">1873a</ref>
+            </bibl>).</note>: </p>
+        <p>1. p. 2, l. 7 s.: «Die Wörter nicht romanischen Ursprungs, wie slava… können und dürfen in einem rumänischen Wörterbuch keinen Platz finden».</p>
+
+        <p>2. p. 2, l. 10 s: «Die Sprache, welche das Unglück hat von fremden Wörtern durchdrungen [pénétrée, imbue]<note
+            n="2" place="foot" type="editorial">Crochets carrés ajoutés par Schuchardt.</note> und mehr oder weniger überschwemmt zu sein, ist, ebenso wie eine von Schmarotzern umschlungene Pflanze, in ihrer regelmässigen Entwickelung gehindert und dazu verdammt dahin zu welken und in Folge dessen sogar den Flug des Gedankens zu hemmen. So hängt der raschere oder langsamere Gang eines Volkes auf dem Wege der Civilisation, seine Grösse, seine Macht und sein Glück, kurz sein Schicksal und seine Stellung inmitten der grossen Familie des Menschengeschlechts, in sehr hohem Grade von der Reinheit der Sprache ab, welche das Organ seines Gedankens ist». </p>
+
+        <p> 3. p. 3, l. 4 s.: «Als die akademische Gesellschaft die orthographische Frage der Probe neuer, ernster Diskussionen unterwarf, gelangte sie zur Ueberzeugung, dass, wollte sie nicht [<foreign
+            xml:lang="fr">proprement</foreign>: bei Strafe]<note n="3" place="foot" type="editorial">Crochets carrés ajoutés par Schuchardt.</note> die Grammatik der Sprache durchaus verdunkeln, ihr jedes Licht der Philosophie entziehen, die so kostbaren Beziehungen zu den Schwestersprachen zerreissen, die rumänische Sprache, und in Folge dessen die Nation, in ebensoviel Sprachen spalten, wie man verschiedene Sprachweisen hört, sie in der rumänischen Schreibung von dem etymologischen Prinzip nicht abgehen konnte; denn, das entgegengesetzte Prinzip, gut und vernünftig vielleicht für eine ursprüngliche Sprache, kann nur Verwirrung und Dunkelheit in eine abgeleitete Sprache, wie die unsere ist, bringen; denn die Etymologie, mit einem Worte, kann, ebenso wie für das Verständnis der Wörter, so für die Laute, welche die Wörter bilden, und die Darstellung dieser (Laute) durch Zeichen, allein das nöthige Licht und die nöthige Ordnung in eine Sprache bringen».</p>
+        <p>4. p. 3, l. 29 s.: «Die Schrift muss wo möglich noch klarer, als die einzelnen Laute der Rede sein; denn die Rede klärt sich dur[ch] Geberde und Ton, aber die Schrift muss alle Hülfsmittel des Verständnisses durch sich selbst darstellen und es muss daher in der Form, unter welcher sie erscheint, die strengste Logik herrschen».</p>
+
+        <p>5. p. 4, l. 25 s.: «Für die Schreibung des Rumänischen wird man das etymologische Prinzip befolgen, insoweit die Regeln, für seine Ausführung, aus der rumänischen Sprache selbst entnommen und durch Analogie ergänzt werden können, indem man die überflüssigen Zeichen beseitigt, welche die vernünftige und <pb
+            facs="#IMG.2" n="2"/> regelmässige Entwickelung der Sprache in ihrer Grammatik hindern». </p>
+
+        <p>6. p. 5, not. l. «halbirtes u so wenig ausgesprochen wird, dass es Vielen ganz stumm zu sein scheint. Daher können nicht nur die Fremden es nicht aussprechen und sprechen es nicht aus, sondern auch unter den Rumänen gibt es solche, welche glauben es durchaus verläugnen zu dürfen, und einige Grammatiker, welche es ignoriren, nicht nur weil es fast unmöglich ist, eine Silbe mit einem Konsonanten, ohne auch nur den Schatten eines Vokals, zu endigen, sondern auch weil die Etymologie unserer Sprache darauf hinweist und es verlangt, und die Wechselbeziehung zwischen halbirtem <hi
+            rendition="#u">i</hi> und <hi rendition="#u">u</hi> so gross ist, dass das eine ohne das andere nicht bestehen kann»</p>
+        <p>6. p. 5, l. 17 s.: «die abgeleiteten unächten Laute, welche sich für das Gehör mit anderen ursprünglichen oder abgeleiteten vermischen».</p>
+        <p>7. p. 6, l. 13 s: «um das Zischen dieser Laute zu beseitigen».</p>
+
+        <p>8. p. 6, l. 28 s.: «Doch meine persönliche Ansicht in der obenerwähnten philologischen Kommission zielte nur darauf hin, dass der Verfasser der Orthographie, welche von der philologischen Kommission angenommen worden ist, wenigstens dem a = Ъ<note
+            n="4" place="foot"
+              type="editorial">Signe dur en russe, appelé «Yer», Ъ est une voyelle ultra-courte utilisée jusqu'au 12<hi
+              rendition="#sup">e</hi> siècle et qui se prononce comme un «schwa» court (le Ь en était l'équivalent doux). Le Ъ et le Ь ont tous deux disparu en tant que voyelles au 12<hi
+              rendition="#sup">e</hi> siècle et sont restés pour exprimer la dureté de la consonne précédente (voir aussi <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.406">Schuchardt 1873a</ref>
+
+            </bibl>, 77).</note> eine Koncession mache. Und dies nicht nur aus Rücksicht auf eine grössere Konformität, sondern auch aus <hi rendition="#u">dem</hi> gewichtigen Grunde, dass ich mir nicht vorstellen konnte und noch nicht vorstellen kann, wie der Elementarlehrer im Stande sein wird einem Anfänger, ohne Zeichen, den Unterschied zwischen a = Ъ und a = a begreiflich zu machen, noch auch mit Hilfe des von der phil. Komm. angenommenen Auskunftsmittels; das lateinische und das kyrillische Alphabet nebeneinander zu drucken. Soll das Lesen mit der Grammatik beginnen?»</p>
+        <p>9. p. 7. «dass die ferneren Ausgaben des Wörterbuches sich als immer vollkommeneres Bild der Tochter der ewigen Roma darstellen können, welche von der Mutter an den Ufern der alten Donau angesiedelt wurde, um im Osten das Licht der Civilisation zu wahren und auszubreiten». </p>
+
+        <p>Es ist keineswegs Sucht gelehrter Schaustellung und auch nicht Bequemlichkeit allein, was mich veranlasst hat, die Citate in der Ursprache zu setzen. Im Allgemeinen glaube ich, dass, wenn man einmal so viel Gewicht auf das einzelne Wort legt, um <hi
+            rendition="#u">wörtlich</hi> zu citiren, eine Uebersetzung dem Zwecke nicht entspricht. Besonders gilt das für das Französische das sich an eine fremde Sprache weit weniger anzuschmiegen vermag, als das Deutsche (ich habe mir nicht getraut, obige Stellen in’s Französische zu übersetzen). Nun ist aber im Rumänischen Einzelnes so schwülstig und überschwänglich ausgedrückt (z.B. die letzte Stelle), dass es kaum möglich ist es getreu und gut im Deutschen wiederzugeben. Ausserdem – und dies ist die Hauptsache – haben diese Texte, obwohl sie von zeitgenössischen Schriftstellern sind, doch Werth an sich, wenigstens für die vorliegende Frage. Ich wollte zugleich zusammenhängende Beispiele <pb
+            facs="#IMG.3" n="3"/> für die von der Akademie angenommene Schreibung geben, im Vergleich mit der <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1309">Cipariu</persName>’s, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6339">Munteanu</persName>’s, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3940">Maiorescu</persName>’s. Allerdings gestehe ich ein, dass ich bei alledem mehr an einige Rumänen gedacht hatte, denen ich die Sache vor Augen führen wollte (ich möchte Sie deshalb auch um einige Abzüge ersuchen), als an die Leser der Romania überhaupt, die aber doch – da die Stellen in einer sehr latinisirten Sprache abgefasst sind – den Sinn der rumänischen Worte errathen dürften. Ich schicke Ihnen den Korrekturbogen zurück, nachdem ich das Einzelne korrigiert habe. Es steht Ihnen also frei, die Sache einzurichten wie Sie wollen. <hi
+            rendition="#u">Meiner Meinung nach wäre es das Beste es zu lassen, wie es einmal ist, weil es das Bequemste ist.</hi> Ihre Leser werden sich durch ein paar unverständliche Worte nicht abschrecken lassen. – Für <hi
+            rendition="#u">Ǯ</hi> und <hi rendition="#u">š</hi> mag man <hi rendition="#u">j</hi> und <hi
+            rendition="#u">ch</hi> setzen (auch <hi rendition="#u">cht</hi> = <hi
+            rendition="#u">št</hi>); ich habe es in den Proben nicht angemerkt. Freilich fehlt dann noch <hi
+            rendition="#u">ș</hi> welches nicht zu entbehren ist. Dies Zeichen gebraucht auch <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5708">de Cihac</persName> und Sie hatten angekündigt de Cihac’s Schreibung folgen zu wollen<note
+            n="5" place="foot"
+              type="editorial">C’est ce qu’annonce en effet G. Paris dans le compte rendu qu’il donne du <hi
+              rendition="#i">Dictionnaire</hi> de Cihac: «Le système orthographique de M. de C. nous paraît très-bon, et c’est celui que nous adopterons sans doute dans la Romania» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7701">G. Paris 1872b</ref>
+            </bibl>). H. Schuchardt avait publié un compte rendu plus précis et plus critique du <hi
+              rendition="#i">Dictionnaire</hi> que celui de G. Paris, dans le <hi
+              rendition="#i">Literarisches Zentralblatt für Deutschland</hi> du 3 décembre 1870 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.34">Schuchardt 1870a</ref>
+
+            </bibl>).</note>. – Ich habe keineswegs behauptet, dass die Rumänen Unrecht gehabt hätten, das kyrillische Alphabet durch das lateinische zu ersetzen; wenn die Japanesen, wie man sagt, ebenfalls mit lat. Lettern schreiben wollen, so werden wir uns darüber freuen, selbst wenn es der alten Schrift gegenüber wesentliche Nachtheile hätte. Was aber die heutige lateinische Schrift der Rumänen anlangt, so ziehe ich ihr die kyrillische <hi
+            rendition="#u">unbedingt</hi> vor; denn sie sagt mir deutlich wie gesprochen wird, während ich das bei jener nie weiss. Übrigens verstehe ich <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">P. Meyer</persName>’s Glosse<note n="6" place="foot" type="editorial">Nous n’avons pas connaissance des épreuves de l’article de Schuchardt avec les remarques de P. Meyer.</note> auf S. 1 nicht. Man dachte in der That schon vor diesem Jahrhundert an’s Lateinische, aber was hat das überhaupt mit meiner Behauptung zu thun, dass einem gewissen Zwecke von verschiedenen Mitteln dasjenige unmöglich am Besten entsprechen könne, über dessen Anwendungsweise man sich ein halbes Jahrhundert hindurch trotz aller Anstrengungen nicht hat einigen können, bis man endlich das allerthörichste Prinzip aufgestellt hat?</p>
+        <p>Meinen Aufsatz über die Modifikationen u.s.w.<note n="7" place="foot"
+              type="editorial">Il est question de cet article (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.507">Schuchardt 1874b</ref>
+            </bibl>).</note> werde ich erst im Laufe der nächsten Wochen <hi
+            rendition="#u">deutsch</hi> einschicken, wenn Sie mir nicht inzwischen weitere Mittheilung <pb facs="#IMG.4"
+            n="4"/> machen. Ich wiederhole Ihnen nämlich, dass darin sehr viele <hi
+            rendition="#u">sprachphysiologische</hi> Ausdrücke vorkommen, die vielleicht im Französischen schwer wiederzugeben sind.; dann bedarf es auch einiger besonderer Zeichen, um Nüancen der Aussprache anzudeuten z. B. eines Längezeichens für Konsonanten d, r, m, wie ā, ē. – Eine Uebersetzung der Einleitung meines <bibl status="draft">
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">V. d. V.</ref>
+          </bibl> in’s Französische würde mir viel Freude machen; ich bin bereit, die nöthigen Änderungen vorzunehmen und werde Ihnen binnen Kurzem – wir stehen jetzt gerade am Schlusse des Semesters, wo es viel zu thun gibt – ausführlicher meine Gedanken darüber mittheilen. </p>
+        <p>Auch mir ist es angenehmer in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.77">Halle</placeName>, als in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.499">Strassburg</placeName> zu sein, obwohl ich mir das Studium der Vogesenmundarten recht anziehend gedacht hatte. Denn wie peinlich muss es sein, auf Antipathien zu stossen, ohne sich bewusst zu sein, durch ein übertriebenes und ungerechtes Vaterlandsgefühl dieselben herauszufordern. Ich persönlich fühle mich aber jetzt von jeder chauvinistischen Regung so frei, wie irgend Jemand, was ich Ihnen deshalb ausdrücklich bemerke, weil im Jahre 1867, als wir uns in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.89">Genf</placeName> sahen, ich voll Vorurtheile und sehr chauvinistisch gesinnt war. Ich bin z.B. durchaus Ihrer Ansicht über das Kutschkelied in der Uebersetzung, und unterschreibe auch das, was <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6337">Hovelacque</persName> über <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5052">Max Müller</persName>’s Antrittsrede in Strassburg sagt; denn dieser hat sich nicht als ein «homme de tact et de goût» bei dieser Gelegenheit bewiesen<note
+            n="8" place="foot"
+              type="editorial">En tant que professeur invité de sanskrit et de grammaire comparée à l’université de Strasbourg au premier semestre de 1872, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6342">Friedrich Max Müller</persName> (1823-1900) avait proféré un discours dont le début est imprégné d’un profond chauvinisme allemand (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8750">Müller 1872</ref>
+
+            </bibl>). Il y consacre de longs passages à la justification de la guerre franco-allemande qui vient de s’achever, à l’esprit et au caractère prétendument allemands de Strasbourg et à l’importance de l’université nouvellement créée dans cette ville. Il était prévisible qu’une telle prise de position ne resterait pas sans réaction en France. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6337">Abel Hovelacque</persName> (1843-1896), alors directeur de la Revue de linguistique et de philologie comparée, qu’il avait fondée, en 1867, avec <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6341">Honoré Chavée</persName> (1815-1877), y répond de manière tranchée, considérant l’idéologie de Müller comme étant incompatible avec les idées du XIXe s., et le fait de prendre les résultats d’une guerre comme base de délimitation des frontières nationales comme la fin de toute aspiration démocratique (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8751">Hovelacque 1872</ref>
+            </bibl>). Voir également <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2333">Desmet 1996</ref>
+            </bibl>, 104-147.</note>. Anderseits bedauere ich freilich, dass sich Hovelacque zu solchen Ausdrücken fortreissen lässt, wie man sie Rev. de ling. V, 324 liest. </p>
+        <p>Verzeihen Sie dass ich den gestern mit französischer Anrede begonnenen Brief deutsch vollendet habe.</p>
+        <closer>
+          <salute>Mit herzlichstem Grusse <lb/> Der Ihrige </salute>
+          <lb/>
+          <signed>H. Schuchardt.</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

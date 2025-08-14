@@ -1,0 +1,367 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Silvio Pieri an Hugo Schuchardt (01-08826)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2404">
+            <forename>Silvio</forename>
+            <surname>Pieri</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12204" type="PID">o:hsa.letter.12204</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-08826</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08826</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2404">
+                <forename>Silvio</forename>
+                <surname>Pieri</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6682" ref="http://sws.geonames.org/3182164">Bergamo</origPlace>
+              <origDate ana="dcterms:created" when="1904-04-14">1904-04-14</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Silvio Pieri und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2404"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12204">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2404" ref="https://viaf.org/viaf/44669792">
+            <forename>Silvio</forename>
+            <surname>Pieri</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6682" key="#GID.1" ref="http://sws.geonames.org/3182164">Bergamo</placeName>
+          <date when="1904-04-14">1904-04-14</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Bergamo</settlement>
+                <name ref="http://geonames.org/3182164" type="fcode:PPLA2">Bergamo</name>
+                <location>
+                  <geo>9.66721,45.69601</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2404" type="context">
+                        Korrespondenz Silvio Pieri - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3084" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Archivio glottologico italiano</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.860" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Italienisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12204" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12204" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12204" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12204" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12204" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Bergamo, 14 aprile ‘904</dateline>
+        <opener>Ill. e caro Signore,</opener>
+        <p> Le accludo una noterella su <hi rend="unknown" rendition="#none">trovare</hi> da <hi rend="unknown"
+            rendition="#none">turbare</hi>, che m’è venuto fatto di scrivere in questi giorni. Ella ne faccia liberamente quell’uso che crede. Ho portato vasi a Samo? … Può essere; giacchè io non conosco che poco di quel molto che Ella ed altri hanno scritto in proposito. In questo caso, Ella mi tenga conto della buona intenzione! Il mio stato psicologico, diciamo cosi, di fronte alla doppia etimologia di <hi
+            rend="unknown" rendition="#none">trovare</hi> ecc. è oggi questo: io non giurerei che <hi rend="unknown"
+            rendition="#none">trovare</hi> sia da <hi rend="unknown"
+            rendition="#none">turbare</hi>, ma giurerei senz’altro che non è da *<hi rend="unknown"
+            rendition="#none">tropare</hi>, certo con un grave <pb facs="#IMG.2" n="2"/>scandalo degl’intransigenti, che hanno dichiarato di non ammettere la revisione del processo! </p>
+        <closer>
+          <salute>Le auguro ogni bene e me Le confermo con riverente affetto</salute>
+          <lb/>
+          <salute>Suo</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2404">Silvio Pieri</persName>
+          </signed>
+        </closer>
+      </div>
+      <div corresp="#L.12204" subtype="original" type="appendix" xml:lang="de">
+        <pb facs="#IMG.3" n="3"/>
+        <p>Per trovare ecc. da turbare. </p>
+        <p>Una delle obiezioni più gravi opposte all’etimologia del <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1394">Diez</persName>
+          <note n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3726">Diez, Friedrich (1853). <hi
+                  rend="unknown" rendition="#none">Etymologisches Wörterbuch der romanischen Sprachen</hi>. Bonn: Weber.</ref>
+            </bibl>
+          </note> e dello <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+Schuchardt</persName>
+          <note n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.777">Schuchardt, Hugo (1903). <hi
+                  rend="unknown" rendition="#none">Trouver (zu Romania XXXI, 625-630)</hi>. In: <hi rend="unknown" rendition="#none">Zeitschrift für romanische Philologie</hi> H. 27, S. 97-101</ref>
+            </bibl>. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.325">Schuchardt, Hugo (1903). <hi
+                  rend="unknown" rendition="#none">Trouver (zweites Stück)</hi>. In: <hi rend="unknown" rendition="#none">Zeitschrift für romanische Philologie</hi> H. 27, S. 101-105</ref>
+            </bibl>. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.264">Schuchardt, Hugo (1904). <hi
+                  rend="unknown" rendition="#none">Trouver (drittes Stück)</hi>. In: <hi rend="unknown" rendition="#none">Zeitschrift für romanische Philologie</hi> H. 28, S. 36-55</ref>
+            </bibl>.</note>, per cui l’it. <hi rend="unknown" rendition="#none">trovare</hi> ecc. procederebbe da <hi
+            rend="unknown"
+            rendition="#none">turbare</hi>, è che questo verbo latino non si continui volgarmente in nessuno dei territorj neolatini. Ora, se non altrove, <hi
+            rend="unknown" rendition="#none">turbare</hi> è anzi ben vivo nell’<ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.860">italiano</ref>. Infatti, null’altro è <hi
+            rend="unknown"
+            rendition="#none">torbo</hi>, torbido, se non il participio tronco o ‘aggettivo participiale’ di <hi
+            rend="unknown" rendition="#none">
+torbare</hi> (con esempio nell’ant. pisano; v. <hi rend="unknown"
+            rendition="#none">Arch. gl.</hi> XII 145<note n="3" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3084">
+              <hi rend="unknown" rendition="#none">Archivio glottologico italiano</hi>
+            </ref> (ed. by G. I. Ascoli).</note>), che al feminile occorre nel sost. <hi rend="unknown"
+            rendition="#none">torba</hi>, piena di fiume o torrente. Giacchè da <hi rend="unknown"
+            rendition="#none">turbĭdus</hi>, che dava il ‘semivolgare’ <hi rend="unknown"
+            rendition="#none">tórbido</hi>, per una compiuta evoluzione saremmo discesi a *<hi rend="unknown"
+            rendition="#none">torbjo</hi> (cfr. <hi rend="unknown"
+            rendition="#none">marcio rancio</hi> ecc.). Del resto, <hi rend="unknown"
+            rendition="#none">intorbare</hi> per ‘far diventare torbo o torbido’ è registrato nei Vocabolarj ed è usitatissimo nella Toscana (cfr. <hi
+            rend="unknown" rendition="#none">Pulci</hi>, Morg.<note n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10044">Pulci, Luigi (1478). <hi
+                  rend="unknown" rendition="#none">
+Morgante</hi>
+              </ref>
+
+            </bibl>.</note> III 51: E morto nel paiuol quasi lo caccia, Tanto che tutta la broda s’intorba); e nel lucch. c’è <hi
+            rend="unknown" rendition="#none">attorbare</hi>, detto del cielo che s’annuvola (p.e. ‘il tempo oggi <hi
+            rend="unknown" rendition="#none">attorba</hi>’), e anche il semplice <hi rend="unknown"
+            rendition="#none">torbare</hi>, come verbo difettivo, al solo passato prossimo (p.e. ‘oggi è <hi
+            rend="unknown" rendition="#none">torbato</hi>’), pur del contermine dialetto <pb facs="#IMG.4"
+            n="4"/> massese (p.e. <hi rend="unknown"
+            rendition="#none">oggi issefá torbato</hi>) onde il nome lucch. e pisano (e massese) <hi rend="unknown"
+            rendition="#none">torbato</hi>, nuvolo (cfr. <hi rend="unknown" rendition="#none">Arch. gl.</hi> XII<note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4127">Ascoli, Graziadio Isaia, ed. (1890-1892). <hi
+                  rend="unknown" rendition="#none">Archivio glottologico italiano XII</hi>. Torino: Ermanno Loescher</ref>
+            </bibl>.</note> 115 e ’45). Un <hi rend="unknown"
+            rendition="#none">
+intorbiare</hi> dall’Ercolano del Varchi, registrato dal Tramates (ma che manca al Gherardini, al Fanf. e al Petrocchi), si dichiarerebbe così da *<hi
+            rend="unknown" rendition="#none">torbjo</hi> (v. sopra) come da *<hi rend="unknown"
+            rendition="#none">inturbulare</hi>; e in quest’ultimo caso avremmo noi *<hi rend="unknown"
+            rendition="#none">turbulare</hi> (onde il frnc. <hi rend="unknown" rendition="#none">troubler</hi> ecc.) rappresentato anche in Toscana. </p>
+        <p>Inoltre, se per la parte fonetica il frnc. <hi rend="unknown" rendition="#none">
+trouver</hi> e lo spgn. <hi
+            rend="unknown" rendition="#none">trobar</hi> in quanto da *<hi rend="unknown"
+            rendition="#none">tropare</hi> sarebbero in perfetta regola; l’it. <hi rend="unknown"
+            rendition="#none">trovare</hi> invece, rispetto alla sua esplosiva tra vocali, si concilia molto meglio, a dir poco, con <hi
+            rend="unknown" rendition="#none">turbare</hi> che con *<hi rend="unknown"
+            rendition="#none">tropare</hi>; ciò che oggi, credo, non si potrà facilmente mettere in dubbio (v. <hi
+            rend="unknown" rendition="#none">Arch. gl.</hi> XV<note n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4138">Ascoli, Graziadio Isaia, ed. (1901). Archivio glottologico italiano XV. Torino: Ermanno Loescher.</ref>
+            </bibl>
+          </note> 369 ss., e in ispecie: 383 ss.). </p>
+        <closer>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2404">Silvio Pieri</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

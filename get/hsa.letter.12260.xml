@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Johann Heinrich Schaellibaum an Hugo Schuchardt (01-09998)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2610">
+            <forename>Johann Heinrich</forename>
+            <surname>Schaellibaum</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12260" type="PID">o:hsa.letter.12260</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-09998</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">09998</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2610">
+                <forename>Johann Heinrich</forename>
+                <surname>Schaellibaum</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6377" ref="http://sws.geonames.org/2661169">Chur</origPlace>
+              <origDate ana="dcterms:created" when="1873-09-14">1873-09-14</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Johann Heinrich Schaellibaum und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2610"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12260">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2610" ref="https://viaf.org/viaf/1163145857143422922971">
+            <forename>Johann Heinrich</forename>
+            <surname>Schaellibaum</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6377" key="#GID.1" ref="http://sws.geonames.org/2661169">Chur</placeName>
+          <date when="1873-09-14">1873-09-14</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Switzerland</country>
+                <settlement>Chur</settlement>
+                <name ref="http://geonames.org/2661169" type="fcode:PPLA">Chur</name>
+                <location>
+                  <geo>9.53287,46.84986</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2610" type="context">
+                        Korrespondenz Johann Heinrich Schaellibaum - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12260" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12260" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12260" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12260" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <opener> Geehrtester Herr,</opener>
+        <p> Es ist mir nicht möglich gewesen Ihr Schreiben früher zu beantworten, weil ich erst gestern Abend Ihren Wunsch der hiesig. Erziehungsbehörde vorlegen konnte. </p>
+
+        <p>Ich erhielt folgenden Bescheid. Sogerne man einem hervorragenden Gelehrten willfahren, müsse man dennoch, um nicht einen Präcedenzfall zu schaffen, an der Bestimmung des Reglements festhalten, welches das Ausleihen von Manuscr. untersage. Für den Fall jedoch, daß Sie einige Tage in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6377">Chur</placeName> zu brächten, sei mir gestattet Ihnen aus der Bibl. was Sie wünschen, auszuhändigen um es nicht im Locale d. Bibl., sondern in dem Gasthofe, wo Sie logiren würden, benutzen zu können. </p>
+        <p>Daß in Disentis viel für Sie zu holen sei, bezweifle ich entschieden. Ich kenne d. Abt daselbst, auch insofern daß er sich um romanische Literatur wenig kümmert. Wenigstens hat er mich keiner Antwort gewürdigt, als ich ihn im Interesse d. hiesig. Bibl. wegen romanisch. Büchern in einem höflichen Schreiben anging. Der Student der in Disentis copirte, ist ohne Zweifel ein Schüler unserer Anstalt, und wenn er etwas auftreibt das der Mühe werth ist, werde ich es copiren lassen. </p>
+        <p>Von Ausgaben in speciellen oberländ. Dialecten weiß ich gar nichts; ich denke alle dortigen Drucke haben sich an den „katholischen“ überlieferten Dialect gehalten. </p>
+        <p>Der Herr Muth<note n="1" place="foot" type="editorial">Nicht identifiziert; keine Korresponden in HSA.</note> ist noch nicht hier eingetroffen. Ich werde mit ihm von der Sache sprechen, &amp;amp; wenn von ihm etwas zu hoffen ist, werden Sie es durch ihn selbst oder durch mich erfahren. </p>
+        <p>Was Filisur &amp;amp; Bergün<note n="2" place="foot"
+              type="editorial">Bergün Filisur ist der Name einer politischen Gemeinde in der Region Albula, Kanton Graubünden, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6003"> Schweiz</placeName>.</note> angeht, so weist H. Bühler den dortigen Dialekten eine Mittelstellung an<note
+            n="3" place="foot"
+            type="editorial">Nicht identifiziert.</note>. Übrigens hat aber niemand hier vor <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1056">Ascoli</persName> die Differenzen &amp;amp; charakterist. Eigenthümlichkeiten der Dialekte mit der nöthigen Schärfe &amp;amp; Genauigkeit aufgesucht &amp;amp; festgestellt. </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p> Über das <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2345"> Pallioppi</persName> Wörterbuch berichten Sie nichts sehr Erfreuliches.<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10177">Emil Pallioppi, <hi rend="unknown" rendition="#none">Wörterbuch der romanischen Mundarten des Ober- und Unterengadins, des Münsterthals, von Bergün und Filsur mit besonderer Berücksichtigung der oberengadinischen Mundart, Deutsch-Romanisch</hi>, Samaden: Tanner, 1902</ref>
+
+            </bibl>. Das Wörterbuch ist aber erst viele Jahre später erschienen.</note> Es ist rein nicht daran zu denken, daß der Sohn Pallioppi irgend etwas befriedigendes leisten könne. Sein Vater hatte vor Zeiten in unserer Schule das Gymnasium besucht, dann Jura studirt; erst später, da es mit der Praxis nicht recht gehen wollte, warf er sich auf das Romanische &amp;amp; wandte offenbar viel Zeit, Mühe &amp;amp; Geld auf. Aber ihm fehlte eine rechte linguistische Vorbereitung, die durch sein ganz isolirt bleibendes Arbeiten nicht ersetzt wurde. Er mußte nothwendig auf allerlei Abwege gerathen, &amp;amp; fremden Rath suchte er weder noch nahm er ihn an. Man könnte daher mit Bestimmtheit erwarten, daß seiner Arbeit viele Mängel anhaften würden. Die sprachliche Vorbildung des Sohnes dagegen ist bis jetzt eine so geringe, daß man bei ihm nicht einmal eine irgend klare Vorstellung von der Arbeit voraussetzen darf, die er, wie Sie sagen, auf s. Schultern nehmen will. Ihren Vorschlag finde ich gut, ich zweifle nur ob es mit der Ausführung so leicht gehen wird. Angenommen, das Manuscr. gehöre der Bibliothek – woher aber die Männer nehmen, die sich zur Vollendung &amp;amp; Vervollständigung d. Werkes vereinigen &amp;amp; wirklich etwas leisten sollen? Und was mit Aufträgen an Geistliche &amp;amp; Lehrer &amp;amp; a. herauskommt, habe ich selbst erfahren wo es sich um die hiesigen deutschen Dialekte oder um Sammlung der Ortsnamen handelte. Am meisten könnte H Bühler<note
+            n="5" place="foot" type="editorial">Nicht identifiziert.</note> thun, der als Lehrer der Kantonssch. Schüler aus allen romanisch. Landestheilen zur Disposition hat; ich mahne ihn auch schon lange, dieses Sammlergeschäft an die Hand zu nehmen – aber er ist schon durch d. Schule sehr beschäftigt. </p>
+        <p>Über die Bauart im Engadin weiß ich für jetzt Ihnen nichts nachzuweisen. </p>
+
+        <p> Über die Zeit in welcher das Romanische in einzelnen Thälern verdrängt ward, bestehen Vermuthungen aber nicht urkundliche Beweise; die Beschaffenheit des <ref target="https://gams.uni-graz.at/o:hsa.languages#L.667">Deutschen</ref> wie es jetzt noch da &amp;amp; dort gesprochen wird, läßt etwelche Muthmaßungen zu. </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p>Die letzte Volkszählung fand [Lücke] statt. (Um heut Abend den Brief zur Post geben zu können, muß ich obige Lücke unausgefüllt lassen). </p>
+        <p>Die Daten seit wann das Deutsche in roman. Schulen gelehrt wird, habe ich aber jetzt nicht zur Hand. So kann ich augenblicklich nicht sagen, wann der evangelische Schulverein gegründet ward, mit welchem der Aufschwung d. Schulwesens in den reformirten Gemeinden begann, welchem dann ein katholischer Schulverein folgte, bis dann endlich eine staatliche Behörde, der Erziehungsrath die Leitung des Schulwesens übernahm. </p>
+        <p>Die Verdrängung des Romanischen geht an einzelnen Stellen rasch vor sich, namentlich in Dörfern an den Straßen. Dagegen möchte ich darüber keine Vermuthung zu äußern wagen, wann auch in einer Menge abgelegener Dörfer &amp;amp; Höfe das Romanische aufhören werde. </p>
+
+        <p>Wegen Filisur &amp;amp; Bergün muß ich noch nachtragen, daß der Gebrauch von oberengadin. Schulbüchern daselbst nur dafür beweisen kann, daß der dortige Dialekt dem Engadin näher steht als dem Oberländer. Die Schulbücher sind von dem Erziehungsrathe herausgegeben &amp;amp; und <hi
+            rend="unknown" rendition="#none">
+nur</hi> in dem Olberländer &amp;amp; Engadiner Dialekt. </p>
+        <closer>
+          <salute>Hochachtungsvoll</salute>
+          <lb/>
+          <salute>Ihr ergeb.</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2610">J. H. Schaellibaum</persName>
+          </signed>
+        </closer>
+        <dateline>Chur 14.IX.73. </dateline>
+        <postscript>
+          <p>(Das gewünschte Wörterb. v. Carisch<note n="6" place="foot" type="editorial">
+              <bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5628">Otto Carisch, <hi rend="unknown" rendition="#none">Taschenwörterbuch der raethoromanischen Sprache in Graubünden</hi>, besonders der Oberländer und Engadiner Dialecte; nach dem Oberländer zusammengestellt und etymologisch geordnet, Chur: Hitz, 1848.</ref>
+              </bibl>
+            </note> erhalten Sie beiliegend.)</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

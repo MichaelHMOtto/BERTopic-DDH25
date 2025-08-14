@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (14-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11721" type="PID">o:hsa.letter.11721</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">14-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 432-433</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created" when="1873-09-03">1873-09-03</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11721">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date when="1873-09-03">1873-09-03</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4157" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">The Academy</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f868" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f869" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f870" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7435" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Pontresina (Engadin)</dateline>
+        <lb/>
+        <dateline>3 sept. 73.</dateline>
+        <opener>Lieber Freund,</opener>
+
+        <p>Es ist mir sehr schmeichelhaft, dass Sie selbst die Uebersetzung meines Aufsatzes uebernehmen wollen, und ich bin auch zufrieden, dass derselbe erst in Nr. 9 erscheint. Aber, ich gestehe es offen, die Theilung desselben in zwei Theile, überrascht mich etwas, da ja das Ganze nur etwa 2 Druckbogen ausmacht und so die einzelnen Belege von den allgemeinen Erörterungen losgerissen werden, wodurch die Sache für diejenigen, die einmal Interesse daran haben, gewiss nicht geniessbarer wird<note
+            n="1" place="foot" type="editorial">Voir l. du 15 août 1873 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11720">GP 13-08566</ref>).</note>.</p>
+
+        <p>Es freut mich sehr, dass wir auf gleichen Bahnen wandeln. Ohne Physiologie ist keine Phonetik, keine Linguistik überhaupt möglich<note
+            n="2" place="foot"
+              type="editorial">C’est précisément ce lien entre physiologie et phonétique que Schuchardt explore dans les articles <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.507">«Phonétique comparée»</ref>
+            </bibl> et <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.583"> «Phonétique française» </ref>
+            </bibl> qu’il publie dans les volumes 3/9 et 3/10 de la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">
+              <hi rendition="#i">Romania</hi>
+
+            </ref>.</note>. Aber welche Probleme bietet sie uns noch! Man darf wohl sagen, das Einfachste ist das Schwierigste. Monsieur Jourdain ist keineswegs so lächerlich, wie er scheint, wenn er sich über die Bildung der Laute verwundert<note
+            n="3" place="foot" type="editorial">Référence à l’acte II, scène 5 du <hi
+            rendition="#i">Bourgeois gentilhomme</hi>.</note>. Besonders macht uns das System der Laute zu schaffen; ich glaube dass eine strenge Klassifikation sich nicht durchführen lässt, sondern dass auch hier, wie überall in der Natur, keine Gegensätze, sondern Übergänge, Abstufungen bestehen. Es hat mich darauf vor Allem die Beschaffenheit der <hi
+            rendition="#u">Mediae</hi> geführt, die zwischen den Dauerlauten und den Verschlusslauten eine mittlere Stellung einnehmen. Ich möchte Ihre Aufmerksamkeit auf die Untersuchung der Aussprache der <hi
+            rendition="#u">tenues</hi> im <pb facs="#IMG.2"
+            n="2"/> Franz. lenken. Sie wissen, dass die Deutschen die tenues gern aspiriren, also oft P'ein, T'ugend für Pein, Tugend, sprechen. Allgemein und regelmässig ist es aber nur bei der Gutturaltenuis; <hi
+            rendition="#u">k</hi> und <hi
+            rendition="#u">g</hi> sind auch für die Mitteldeutschen, welche im Sprechen wie im Hören <hi
+            rendition="#u">p</hi> und <hi rendition="#u">b</hi>, <hi rendition="#u">t</hi> und <hi
+            rendition="#u">d</hi> durchaus verwechseln, streng geschieden (ausser vor einem Konsonanten, daher bei uns <hi
+            rendition="#u">kränzen</hi> und <hi
+            rendition="#u">gränzen</hi> gleich lauten). Es gibt aber gewisse Gegenden, in denen die reine Gutturaltenuis gesprochen wird, wie im Slavischen, und die Andern machen den so Redenden sehr mit Unrecht den Vorwurf, dass sie <hi
+            rendition="#u">g</hi> an die Stelle des <hi
+            rendition="#u">k</hi> setzen. Nun ist es aber auffällig, dass so viel ich sehe oder vielmehr höre, auch im Romanischen, die Gutturaltenuis von der Aspiration betroffen wird; daher der Deutsche, der <hi
+            rendition="#u">Bologne</hi> und <hi rendition="#u">Pologne</hi>, <hi rendition="#u">doit</hi> und <hi
+            rendition="#u">toit</hi> verwechselt, doch <hi rendition="#u">coûter</hi> und <hi
+            rendition="#u">goûter</hi> meistens nicht verwechseln wird. Französisch, italienisch sagt man <hi
+            rendition="#u">c'as</hi>, <hi
+            rendition="#u">c'aso</hi>. Indessen habe ich in Italien auch die reine Tenuis gehört. Es würde mir lieb sein, von Ihnen zu hören, ob meine Observation richtig ist und was für Frankreich über dieses Verhältniss zu sagen ist. Wir Deutschen aspiriren auch z; <hi
+            rendition="#u">zu</hi> ist nicht <hi rendition="#u">tsu</hi>, sondern <hi
+            rendition="#u">tshu</hi>. Hierin scheint mir das italienische <hi rendition="#u">z</hi> sich von dem unsern zu unterscheiden.</p>
+
+        <p>Bis zum Druck meiner Abhandlung wird mir noch Manches einfallen, was in derselben anzubringen gewesen wäre und vielleicht noch angebracht werden kann. So sehe ich schon jetzt, <pb
+            facs="#IMG.3" n="3"/> dass zu ital. <hi rendition="#u">intra</hi> (als <hi rendition="#u">in</hi> + <hi
+            rendition="#u">trans</hi> aufgefasst) altfr. <hi
+            rendition="#u">entrais</hi> zu vergleichen ist. Da ich in nächster Zeit mit <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1493">Flechia</persName> zusammentreffen werde, so hoffe ich von ihm noch manche Aufklärung zu erhalten.</p>
+        <p>Wie steht es mit der Bearbeitung der <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8733">Diezschen Grammatik</ref>
+          <note n="4" place="foot" type="editorial">Traduction de la troisième édition de la <hi
+              rendition="#i">Grammatik</hi> de Diez (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8733">1870-1872</ref>
+            </bibl>) par G. Paris, avec la collaboration d’<persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1190">A. Brachet</persName> pour le premier volume et celle d’A. Morel-Fatio pour les deux suivants (Diez <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1976">1874a</ref>
+            </bibl>, <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1975">1874b</ref>
+            </bibl>, <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1974">1876</ref>
+            </bibl>). Voir aussi Bähler (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1504">2004</ref>
+
+            </bibl>, 103-105).</note>? Das erste Heft habe ich angekündigt gefunden; aber bei meiner Abreise von Halle war es noch nicht im Buchhandel. – Von Januar 1874 an habe ich für die «<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4157">Academy</ref>»<note n="5" place="foot" type="editorial">
+            <hi
+              rendition="#i">The Academy: A Monthly Record of Literature, Learnig, Science, and Art</hi> est une revue hebdomadaire fondée en 1869 à Londres par Charles Appleton. Malgré cette annonce, confirmée par une lettre à <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1352">Alessandro d’Ancona</persName> datée du 22 décembre 1873 (<ref target="https://gams.uni-graz.at/o:hsa.letter.3301">HSA 14_HS_ADA_08</ref>), il faut attendre 1885 pour voir paraître une recension de la plume de Schuchardt dans cet organe.</note> die Besprechung sämmtlicher Erscheinungen auf dem Gebiete der romanischen Philologie übernommen.</p>
+        <p>Werden meine Bemerkungen über jene rumänische Hds. aus dem 17. Jhdt. in den Misc. der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref> noch Platz finden<note n="6"
+            place="foot" type="editorial">Aucune notice au sujet d’un tel manuscrit n’a paru dans la <hi rendition="#i">Romania</hi>.</note>?</p>
+        <p>Ich wünsche keine <hi rendition="#u">Sonderabzüge</hi> von dem was ich in die Romania schreibe, sondern nur einige Exemplare von den Bogen, welche die Artikel enthalten. Übrigens hatte ich schon bei Gelegenheit meines Artikels über rumänische Orthographie erklärt, dass ich, wenn so es die Sitte der Romania sei, die Kosten für diese Nummern tragen würde.</p>
+        <closer>
+          <salute>Meine herzlichsten Grüsse!</salute>
+          <lb/>
+          <signed>Ihr Hugo Schuchardt</signed>
+        </closer>
+        <postscript>
+          <p>bis Mitte Oktober bin ich erst in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5831">Pontresina</placeName>
+            <note n="7" place="foot"
+                type="editorial">Schuchardt passe six semaines en Engadine, à Pontresina (voir l. du 3 septembre 1873, <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11721">HS 14-24456</ref>) entre les mois de septembre et octobre 1874.</note> (p. r.), später in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6218">
+              <hi rendition="#u">Dogliani</hi>
+            </placeName> Piémont (bei <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1287">Dr. Cerri</persName>).</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

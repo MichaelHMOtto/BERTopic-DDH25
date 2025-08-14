@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Richard Greeff an Hugo Schuchardt (02-03939)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1639">
+            <forename>Richard</forename>
+            <surname>Greeff</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11463" type="PID">o:hsa.letter.11463</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-03939</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">03939</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1639">
+                <forename>Richard</forename>
+                <surname>Greeff</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="8" unit="pages">8 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.287" ref="http://sws.geonames.org/2873759">Marburg</origPlace>
+              <origDate ana="dcterms:created" when="1882-03-15">1882-03-15</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2022">2022</date>
+          <title>Die Korrespondenz zwischen Richard Greeff und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1639"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11463">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1639" ref="https://viaf.org/viaf/232273847">
+            <forename>Richard</forename>
+            <surname>Greeff</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.287" key="#GID.1" ref="http://sws.geonames.org/2873759">Marburg</placeName>
+          <date when="1882-03-15">1882-03-15</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Marburg</settlement>
+                <name ref="http://geonames.org/2873759" type="fcode:PPLA3">Marburg</name>
+                <location>
+                  <geo>8.77069,50.80904</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1639" type="context">
+                        Korrespondenz Richard Greeff - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.844" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Portugiesisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11463" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11463" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.287">Marburg a. d. Lahn</placeName>
+          <lb/> d. 15. März 1882.<lb/>
+        </dateline>
+        <opener>Geehrter Herr College!</opener>
+
+        <p>Ich war in den letzten Tagen durch allerlei Arbeiten so in Anspruch genommen, daß ich zu meinem Bedauern erst jetzt dazu komme Ihren werthen Brief vom 7. d. M. zu beantworten und Sie zugleicherzeit um Entschuldigung zu bitten daß ich bisher auch nicht im Stande war die in Ihrem ersten Briefe <pb
+            facs="#IMG.2" n="2"/> vom 21. Dez. v. J. ausgesprochenen Wünsche bezüglich der <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5875">S. Thomé</placeName>-Negersprache zu erfüllen. Ich habe nach Empfang Ihres Briefes alsbald an einen meiner Freunde in S. Thomé geschrieben, von dem ich weiß, daß er der S. Thomé-Sprache mächtig ist und ihn um genauere Auskunft und Sprach-Proben gebeten, bis jetzt aber hierauf, ebenso wie auf manche andere Nachricht, der ich mit Verlangen entgegensah, vergeblich gewartet. Hoffentlich werde ich mit der nächsten Post Nachricht erhalten, die Ihnen dann, für den Fall sie, wie ich hoffe, auch über <pb
+            facs="#IMG.3" n="3"/> die dortige Negersprache Auskunft erhält<note n="1" place="foot"
+            type="editorial">Gem. „enthält“.</note>, sofort zugehen soll. Ich selbst hatte während meiner Anwesenheit auf S. Thomé keine Veranlassung genauere Erkundigungen über dieses seltsame Idiom einzuziehen und habe durch gelegentliche Äußerungen soviel gehört, daß dasselbe zum größten Theil der <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.844">portugiesischen Sprache</ref> entstammt, die seit der Besitznahme der Insel durch die Portugiesen gegen Ende des 15. Jahrhunderts in der Colonie die herrschende war. In der zweiten Hälfte des 16. Jahrhunderts wurde die Insel von französischen Corsaren überfallen, die hier arge Verwüstungen <pb
+            facs="#IMG.4"
+            n="4"/> anrichteten, und eine Zeitlang sich behaupteten; später nahmen auch die Holländer in ähnlicher Weise die Insel vorübergehend in Besitz. Von Beiden sind Sprach-Spuren zurückgeblieben. Möglich, daß auch seitens der Angolanes-Neger, ein eigenthümlicher Negerstamm, der die Küste der Südecke von S. Thomé bewohnt, woselbst er sich gegen Ende des 16. Jahrhunderts (1574) in Folge eines an dieser Küste eingetretenen Schiffbruches eines Sklavenschiffes von Angola angesiedelt hatte und seitdem mit den Colonisten im Nordosten der Insel vielfach in feindlicher <pb
+            facs="#IMG.5"
+            n="5"/> und später auch freundschaftlicher Verbindung gestanden hat, anderseits aber durch den seit Jahrhunderten fortdauernden Import von Negern aus den Küstengebieten von Westafrika namentlich aber aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.567">Angola</placeName>. Durch alle diese Beimischungen scheint das Portugiesische in der S. Thomé-Sprache so in den Hintergrund getreten oder verdunkelt zu sein, daß die Portugiesen selbst ohne einige Kenntniß des Idioms dasselbe nicht verstehen, vielleicht auch dadurch, daß die ursprünglichen Formen vielfach verändert sind oder noch mehr durch den Mangel derselben, da eine eigentliche Flexion gar nicht bestehen sondern Alles durch den Infinitiv ausgedrückt werden soll. Jedenfalls scheint <pb
+            facs="#IMG.6"
+            n="6"/> das genaue Studium des merkwürdigen Idioms der Sprachforschung ein reiches und interessantes Feld zu bieten. Ich werde in diesen Tagen noch einmal nach S. Thomé schreiben und noch einmal eindringlich um Auskunft und namentlich Sprach-Proben bitten und Ihnen sobald mir Nachricht zukommt Mittheilung darüber machen. Herr <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2735">Costa von S. Thomé</persName>
+          <note n="2" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2735">Manoel João da Silva e Costa</persName> (keine Daten), Director der Filiale der ultramarinen Nationalbank auf S. Thomé. (Von Schuchardt für seine Auskünfte dankbar erwähnt); vgl. HSA 10568-10574. Vgl. auch Katja Ploog. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8362">Le “Negerportugiesisch” de H. Schuchardt et la dynamique des langues</ref>
+            </bibl>. Etudes créoles, <hi rend="unknown"
+            rendition="#none">
+Laboratoire Parole et Langage</hi>, 2015, 33 (2). halshs-01385530. </note> kommt, wie er mir schreibt, wahrscheinlich in der nächsten Zeit selbst nach <placeName>
+Deutschland</placeName> um seine Familie zu besuchen und wird Ihnen dann auch wohl Manches übermitteln können. Mir hat er von <placeName>
+Lissabon</placeName> einen Bericht der <pb
+            facs="#IMG.7"
+            n="7"/> Gouverneure über die Capverden und S. Thomé etc zugesandt, der hauptsächlich Nachrichten über Produktion der Inseln sowie namentlich Tabellen über Export und Import etc enthält Ihnen aber wohl bezüglich Ihrer ethnographischen Forschungen wenig Brauchbares bieten möchte. Ich bin übrigens gerne bereit Ihnen diese Berichte, die ich freilich augenblicklich selbst benutze, zuzusenden. Vorläufig erlaube ich mir mit der Bitte um gelegentliche Rücksendung zwei Bücher über 
+Nbunda-Sprache, die mir in S. Thomé von einem meiner Freunde zum Geschenk gemacht wurden, und die mir als wenig bekannt und sehr selten be- <pb
+            facs="#IMG.8"
+            n="8"/> zeichnet wurden, zur gefälligen Durchsicht und zu beliebiger Benutzung zu übersenden. Vielleicht finden Sie Einiges Interessante darin, was Sie für Ihre Forschungen verwerthen können, möglich freilich auch, daß ich Ihnen nur etwas Ihnen längst Bekanntes zuschicke. In diesem Falle bitte ich mich zu entschuldigen.<note
+            n="3" place="foot" type="editorial">Es handelt sich möglicherweise um: Bernardo Maria de Cannecattim, <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8552">
+                <hi rend="unknown" rendition="#none">Diccionario da lingua Bunda ou Angolense explicada na Portugueza e Latina</hi>
+              </ref>
+            </bibl>, Lisboa 1804 bzw. Ders., <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8536">
+                <hi rend="unknown" rendition="#none">Collecção de observações grammaticaes sobre a lingua Bunda, ou Angolense</hi>
+              </ref>
+            </bibl>, Lisboa: Impressão regia, 1805.</note>
+        </p>
+        <closer>
+          <salute>Mit bester Empfehlung<lb/> Ihr ganz ergebener<lb/>
+          </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1639">R. Greeff</persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Darf ich bitten mir mit einem Worte die richtige Ankunft der beiden Bücher anzuzeigen.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

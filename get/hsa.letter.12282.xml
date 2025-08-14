@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Karl Schriefl an Hugo Schuchardt (03-10195)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2670">
+            <forename>Karl</forename>
+            <surname>Schriefl</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12282" type="PID">o:hsa.letter.12282</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">03-10195</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10195</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2670">
+                <forename>Karl</forename>
+                <surname>Schriefl</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="5" unit="pages">5 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6735" ref="http://sws.geonames.org/3191401">Maria Rast</origPlace>
+              <origDate ana="dcterms:created" when="1917-07-07">1917-07-07</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Karl Schriefl und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2670"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12282">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2670">
+            <forename>Karl</forename>
+            <surname>Schriefl</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6735" key="#GID.1" ref="http://sws.geonames.org/3191401">Maria Rast</placeName>
+          <date when="1917-07-07">1917-07-07</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Slovenia</country>
+                <settlement>Ruše</settlement>
+                <name ref="http://geonames.org/3191401" type="fcode:PPLA">Ruše</name>
+                <location>
+                  <geo>15.51583,46.53944</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2670" type="context">
+                        Korrespondenz Karl Schriefl - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.126" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Arabisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.863" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romanische Sprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.779" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Spanisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.4886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Serbisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.124" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Semitische Sprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12282" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12282" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12282" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12282" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12282" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12282" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <opener>S. g. Herr Hofrat!</opener>
+
+        <p> Erst heute komme ich dazu, meinen besten Dank auszusprechen für die Übersendung Ihrer interessanten Studie über die „Milz“<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.49">
+Schuchardt, <hi rend="unknown" rendition="#none">Zu den romanischen Benennungen der Milz</hi>. (Schuchardt-Werk Nr.694).</ref>
+            </bibl>
+          </note>, an der wie immer die Art der Behandlung fesselt. Ich möchte meinem Interesse auch durch einige Bemerkungen Ausdruck geben. </p>
+        <p>Was zunächst die Ableitung von *nuca „Nacken“ aus <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.126">arab.</ref> nůhā „Nacken“ betrifft, lehnen Herr Hofrat diese ab, soviel ich sehe: 1.) weil der Übertritt aus dem einen Sprachkreis in den andern nur schwer vorzustellen ist – diesem Punkte legen Herr Hofrat jedoch nur geringes Gewicht bei (p. 160); hauptsächlich aber (p. 162/163), weil 2.) der Bedeutungsübergang schwer verständlich und 3.) das Wort altertümlich ist. Ich möchte da nur auf eine Möglichkeit hinweisen, die allen 3 Punkten genügen könnte. Wenn nämlich das Wort zunächst der <hi
+            rend="unknown"
+            rendition="#none">Jäger</hi>sprache entstammte? Die Jagdwissenschaft entwickelte sich doch zunächst an orientalischen Vorbildern, Spuren dessen sind gewiß in den europäischen Sprachen nachzuweisen. Unser „huß!“ z. B. ist doch aller Wahrscheinlichkeit nach arab. [siehe Original!], wenn auch vermutlich der interjektionelle Lautcharakter zur Verbreitung besonders beitrug, ebenso wie bei „kusch!“ = couche. <pb
+            facs="#IMG.2"
+            n="2"/> Eine solche Annahme würde nun zunächst den Bedeutungswandel verständlicher machen. Für den Jäger hat nämlich <hi
+            rend="unknown"
+            rendition="#none">eine</hi> Stelle des Rückenmarks eine überragende Bedeutung, dessen oberstes Ende, die sogenannte „Brücke“. Hier erfolgt sicherer Tod, hier gibt man gewöhnlich den „Fang“, hier kann ein geschickter Streifschuß das Tier lähmen und dadurch sogar lebend in die Gewalt des Jägers bringen. Dem gegenüber ist für den Schützen, oder Jäger überhaupt, der ganze übrige Teil des Rückenmarkes eine indifferente Masse. Nun liegt aber die Brust ja unter dem Nacken. Aus der Jägersprache konnte das Wort leicht allgemein volkstümlich werden, und natürlich eben in der Bedeutung, die bei der Jagd in Betracht kam: „die Nervenmasse unter dem Nacken, dann: der Nacken überhaupt“. Dazu stimmt ja dann, daß das Wort in dieser volkstümlichen Bedeutung so spät erst in der Literatur auftaucht, m. W. nicht vor dem 16. Jahrh.; dann aber, glaube ich, ziemlich gleichzeitig in mehreren <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.863">romanischen Sprachen</ref>, was einen Zusammenhang vermuten läßt und daher <hi
+            rend="unknown"
+            rendition="#none">gegen</hi> einen volkstümlichen Ursprung spricht. Denn warum sollte ein solang im Verborgenen lebendes Wort auf einmal an den <hi
+            rend="unknown" rendition="#none">verschiedensten</hi> Stellen <hi rend="unknown"
+            rendition="#none">
+übereinstimmend</hi> auftauchen, ohne gegenseitige Beeinflussung. Um ein Modewort könnte es sich in diesem Falle ja nicht handeln, das von Land zu Land verpflanzt wurde und das heimische ersetzte. Wohl aber würde die Internationalität der Jägersprache dies entstehen lassen. – Natürlich handelt es sich hierbei nur um eine Vermutung, die aber <pb
+            facs="#IMG.3" n="3"/> vielleicht aus der Untersuchung der ersten Belege in den romanischen Sprachen, sowie aus der Rolle des Wortes nuhā in der orientalischen Jagdliteratur eine Stütze gewinnen könnte. Dazu fehlen mir jedoch die Quellen. Ich unterbreite daher meine Vermutung Ihnen selbst zur allfälligen Überprüfung. </p>
+
+        <p>Auf S. 161, Anm. 1. steht eine Bemerkung, die ich nicht verstehe. Warum sollte bei Übernahme der Farbenadjektive gerade das Feminin durchdringen? Der <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.779">spanisch</ref> sprechende Araber ist gewiß mit <hi
+            rend="unknown"
+            rendition="#none">seinem</hi> Formensystem vollkommen vertraut, so daß männlich und weiblich in dieser Hinsicht keinen Unterschied machen. Der arabisch sprechende Spanier steht entweder auf demselben Standpunkte, wenn er die fremde Sprache beherrscht; wenn nicht, d. h. sie nur mangelhaft kennt, wird er gewiß nicht ein <hi
+            rend="unknown" rendition="#none">
+System</hi> eigener Art aufbauen, sondern vielmehr <hi rend="unknown"
+            rendition="#none">die</hi> Form vorziehen, die er am häufigsten hört. Das wird aber bald die eine, bald die andere Form sein können, je nach den geläufigen Verbindungen; nur wo sich beide etwa die Wage halten, kann der Einfluß anderer Wörter gleichen Stammes mit ins Gewicht fallen, aber auch hier liegen die Verhältnisse nicht gleich, <hi
+            rend="unknown"
+            rendition="#none">nicht immer</hi> weisen die präfixlosen Formen gegenüber den präfigierten die stärkere Anziehungskraft auf. Es scheint mir also hier von <hi
+            rend="unknown" rendition="#none">einem</hi> Falle kein Schluß auf einen <hi rend="unknown"
+            rendition="#none">anderen</hi> möglich. – Im übrigen ist amarillo von amrah unmöglich. Vielleicht aber gehört es zu a<hi
+            rend="unknown" rendition="#none">h</hi>mar „rot“? oder direkt zur Ableitung a<hi rend="unknown"
+            rendition="#none">h</hi>marijjů? Der Schwund des <hi rend="unknown"
+            rendition="#none">
+h</hi> ist Regel, bleibt also die Bedeutungsdifferenz (-ijjů durch das lautlich &amp;amp; begrifflich nahestehende -illo erfaßt). Diese ist aber vielleicht nicht so groß als sie aussieht; „rot“ und „gelb“ stehen sich nicht nur sonst nahe, außerdem scheint auch arab. a<hi
+            rend="unknown"
+            rendition="#none">h</hi>mar eine „gelbrote“ Schattierung zu bedeuten, wir doch das Gold und der Safran so bezeichnet. Welche Anwendung findet a<hi
+            rend="unknown" rendition="#none">h</hi>mar (a<hi rend="unknown" rendition="#none">h</hi>mari) speziell im nordafrikan. Arabisch? </p>
+
+        <p>Über die „Kalbsvögele“ glaube ich einige Auskunft geben zu können. Dieses Gericht ist in meiner Familie, wie auch in der meiner Frau <hi
+            rend="unknown"
+            rendition="#none">
+alt</hi>hergebracht, beide stammen aber aus Kärnten. Desgleichen ist die Speise, wie ich weiß, in Südtirol verbreitet, und aus Ihrem Aufsatze ersehe ich, auch in der <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6003">
+Schweiz</placeName>; in der Steiermark ist sie trotz Prato (??) <hi
+            rend="unknown" rendition="#none">wenig</hi> bekannt, sie ist hier gewiß <hi rend="unknown"
+            rendition="#none">nicht</hi> altertümlich. Demnach scheint die „Heimat“ dieses Leckerbissens rings um <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italien</placeName> zu liegen und das legt einen anderen Zusammenhang nahe. In Italien werden heute noch, auch im Görzischen und Istrischen, kleine Vögelchen, z. B. auch Spatzen, <pb
+            facs="#IMG.4"
+            n="4"/> in der Weise bereitet, daß mehrere an einen Rost gesteckt werden und zwar mehrere Roste übereinander (es gab – es gibt noch? – eigene Töpfe dafür mit einstellbaren Rosten, doch geschieht es auch am offenen Herde), dann überlegt man sie mit Speck, der entweder <hi
+            rend="unknown"
+            rendition="#none">um</hi> die Tiere herumgelegt oder auch in ganzen Lagen zwischen die Tiere geschichtet wird, und außerdem kommt noch je eine Lage wohlriechender Kräuter dazu, wie sie sonst als Füllsel dienen, z. B. Majoran u. ä. Durch das Abträufeln des Fettes über Speck, Kräuterschicht, Vögel und von einer Lage zur andern erhält das Gericht einen tatsächlich höchst wohlschmeckenden Charakter – entschuldigen Sie diese Beschreibung in der jetzigen speck- und fettlosen Zeit. – Dieses Gericht hat mein Vater noch häufig in seinem Elternhause gegessen; meine Großmutter war nämlich eine geborene Italienerin. Eben dort gab es aber auch noch eine ganz <hi
+            rend="unknown"
+            rendition="#none">gleichartige</hi> Bereitung der „Kalbsvögele“. Man sieht also, daß man in deutschen Landen, wo man kleine Vögel nicht zu essen pflegt, diese durch <hi
+            rend="unknown"
+            rendition="#none">Kalbfleisch</hi> ersetzt hat, das zunächst ganz wie jene bereitet wurde; dann aber mit der Verdrängung des Rosts in der Pfanne gebraten wurde, so daß die <hi
+            rend="unknown" rendition="#none">Schichtung</hi> wegfiel. Aber noch heute weisen <hi rend="unknown"
+            rendition="#none">echte</hi> Kalbsvögele alle <hi rend="unknown"
+            rendition="#none">drei</hi> Bestandteile auf: Das Fleisch, den Speck und die wohlriechenden Kräuter (die beim Auftragen eventuell entfernt werden), und nochheute <hi
+            rend="unknown" rendition="#none">ahmt</hi> die Form des faschierten Kalbfleisches die <hi rend="unknown"
+            rendition="#none">
+Gestalt</hi> eines Vogelkörpers ohne Kopf (und Gliedmaßen) <hi rend="unknown"
+            rendition="#none">nach</hi>. Denn auch die Spatzen u. dgl. werden mit abgeschnittenem Kopfe und meist auch mit abgeschnittenem <hi
+            rend="unknown" rendition="#none">
+Unter</hi>schenkel (der fast kein Fleisch hat) gebraten. Die Herkunft und der Name der „Kalbsvögele“ ist also ganz klar. </p>
+        <p>Die Angabe Murkos<note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2263">Matthias Murko</persName> (1861-1952), österr. Slavist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2263?locale=de">HSA 07609-07634</ref>.</note>, daß man in seiner Heimat<note
+            n="3" place="foot"
+            type="editorial">Tristeldorf (Drstele u. Ptuj) bei Sankt Urban (Untersteiermark).</note> mrena=Milz gebrauche, zweifle ich an<note
+            n="4" place="foot"
+            type="editorial">Gebräulich ist slezena.</note>; vielleicht liegt ein Mißverständnis des <hi rend="unknown"
+            rendition="#none">deutschen Wortes</hi> vor? – <hi rend="unknown"
+            rendition="#none">Niemand</hi> der Herren hier in Maria Rast<note n="5" place="foot"
+            type="editorial">Gebiet der Gemeinde Hainzenberg im Zillertal im österreichischen Bundesland Tirol.</note> kennt diese Bedeutung von mrena und Herr Lehrer Stanek, der aus der pannonischen Windischen Bühel stammt, also <hi
+            rend="unknown"
+            rendition="#none">engerer Landsmann Murkos</hi> ist, sagte mir ausdrücklich, in seiner Heimat hieße die Milz <hi
+            rend="unknown" rendition="#none">nur</hi> sklézen (=slezén<hi rend="unknown"
+            rendition="#none">
+o</hi> des Drautals = schriftspr. slezén<hi rend="unknown"
+            rendition="#none">
+a</hi>). mrena heißt überall nur „Zwerchfell“, sogen. „Netz“; Daher die mrenska pečenka, der „Fisch“, „Netzbraten“, „Jungfernbraten“. Möglicherweise hat Murko gerade das „Netz“ und die „Milz“ vom kulinarischen Standpunkte aus verwechselt; der „Fisch“ und die „Milz“ liegen beide in einem helleren Netze. Wenn Murkos Angabe überhaupt richtig ist, müßte hierauf die Übertragung beruhen. – Die Herleitung mrena ˂ membrana erklärt das e nicht; mrena ist ein südslavischer Fischname; <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.4886">serbisch</ref> mrena=Barbe. Darf man dabei an das eben erwähnte „Fisch“= „Netzbraten“ denken und beide mrena mit einander verbinden? Ist die Form vranka wirklich bei Plet. gegeben (den ich hier nicht einsehen kann)?<note
+            n="6" place="foot"
+            type="editorial">Nicht identifziert.</note> oder Druck- oder Schreibfehler für vránca ˂ uranica? Die volkstümliche Form (das Wort ist Krainisch) ist übrigens, wie man mir mittheilt, bránca. Nun Nennt Jan.<note
+            n="7" place="foot" type="editorial">
+
+            <persName>
+
+Anton Janezic</persName> (1826-1869) slowen. Philologe aus Kärnten.</note> branica = „kleine Egge“ und „<hi
+            rend="unknown"
+            rendition="#none">Zwerchfell</hi>“. Beide Bedeutungen gehören kaum zusammen; ist nun dies branica mit branca, vran(i)ca identisch? Dann hätten wir einen Fall, daß <hi
+            rend="unknown"
+            rendition="#none">ein</hi> Wort = Milz und Zwerchfell (wie in dem oben bezeichneten Falle von mrena). Ferner erhöbe sich dann die <pb
+            facs="#IMG.5" n="5"/> Frage, ob <hi rend="unknown" rendition="#none">vr</hi>- oder <hi rend="unknown"
+            rendition="#none">br</hi>- im Anlaut das <hi rend="unknown"
+            rendition="#none">Ursprüngliche</hi> ist, was <hi rend="unknown"
+            rendition="#none">
+rein phonetisch</hi> nicht entschieden werden kann. Davon hänge dann auch die Ableitung des Wortes ab, ob <hi
+            rend="unknown"
+            rendition="#none">vran</hi> „schwarz“ wirklich zugrunde liegt, oder ein anderes Wort (membrana käme <hi
+            rend="unknown" rendition="#none">hier</hi> eher in Betracht). Jedenfalls scheinen die Dinge kompliziert zu liegen. </p>
+        <p>Zur Bemerkung über das „Krähenfleisch“ möchte ich auf das kärtner.-steirische <hi rend="unknown" rendition="#none">Krenn</hi>fleisch aufmerksam machen, das mit Krenn kaum etwas zu tun, sondern ein fettes Stück vom Schweinskopf (oder auch Kalbskopf) oder Nacken ist, mürbes, aufgedunsenes Fleisch; also ähnlich der Beschreibung bei Höfer, wenn auch von einer andern Stelle des Tierkörpers). Es wird zwar jetzt häufig mit Essigkren gegessen, was es vielleicht sogar seinem Namen verdanken mag; auch gesülzter Schweinskopf wird häufig mit Kren gegessen. </p>
+        <p>Schließlich erlaube ich mir zur methodischen Tendenz Ihres Artikels ein Beispiel beizufügen: Im <ref target="https://gams.uni-graz.at/o:hsa.languages#L.124">
+Semitischen</ref> ist Rabittu (assyr.) etc. „die Leber“ wohl sicher zu √ kbd, „schwer (sein)“ zu ziehen; danach ist es vielleicht nicht unwahrscheinlich, daß hebr. Kilijā, etc. „Hirn“ zur Wurzel √ql „leicht (sein“ gehört, die sonst zu √qll dreiradikalig gemacht wird und hier sodann zu √gli [bzw. glu] dreiradikalig geworden wäre, was nichts Erstaunliches bietet. Der Wandel q &gt; k, der ja Parallelen hat, könnte gerade durch den Einfluß von hebr. Kabed etc. entstanden sein. </p>
+        <p> Es würde mich sehr freuen, wenn Herr Hofrat von diesen Bemerkungen irgend Gebrauch machen könnten, und spreche ich meinen herzlichen Dank aus als . </p>
+        <closer>
+          <salute> Ihr sehr ergebener &amp;amp; dienstfertiger</salute>
+          <signed>D<hi rendition="#sup">r</hi>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2670"> Karl Schriefl </persName>
+          </signed>
+        </closer>
+        <dateline>derzeit Maria Rast <lb/> (bei Marburg) <lb/>den 7. Juli 1917.</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

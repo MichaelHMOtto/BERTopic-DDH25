@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (110-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11844" type="PID">o:hsa.letter.11844</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">110-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 57-58</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" ref="http://sws.geonames.org/2918752">Gotha</origPlace>
+              <origDate ana="dcterms:created" when="1892-10-06">1892-10-06</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11844">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" key="#GID.1" ref="http://sws.geonames.org/2918752">Gotha</placeName>
+          <date when="1892-10-06">1892-10-06</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Gotha</settlement>
+                <name ref="http://geonames.org/2918752" type="fcode:PPLA3">Gotha</name>
+                <location>
+                  <geo>10.70193,50.94823</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f115" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f116" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f117" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f118" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7531" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.81">Gotha</placeName>, Siebleberstr. 33<note n="1"
+            place="foot" type="editorial"> Adresse de la maison familiale de Schuchardt. Sa mère y réside alors, et Schuchardt s’y rend régulièrement lors de ses vacances.</note>, <lb/> 6 Okt. 92.</dateline>
+        <opener>Lieber Freund,</opener>
+
+        <p> Wollten Sie sich bei mir der Faustsage erinnern, so hätten Sie mich nicht mit Mephisto, sondern mit Faust vergleichen sollen; das wäre gerechter, und auch in Ihrem Sinne richtiger gewesen, da Sie mir doch ein «besseres Ich» zuschreiben. Ich bin nicht der «Geist der <hi
+            rendition="#u">stets</hi> verneint»; ich drücke mich recht positiv aus – ich mäkle und nörgle nicht an Kleinigkeiten herum, ich ziehe die Grundlagen unserer Studien in Betracht – und wenn ich <hi
+            rendition="#u">Pessimist</hi> bin, so bin ich zugleich <hi rendition="#u">Idealist</hi>. Es liegt mir daran gerade von Ihnen nicht missverstanden zu werden, und so schreibe ich Ihnen deutsch um mich nicht etwa in den Ausdrücken zu vergreifen. </p>
+        <p> Was das Zeichen &gt; anlangt, so verstehe ich Sie, was die <hi
+            rendition="#u">mathematische Symbolik</hi> anlangt, auch jetzt nicht; ich sehe nicht ein wie meine Herleitung an sich der von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Verner</persName> nachstehe. Die <hi
+            rendition="#u">Priorität</hi> gestehe ich ihm zu; aber er und seine Freunde haben lange Zeit hindurch einen sehr spärlichen Gebrauch von dem Zeichen gemacht, es hat sich durchaus nicht eingebürgert und der Germanist <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1922">Kluge</persName> hat gewiss nicht aus Opposition es in anderm Sinne gebraucht, sondern eben deshalb weil es so selten vorkam. Wenn ich, wie Sie meinen, das Zeichen «<persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Verner</persName> oder seinen Nachahmern <hi
+            rendition="#u">entlehnt</hi> hätte», so würde ich es – ich wiederhole das – in dem selben Sinne angewandt haben; aber ihre Schriften sind kaum in meine Hände gekommen, wenigstens habe ich auf das &gt; darin nicht geach- <pb
+            facs="#IMG.2"
+            n="2"/> tet, das ist mir zuerst, wenn ich mich recht entsinne, in den Schriften magyarischer Sprachforscher wie <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1227">Budenz</persName>, aufgestossen, allerdings in <hi
+            rendition="#u">ganz</hi> anderer Verwendung – ich habe es nach meinem Gutdünken aufgenommen. Ich würde sehr gern, um der Disciplin willen, nachgeben, obwohl ich in der Wissenschaft nicht viele Vorbilder solcher Nachgiebigkeit entdecke. Aber mir ist das Zeichen &gt; in meinem Sinne so zur andern Natur geworden, dass ich befürchten müsste während langer Zeit Verwechselungen zu begehen. Und ist es dann nicht auch für die Andern einfacher wenn Sie wissen, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> braucht das Zeichen <hi
+            rendition="#u">so</hi>, als wenn Sie sich zu merken zu haben, bis zum 1 Okt. 1892 braucht er es <hi rendition="#u">so</hi>, von da ab im entgegengesetzten Sinn? Bin ich nicht zu klein für eine solche Hedschra-Zeitrechnung? </p>
+        <p> Sie sagen: <hi rendition="#u">en science, il n’y a d’individuel que l’erreur</hi>
+          <note n="2" place="foot" type="editorial"> Voir l. du 27 septembre 1892 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11843">GP 109-08611</ref>). </note>. Dagegen protestire ich mit allem Nachdruck. Von den der Individualität entspringenden Irrthümern und ihrem Ausgleich habe auch ich gesprochen; Ihr Hinweis auf die «persönliche Gleichung der Astronomen»<note
+            n="3" place="foot" type="editorial">Voir l. du 27 septembre 1892 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11843">GP 109-08611</ref>).</note> ist ein sehr passender. Ist denn aber das Individuelle bloss die Quelle von <hi
+            rendition="#u">Irrthümern</hi>? Sie scheinen zu sehr an die Lösung bestimmter Einzelaufgaben gedacht zu haben: an das 2 x 2 u.s.w. Aber schon innerhalb der Mathematik gibt es verschiedene, mehr und weniger «elegante» Weisen auf die eine Aufgabe gelöst werden kann. Und wollen Sie läugnen dass Alles was wirklich gross in der wissenschaftlichen Arbeit eines Mannes ist, mag er <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3158">Renan</persName> oder <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4248">Ihering</persName> oder wie sonst heissen, aus ihrer individuellen Art stammt? Die Auffindung der Probleme, ihre Lösung, ihre Darstellung? Die ganze Auffassung und Anschauung der Wissenschaft, die Erschliessung neuer Bahnen? Wenn ich zu der Ueberzeugung käme dass wir Alle nur durch die Grösse unserer Arbeitskraft unterschieden wären, oder vielmehr dass unsere individuellen Unterschiede von keinem Belang wären, dann würde ich der romanischen Philologie und aller Philologie, <pb
+            facs="#IMG.3"
+            n="3"/> ja allen theoretischen Wissenschaften Valet sagen, ich würde mich einer nützlichen, wie der Bakteriologie oder der Nationalökonomie, zuwenden. Dass ich irgend Etwas hervorbringe das meinen Stempel trägt, das ist <hi
+            rendition="#u">mein</hi> «petit bonheur quotidien»<note n="4" place="foot"
+              type="editorial">Dans sa lettre l. du 27 septembre 1892 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11843">GP 109-08611</ref>), Paris utilise l’expression des «petits bonheurs quotidiens» de toute évidence de manière ironique.</note>; und wer mich nur als Zahn in dem grossen Räderwerk einer Maschine gelten lässt, der ist mehr Mephisto als ich. Unter uns Deutschen wird man dem Individualismus in der Wissenschaft mehr und mehr gerecht. Ein Freund (nicht Romanist, aber Philologe) beglückwünscht mich zu meinem Aufsatz; er sagt: «Alle Wissenschaft muss als Wissenschaft des Einzelnen aufgefasst werden, wie das Gedicht, das Bild, die Komposition; alles wahre wissenschaftliche Schaffen ist ein künstlerisches Thun»<note
+            n="5" place="foot" type="editorial">L’ami en question est <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1671">Wilhelm Gurlitt</persName> (1844-1905), professeur d’archéologie à Graz (lettre à Schuchardt du 19 septembre 1892, <ref
+            target="https://gams.uni-graz.at/o:hsa.letter.2753">HSA 22-04242</ref>).</note>. Dass Sie sich hiergegen ablehnend verhalten, wundert mich um so mehr <hi rendition="#u">da Sie ja doch</hi> mit Ihren «petits bonheurs quotidiens» auch die innere Befriedigung als Werthmesser der wissenschaftlichen Arbeit anzusehen scheinen. </p>
+        <p> Meine <hi rendition="#u">repugnance pour la necessité des lois phonétiques</hi>
+          <note n="6" place="foot" type="editorial"> Voir également l. du 27 septembre 1892 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11843">GP 109-08611</ref>). </note> spielt Ihnen zufolge die Hauptrolle bei meinem philologischen Pessimismus. Gut dass Sie auf diesen Punkt zu sprechen kommen. Wir (es handelt sich ja nicht um mich allein) haben seit Jahren mit einer ganzen Batterie von Argumenten die Bulle welche die Absolutheit<note
+            n="7" place="foot"
+              type="editorial">On retrouve également ce terme – au lieu de «Ausnahmslosigkeit» utilisé jusqu’à présent – dans le compte rendu de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.455">Schuchardt 1892b</ref>
+            </bibl>) de la thèse de Passy (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4779">1890</ref>
+
+            </bibl>).</note> der Lautgesetze verkündet, durchlöchert; Alles ist in Betracht gezogen worden, Deduktion und Induktion, Theorie und Praxis, das Räumliche und das Zeitliche u.s.w. und in jeder Hinsicht ist jener Satz als unhaltbar erwiesen worden. <hi
+            rendition="#u">Wo</hi> wären wir denn widerlegt worden? wo findet sich auch nur der Versuch einer ausführlichen und zusammenhängenden Widerlegung? Ist es wissenschaftlich über alles das zur Tagesordnung überzugehen? Muss das nicht verstimmend, demoralisirend wirken? Ich denke in einer Geschichte der Wissenschaft wird man dereinst kein Kapitel mit grösserem Interesse lesen als das über das <hi rendition="#u">Dogmatische</hi> in der Wissenschaft. </p>
+        <p>
+          <hi rendition="#u">Nous parlons latin</hi>
+          <note n="8" place="foot" type="editorial"> Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.32">1892b</ref>
+
+            </bibl>, 306). </note> – ich selbst pflegte bis vor einiger Zeit mich in entsprechender Weise auszudrücken; ich <pb
+            facs="#IMG.4"
+            n="4"/> bin davon zurückgekommen, weil ich nun überzeugt bin dass die Kontinuität der Entwicklung auch die allerwesentlichste Verschiedenheit nicht ausschliesst. Ich hatte gemeint dass Ihre Ausdrucksweise in demselben Sinne zu deuten wäre wie die meinige, besonders da Ihr Vortrag sich auf die räumliche Kontinuität der Mundarten Frankreichs bezieht<note
+            n="9" place="foot" type="editorial">Référence à «Les parlers de France» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7795">G. Paris, 1888a</ref>
+            </bibl>).</note>. Sobald Ihr: <hi rendition="#u">nous parlons latin</hi> so viel heisst wie: <hi rendition="#u">nous ne parlons pas gaulois</hi>, dann bin ich im Unrecht; ich kann augenblicklich die Sache nicht konstatieren. </p>
+        <p> Glauben Sie nicht dass ich über dem Streben nach dem <hi rendition="#u">Makrokosmus</hi> alle Freude am <hi
+            rendition="#u">Mikrokosmus</hi> verloren habe. Gemindert wird sie allerdings durch die Betrachtung wie eilfertig man heutzutage in Allem ist. Wenn uns <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2180">Meyer-Lübke</persName> durch seine Fruchtbarkeit, seinen Umblick, seinen Einblick überrascht hat, so auch durch seine Unzuverlässigkeit und Nachlässigkeit. Wenn solche nun als Peccadillen gelten, wozu verschwenden wir Andern drei Viertel unserer Zeit an Verification von Formen und Citaten, an Ausfeilung des sprachlichen Ausdrucks? Ich werde Alles was Sie schreiben mit Interesse lesen, zum grossen Theil aber auch ganz individueller Eigenschaften halber; warum lasse ich mich lieber von Ihnen über diesen Rattenkönig<note
+            n="10" place="foot"
+              type="editorial">Jeu de mots sur la terminaison verbale «-ramus», récurrente dans un article de Meyer-Lübke (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7921">1892</ref>
+            </bibl>) sur «La première personne du pluriel en français», publié dans la <hi
+              rendition="#i">Romania</hi> 21/83, auquel G. Paris ajoute un complément pour «revenir sur quelques points accessoires» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7921">Meyer-Lübke et Paris 1892</ref>
+            </bibl>, 351).</note> von <hi
+            rendition="#i">sumus estamus</hi> u.s.w. belehren also von Andern? Während des heissen Augustmonates habe ich mich in den Analogiebildungen der baskischen Konjugation gebadet<note
+            n="11" place="foot"
+              type="editorial"> Schuchardt prépare en ce moment une étude sur le système verbal basque qui deviendra un ouvrage de référence: <hi
+              rendition="#i">Baskische Studien I. Über die Entstehung der Bezugsformen des baskischen Zeitworts</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.88">Schuchardt 1893a</ref>
+            </bibl>). </note>; die sind doch noch weit erlustigender als die der romanischen. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2078">Loth</persName>’s Buch<note n="12" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2078">Joseph Loth</persName> (1847-1823). L’ouvrage en question est <hi
+              rendition="#i">Les mots latins dans les langues brittoniques (gallois, armoricain, cornique). Phonétique et commentaire avec une introduction sur la romanisation de l’île de Bretagne</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5107">Loth 1892</ref>
+
+            </bibl>).</note> habe ich mit Vergnügen gelesen; es ist gut gemacht (einzelne Deutungen sind zu verbessern), aber dient nicht geradezu den geschwundenen Glauben an die ehernen Lautgesetze wieder in den Busen zurückzurufen. Dass auch <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5512">Seelmann</persName> nicht frei von Schuld und Fehle, weiss ich wohl; wie er nur dazu kommt sich (im Jahresbericht) auf die Auffindung der längst bekannten und genannten Quelle von <hi
+            rendition="#u">probai</hi> etwas zu Gute zu thun<note n="13" place="foot" type="editorial">
+            <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8755">Seelmann (1892)</ref>
+            </bibl>.</note>? </p>
+        <p> Ich würde sehr gern in diesem Jahre nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName> gekommen sein; es ging aber schwer besonders da ich jährlich zweimal nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.81">Gotha</placeName> zu meiner (nun 77 jährigen Mutter) reise. Ob wir aber am Kaminfeuer gerade unsere wissenschaftlichen Differenzen hätten ausgleichen können, bezweifle ich: in der Causerie würde ich, ganz abgesehen von der Sprache, Ihnen unfehlbar unterliegen, die schriftliche Auseinandersetzung halte ich hier für das Bessere. Sollte ich über kurz oder lang nach Paris kommen, so werden sich hoffentlich Ihre beiden Margarethen<note
+            n="14" place="foot"
+            type="editorial">Marguerite Savary, née Mahou, seconde épouse de G. Paris, et leur fille, Marguerite 'Griette' Paris.</note> vor dem <hi
+            rendition="#u">Mephisto</hi> der romanischen Philologie nicht fürchten und zugestehen dass <hi rendition="#u">il diavolo non è tanto brutto quanto si dipinge</hi>. </p>
+        <closer>
+          <salute>Herzlichst</salute>
+          <lb/>
+          <signed>Ihr HS.</signed>
+        </closer>
+        <postscript>
+          <p> Die Fortschritte der altfranzösischen Studien bei uns]<note n="15" place="foot"
+              type="editorial">Signe inséré par Schuchardt.</note>. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2264">Mussafia</persName> lässt einen seiner Zuhörer auf altfranzösisch an die Tafel schreiben: der Kaiser sieht seinen Neffen. <hi rendition="#u">Li emperere</hi> … Richtig! «Nun schreiben Sie es neufranzösisch an!» «Herr Hofrath, Neufranzösisch kann ich nicht.» </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

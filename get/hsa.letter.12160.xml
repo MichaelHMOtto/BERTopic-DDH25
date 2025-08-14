@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fritz Paudler an Hugo Schuchardt (02-08683)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">
+            <forename>Fritz</forename>
+            <surname>Paudler</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12160" type="PID">o:hsa.letter.12160</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-08683</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08683</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">
+                <forename>Fritz</forename>
+                <surname>Paudler</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6679" ref="http://sws.geonames.org/3071895">Königswald</origPlace>
+              <origDate ana="dcterms:created" when="1919-07-19">1919-07-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Fritz Paudler und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2357"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12160">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2357" ref="https://viaf.org/viaf/66837506">
+            <forename>Fritz</forename>
+            <surname>Paudler</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6679" key="#GID.1" ref="http://sws.geonames.org/3071895">Königswald</placeName>
+          <date when="1919-07-19">1919-07-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Czechia</country>
+                <settlement>Libouchec</settlement>
+                <name ref="http://geonames.org/3071895" type="fcode:PPL">Libouchec</name>
+                <location>
+                  <geo>14.04071,50.75854</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2357" type="context">
+                        Korrespondenz Fritz Paudler - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4184" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Anthropos</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.851" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Nubische Sprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.202" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Keltische Sprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.759" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kaukasische Sprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12160" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12160" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12160" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12160" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12160" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Königswald a. d.<lb/> Dux = Bod. Bahn,<lb/> 19.VII.1919.</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+
+        <p> Für Drucksache wie Brief vielen herzlichen Dank! Die Drucksache erhielt ich früher, und wenn mir schon die nicht weniger als vier Sonderabdrücke eine köstliche Bescherung waren (den Aufsatz gegen <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2939">Vinson</persName>
+          <note n="1" place="foot" type="editorial">Es gibt mehrere Arbeiten, die hier in Frage kämen; der genaue Titel kann ohne nähere Angaben nicht ermittelt werden.</note> stelle ich anbei Ihrem Wunsch gemäß zurück), so hat mich dann Ihr Brief geradezu beschämt und mir doch natürlich auch überaus wohlgetan. Wie hoch betagt Sie sind, hochgeehrter Herr Professor, war mir bekannt gewesen (umso höher habe ich schon Ihre Karte eingeschätzt), die Bemerkung aber, Sie seien recht krank gewesen, hat mich schmerzlich überrascht; hatte ich doch gerade Ihre außerordentliche Frische bewundert (was ich nun natürlich noch umso mehr tun muß)! Selbstverständlich mute ich Ihnen hiernach noch weniger als von vornherein etwa ein regelmäßiges Schreiben zu; zum Lesen aber darf ich bei dem so großen wissenschaftlichen Interesse und persönlichen Wohlwollen, das Sie mir bezeugt haben, gewiß auch für eine neuerlich ausführliche Antwort auf freundliche Aufnahme rechnen. </p>
+        <p>Ihre <hi rend="unknown"
+            rendition="#none">allgemeinen sprachwissenschaftlichen Anschauungen</hi>, hochgeehrter Herr Professor, waren mir nicht nur nicht unbekannt – ich bin, teils durch eignes Nachdenken, teils direkt durch Ihre Arbeiten, soweit ich sie kannte, zu vielfach ganz ähnlichen Anschauungen gekommen. Grad auch „Baskisch und Hamitisch“ hatte ich schon gelesen<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.393">
+Schuchardt, <hi rend="unknown" rendition="#none">Baskisch und Hamitisch</hi>, Paris: Honoré Champion, 1913.</ref>
+            </bibl>
+          </note> (noch mehr verdanke ich den allgemeinen Ausführungen aus Anlaß des <ref target="https://gams.uni-graz.at/o:hsa.languages#L.851">Nubischen</ref>
+          <note n="3" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.717">Schuchardt, „Zur methodischen Erforschung der Sprachverwandtschaft (Nubisch und Baskisch)“, <hi
+                  rend="unknown" rendition="#none">Revue intern. des études basques</hi> 6, 1912, 267-281.</ref>
+            </bibl>
+          </note> und besonders des Buches von <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1045">
+Aranzadi</persName>
+          <note n="4" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.122">Schuchardt, „Zur gegenwärtigen Lage der baskischen Studien. Einige Bemerkungen aus Anlaß von Telesforo de Aranzadi, Antropologia y Etnologia del País Vasco-navarro“, <hi
+                  rend="unknown" rendition="#none">Anthropos</hi> 6, H. 5, 1911, 941-950.</ref>
+            </bibl>
+          </note>), und Ihre Berliner Abhandlung hatte ich nur <hi rend="unknown"
+            rendition="#none">noch</hi> nicht gelesen. Auf diese macht mich Dr. Koppers<note n="5" place="foot" type="editorial">
+            <persName>
+
+Wilhelm Koppers</persName> (1891-1961), kathol. Priester u. Ethnologe; Redakteur des<ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4184">
+              <hi rend="unknown" rendition="#none">Anthropos</hi>
+
+            </ref>.</note> vom „Anthropos“ nach dem Lesen meines Manuskriptes in dem Sinne aufmerksam, daß sie mir gerade in den Kram passen würde, und seither hatte ich halt noch keine Muße dafür gehabt. Koppers machte jene Bemerkung meines Erinnerns auf meine Stelle von dem „einst so überschätzten, <pb
+            facs="#IMG.2" n="2"/> heut vielleicht unterschätzten Wortschatz“ hier, und gerade an dieser Stelle hätte ich mich gerne noch viel entschiedener ausgedrückt und hatte ich nur wegen der leidigen Prioritäts= bzw. Selbständigkeitsverwahrung (S. 661, Anm.) nichts mehr geändert. </p>
+        <p>Was die <hi rend="unknown"
+            rendition="#none">Nachsetzung des Artikels</hi> betrifft, so habe ich mir selber von vornherein eingewendet, ob nicht vielleicht sie oder der Artikel überhaupt jung ist (habe mir sogar, wenn ich mir das nicht vielleicht erst hinterher einrede, <hi
+            rend="unknown"
+            rendition="#none">das</hi> eingewendet, ob der baskische Artikel nicht vielleicht erst im Zusammenhang mit dem romanischen entstanden ist). Ich möchte nicht erst auf die einzenen Vorkommen eingehn, sondern nur darauf hinweisen, daß ich ja die ganze Sache hauptsächlich als Ausgangspunkt für die Rekonstruktion einer Kulturschicht von Dal-Rasse auf dem <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6096">Balkan</placeName> benützt habe.<note n="6" place="foot" type="editorial">„Dalrasse“, auch „Fälische Rasse“, in der heute als überholt geltenden Rassenkunde eine „Unterrasse“ der Europiden.</note> Wenn die Nachstellung des Artikels etwas damit zu tun hat, wie ich freilich im Grunde des Herzens doch zu spüren glaubte – umso besser! Aber nötig ist das für meine Rekonstruktion nicht. </p>
+        <p>Auf die <hi rend="unknown" rendition="#none">Armut an Lippenlauten</hi> vom <ref target="https://gams.uni-graz.at/o:hsa.languages#L.202">Keltischen</ref> bis zum Hamitischen habe ich aus dem einfachen Grunde hingewiesen, weil sie auffallend zu der schlitzartiken Mundbildung beider Cro-Magnon=Rassen stimmt. </p>
+        <p>Was den <hi rend="unknown"
+            rendition="#none">passivischen Charakter des Transitivs</hi> betrifft, so habe ich den Vorbehalt einer bloßen Konvergenz zwischen <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">Baskisch</ref> und <ref target="https://gams.uni-graz.at/o:hsa.languages#L.759">Kaukasisch</ref> (S. 671) gerade mit Hinblick hierauf gemacht. Wenn es in der Arbeit nicht deutlich genug zum Ausdruck kommt, daß ich dem Schließen aus Übereinstimmungen in den „inneren Sprachformen“ ziemlich skeptisch gegenüberstehe, so tut mir das aufrichtig leid. </p>
+        <p> Ich bin nur allerdings grundsätzlich aufs tiefste überzeugt, daß das <hi rend="unknown"
+            rendition="#none">Rassische</hi> auch im Sprachlichen ein Faktor vom Wert X ist und daß dieser Wert im allgemeinen sehr groß ist; welchen Wert aber das X im einzelnen Fall hat, darüber scheint mir noch recht wenig ausgemacht zu sein, und ich bin mir auch noch gar nicht klar über die <hi
+            rend="unknown"
+            rendition="#none">Methoden</hi> zu seiner Auswertung, wenn ich auch in manchen Punkten – um das köstliche Wort von Gauß zu verwenden – „meine Resultate schon längst habe und nur noch nicht weiß, wie ich zu ihnen kommen soll“<note
+            n="7" place="foot"
+            type="editorial">Das Zitat lautet genau: „Meine Ergebnisse habe ich schon, ich weiß nur noch nicht, auf welchem Wege ich zu ihnen gelangen werde“.</note>. Ich sehe halt eine ganze<pb
+            facs="#IMG.3" n="3"/> Welt von Problemen vor mir und wollte durch die einleitende Veröffentlichung besonders auch möglichst viele andre anregen, und vor allem aber Sprachwissenschaftler, da ich selber auf Jahre hinaus an eine Kette von Antworten und neuen Fragen gefesselt bin, die mir durch die Frage entstanden ist, ob nicht die andre helle Rasse anders hell ist. (Grob gesprochen: </p>
+        <p>Dalisch<note n="8" place="foot"
+            type="editorial">In der „Rassenkunde“ eine europäische Menschenrasse, die als „Unterrasse“ der Europiden eingestuft wurde.</note> grau-gelbblond, nordsich blau-aschblond; „germanisch“ also Mischtyp aus Farben der nordischen Rasse und der dalischen als der vor-nordischen, ureinheimischen Rasse des Germanengebiets, „finnisch“ Mischtypus aus nordischen Farben und mongolischen Formen [Folgerungen inbezug auf die Indogermanenfrage, die Finnenfrage!] …; Anwendung der durch den obigen Unterschied gegebenen Möglichkeit, auch den nur auf die Farben gerichteten Teil der bisherigen Literatur differentialdiagnostisch zu verwerten, darunter vor allem die größten anthropologischen Untersuchungen überhaupt, die mitteleuropäischen Schulkinderfarbenstatistiken<note
+            n="9" place="foot" type="editorial">Nicht klar, was damit genau gemeint ist.</note> ….) </p>
+        <p>Nur erlauben Sie mir, hochgeehrter Herr Professor, noch ein Wort zur <hi rend="unknown"
+            rendition="#none">Pikten</hi>frage! Wie ich aus Ihrer Besprechung von <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2510">
+Rhys</persName>
+          <note n="10" place="foot" type="editorial">Entweder <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.487">Schuchardt, Hugo (1877). <hi
+                  rend="unknown" rendition="#none"> [Rez. von:] Rhys, John, Lectures on Welsh philology</hi>. In: <hi
+                  rend="unknown" rendition="#none">Literarisches Zentralblatt für Deutschland</hi> H. 28, S. 1250-1255</ref>
+            </bibl>, oder <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.573">(1894) <hi rend="unknown" rendition="#none">[Rez. von:] John Rhys, The Rhind Lectures in Archaeology in connection with the Society of Antiquaries of Scotland; The Inscriptions and Language of the Northern Picts</hi>. (Schuchardt-Werk Nr.283)</ref>
+
+            </bibl>.</note>, finden Sie den sprachlichen Stoff der Inschriften viel zu kümmerlich; das entspricht ja grade meinem eigenen Eindruck. (Große Hoffnungen setze ich allerdings hier wie im allgemeinen auf die Ortsnamenforschung; doch ist mir darüber nichts weiter bekannt, und meine eignen ganz vagen Versuche hatte ich bald abbrechen müssen.) Dazu nun noch der zeitliche Unterschied, den nicht Rhys selber betonte, und die räumliche Trennung weiß wie lange, und die Verschiedenheit in der ganzen Geschichte! (Auf diesen äußeren Grund zu Skepsis inbezug auf „äußere Sprachformen“, sowohl gegenüber gar zu schön übereinstimmenden wie gegenüber negativen Befunden, wollte ich mit den Worten von Zimmer [S. 686, Anm.] hindeuten.) Umso fester fühle ich mich da nur auf dem Boden meiner <hi
+            rend="unknown" rendition="#none">anthropologisch-synthetischen</hi> Denkweise und Beweisführung, und ich hoffe, daß auch Sie, hochgeehrter Herr Professor, den Eindruck haben, daß ich mit diesem Beziehn von bisher nicht erklärbaren Sprachen auf bisher nicht ausgeweitete Rassen auf dem rechten Wege bin. </p>
+        <pb facs="#IMG.4" n="4"/>
+
+        <p>Aus Ihrer Besprechgung von Rhys habe ich auch vollends erfahren, wie gründlich ich mich mit dem Hinweis auf <hi
+            rend="unknown"
+            rendition="#none">fita</hi> verhaut habe; umso mehr bin ich Ihnen für die überaus milde Fassung Ihres Tadels verpflichtet.<note
+            n="11" place="foot" type="editorial">Wohl brieflich; eine Rez. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardts</persName> ist nicht nachzuweisen; der briefliche Kontakt scheint nach dem vorliegenden Schreiben eingeschlafen zu sein.</note> Ich gebe auch ohne weiteres zu, daß ich den Ausdruck „ein Kenner wie“ viel zu laicht gebraucht habe; das war halt eine ungeschickte Äußerung meiner durchaus dem Positiven zugewandten, allzu leicht liebenden und lobenden Natur … </p>
+
+        <p>Nun will ich aber schließen. Eine auf Einzelheiten eingehende Antwort erwarte ich nach Ihrer Bemerkung, hochgeehrter Herr Professor, natürlich <hi
+            rend="unknown"
+            rendition="#none">nicht</hi>. Ich glaube aber hoffen zu dürfen, daß Sie mir die Gunst einer <hi
+            rend="unknown" rendition="#none">Besprechung</hi> in der schon am passendsten scheinenden Zeitschrift erweisen werden. Für den Inhalt der Besprechung liegt mir, wie ich ausdrücklich versichern möchte, jede captatio benevolentiae – auch nur auf Unterlassung von Tadel und Zweifel hin – durchaus fern. Es kommt mir nur darauf an, daß die Arbeit in möglichst vielen Zeitschriften überhaupt – wenn auch nur kurz hinweisend – besprochen wird, schon damit das Chaos von Problemen, das ich da aufgerührt, möglichst viele andre anregt, und daß die Arbeit ernst genommen wird; und daß diese letzte Voraussetzung auf Ihre Kritik auch in dem für eine Besprechung aus einer Feder wie der Ihrigen erforderlichen Maße erfüllt ist, das darf ich ja aus dem Bisherigen schließen. </p>
+        <p>Falls Sie, hochgeehrter Herr Professor, die Absicht einer Besprechung haben, wäre ich für Mitteilung davon sehr verbunden; umso mehr erlaube ich mir aber für den Nein=Fall um eine ausdrückliche Verständigung zu bitten, damit ich mir nicht länger vergebliche Hoffnungen mache. </p>
+        <closer>
+          <salute>Jedenfalls verbleibe ich</salute>
+          <lb/>
+          <salute> mit nochmaligem herzlichsten Dank und mit den ehrerbietigsten Wünschen</salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <salute>aufrichtig ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">Fritz Paudler.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

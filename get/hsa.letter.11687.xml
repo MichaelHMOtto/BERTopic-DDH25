@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eduard Krause an Hugo Schuchardt (01-05777)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1956">
+            <forename>Eduard</forename>
+            <surname>Krause</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11687" type="PID">o:hsa.letter.11687</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-05777</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05777</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1956">
+                <forename>Eduard</forename>
+                <surname>Krause</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" ref="http://sws.geonames.org/2950159">Berlin</origPlace>
+              <origDate ana="dcterms:created" when="1900-06-12">1900-06-12</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Eduard Krause und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1956"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11687">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1956" ref="https://viaf.org/viaf/58082946">
+            <forename>Eduard</forename>
+            <surname>Krause</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" key="#GID.1" ref="http://sws.geonames.org/2950159">Berlin</placeName>
+          <date when="1900-06-12">1900-06-12</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Berlin</settlement>
+                <name ref="http://geonames.org/2950159" type="fcode:PPLC">Berlin</name>
+                <location>
+                  <geo>13.41053,52.52437</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1956" type="context">
+                        Korrespondenz Eduard Krause - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.210" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Fischereigeräte</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11687" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11687" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Berlin SW 46. d. 12. Juni 1900</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+        <p>Meine Arbeit über: „Vorgeschichtliche <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.210">Fischerei-Geräthe</ref> und neuere Vergleichsstücke“, welche mein lieber Freund <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5078">
+            <hi rend="unknown" rendition="#none">Heger</hi>
+          </persName>
+          <note n="1" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5078">Franz Heger</persName> (1853-1931), österr. Ethnologe u. Museumsbeamter. Verf. von <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4654">
+                <hi rend="unknown" rendition="#none">Vorgeschichtliche Fischereigeräte und neuere Vergleichsstücke. Eine vergleichende Studie als Beitrag zur Geschichte des Fischereiwesens</hi>, Berlin: Gebrüder Borntraeger, 1904</ref>
+            </bibl>.</note> bei mir als Manuskript sah, ist es leider noch immer.<note n="2" place="foot"
+            type="editorial">Ersch. 1904, Verlag von Gebrüder Borntraeger, Berlin</note> Die Vorarbeit soll in der „Zeitschrift für Fischerei“ erscheinen, dem Organ des Deutschen Fischereivereins. Hier liegen aber noch einige andere größere Arbeiten (Preisschriften), die zunächst gedruckt werden müssen, sodaß ich leider noch warten muß, da ich bei den hohen Kosten wel- <pb
+            facs="#IMG.2" n="2"/> che die 14 Tafeln mit gegen 600 Abbildungen erfordern einen Verleger, welcher die Arbeit als selbständiges Buch erscheinen ließe, nicht finde.</p>
+
+        <p>Ein Theil der Arbeit, und zwar der Fischfang mit der Hand, der Keule, der Schlinge, dem Speer, der Harpune Fischgabel – ist im Jahre 1897/98 im Globus (Globus. Herausgegeb. v. R. Andree, Braunschweig, Viehweg &amp;amp; Sohn)<note
+            n="3" place="foot" type="editorial">Vgl. die Langfassung: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4654">Krause, <hi rend="unknown" rendition="#none">Vorgeschichtliche Fischereigeräte und neuere Vergleichsstücke. Eine vergleichende Studie als Beitrag zur Geschichte des Fischereiwesens</hi>, Berlin: Gebr. Borntraeger, 1904.</ref>
+            </bibl>
+
+          </note> erschienen. Leider besitze ich keine Separata, um sie Ihnen schicken zu können; nur einen Korrektur-Abzug habe ich. Den will ich Ihnen gern zur Durchsicht zusenden, falls Ihnen sonst der <hi
+            rend="unknown"
+            rendition="#none">Globus</hi> nicht zur Verfügung steht. Auch diesen Theil der Arbeit habe ich nachträglich erweitert und die ganze Arbeit ist zu einem Büchlein von etwa 8 Bogen Großoktav angewach- <pb
+            facs="#IMG.3" n="3"/> sen.</p>
+
+        <p>Meine Mittheilung im Fischerei-Verein der Provinz Brandenburg beschränkte sich auf einen kurzen Hinweis auf diese Arbeit unter Vorlage der Zeichnungen. Leider habe ich auch von dort keine Separata erhalten, sodaß ich auch damit nicht dienen kann. Ich werde aber den Vorsitzenden, Kammergerichtsrath <hi
+            rend="unknown" rendition="#none">
+Uhles</hi>
+          <note n="4" place="foot" type="editorial">
+            <persName>Emil Uhles</persName> (1841-1916), Verf. mehrerer ichthyologischer Werke und Beiträger zum <hi
+              rend="unknown" rendition="#none">Archiv für Fischereigeschichte</hi>.</note> hierselbst bitten, mir, wenn möglich noch einige zu schicken, von denen ich dann sehr gern ein Exemplar zur Verfügung stelle.</p>
+        <p>Einiges Material finden Sie vor Allem bei <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1750">
+            <hi rend="unknown" rendition="#none">Otto Herman</hi>
+          </persName>
+          <note n="5" place="foot" type="editorial">Mit <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1750">Otto Hermann</persName> gibt es einen ausführlichen Briefwechsel im HSA: 04615-04665.</note>, Urgeschichtliche Spuren in den Geräthen der ungarischen, volksthümlichen Fische- <pb
+            facs="#IMG.4"
+            n="4"/> rei, Budapest 1885. Fig. 10, dann in den Verhandlungen der Berliner Gesellschaft für Anthropologie, Ethnologie und Urgeschichte, in der <hi
+            rend="unknown" rendition="#none">Brandenburgia</hi>
+          <note n="6" place="foot" type="editorial">
+            <hi rend="unknown"
+            rendition="#none">
+Monatsblatt der Gesellschaft für Heimatkunde und Heimatschutz in der Mark Brandenburg</hi>, Berlin / Brandenburgia ; unter Mitwirkung des Märkischen Museums hrsg. vom Gesellschafts-Vorstande</note>, in dem wissenschaftlichen Bericht über die Internat. Fischerei Ausstellung Berlin 1880<note
+            n="7" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4583">M. Lindeman, <hi rend="unknown" rendition="#none">Amtliche Berichte über die internationale Fischerei-Ausstellung zu Berlin</hi> 1880, Berlin: Parey, 1880, 2 Bde.</ref>
+            </bibl>
+
+          </note> (mit Zeichnungen etc von mir). Die russischen Publicationen sind mir leider noch nicht zugänglich geworden soviel Mühe ich mir gab, sie zu bekommen. Auch Jankos Werk über die magyarische Fischerei<note
+            n="8" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4641">János Jankó, <hi rend="unknown" rendition="#none">Herkunft der magyarischen Fischerei</hi>, Leipzig: Hiersemann, 1900.</ref>
+            </bibl>
+          </note> kenne ich noch nicht. Würden Sie wohl die Güte haben, mir den genauen Titel etc mitzutheilen.</p>
+        <closer>
+          <salute>Zu jeder ferneren Auskunft gern bereit, zeichnet</salute>
+          <lb/>
+          <salute>mit vorzüglicher Hochachtung</salute>
+          <lb/>
+          <salute>ergebenst</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1956">E. Krause</persName>
+            <lb/>Kgl. Conservator.<note n="9" place="foot" type="editorial">Es folgt auf S. 5 u. 6 eine hs. Wiedergabe von „Mitth. der ant. Ges. in Zürich Band XV Heft 7. Pfahlbauten. Von Dr. Ferd. Keller. Sechster Bericht. Zürich 1866.</note>
+          </signed>
+        </closer>
+      </div>
+      <div corresp="#L.11687" subtype="original" type="appendix" xml:lang="de">
+        <pb facs="#IMG.5" n="5"/>
+        <pb facs="#IMG.6" n="6"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

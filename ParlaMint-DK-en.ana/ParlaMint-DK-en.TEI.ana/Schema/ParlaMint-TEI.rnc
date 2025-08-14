@@ -1,0 +1,299 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+
+a:documentation [
+  "RelaxNG XML schema for ParlaMint corpora: schema\x{a}" ~
+  '  for "plain text" corpus component file.'
+]
+include "ParlaMint.rnc"
+
+## Root element of a ParlaMint component file.
+start =
+  
+  ## Obligatory @xml:id.
+  element TEI {
+    id.att >> a:documentation [ "Obligatory @xml:lang." ],
+    attribute xml:lang { lang.val }
+    >> a:documentation [
+         "Obligatory @ana determining what scope this document has."
+       ],
+    attribute ana { anyURIs }
+    >> a:documentation [ "Optional @corresp for MTed corpora." ],
+    corresp.att,
+    teiHeader,
+    text-body
+  }
+# METADATA
+
+## Metadata of the component.
+teiHeader =
+  element teiHeader {
+    global.atts, fileDesc, encodingDesc, profileDesc, revisionDesc?
+  }
+fileDesc =
+  
+  ## File description.
+  element fileDesc {
+    global.atts,
+    titleStmt,
+    editionStmt,
+    extent,
+    publicationStmt,
+    sourceDesc
+  }
+
+## Title statement.
+titleStmt =
+  element titleStmt { title-header+, meeting+, respStmt*, funder* }
+
+## Responsibility statement.
+respStmt =
+  element respStmt {
+    (element persName {
+       global.atts, ref.att, normalized-space.string
+     }+,
+     element resp { lang.att, normalized-space.string }+)+
+  }
+
+## Edition statement.
+editionStmt =
+  element editionStmt {
+    element edition { normalized-space.string }
+  }
+
+## Extent of the document.
+extent =
+  element extent {
+    element measure {
+      attribute unit {
+        # data type="NCName"/
+        "speeches" | "words" | "tokens"
+      },
+      attribute quantity { xsd:integer },
+      lang.att,
+      text
+    }+
+  }
+
+## Publications statement.
+publicationStmt =
+  element publicationStmt {
+    publisher,
+    idno,
+    element availability {
+      attribute status { "free" },
+      [
+        # data type="anyURI"/
+        
+        a:documentation [ "Fixed licence CC BY." ]
+      ]
+      element licence { "http://creativecommons.org/licenses/by/4.0/" },
+      paras
+    },
+    date-simple
+  }
+
+## Source description.
+sourceDesc =
+  element sourceDesc {
+    element bibl {
+      title+,
+      element edition { lang.att, normalized-space.string }*,
+      publisher?,
+      idno+,
+      date*
+    }+,
+    element recordingStmt {
+      element recording {
+        attribute type { "audio" | "video" },
+        attribute dur { xsd:duration }?,
+        media+,
+        respStmt*,
+        time?,
+        element equipment { abs }?
+      }+
+    }?
+  }
+
+## Encoding description for a corpus component.
+encodingDesc =
+  element encodingDesc {
+    global.atts,
+    element projectDesc { paras },
+    tagsDecl,
+    element listPrefixDef { prefixDef+ }?
+  }
+
+## Profile description.
+profileDesc = element profileDesc { global.atts, settingDesc }
+
+## Revision description.
+revisionDesc =
+  element revisionDesc {
+    global.atts,
+    element change {
+      global.atts,
+      attribute when { xsd:date },
+      mixed { name-header* }
+    }+
+  }
+
+## Tags declaration.
+tagsDecl =
+  element tagsDecl {
+    element namespace {
+      attribute name { xsd:anyURI },
+      element tagUsage {
+        attribute gi { xsd:Name },
+        attribute occurs { xsd:nonNegativeInteger },
+        text
+      }+
+    }
+  }
+
+## Setting description.
+settingDesc =
+  element settingDesc {
+    element setting { name-header+, date }
+  }
+
+## A title in the teiHeader. Must have a @type.
+title-header =
+  element title {
+    lang.att >> a:documentation [ "@type is here obligatory:" ],
+    attribute type { "main" | "sub" },
+    normalized-space.string
+  }
+
+## A title in the text.
+title =
+  element title {
+    lang.att,
+    
+    ## @type is optional:
+    (attribute type { "main" | "sub" }?),
+    normalized-space.string
+  }
+
+## A "meeting" (e.g. session) of the parliament.
+meeting = element meeting { global.atts, ana.att, text }
+
+## Publisher of the corpus.
+publisher =
+  element publisher {
+    lang.att,
+    ((element orgName { lang.att, normalized-space.string }+,
+      ref*)
+     | text)
+  }
+
+## Funder of the corpus compilation.
+funder =
+  element funder {
+    element orgName { lang.att, normalized-space.string }+,
+    ref?
+  }
+
+## A name as it appears in the teiHeader (rather than in the
+##     transcription).
+name-header =
+  element name {
+    attribute type { xsd:Name }?,
+    attribute key { xsd:Name }?,
+    lang.att,
+    normalized-space.string
+  }
+
+## A series of anonymous blocks. Anonymous blocks are only used in the
+##     teiHeader.
+abs = element ab { global.atts, normalized-space.string }+
+a:documentation [ "Start of definitions for text" ]
+
+## The definition of the text and body elements.
+text-body =
+  element text {
+    global.atts,
+    ana.att,
+    element body { \div+ }
+  }
+
+## The definition of the div element.
+\div =
+  element div {
+    global.atts,
+    
+    ## A standard div with utterances.
+    ((attribute type { "debateSection" },
+      (head*)
+      >> a:documentation [
+           "We want at least one u in the debateSection."
+         ],
+      (comment | pb)*,
+      u,
+      (comment | pb | u)*)
+     >> a:documentation [ "A div with transcriber comments only." ]
+     | (attribute type { "commentSection" },
+        head*,
+        (comment | pb)+))
+  }
+
+## One speech (i.e. 'utterance').
+u = element u { utterance.atts, (seg | comment | pb)+ }
+
+## A segment (i.e paragraph) inside a speech.
+seg =
+  element seg {
+    global.atts,
+    (comment
+     | pb
+     | text
+       # ref name="normalized-space.string"/
+       )+
+  }
+
+## A transcriber note.
+note =
+  element note {
+    global.atts,
+    attribute type { xsd:NCName }?,
+    (time | pb | text)+
+  }
+
+## Any type of transcriber comment.
+comment =
+  note
+  | element gap {
+      global.atts,
+      attribute reason { "editorial" | "inaudible" | "foreign" },
+      incidentDesc+
+    }
+  | element kinesic {
+      global.atts,
+      attribute type { kinesicType.val }?,
+      who.att?,
+      incidentDesc+
+    }
+  | element incident {
+      global.atts,
+      attribute type { incidentType.val }?,
+      who.att?,
+      incidentDesc+
+    }
+  | element vocal {
+      global.atts,
+      attribute type { vocalType.val },
+      who.att?,
+      incidentDesc+
+    }
+
+## A description of an incident in a speech.
+incidentDesc = element desc { lang.att, normalized-space.string }
+
+## The media element
+media =
+  element media {
+    global.atts,
+    attribute mimeType { xsd:token },
+    source.att,
+    attribute url { anyURIs }
+  }

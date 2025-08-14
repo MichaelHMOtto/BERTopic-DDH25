@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (167-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11901" type="PID">o:hsa.letter.11901</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">167-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 95</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Karte (Postkarte)</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.172" ref="http://sws.geonames.org/2523920">Palermo</origPlace>
+              <origDate ana="dcterms:created" when="1901-04">1901-04</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11901">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.172" key="#GID.1" ref="http://sws.geonames.org/2523920">Palermo</placeName>
+          <date when="1901-04">1901-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Palermo</settlement>
+                <name ref="http://geonames.org/2523920" type="fcode:PPLA">Palermo</name>
+                <location>
+                  <geo>13.3636,38.1166</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.6617" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Dreibund</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f192" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f191" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7588" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <pb facs="#IMG.2" n="2"/>
+        <note n="1" place="foot" type="editorial"> Carte postale, 24 (?) avril 1901. G. Paris reçoit cette lettre entre le 10 et le 18 mai 1901. </note>
+        <opener>Caro amico,</opener>
+        <p> Ho dovuto prendere in prestito il vostro <hi rendition="#u">fegato</hi> dal de <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1640">
+Gregorio</persName>
+          <note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1640">Giacomo De Gregorio</persName> (1856-1936), professeur de dialectologie sicilienne et d’histoire comparée des langues classiques et néo-latines à l’université de Palerme. Schuchardt lui a emprunté l’ouvrage en l’honneur d’Ascoli, dans lequel G. Paris a publié l’article «ficatum en roman» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7688">G. Paris 1901a</ref>
+
+            </bibl>). </note>; non ho potuto leggerlo ancora con quella attenzione che si merita, ma una sola occhiata già basta a mostrare, che è un vero «Strasbourg»<note
+            n="3" place="foot" type="editorial">Allusion à <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1649">Gröber</persName>, alors à Strasbourg, dont les thèses sur le développement de <hi
+              rendition="#i">
+ficatum</hi> sont récusées par G. Paris (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7688">Paris 1901a</ref>
+
+            </bibl>). Gröber s’en plaint ouvertement à Schuchardt dans une lettre du 17 juin 1901: «G. Paris sagt mir darin einige Unfreundlichkeiten, unerwarteter Weise» (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.5936">HSA 119-04119</ref>). </note>, in ogni caso la «pièce de résistance» di quel magnifico pranzo imbandito al Maestro dai cuochi romanisti ed arianisti, al quale non aver potuto contribuire neanche un povero piatto di carciofi proprio mi rincresce. Avevo esternato una volta – adesso non mi ricordo dove – l’idea che <hi
+            rendition="#u">fícatūm</hi> dovesse essere nato dalla contaminazione di <hi
+            rendition="#u">ficátum</hi> et <hi
+            rendition="#u">hépate</hi> (che, per certo, anch’esso era del latino volgare): e ne feci menzione al <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2180">Meyer-Lübke</persName> che nel suo lavoro sopra l’accentuazione gallica<note
+            n="4" place="foot" type="editorial">
+Référence à Meyer-Lübke (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7686">1901a</ref>
+            </bibl>, 49), <hi rendition="#i">Betonung im Gallischen</hi>, dans lequel il est question de <hi
+            rendition="#i">ficatum</hi>.</note> aveva già (prima di Voi?) spiegato l’accento di <hi
+            rendition="#u">fícatūm</hi> col greco <hi rendition="#u">
+συϰωτóν</hi>,<note n="5" place="foot"
+              type="editorial">Apparaît aussi sous la forme latinisée de <hi
+              rendition="#i">sýcotum</hi> dans l’article de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.558">
+1901</ref>
+            </bibl>, 616).</note>. Ma ora cedo majori (non tenuto il córytūs<note n="6" place="foot"
+              type="editorial">Meyer-Lübke corrèle en effet son étymologie <hi rendition="#i">ficatum</hi>/<hi
+              rendition="#i">foie</hi> à celle de <hi rendition="#i">corytus</hi>/<hi
+              rendition="#i">carquois</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7687">Meyer-Lübke 1901b</ref>
+
+            </bibl>, 141).</note>, ma il fícotūm mi riuscirono decisive) e non domando niente in contraccambio. Cioè – forse il hépate potrebbe dire<note
+            n="7" place="foot" type="editorial">Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.558">1901a</ref>
+            </bibl>) publie de son côté un compte rendu critique, dans la <hi
+              rendition="#i">
+Zeitschrift</hi> 25, de l’étymologie proposée par G. Paris (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8660">
+1901c</ref>
+
+            </bibl>). </note> quello che disse Dionisio di Siracusa (capirete perché appunto adesso mi viene questa reminiscenza) di due cospiratori amici? <lb/> Ich sei, gewährt mir die Bitte, <lb/> In eurem Bunde der Dritte (Schiller).<note
+            n="8" place="foot" type="editorial">Friedrich Schiller, <hi rendition="#i">Die Bürgschaft</hi> (1799).</note>
+        </p>
+        <p> Ma voi come <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">
+Francese</placeName> avrete delle obbiezioni serie contro la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.6617">Triplice</ref>
+          <note n="9" place="foot" type="editorial">Allusion politique à la «<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.6617">Triplice</ref>», ou triple alliance, qui réunit entre 1882 et le début de la Première Guerre mondiale les Royaume d’Italie, l’Empire allemand et l’Empire d’Autriche-Hongrie, dans le but d’isoler la France.</note>. – Si <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2417">Pitrè</persName> mi dice che la stanza nella quale vivo qui, si trova addirittura sopra quella dove tanti anni fa stavate voi<note
+            n="10" place="foot"
+              type="editorial">Pitrè a rencontré Schuchardt lors de son séjour à l’hôtel Trinacria à Palerme (voir aussi la l. du 3 août 1875 (GP 09-08871)). G. Paris avait voyagé en Sicile en août-septembre 1875 (voir l. du 3 août 1875 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11733">GP 26-08569</ref>)).</note>; me ne rallegro: al meno una <hi
+            rendition="#u">
+superiorità</hi> mia! Ma più mi rallegro del fatto che almeno abbiamo avuto in comune una <hi
+            rendition="#u">veduta</hi>, quella sul Golfo di <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.172">Palermo</placeName>. Perchè contando con quella sul <hi rendition="#u">fegato</hi> – sia detto senza bile– non c’arriviamo che a una e tre quarti. </p>
+        <closer>
+          <signed>HSch.</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

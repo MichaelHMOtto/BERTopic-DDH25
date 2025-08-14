@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (11-08565)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/9566" type="PID">o:hsa.letter.9566</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">11-08565</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08565</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" ref="http://sws.geonames.org/2988507">Paris</origPlace>
+              <origDate ana="dcterms:created" when="1873-05-24">1873-05-24</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.9566">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" key="#GID.1" ref="http://sws.geonames.org/2988507">Paris</placeName>
+          <date when="1873-05-24">1873-05-24</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Paris</settlement>
+                <name ref="http://geonames.org/2988507" type="fcode:PPLC">Paris</name>
+                <location>
+                  <geo>2.3488,48.85341</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3138" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue critique d'histoire et de littérature</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5850" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">La Patrie</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.9566" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.9566" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.9566" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7432" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Paris, ce mardi 24 mai</dateline>
+        <opener>Mon cher ami,</opener>
+
+        <p>Je suis bien coupable envers vous, et ce qu’il y a de plus triste, c’est que cette lettre que je vous écris, au lieu de me justifier, ne fera qu’aggraver mes fautes. En effet j’ai perdu la lettre que vous m’avez écrite il y a une quinzaine<note
+            n="1" place="foot"
+            type="editorial">Nous n'avons pas retrouvé cette lettre.</note>, et où vous m’adressiez diverses questions que j’ai à peu près toutes oubliées. J’ai fait jadis en effet trois articles sur <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.193">Molière</persName>
+          <note n="2" place="foot" type="editorial"> Molière est, avec Rabelais, Régnier et Musset, l’un des auteurs préférés du jeune G. Paris (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1504">Bähler 2004a</ref>
+
+            </bibl>, 82). Ce dernier a publié, tout au long de sa carrière, une dizaine d’articles et comptes rendus d’ouvrages (principalement dans la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3138">
+              <hi rendition="#i">Revue critique</hi>
+
+            </ref>) consacrés au dramaturge classique. Ceux auxquels il fait référence ici sont sans doute les deux (et non trois) articles intitulés «Les derniers travaux sur Molière», publiés dans la <hi rendition="#i">Revue de l’instruction publique</hi>, en 1863 et 1864 (G. Paris <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8742">1863-1864</ref>
+            </bibl>). </note>, dont le second est assez intéressant, parce que j’y ai réfuté l’hypothèse que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4866">Lindau</persName> a reprise et que vous avez parfaitement détruite, dans l’excellent article que vous m’avez envoyé<note
+            n="3" place="foot" type="editorial">Tout comme G. Paris (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8742">1863-1864</ref>
+            </bibl>.- 764), Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.213">1873d</ref>
+            </bibl>) réfute la thèse, soutenue par Laun (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8738">1873</ref>
+            </bibl>), selon laquelle <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6346">Armande Béjart</persName> aurait été la fille et non la sœur de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6347">Madeleine Béjart</persName>.</note>. Je ne comprends pas du tout comment <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4866">Lindau</persName> a fait avec le livre de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6343">Soulié</persName>; il le cite, et il ne paraît pas l’avoir compris<note
+            n="4" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6343">Eudore Soulié</persName> (1817-1876) avait en effet affirmé en 1863, dans son ouvrage biographique sur Molière – ouvrage couvert d’éloges par G. Paris (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8742">1863-1864</ref>
+            </bibl>) –, fondé sur des archives notariales inédites, qu’«Armande Béjart est […] née au commencement de 1643 ou à la fin de l’année 1642, et elle était bien sœur et non fille de Madeleine Béjart» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7833">Soulié 1863</ref>
+            </bibl>, 34).</note>. Il maintient le <hi rendition="#u">roman</hi> de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6344">Fournier</persName>
+, qui est tellement absurde que <pb
+            facs="#IMG.2" n="2"/>
+          <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6344">Fournier</persName> lui-même, après la publication de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6343">Soulié</persName>, l’a abandonné (dans un article de <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.5850">la <hi rendition="#u">Patrie</hi>
+          </ref>) et en a bâti un autre, aussi extravagant d’ailleurs. <note n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6344">Édouard Fournier</persName> (1818-1880), auteur, en 1863 également, d’un ouvrage intitulé <hi
+              rendition="#i">Le Roman de Molière</hi>, suivi de <hi rendition="#i">Fragments sur sa vie privée d’après des documents nouveaux</hi>, dans lequel il affirme qu’Armande avait été la seconde fille de Madeleine Béjart, et dont celle-ci aurait tenté de cacher la naissance en la présentant comme sa sœur (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7447">Fournier 1863a</ref>
+            </bibl>). Dans le feuilleton de <hi rendition="#i">La Patrie</hi> du 13 juillet 1863, il donne un compte rendu détaillé de Soulié dans lequel il convient que «tous les livres sur Molière vont en être bouleversés» y compris le sien (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7051">Fournier 1863b</ref>
+            </bibl>, 1).</note> Tout cela sans aucune espèce de raison, uniquement pour arriver à dire que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.193">Molière</persName> avait fait dans son contrat de mariage un faux en écriture publique: car notez que c’est là qu’on en n'est. Je vais plus loin, et je dis que si Molière a altéré l’état civil de sa femme d’une manière aussi grave (<hi
+            rendition="#u">criminelle</hi> d’après les lois de tous les pays), il y a grande apparence que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6345">Montfleury</persName> avait raison dans ses accusations<note
+            n="6" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6345">Zacharie Jacob, dit Montfleury</persName> (1608-1667), aurait adressé à Louis XIV, en novembre 1663, «une requête dans laquelle il accus[a] Molière d’avoir épousé sa propre fille» (G. Paris <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8742">1863-1864</ref>
+            </bibl>, 762). En réalité, comme le précise Forestier (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8736">Forestier &amp; Bourqui 2013</ref>
+            </bibl>, 1), Monfleury accusa Molière d’avoir épousé la fille de Madeleine Béjart, et d’avoir «‘autrefois couché avec la mère’». L’accusation ne portait donc pas sur un prétendu inceste, comme le croit G. Paris, ce qui aurait constitué un délit grave, mais sur le fait «d’avoir contrevenu à une disposition du droit ecclésiastique qui interdit d’épouser un conjoint avec le parent duquel on a entretenu une relation de fiançailles, de mariage ou des rapports sexuels consommés» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8736">Forestier &amp; Bourqui 2013</ref>
+
+            </bibl>, 25, n. 27).</note>. Vous avez jugé tout cela avec le coup d’œil critique que vous avez montré ailleurs. Je suis heureux de vous voir vous occuper de littérature, et notamment de Molière. Le livre de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4866">Lindau</persName> est agréable, mais sans profondeur ; vous y relevez très-justement cette manie d’allusion enragée qui a passé de nos critiques français à l’écrivain allemand<note
+            n="7" place="foot" type="editorial">Schuchard (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.213">1873d</ref>
+
+            </bibl>, 2284) conclut son article par une mise en garde contre les excès de toute lecture autobiographique des œuvres de Molière, en citant Louis Moland (1824-1899): «Die beste Kritik von Lindau’s Molière hat Moland im Jahre 1863 […] gegeben (Œuvres complètes de Molière 1, p. CXL. sq): ‘Il ne faudrait pas chercher des applications trop précises. Les écrivains qui entreprennent de distinguer et de démêler ce que Molière a mis dans ses ouvrages, de sa vie et de son cœur, font merveille, pourvu qu’ils n’abusent pas de ce point de vue et des effets romanesques qu’il est facile d’y trouver. Les esprits à la suite, ces grands corrupteurs de meilleures idées, sont sujets à tomber dans ce dernier travers s’ils veulent à tout prix identifier Molière avec quelques-uns des personnages qu’il a créés.’»</note>. Rien n’est plus lourd que de vouloir ainsi présenter <pb
+            facs="#IMG.3" n="3"/> des nuances qui ont pu exister à l’état flottant, qu’on peut indiquer dans la caractéristique générale du poète et de son œuvre, mais qui auraient détruit, si elles avaient pris la proportion qu’on leur prête, toute valeur artistique et toute liberté de composition chez Molière. – Mes articles sont je ne sais où, je n’en possède pas d’exemplaires moi-même. </p>
+        <p>Je crois me rappeler que vous me demandiez un avis pour la traduction du <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">
+              <hi rendition="#u">Vocalisme</hi>
+            </ref>
+          </bibl>. Je ne puis vous répondre qu’une chose: faites absolument comme vous voudrez, tout sera bien<note
+            n="8" place="foot" type="editorial">Voir l. du 17 février 1873 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.9565">GP 08-08564</ref>) et l. du 18 mars 1873 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11094">HS 10-24456</ref>).</note>. </p>
+
+        <p>Vous m’aviez demandé d’autres choses que je m’excuse profondément d’avoir oubliées. Si vous me les rappelez, je vous récrirai <hi rendition="#u">immédiatement.</hi>
+        </p>
+        <p>Que devient votre article pour la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">
+            <hi rendition="#u">Romania</hi>
+          </ref>
+          <note n="9" place="foot" type="editorial">«Phonétique comparée», article tiré de la conférence donnée en 1872 à Leipzig (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6326">Versammlung Deutscher Philologen und Schulmänner 1872</ref>
+            </bibl> 1873), traduit par G. Paris et publié en tête du numéro 9 de la Romania (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.507">Schuchardt 1874b</ref>
+            </bibl>).</note>? J’espère que vous ne nous oubliez pas.</p>
+        <closer>
+          <salute>Bien à vous</salute>
+          <signed>G. Paris</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

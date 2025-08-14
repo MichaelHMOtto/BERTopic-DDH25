@@ -1,0 +1,366 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Wilhelm Streitberg (10-HSWS-05)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11818" type="PID">o:hsa.letter.11818</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">10-HSWS-05</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Deutschland</country>
+            <settlement>Leipzig</settlement>
+            <repository ref="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</repository>
+            <idno type="shelfmark">HSWS</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" ref="http://sws.geonames.org/2918752">Gotha</origPlace>
+              <origDate ana="dcterms:created" when="1895-10-17">1895-10-17</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Wilhelm Streitberg</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2801"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11818">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" key="#GID.1" ref="http://sws.geonames.org/2918752">Gotha</placeName>
+          <date when="1895-10-17">1895-10-17</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2801" ref="https://viaf.org/viaf/76441249">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Gotha</settlement>
+                <name ref="http://geonames.org/2918752" type="fcode:PPLA3">Gotha</name>
+                <location>
+                  <geo>10.70193,50.94823</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2801" type="context">
+                        Korrespondenz Hugo Schuchardt - Wilhelm Streitberg
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.839" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kreolsprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3144" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literaturblatt für germanische und romanische Philologie</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.759" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kaukasische Sprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.742" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Georgisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.883" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Armenisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.1">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.2">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.3">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.4">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.5">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11818" xml:id="IMG.6">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11818" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Gotha, Sielebenstr. 33<lb/> 17 Okt. 1895.</dateline>
+        <opener>Hochgeehrter Herr Kollege,</opener>
+
+        <p> Ich möchte nicht dass zu meinen Liebhabereien ausser der von mir eingestandenen für Druckbriefe auch die für Selbstanzeigen gezählt werde. <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.839">Kreolisches</ref> und <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">Baskisches</ref> von mir habe ich im <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3144">Ltbl.</ref> schon selbst vorgeritten; soll ich nun auch mein <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.759">Kaukasisches</ref> bei Ihnen vorreiten? Es kommt ja zunächst darauf an dass ihm von andrer Seite überhaupt ein paar Worte gewidmet werden, <pb
+            facs="#IMG.2"
+            n="2"/> dass der Werth des Gegenstandes eine unparteiische, allgemeine Schätzung erfahre – der der sich eingehend damit beschäftigt, ist ja leicht zu einer übertriebenen geneigt. Insbesondere aber scheint er mir zu verdienen aus dem indogermanistischen Gesichtswinkel betrachtet zu werden. Das <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.742">Georgische</ref> wenigstens dürfte für das 
+Ossische und <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.883">Armenische</ref> von Wichtigkeit sein und diese Sprachen mehr beeinflusst haben als von ihnen beeinflusst worden sein. Darüber habe ich mir aber noch gar kein eigenes Urtheil bilden können. In meiner kleinen Schrift habe ich mich bemüht die allgemeinere sprachwissenschaftliche Bedeutung des Georgischen festzustellen, sodann die wirklich ein Unikum in der Geschichte unserer Wissenschaft bildende Vernachlässigung desselben, <pb
+            facs="#IMG.3"
+            n="3"/>darauf die Ursachen derselben, und endlich habe ich darauf hingewiesen was von Seiten der Georgier zu thun sei, in Phonetik und Morphologie. Beim Verb vor Allem die Bestimmung des Werthes der Charaktervokale (d. h. der unmittelbar vor dem <hi
+            rend="unknown" rendition="#none">Stamm</hi> und <hi rend="unknown" rendition="#none">nach</hi> den <hi
+            rend="unknown" rendition="#none">Personalzeichen</hi> Stehenden). </p>
+
+        <p>Was die Akademieabhandlung anlangt, so läge mir hier gerade an einer Berücksichtigung durch die Feder eines Andern. Es handelt sich nämlich dabei um die Klärung der allgemeinen Begriffe: <hi
+            rend="unknown" rendition="#none">aktiv</hi> und <hi rend="unknown" rendition="#none">passiv</hi>.<note n="1"
+            place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.166">
+Schuchardt, „Über den passiven Charakter des Transitivs in den kaukasischen Sprachen“, <hi
+                  rend="unknown" rendition="#none">Sitzungsberichte der philosophisch-historischen Classe der Kaiserlichen Akademie der Wissenschaften</hi>. Wien 133, 1895, 1-91.</ref>
+            </bibl> – Zu <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2939">Vinson</persName> dort S. 61.</note> Ich selbst komme zwar in einer spätern Abhandlung, die ich S. 2 angekündigt habe, darauf zurück; dabei würde mir aber sehr dienlich sein wenn inzwischen<pb
+            facs="#IMG.4"
+            n="4"/> jemand Anderes sich darüber geäussert hätte. Meine kaukasischen Studien knüpfen an diesem Punkte an meine baskischen an; und es wäre gut wenn meine Diskussion mit Vinson in der Revue linguistique (s. Abh. S. 61) berücksichtigt würde, ich wäre sehr dankbar dafür wenn hier sich ein Schiedsrichter fände. Vinson scheint gar nicht begreifen zu können, dass von Haus aus ein Verb, d. h. eine Verbalwurzel, wie <hi
+            rend="unknown" rendition="#none">schlag-</hi> ebenso gut aktiv wie passiv gedacht werden kann: <hi
+            rend="unknown" rendition="#none">
+schlagen</hi> und <hi rend="unknown"
+            rendition="#none">geschlagen werden</hi> [* er verwechselt auch passive <hi rend="unknown"
+            rendition="#none">Bedeutung</hi> und passive <hi rend="unknown"
+            rendition="#none">Form</hi>]. Das ergibt sich aber aus der Form die Subjekt und Objekt annehmen. Im Indogerm. scheint die Sache klar zu sein; aber ich weiss nicht ob man überhaupt auf weitere Darlegung derselben sich eingelassen hat. Sehr merkwürdig ist es doch dass neben einer eigenen Akkusativform eine eigene Nominativform besteht, nicht wie in andern Sprachstämmen die eine <hi
+            rend="unknown" rendition="#none">oder</hi> die andere. <pb facs="#IMG.5"
+            n="5"/>Ist dieses Verhältniss wirklich ursprünglich? Und wenn das Subjekt neben dem Objekt stets gekennzeichnet wurde, ist dies auch von Haus aus der Fall gewesen wo kein Obekt steht? Hat sich nicht etwa <hi
+            rend="unknown" rendition="#none">reg- venit</hi> an <hi rend="unknown"
+            rendition="#none">rex aedificat templum</hi> angeglichen? Dazu würden die südkaukasischen Sprachen eine schöne Analogie liefern. – Im 
+Swanischen und Georgischen hat der Aktivus den Nominativ beim Intransitiv etwas zurückgedrängt, im 
+
+Mingrelischen wie es scheint, fast ganz verdrängt (s. S. 40. 71. 88.). – Ich war im Begriff gewesen diese Betrachtung etwas weiter auszuführen; habe aber dann gesehen dass ich zu weit und vielleicht in die Irre gerathen möchte. Wenn Sie als „Zukunftsgrammatiker“ der Sache einiges Interesse darbringen so bitte ich Sie, sie mit einigen Worten zu berühren, vielleicht mit Berufung auf diese briefliche<pb
+            facs="#IMG.6" n="6"/> Anregung. </p>
+        <p>Oder wäre <hi rend="unknown" rendition="#none">Hübschmann</hi>
+          <note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1806">
+Heinrich Hübschmann</persName> (1848-1908), Indogermanist in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.499">Straßburg</placeName>; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1806">HSA 04898-04902</ref>.</note> geneigt ein paar Worte über meine Sächlein zu verlieren? Ich habe sie auch ihm geschickt, so wie u. A. Leonh. <hi
+            rend="unknown" rendition="#none">Masing</hi>
+          <note n="3" place="foot" type="editorial">
+            <persName>
+Leonhard Masing</persName> (1845-1936), aus <placeName>
+Estland</placeName> stammender Slavist. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">Wolf, <hi rend="unknown" rendition="#none">Nachlaß</hi>, 265</ref>
+            </bibl> weist seine Briefe (06886-06888) fälschlich einem Pharmazeuten <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2142">Emil Masing</persName> zu. </note> in Jurjev<note n="4"
+            place="foot" type="editorial">Estn. Tartu, dt. <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.158">
+Dorpat</placeName>.</note>, von dem mir Baudouin de Courtenay<note
+            n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1097">Jan Baudouin de Courtenay</persName> (1845-1929), poln. Linguist französ. Herkunft; vgl. <ref
+              target="https://gams.uni-graz.at/context:hsa.letters.1097?locale=de">HSA 00578-00611</ref>; hier bes. <ref target="https://gams.uni-graz.at/o:hsa.letter.1227/sdef:TEI/get?context=context:hsa.letters.1097&amp;amp;locale=de">
+HSA 14-00584</ref>.</note> mittheilte dass er behufs Studium des Georgischen nach dem Kaukasus reisen wolle. Stehen Sie mit ihm in Beziehung? </p>
+        <p>In den nächsten Tagen werde ich die Leipziger besuchen: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3018">Windisch</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2031">Leskien</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1215">Brugmann</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2734">Sievers</persName> u. a. Hirt<note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.4599">Hermann Hirt</persName> (1865-1936), Indogermanist in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName>.</note> besuchte mich in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">
+Graz</placeName>, Weigand<note n="7" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2987">Gustav Weigand</persName> (1860-1930), Rumänist und Balkanologe in Leipzig; <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2987?locale=de">HSA 12700-12716</ref>.</note> traf ich in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.168">Herkulesbad</placeName>. </p>
+        <closer>
+          <salute>Mit besten Grüssen </salute>
+          <lb/>
+          <salute>Ihr ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+HSchuchardt</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

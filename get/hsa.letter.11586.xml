@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Johann Jungfer an Hugo Schuchardt (02-05241)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1863">
+            <forename>Johann</forename>
+            <surname>Jungfer</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11586" type="PID">o:hsa.letter.11586</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-05241</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05241</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1863">
+                <forename>Johann</forename>
+                <surname>Jungfer</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" ref="http://sws.geonames.org/2950159">Berlin</origPlace>
+              <origDate ana="dcterms:created" when="1908-02-08">1908-02-08</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Johann Jungfer und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1863"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11586">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1863" ref="https://viaf.org/viaf/62320970">
+            <forename>Johann</forename>
+            <surname>Jungfer</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" key="#GID.1" ref="http://sws.geonames.org/2950159">Berlin</placeName>
+          <date when="1908-02-08">1908-02-08</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Berlin</settlement>
+                <name ref="http://geonames.org/2950159" type="fcode:PPLC">Berlin</name>
+                <location>
+                  <geo>13.41053,52.52437</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1863" type="context">
+                        Korrespondenz Johann Jungfer - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11586" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11586" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11586" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11586" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11586" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Charlottenburg, Schloßstraße 68<lb/>8. Februar 1908</dateline>
+        <opener>Hochgeehrter Herr Professor,</opener>
+
+        <p>Empfangen Sie meinen herzlichen Dank für Ihr freundliches Schreiben vom 23. Dezember v. J. und besonders für Ihren Rat, vorsichtig in baskischen Etymologien zu sein. Seien Sie überzeugt, daß ich diesen Rat wohl zu schätzen weiß und mich bestrebe, ihn zu befolgen. Andrerseits wollen Sie freundlichst berücksichtigen, daß ich zuerst in Deutschland spanische Ortsnamen im Zusammenhang behandelt habe und daß ich nach zehnjähriger eingehender Beschäftigung mit dieser Materie die Überzeugung gewinnen mußte, daß die germanischen Namen in Spanien bisher übersehen und unbeachtet geblieben sind. Darf ich ein kleines <pb
+            facs="#IMG.2" n="2"/> Beispiel statt vieler anführen? <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1805">
+Hübner</persName>
+          <note n="1" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1805">Ernst Wilhelm Emil Hübner</persName> (1834-1901), deutscher Klass. Philologe; vgl. HSA 04891-04897.</note> erwähnt gelegentlich den in Galicien mehrfach vorkommenden Dorfnamen <hi
+            rend="unknown" rendition="#none">Espasante</hi> und bemerkt dazu: „Vielleicht von <hi rend="unknown"
+            rendition="#none">exspatiari? </hi>jedenfalls romanisch“. Es ist aber einfach der altgermanische Personenname <hi
+            rend="unknown"
+            rendition="#none">Spasant</hi>. Da nun in ganz Spanien – sogar in Andalusien nicht selten – altgermanische Personennamen allein oder mit romanischen Appellativen in Menge als Ortsnamen erhalten sind, warum nicht auch in den <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">baskischen</ref> Provinzen? <hi rend="unknown" rendition="#none">Atallo (Navarra und Coruña) = Athalo; Amallo, Amalloa (Vizcaya u. Lugo) = Amalo, Amelconde, Dép. B. Pyr. = Amalgund </hi>u.s.w.</p>
+        <p>
+          <hi rend="unknown" rendition="#none">Amatriain </hi>zu <hi rend="unknown" rendition="#none">Amathari</hi>, das sich in Ortsnamen der verschiedenen Gegenden Spaniens findet,</p>
+        <p>
+          <hi rend="unknown" rendition="#none">Oricain (Horic – ain) </hi>und andere.</p>
+        <p>Natürlich lasse ich mich gern <pb facs="#IMG.3"
+            n="3"/> durch jede bessere Erklärung überzeugen; aber ich kenne keine. Oder gestatten wirklich die Regeln der baskischen Wortbildung, das Adjektiv vor das Substantiv zu stellen, wie<hi
+            rend="unknown" rendition="#none"> Prinz L. L. Bonaparte Oricain</hi> durch <hi rend="unknown"
+            rendition="#none">ori </hi>gelb und ein Substantiv erklärt, das sich bei <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1466">van Eys</persName>
+          <note n="2" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1466">Willem Jan van Eys</persName> (1825-1914), niederl. Baskologe; vgl. HSA 02845-02868.</note> nicht findet; vielleicht bei Aizquibel?<note
+            n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8060">J. Francisco de Aisquibel, <hi
+                  rend="unknown" rendition="#none">Diccionario basco-español titulado Euskeratik Erderara biurtzeco itztegia</hi>, Tolosa 1882-1884.</ref>
+            </bibl>
+
+          </note> Ich bin leider im Baskischen nur Autodidakt, wie in meinen spanischen Studien überhaupt, durfte mich keiner Belehrung oder Anregung von irgend einer Seite erfreuen; aber ich habe mich bemüht, aus den Grammatiken von <hi
+            rend="unknown" rendition="#none">Campion,</hi>
+          <note n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5728">Arturo Campion, <hi rend="unknown" rendition="#none">Gramatica de los cuatro dialectos literarios de la lengua euskara</hi>, Tolosa: López, 1884.</ref>
+            </bibl>
+          </note>
+          <hi rend="unknown" rendition="#none">van Eys</hi>
+          <note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8606">Willem Jan van Eys, <hi rend="unknown"
+                  rendition="#none">Essai de grammaire de la langue basque</hi>, Amsterdam: van Gogh, <hi rendition="#sup">
+2</hi>1867.</ref>
+            </bibl>
+          </note> und <hi rend="unknown" rendition="#none">
+Lécluse</hi>
+          <note n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8608">Fleury de Lécluse, <hi rend="unknown" rendition="#none">Grammaire basque</hi>, Bayonne 1874</ref>
+
+            </bibl> (Nachdruck).</note>die Regeln der baskischen Wortbildung zu erlernen, und glaube, das Adjektiv müsse jedenfalls dem Substantiv nachstehen, der Genetiv oder entsprechend nähere Bestimmungen dagegen vorangehen. Vergl. das Beispiel bei <hi
+            rend="unknown" rendition="#none">Lécluse</hi> p. 87:</p>
+        <p>Erromaco elizaco aldareco estalguia</p>
+        <p>la couverture de l’autel de l’église de Rome</p>
+        <p>
+          <pb facs="#IMG.4" n="4"/> weshalb mir Etymologien wie <hi rend="unknown" rendition="#none">Vidásoa = camino de Oeaso</hi>
+        </p>
+        <p>unmöglich scheinen statt <hi rend="unknown" rendition="#none">Oeaso-Bidea</hi>.</p>
+        <p>Ich würde sehr dankbar sein, wenn Sie die Freundlichkeit hätten, mir, wenn auch nur auf einer Postkarte ganz kurz zu sagen, ob meine Meinung über die Stellung des Adjektivs u.s.w. begründet ist.</p>
+        <p>Inzwischen erlaube ich mir, Ihnen einen Aufsatz „Germanisches aus Spanien“<note n="7" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8609">Jungfer, „Germanisches aus Spanien“, <hi
+                  rend="unknown" rendition="#none">
+Politisch-anthropologische Revue</hi> 6, 1908, 701-712.</ref>
+            </bibl>
+          </note> zu senden. Inbetreff des Namens <hi rend="unknown"
+            rendition="#none">Pacheco</hi> habe ich meine Vermutung neben den älteren Ansichten geäußert. Über <hi
+            rend="unknown"
+            rendition="#none">Velasco</hi> war meine Ansicht früher schwankend; nachdem ich jedoch die Formen <hi
+            rend="unknown"
+            rendition="#none">
+Velasco, Velazquiz </hi>gefunden, vermochte ich nicht mehr an iberisch-baskischen Ursprung des Mannes zu denken, sondern bin überzeugt, daß <hi
+            rend="unknown" rendition="#none">Velascus = Walahiscus </hi>ist.</p>
+        <closer>
+          <salute>Mit vorzüglicher Hochachtung</salute>
+          <lb/>
+          <salute>Ihr ergebenster</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1863">
+              <hi rend="unknown" rendition="#none">Joh. Jungfer.</hi>
+            </persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

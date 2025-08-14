@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Whitley Stokes an Hugo Schuchardt (01-11280)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2788">
+            <forename>Whitley</forename>
+            <surname>Stokes</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12393" type="PID">o:hsa.letter.12393</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-11280</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11280</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="en"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2788">
+                <forename>Whitley</forename>
+                <surname>Stokes</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6741" ref="http://sws.geonames.org/1256237">Shimla</origPlace>
+              <origDate ana="dcterms:created" when="1882-04-06">1882-04-06</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Whitley Stokes und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2788"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12393">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2788" ref="https://viaf.org/viaf/39462509">
+            <forename>Whitley</forename>
+            <surname>Stokes</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6741" key="#GID.1" ref="http://sws.geonames.org/1256237">Shimla</placeName>
+          <date when="1882-04-06">1882-04-06</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>India</country>
+                <settlement>Shimla</settlement>
+                <name ref="http://geonames.org/1256237" type="fcode:PPLA">Shimla</name>
+                <location>
+                  <geo>77.16662,31.10442</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2788" type="context">
+                        Korrespondenz Whitley Stokes - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.4423" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indoportugiesische Kreolsprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.844" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Portugiesisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.3541" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Konkani</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="en">Englisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12393" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12393" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12393" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12393" xml:lang="en">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Simla in the Panjáb<note n="1" place="foot" type="editorial">
+            <placeName>
+Shimla</placeName> ist die Hauptstadt des indischen Bundesstaates Himachal Pradesh sowie des gleichnamigen Distrikts. Shimla gehörte früher zum Königreich <placeName>
+
+Nepal</placeName>.</note>
+          <lb/> 6 April 1882</dateline>
+        <opener>Dear Sir</opener>
+        <p> I have received your letter of the 4<hi
+            rendition="#sup">th</hi> February and done my best to obtain for you the information as to <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.4423">Indo-Portuguese</ref> which you desire – I regret that I have failed in getting anything but the enclosed note from Mr Campbell<note
+            n="2" place="foot"
+            type="editorial">Sir <persName>
+
+James Macnabb Campbell</persName>, KCIE (1846–1903).</note> , of the Bombay Secretariat, to my Colleague Mr. Gibbs<note
+            n="3" place="foot" type="editorial">
+            <persName>
+James Gibbs</persName> (1825-1886), <hi rend="unknown"
+            rendition="#none">I.C.S., Bar-at-Law</hi>.</note>. It strikes me that, next to Dr Gerson da Cunha<note n="4"
+            place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1355">José Gerson da Cunha</persName> (1844-1900), Arzt in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.348">Goa</placeName>, Indologe, Historiker, Linguist und Numismatiker; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1355?locale=de">HSA 02225-02227</ref>.</note>, the best person to apply to, would be Dr Burnell<note
+            n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1237">Arthur Burnell</persName> (1840-1882), britischer Sanskritist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1237">HSA 01466-01468</ref>.</note>, the distinguished Sanskritist, who is now in Europe. He has, I know, paid some attention do <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.844">Portuguese</ref> as well to Konkaní<note n="6"
+            place="foot" type="editorial">
+            <ref
+              target="https://gams.uni-graz.at/o:hsa.languages#L.3541">Konkani</ref> ist eine indoarische Sprache, die an der Westküste <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5898">Indiens</placeName>, insbesondere in Goa, gesprochen wird.</note> - G. da Cunhas pamphlet on which I send you by <pb
+            facs="#IMG.2" n="2"/> bookpost as the Portuguese loan-words in that dialect may be interesting to you. </p>
+        <p>I trust that, in spite of Prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3065">Zimmer</persName>’s brutal rudeness to Prof. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3018">
+Windisch</persName>
+          <note n="7" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5224">Heinrich Zimmer, <hi rend="unknown" rendition="#none">Keltische Studien</hi>. Erstes Heft: Irische Texte. Mit Wörterbuch von E. Windisch, Berlin: Weidmann’sche Buchhandlung, 1881.</ref>
+            </bibl>
+
+          </note>, you will pursue your Irish studies &amp;amp;, from time to time, publish the results. The harvest is great, but the labourers are few. I have sent you through Windisch a copy of my edition oft the <hi
+            rend="unknown" rendition="#none">Togail Troi</hi>
+          <note n="8" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10204">Whitley Stokes, <hi rend="unknown" rendition="#none">Togail Troi: transcribed from the facsimile of the Book of Leinster and translation, with glossarial index of the rarer words</hi> =(The destruction of Troy), Calcutta: Leinster, 1881.</ref>
+            </bibl>
+          </note> which though full of faults, will, I trust, be of some little use to students of Middle- Irish. </p>
+        <p> I leave this country for <pb facs="#IMG.3" n="3"/>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6083">England</placeName> on the 28<hi
+            rendition="#sup">th</hi> of this month. From 20<hi rendition="#sup">th</hi> to 31<hi
+            rendition="#sup">st</hi> of May my address will be “5 Merrion Square North-Dublin.” After 31<hi rendition="#sup">st</hi> May it will be “9 Crick Road, Oxford” – </p>
+        <closer>
+          <salute>Yours sincerely </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2788">Whitley Stokes.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

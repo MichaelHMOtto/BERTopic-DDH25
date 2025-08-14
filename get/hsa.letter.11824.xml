@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wilhelm Streitberg an Hugo Schuchardt (16-11321)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11824" type="PID">o:hsa.letter.11824</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">16-11321</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11321</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+                <forename>Wilhelm</forename>
+                <surname>Streitberg</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="7" unit="pages">7 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.851" ref="http://sws.geonames.org/2867543">Münster</origPlace>
+              <origDate ana="dcterms:created" when="1905-10-28">1905-10-28</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Wilhelm Streitberg und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2801"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11824">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2801" ref="https://viaf.org/viaf/76441249">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.851" key="#GID.1" ref="http://sws.geonames.org/2867543">Münster</placeName>
+          <date when="1905-10-28">1905-10-28</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Münster</settlement>
+                <name ref="http://geonames.org/2867543" type="fcode:PPLA2">Münster</name>
+                <location>
+                  <geo>7.62571,51.96236</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2801" type="context">
+                        Korrespondenz Wilhelm Streitberg - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4182" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indogermanische Forschungen</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.124" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Semitische Sprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11824" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11824" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Münster, 28.10.05 Nordstr. 22.</dateline>
+        <opener>Hochverehrter Herr Hofrat,</opener>
+        <p> Verbindlichsten Dank für Brief und Karte. Ihre Mitteilungen haben mich sehr interessiert und auf Trombettis Buch begieriger gemacht, als ich es vorher gewesen bin. </p>
+
+        <p>Vor allen Dingen freut es mich, dass Tr. an der ebenso törichten wie übertriebenen Reklame unbeteiligt ist; das bringt mir den Mann menschlich näher. <pb
+            facs="#IMG.2" n="2"/>
+        </p>
+        <p>Auch das freut mich zu hören, dass er sein höchst unmethodisches Opusculum von anno 97<note n="1"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6532">Alfredo Trombetti, <hi rend="unknown" rendition="#none">Indogermanische und semitische Forschungen; vorläufige Mittheilungen</hi>, Bologna: Virano, 1897.</ref>
+
+            </bibl> – Vgl. dazu Trombettis Brief an Streitberg (Cuneo, 27.4.1897), der die Übersendung des Buchs begleitet. Er werde ein Rezensionsexemplar an Trübner senden und würde gerne weitere Entdeckungen, die er zum Thema gemacht habe, in den <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.4182">IF</ref> veröffentlichen (NL 245/T/Ti/16 – vgl. dazu die Hinweise in der Hss.-Datenbank <ref target="https://kalliope-verbund.info/ead?ead.id=DE-611-HS-2679670">
+              <hi rend="unknown" rendition="#none">Kalliope</hi>
+            </ref>). Weitere Korrespondenz ist nicht nachweisbar.</note> verworfen hat. Alles andere muss der Augenschein lehren. Sie sprechen von seinem Werk als ob es erschienen wäre: ich habe noch keine Notiz darüber zu Gesicht bekommen und wäre Ihnen deshalb für nähern Nachweis sehr verbunden. – </p>
+        <p>Dass die <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.124">semit. Sprachen</ref> einander näher stehen als die idg. (z. T. wenigstens) und dass darum die methodische Vergleichung <hi
+            rend="unknown" rendition="#none">sehr</hi> im Rückstand geblieben ist, trifft ja zu; <pb facs="#IMG.3"
+            n="3"/>wenn es aber darauf ankommt, die proethnische Gestalt zu bestimmen – u. das muß man, sollte ich meinen, wenn man an die Lösung der Verwandtschaftsfrage geht – so lässt sich eine solche Vergleichung <hi
+            rend="unknown"
+            rendition="#none">nicht</hi> entbehren. Und grade deshalb macht sich der jämmerliche1 (1 Charakterist. dafür ist die völlige Verständnislosigkeit, auf die Sievers‘ wundervolle metr. Studien<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8694">Eduard Sievers, <hi rend="unknown" rendition="#none">Metrische Studien</hi>, Leipzig 1901ff. (Abhandlungen der Philologisch-Historischen Classe der Königlich Sächsischen Gesellschaft der Wissenschaften; 21,1; 48,1ff.). [Der 1. Teil ist der hebräischen Metrik gewidmet].</ref>
+            </bibl>
+
+          </note> beinahe überall stoßen!) Stand der wissenschaftl. sem. Grammatik höchst empfindlich fühlbar; nirgend hat man festen Grund unter den Füßen. Da hilft weder Wright<note
+            n="3" place="foot" type="editorial">
+
+            <persName>
+William Wright</persName> (1830-1889), bedeutender britischer Orientalist.</note> noch die knappen, aufs Äußerliche beschränkten Zusammenstellungen Zimmers.<note
+            n="4" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3065">Heinrich Zimmer</persName> (1862-1943), deutscher Assyriologe; Vf. z. B. von <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6520">
+                <hi rend="unknown" rendition="#none">Vergleichende Grammatik der semitischen Sprachen</hi>, Berlin: Reuther und Reichard, 1898</ref>
+            </bibl>; vgl. 
+HSA 13048.</note>
+        </p>
+        <pb facs="#IMG.4" n="4"/>
+        <p>Wenn es nun aber richtig ist, dass das 
+
+Kuschitische
+<note n="5" place="foot"
+            type="editorial">Primärzweig der afroasiatischen Sprachfamilie; kuschitische Sprachen werden vor allem am Horn von Afrika gesprochen.</note> in vielen Punkten einen proethn. Typus der sem. Flexion zeigt, so muss, scheint mir, <hi
+            rend="unknown" rendition="#none">hier</hi> der Ausgangspunkt gewählt werden. </p>
+
+        <p>Damit ist aber sehr enge die Heimatfrage verknüpft: sind die Semiten aus Afrika gekommen – dafür hat sich neuerdings, Grimme<note
+            n="6" place="foot" type="editorial">
+
+            <persName>
+Hubert Grimme</persName> (1864-1932), deutscher Semitist, der zunächst in <placeName>
+
+Fribourg</placeName>, ab 1920 in <placeName>
+
+Münster</placeName> lehrte.</note> zustimmend, auch Havet<note
+            n="7" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">Louis Havet</persName> (1849-1925), franz. Altphilologe.</note> entschieden – dann ist es um die Möglichkeit alter Zusammenhänge äußerst schlimm bestellt. Denn dass die Wiege der Indogermanen – im Sinne <pb
+            facs="#IMG.5" n="5"/> der prähist. Rassenfrage, vgl. Ratzel,<note n="8" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2474">Friedrich Ratzel</persName> (1844-1904), deutscher Anthropogeograph.</note> wie auch im Sinne der idg. Altertumskunde – in Europa gestanden habe, das scheint mir schon heute so gesichert, wie es nur sein kann, wird später durch die sich immer mehrenden archäol. Funde noch viel deutlicher werden: Unter diesen Umständen kann ich mir nur sekundäre Berührungen vorstellen. </p>
+        <p>Aber selbst wenn man das vorgefaßte Meinungen nennen sollte, so bleibt doch die Lösung der Frage I <hi
+            rend="unknown"
+            rendition="#none">conditio sine qua non</hi>. Und da bin ich aufs äußerste gespannt, wie Trombetti sich damit <pb
+            facs="#IMG.6" n="6"/> abgefunden hat. Möge es ihm gelungen sein, eine methodische Grundlage der Forschung zu schaffen; dann hat er seinen Namen unsterblich gemacht. ----- </p>
+        <p>Ihre Wünsche bezügl. Ihres Aufsatzes sollen erfüllt werden, das ist ganz selbstverständlich. </p>
+
+        <p> Bezüglich des Name[n]s „idg.“ stehe ich auf dem Standpunkt: quieta non movere. Hässlich kann ich ihn nicht finden, seine Komposition charakterisiert ihn schon als <pb
+            facs="#IMG.7" n="7"/> „idg.“ An sich habe ich nichts gegen arisch – es sei denn, dass es <hi rend="unknown"
+            rendition="#none">nur</hi> für Indo-Iranier nachgewiesen ist –, aber seine Einführung brächte uns neue Verwirrung, die durch keinen <hi
+            rend="unknown"
+            rendition="#none">positiven</hi> Nutzen aufgewogen würde. Dann ist auch ein Herausgeber der „<hi
+            rend="unknown" rendition="#none">Idg.</hi> Forsch.“ nicht gerade die geeignete Persönlichkeit, den Terminus idg. zu bekämpfen. </p>
+        <closer>
+          <salute>Mit herzlichen Grüßen</salute>
+          <lb/>
+          <salute>Ihr ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">Wilh. Streitberg</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

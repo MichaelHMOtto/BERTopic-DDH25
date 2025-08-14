@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Carl Humann an Hugo Schuchardt (01-04914)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1814">
+            <forename>Carl</forename>
+            <surname>Humann</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11582" type="PID">o:hsa.letter.11582</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-04914</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04914</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1814">
+                <forename>Carl</forename>
+                <surname>Humann</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6149" ref="http://sws.geonames.org/311046">Izmir</origPlace>
+              <origDate ana="dcterms:created" when="1882-01-20">1882-01-20</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Carl Humann und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1814"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11582">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1814" ref="https://viaf.org/viaf/45096945">
+            <forename>Carl</forename>
+            <surname>Humann</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6149" key="#GID.1" ref="http://sws.geonames.org/311046">Izmir</placeName>
+          <date when="1882-01-20">1882-01-20</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Türkiye</country>
+                <settlement>Izmir</settlement>
+                <name ref="http://geonames.org/311046" type="fcode:PPLA">Izmir</name>
+                <location>
+                  <geo>27.13838,38.41273</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1814" type="context">
+                        Korrespondenz Carl Humann - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.418" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Lingua franca</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11582" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11582" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11582" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11582" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11582" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Smÿrna, d. 20. Januar 1882.</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+
+        <p>In Beantwortung Ihrer werthen Zuschrift vom 31. Decb. kann ich leider nicht so ausführlich sein, wie ich gern möchte und will nur versuchen, was mir über die <ref target="https://gams.uni-graz.at/o:hsa.languages#L.418">
+            <hi rend="unknown" rendition="#none">lingua franca</hi>
+
+          </ref> bekannt ist, Ihnen im allgemeinen wieder zu geben. Als ich vor 20 Jahren in die Levante ging, hatte auch ich gehört, daß es eine an allen Skalen gesprochene gemeinsame Sprache oder vielmehr einen Jargon gäbe, den man leicht lernen könne, der ein Gemisch aus allen [?]sprachen des Mittelmeeres bilden sollte. Heute, nachdem ich fast alle Inseln und Häfen der Levante von Alexandria bis ins schwarze Meer kenne, muß ich gestehen, daß mir eine <hi
+            rend="unknown"
+            rendition="#none">lingua franca</hi> unbekannt geblieben ist, obschon bei meiner Kenntnis von 6 lebenden Sprachen, zu ihrer Entdeckung mir kein Mittel gefehlt hat. Sie werden erwidern: es muß doch etwas deratiges existiert <hi
+            rend="unknown" rendition="#none">haben</hi>, woher sonst der Name?</p>
+
+        <p>Vielleicht erscheint Ihnen die folgende Auskunft plausibel. Die Völker, die am meisten, in den rückliegenden Jahrhunderten fast ausschließlich die Levante frequentierten, waren Italiäner, Franzosen &amp;amp; Spanier, den von <pb
+            facs="#IMG.2"
+            n="2"/> den Griechen, vielleicht aus einer Reminiszenz aus den Kreuzzügen, Φράγνοι genannt wurden, was in erster Linie Katholik bedeutet im Gegensatze zum orthodoxen Griechen. Diese Bezeichnung ist heute noch maaßgebend. Fragen Sie einen Katholiken Smyrna’s, der längst nicht mehr weiß, woher seine Ureltern stammten oder einen griechischen Unterthan aus Tinos<note
+            n="1" place="foot"
+            type="editorial">Insel der Gruppe der Kykladen.</note>, was er für ein Landsmann sei, so antwortet er: Katholik oder Φράγνοϛ, was dasselbe ist. Nur der Türke sagt Frank für jeden Europäer, den der Grieche Eὐρωπαίος nennen würde. Diese hier geborenen Franken nennen wir heute Levantiner, ein Ausdruck, den dieselben sehr ungern hören, da wir damit den eines geriebenen Lumpen verbinden. Die Katholiken (Italiäner, Franzosen, Spanier) der vorigen Jahrhunderte hatten fast durchschnittlich italiänische Geistliche, Italiänisch war die Kirchen- Schul- und Haussprache und wurde schließlich in allen, auch nicht katholischen europäischen Familien gesprochen. Als es zu vulgär geworden, bürgerte sich allmählich Französisch ein, das heute die Umgangssprache der Europäer und der gebildeten einheimischen Klassen geworden ist. Unter <hi
+            rend="unknown"
+            rendition="#none">lingua franca</hi> ist also zunächst weiter nichts zu verstehen als die Sprache der Franken, der Katholiken, d. h. Italiänisch. Nun kommt aber ein komplicierteres Nachspiel. Es konnte nicht fehlen, daß die lebendigen, leicht lernenden Griechen theils Italiänisch erlernten, theils <pb
+            facs="#IMG.3"
+            n="3"/> eine Menge der leichten gefälligen Wörter in ihre Sprache aufnahmen, theils gezwungen waren, für eine Menge ihrer bis dahin unbekannten Gegenstände die auswärtige Benennung anzunehmen. Es ist mir unmöglich, Ihnen die Liste der vielleicht mehrere hunderte betragenden, ins vulgaire Neugriechisch übergegangenen italiänischen und theilweise französischen Fremdwörter zu machen, um Ihnen aber einen Begriff zu geben, will ich mal einige nächstliegende citieren. Die Griechen nennen Hut <hi
+            rend="unknown" rendition="#none">capello</hi>, Weste <hi rend="unknown"
+            rendition="#none">gileto</hi>, Hose <hi rend="unknown" rendition="#none">
+pantaloni</hi>, Stiefel <hi
+            rend="unknown" rendition="#none">stivalia</hi>, Stock <hi rend="unknown"
+            rendition="#none">bastoni</hi>, Schirm <hi rend="unknown" rendition="#none">ombrella</hi> oder <hi
+            rend="unknown" rendition="#none">
+parasoli</hi>, Kragen <hi rend="unknown"
+            rendition="#none">collari</hi>, <hi rend="unknown" rendition="#none">Flanell flanella</hi>, Hemd <hi
+            rend="unknown" rendition="#none">hypocámiso</hi>, Mantel <hi rend="unknown"
+            rendition="#none">soutou v. surtout</hi> oder <hi rend="unknown" rendition="#none">sacco</hi>, Mütze <hi
+            rend="unknown" rendition="#none">cuffia</hi>, Thür <hi rend="unknown" rendition="#none">porta</hi>, Bild <hi
+            rend="unknown" rendition="#none">cadro</hi>, Leuchter <hi rend="unknown"
+            rendition="#none">candelli</hi>, Fensterläden <hi rend="unknown" rendition="#none">batzoúria</hi> (von <hi
+            rend="unknown" rendition="#none">Abat-jour</hi>) etc. von <hi rend="unknown"
+            rendition="#none">
+buffetto, saptia, casseta, tapis</hi> gar nicht zu reden. Ich habe nur citiert, was ich gerade sehe. In Athen spricht man allerdings besser und geht <hi
+            rend="unknown" rendition="#none">rapid</hi> auf altgriechisch zurück, aber dem Kleinasiaten ist <hi
+            rend="unknown" rendition="#none">cavallo</hi> bekannter als ἴαπος.</p>
+
+        <p>Daraus folgt nun zunächst, daß der Toúrist, wenn er Griechisch sprechen hört, manches ihm bekannte Wort aufschnappt – das muß dann <hi
+            rend="unknown"
+            rendition="#none">
+lingua franca</hi> sein. Ferner reden die gewöhnlichen Leute, die viel mit den Reisenden zu thun haben meistens ziemlich Italiänisch und suchen, selbst wenn sie nur ein paar Worte verstehen, diese doch nutzbar zu machen. So hört der Tourist von Varna bis Alexandria bei seiner Ankunft das Geschrei: <pb
+            facs="#IMG.4"
+            n="4"/> Mussiu (Monsieur) barca, bona barca; dazwischen auch backschish – merci – very good etc. Da er das überall hört, so gibt das wieder die Seeschlange wie Sie sehr gut sagen, der <hi
+            rend="unknown" rendition="#none">lingua franca</hi>. Solche Türkei-Entdecker, wie man hier spottend diese Art Touristen nennt, entdecken noch viel tolleres Zeug. – </p>
+
+        <p>Nun will ich noch Eins erwähnen. Das Griechische ist hier an der Küste Kleinasiens derart Volkssprache und zwar dominierende geworden, daß alle Kinder, selbst die rein europäischer Eltern dies Idiom zuerst lernen um erst im 4<hi
+            rendition="#sup">ten</hi> 5<hi
+            rendition="#sup">ten</hi> Jahr eine zweite Sprache zu sprechen beginnen. Nun wollen aber z. B. arme Catholiken, die eine zweite Sprache schulgerecht nicht haben erlernen können, doch immer gern im Verkehr mit Fremden die „Gebildeten“ herausbeißen und anstatt ein leidlich gutes Griechisch zu reden, flicken sie jedes ihnen bekannte fremde Wort ein, z. B. [siehe Scan] Ich möchte diese Manien katholisierend nennen, denn Griechen reden nie so, aber sie mit <hi
+            rend="unknown"
+            rendition="#none">lingua franca</hi> bezeichnen kann man nicht; einen einigermaßen feststehenden Jargon derart gibt es nicht einmal und <hi
+            rend="unknown" rendition="#none">lingua franca</hi> wird wohl identisch bleiben mit <hi rend="unknown"
+            rendition="#none">
+lingua catholica</hi> oder <hi rend="unknown" rendition="#none">
+italiana</hi>.</p>
+        <p>Sollten Sie spezielles, Näheres wünschen, bin ich gerne zu Ihren Diensten. Wenn Sie Herrn <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2629">D<hi rendition="#sup">
+r</hi>. von Scherzer</persName>
+          <note n="2" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2629">Karl Scherzer</persName> (1821-1903), deutscher Konsul, Ethnologe, Verwaltungsbeamter; vgl. HSA 10039</note> schreiben bitte ihn bestens von mir zu grüßen.</p>
+        <closer>
+          <salute>Ihr hochachtungsvoll ergebener</salute>
+          <signed>D<hi rendition="#sup">r</hi>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1814">Carl Humann</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

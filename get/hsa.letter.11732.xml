@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (25-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11732" type="PID">o:hsa.letter.11732</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">25-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 440</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.77" ref="http://sws.geonames.org/2911522">Halle</origPlace>
+              <origDate ana="dcterms:created" when="1875-06-23">1875-06-23</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11732">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.77" key="#GID.1" ref="http://sws.geonames.org/2911522">Halle</placeName>
+          <date when="1875-06-23">1875-06-23</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Halle</settlement>
+                <name ref="http://geonames.org/2911522" type="fcode:PPL">Halle</name>
+                <location>
+                  <geo>11.97947,51.48158</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3138" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue critique d'histoire et de littérature</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3290" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Beilage zur Allgemeinen Zeitung</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f884" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f885" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7446" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Halle 23.6.75.</dateline>
+        <opener>Lieber Freund!</opener>
+        <p> Ich schicke Ihnen zunächst unter Kreuzband die Korrektur meiner <ref
+            target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">Etymologieen</ref> zurück<note n="1"
+            place="foot" type="editorial">
+            <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">Schuchardt (1875a)</ref>
+            </bibl>. Voir l. de [1875] (<ref target="https://gams.uni-graz.at/o:hsa.letter.11731">GP 24-08573</ref>).</note>: Meine Notizen sind auch zum Theil verloren gegangen und Alles wieder in den Quellen nachzusuchen erlaubt mir meine Zeit nicht. Ich habe also nur korrigirt, was ich sofort als fehlerhaft erkennen konnte, doch glaube ich, wird es nicht viel ausserdem sein. </p>
+        <p> Auf der umstehenden Seite finden Sie ein paar Gegenbemerkungen über <hi rendition="#u">oi</hi>, <hi
+            rendition="#u">ui</hi>; <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">Havets</persName> Glossen – eine Begünstigung, die nur einem Pariser, keinem Auswärtigen zu Theil werden kann – scheinen mir dem, was ich gesagt habe, nicht genügend Rechnung zu tragen<note
+            n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">Louis Havet</persName> (1849-1925), latiniste, enseigne depuis 1872 à l’EPHE. Dans un article paru en tête du numéro 3/11 de la <hi
+              rendition="#i">Romania</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7602">Havet 1874</ref>
+
+            </bibl>), il était revenu de manière critique sur la première partie de l’article «Phonétique française» de Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.583">1874c</ref>
+            </bibl>), consacrée à la question de la formation des sons <hi rendition="#i">oi</hi> et <hi
+              rendition="#i">ui</hi>. Le débat entre les deux savants tourne essentiellement autour de la possibilité d’admettre ou non, dans les étymologies françaises, des triphtongues formées à partir de diphtongues, possibilité qu’avait affirmée Schuchardt dans son article (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.583">Schuchardt 1874c</ref>
+
+            </bibl>, 281) et que tenta de réfuter L. Havet dans le sien. Schuchardt persiste et reprend point par point l’argumentaire de L. Havet dans un article intitulé «Sur <hi
+              rendition="#i">oi</hi> et <hi rendition="#i">ui</hi>» paru en 1875 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.524">Schuchardt 1875d</ref>
+
+            </bibl>). Cet article est commenté en note, dans le texte même de Schuchardt, par Havet, sans que le premier ait été averti de ce procédé. </note>. Können Sie vielleicht diese Bemerkungen noch in die nächste Nummer der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref> aufnehmen<note n="3" place="foot"
+              type="editorial"> La <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref> ne publiera pas les réponses de Schuchardt. Voir l. du 3 août 1875 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11733">GP 26-08569</ref>)</note>. </p>
+        <p> Sodann habe ich für die <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3138">Revue critique</ref> einen Artikel über die <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.193">Molière</persName>-ausgabe von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6507">Laun</persName> beigelegt<note n="4" place="foot"
+              type="editorial">Le compte rendu sévère d’Adolf Laun, <hi
+              rendition="#i">Molière’s Werke mit deutschem Commentar, Einleitungen und Excursen</hi>, Berlin, 1873, paraîtra dans la <hi
+              rendition="#i">Revue critique</hi> du 28 août 1875 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.635">Schuchardt 1875c</ref>
+
+            </bibl>).</note>. Allerdings würde derselbe – schon wegen der mannigfachen Beziehung auf die deutsche Sprachform – besser in einer deutschen Zeitschrift Platz gefunden haben; aber ich wüsste keine, in der nicht schon eine <hi
+            rendition="#u">günstige</hi> Erwähnung des Werkes gestanden hätte und meine Kritik ist <hi rendition="#u">ungünstig</hi>. Können Sie dieselbe nicht brauchen, so haben Sie die Güte mir sie wieder zurückzusenden. Vielleicht kann ich eine Korrektur erhalten. </p>
+        <p>
+          <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1164">Boehmer</persName> wollte wegen Zwistigkeiten in der Fakultät seine Professur niederlegen; aber auf vieles Zureden, von oben her, ist er schliesslich geblieben<note
+            n="5" place="foot" type="editorial"> Voir l. de [1875] (<ref target="https://gams.uni-graz.at/o:hsa.letter.11731">GP 24-08573</ref>).</note>. </p>
+        <p> Wenn sie nach <ref
+            target="https://gams.uni-graz.at/o:hsa.places#PL.6101">Norddeutschland</ref> kommen sollten, so benachrichtigen Sie mich davon; ich hoffe Sie dann zu sehen. Freilich habe ich auch Reisepläne; vielleicht gehe ich nach <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6047">Wales</placeName>. Ich bin ein eifriger Kymre geworden<note
+            n="6" place="foot"
+              type="editorial">Schuchardt voyage bien au Pays de Galles durant l’été 1875. Il raconte son séjour dans «Keltische Briefe», parues dans la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3290">
+              <hi rendition="#i">Beilage zur Allgemeinen Zeitung</hi>
+            </ref> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.106">Schuchardt 1876</ref>
+            </bibl>).</note>. </p>
+        <p>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2194">Caroline Michaëlis</persName>
+          <note n="7" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2194">Caroline Michaëlis</persName> (1851-1925), reçoit les vœux de Schuchardt pour son mariage avec Joaquin de Vasconcelos dans une lettre du 21 juin 1875 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.268">HSA 2-s.n</ref>). Voir aussi (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1550">Hurch 2009b, 34</ref>
+
+            </bibl>). G. Paris avait également reçu une annonce des fiançailles de la part de C. Michaëlis datée de juin 1875 (<ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b525171655/f564.item.r=NAF%2024449">NAF 24449, f° 277</ref>).</note> hat sich vor Kurzem mit <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.4234">Joaquin de Vasconcelos</persName> verlobt. </p>
+        <closer>
+          <salute>Mit herzlichen Grüssen</salute>
+          <lb/>
+          <salute>der Ihrige</salute>
+          <lb/>
+          <signed>H. Schuchardt</signed>
+        </closer>
+        <postscript>
+          <p>Bitte zeigen Sie mein Buch in der <hi rendition="#i">
+              <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>
+            </hi> an<note n="8" place="foot" type="editorial"> Vraisemblablement <hi
+                rendition="#i">Ritornell und Terzine</hi> (<bibl status="draft">
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.612">Schuchardt 1874d</ref>
+              </bibl>), dont G. Paris ne rend compte que dans le dernier numéro de la <hi
+                rendition="#i">Romania</hi> de l’année 1875 (<bibl status="draft">
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1051">Paris 1875c</ref>
+              </bibl>).</note>. </p>
+          <pb facs="#IMG.2" n="2"/>
+          <p>
+            <hi rendition="#u">OI, UI</hi>
+            <note n="9" place="foot" type="editorial"> Au verso de cette lettre se trouvent les éléments de réponse que Schuchardt souhaite voir adressés à L. Havet et qui ne le seront pas. </note>
+          </p>
+
+          <p> Quoique je n’aie pas l’intention de prolonger infiniment une discussion du reste assez modérée, je ne saurais passer sous silence que M. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">Havet</persName> en glosant mes remarques sur <hi
+              rendition="#u">oi</hi> et <hi rendition="#u">ui</hi> (Rom. IV, 119 ss.) n’en a pas toujours bien saisi le sens. </p>
+          <p> 1. Je dis: «Si <hi rendition="#u">üi</hi> est sorti de <hi
+              rendition="#u">òi</hi>, pourquoi n’est il pas sorti de <hi rendition="#u">wi?</hi> Car <hi
+              rendition="#u">w</hi> est plus proche de <hi rendition="#u">ü</hi> que <hi rendition="#u">ò</hi> d’un <hi
+              rendition="#u">degré</hi>.» <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">M. H.</persName> y replique: «La voyelle fermée <hi
+              rendition="#u">w</hi> est plus proche que la voyelle ouverte <hi
+              rendition="#u">ò</hi> des trois voyelles extrêmes <hi
+              rendition="#u">u ü i</hi>, mais seulement en tant qu’elle est <hi rendition="#u">fermée;</hi>
+            <hi rendition="#sup">1)</hi> en tant qu’elle est <hi
+              rendition="#u">labiale</hi>, elle est aussi éloignée que <hi rendition="#u">ò</hi> de la linguale <hi
+              rendition="#u">i</hi>.» D’abord je ne parle pas de la différence entre <hi rendition="#u">o</hi> et <hi
+              rendition="#u">i</hi>, mais de celle entre <hi rendition="#u">o</hi> et <hi
+              rendition="#u">ü</hi>. Puis je soutiens que <hi rendition="#u">w</hi> est plus labiale que <hi
+              rendition="#u">ò</hi>, comme <hi rendition="#u">u</hi> l’est plus que <hi rendition="#u">ò</hi>, et <hi
+              rendition="#u">a</hi> l’est moins que <hi rendition="#u">ò</hi>. Car le mot <hi
+              rendition="#u">labiale</hi> n’a qu’une signification très-relative; en allant successivement de l’<hi
+              rendition="#u">u</hi> à l’<hi
+              rendition="#u">a</hi> on aperçoit que la rondeur des lèvres se détend de plus en plus. Donc <hi
+              rendition="#u">wi</hi> est plus proche de <hi rendition="#u">üi</hi> que <hi
+              rendition="#u">òi</hi> et la probabilité du changement de <hi rendition="#u">wi</hi> en <hi
+              rendition="#u">üi</hi> est plus grande que celle du changement de <hi rendition="#u">òi</hi> en <hi
+              rendition="#u">üi</hi>. Si le premier n’a pas eu lieu, on ne conçoit pas comment le dernier ait pu avoir lieu<note
+              n="10" place="foot" type="editorial">
+              <hi rendition="#i">Lieu</hi>: Leçon incertaine.</note>. Je continue à voir dans la théorie de M. Havet la difficulté que j’y ai signalée. </p>
+
+          <p> 2. Je dis qu’on trouve très-souvent dans les idiomes néo-latins une diphthongue changée en triphthongue. M. H. n’admet pas mes exemples; selon lui, <hi
+              rendition="#u">puoi</hi> est = <hi rendition="#u">puo + i</hi>. Mais comment peut-on supposer que de <hi
+              rendition="#u">pos</hi> = <hi rendition="#u">post</hi> se soit développé un <hi
+              rendition="#u">poi</hi> dissyllabe? Pour appuyer une hypothèse sur des formes intermédiaires comme *<hi
+              rendition="#u">nueit</hi>, *<hi
+              rendition="#u">pueis</hi> en v. franç., j’avais cité les formes provençales <hi
+              rendition="#u">nueit</hi> (<hi rendition="#u">nuoit</hi>), <hi rendition="#u">pueis</hi> (<hi
+              rendition="#u">puois</hi>) (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.524">Rom. III, 281</ref>
+            </bibl>)<note n="11" place="foot" type="editorial">Dans «Phonétique française» (<bibl status="draft">
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.583">Schuchardt 1874c</ref>
+              </bibl>). </note>
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">M. H.</persName> n’en dit rien et me reproche de «conclure, pour des raisons de pure théorie, de <hi
+              rendition="#u">duol</hi> a *<hi
+              rendition="#u">nuoit</hi>». Plus loin M. Havet résume ainsi la réfutation: «M. Sch. ne dit comment <hi
+              rendition="#u">òi</hi> est devenu <hi rendition="#u">uoi</hi> [de la même manière que <hi
+              rendition="#u">ò</hi> est devenu <hi rendition="#u">uo</hi>, changement incontestable]<note n="12"
+              place="foot" type="editorial">Crochets de la main de Schuchardt.</note> ni comment le <hi
+              rendition="#u">uei</hi> issu de ce <hi rendition="#u">uoi</hi> est devenu <hi
+              rendition="#u">üi</hi> [d’abord sur <hi rendition="#u">üi</hi> = <hi
+              rendition="#u">òi</hi> nous sommes d’accord, de la même manière que <hi
+              rendition="#u">ue</hi> est devenu <hi rendition="#u">ö</hi> par ex. en <hi rendition="#u">cör</hi> = <hi
+              rendition="#u">cuer</hi> ital. <hi rendition="#u">cuore</hi>;]<note n="13" place="foot"
+              type="editorial">Crochets de la main de Schuchardt.</note> et qu’il ne peut même appuyer empiriquement par la citation d’un <hi
+              rendition="#u">uoi</hi> devenant <hi rendition="#u">üi</hi> en français». Mais je prierai <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">M. H.</persName> lui-même de me fournir un exemple du v. fr. <hi rendition="#u">öi</hi>; sans doute, ils ont existé des sons intermédiaires en vieux français dont l’écriture ne nous a pas laissé de trace. </p>
+        </postscript>
+        <signed>Hugo Schuchardt.</signed>
+        <postscript>
+          <p> 1) Mais <hi rendition="#u">u ü i</hi> ne sont pas, comme <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">M. H.</persName> paraît le croire, fermées dans le même degré. Le rétrécissement de la cavité buccale est beaucoup moins grand chez l’<hi
+              rendition="#u">u</hi> que chez l’<hi rendition="#u">i</hi> (voir <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5764">Brücke Grundzüge Tabl. d. figures</ref>
+            </bibl>). Quant au rétrécissement de l’ouverture buccale, il n’y a rien à voir, car elle constitue la <hi rendition="#u">labialité</hi> des voyelles </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

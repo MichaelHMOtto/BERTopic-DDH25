@@ -1,0 +1,1148 @@
+# newdoc id = ParlaMint-DK_20220428100002
+# newpar id = ParlaMint-DK_20220428100002.seg1
+# lang = en
+# sent_id = ParlaMint-DK_20220428100002.seg1.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.826
+# text = The meeting is open.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	open	open	ADJ	A10p	Degree=Pos	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.2
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.834
+# text = The Minister for Transport (Trine Bramsen) has informed me that she wishes to withdraw the following bill: Draft law amending the law on the carriage of goods.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	Minister	Minister	PROPN	G1.1|S2	Number=Sing	0	_	_	NER=B-ORG
+3	for	for	ADP	Z5	_	0	_	_	NER=I-ORG
+4	Transport	Transport	PROPN	M2	Number=Sing	0	_	_	NER=I-ORG
+5	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+6	Trine	Trine	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+7	Bramsen	Bramsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+8	)	)	PUNCT	Z9	_	0	_	_	NER=O
+9	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+10	informed	inform	VERB	A5.4p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+11	me	I	PRON	A5.4p	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+12	that	that	SCONJ	Z5	_	0	_	_	NER=O
+13	she	she	PRON	Z8	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+14	wishes	wish	VERB	X7p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+15	to	to	PART	Z5	_	0	_	_	NER=O
+16	withdraw	withdraw	VERB	M2	VerbForm=Inf	0	_	_	NER=O
+17	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+18	following	follow	VERB	N4	VerbForm=Ger	0	_	_	NER=O
+19	bill	bill	NOUN	I1.3	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+20	:	:	PUNCT	Z9	_	0	_	_	NER=O
+21	Draft	draft	NOUN	Q1.2	Number=Sing	0	_	_	NER=O
+22	law	law	NOUN	G2.1	Number=Sing	0	_	_	NER=O
+23	amending	amend	VERB	A2.1p	VerbForm=Ger	0	_	_	NER=O
+24	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+25	law	law	NOUN	G2.1	Number=Sing	0	_	_	NER=O
+26	on	on	ADP	Z5	_	0	_	_	NER=O
+27	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+28	carriage	carriage	NOUN	M2	Number=Sing	0	_	_	NER=O
+29	of	of	ADP	Z5	_	0	_	_	NER=O
+30	goods	goods	NOUN	O2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+31	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.082
+# text = 62 B).
+1	62	62	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+2	B	b	NUM	Z5	NumType=Card	0	_	_	NER=O|SpaceAfter=No
+3	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.4
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.411
+# text = Does anyone wish to record this bill?
+1	Does	do	AUX	S1.1.3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	anyone	anyone	PRON	Z8	Number=Sing	0	_	_	NER=O
+3	wish	wish	VERB	X7p	VerbForm=Inf	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	record	record	VERB	Q1.2	VerbForm=Inf	0	_	_	NER=O
+6	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+7	bill	bill	NOUN	I1.3	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+8	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.5
+# senti_3 = Positive
+# senti_6 = positive
+# senti_n = 4.650
+# text = The hand is raised.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	hand	hand	NOUN	B1	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	raised	raise	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.6
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.846
+# text = This is among other things. Mr. Kristian Pihl Lorentzen (V).
+1	This	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+2	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	among	among	ADP	Z5	_	0	_	_	NER=O
+4	other	other	ADJ	A6.1n	Degree=Pos	0	_	_	NER=O
+5	things	thing	NOUN	O2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+6	.	.	PUNCT	Z9	_	0	_	_	NER=O
+7	Mr.	Mr.	PROPN	Z1	Number=Sing	0	_	_	NER=O
+8	Kristian	Kristian	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+9	Pihl	Pihl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+10	Lorentzen	Lorentzen	PROPN	Z99	Number=Sing	0	_	_	NER=I-PER
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	V	V	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+13	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.7
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.294
+# text = And there's more people asking for the same thing, I see.
+1	And	and	CCONJ	Z5	_	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O|SpaceAfter=No
+3	's	be	VERB	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	more	more	ADJ	A13.3	Degree=Cmp	0	_	_	NER=O
+5	people	people	NOUN	S2	Number=Plur	0	_	_	NER=O
+6	asking	ask	VERB	Q2.2	VerbForm=Ger	0	_	_	NER=O
+7	for	for	ADP	Z5	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	same	same	ADJ	A6.1p	Degree=Pos	0	_	_	NER=O
+10	thing	thing	NOUN	O2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z9	_	0	_	_	NER=O
+12	I	I	PRON	Z4	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+13	see	see	VERB	Z4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100002.seg1.8
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.486
+# text = Kristian Pihl Lorentzen (V) and others
+1	Kristian	Kristian	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+2	Pihl	Pihl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+3	Lorentzen	Lorentzen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+4	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+5	V	V	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+6	)	)	PUNCT	Z9	_	0	_	_	NER=O
+7	and	and	CCONJ	Z5	_	0	_	_	NER=O
+8	others	other	NOUN	A6.1n|Z8	Number=Plur	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100035
+# newpar id = ParlaMint-DK_20220428100035.seg2
+# lang = en
+# sent_id = ParlaMint-DK_20220428100035.seg2.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.274
+# text = The first matter on the agenda under paragraph 1 can only be dealt with in this sitting with the agreement of the House.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	first	first	ADJ	N4	Degree=Pos|NumType=Ord	0	_	_	NER=O
+3	matter	matter	NOUN	X4.1	Number=Sing	0	_	_	NER=O
+4	on	on	ADP	A7p	_	0	_	_	NER=O
+5	the	the	DET	A7p	Definite=Def|PronType=Art	0	_	_	NER=O
+6	agenda	agenda	NOUN	A7p	Number=Sing	0	_	_	NER=O
+7	under	under	ADP	Z5	_	0	_	_	NER=O
+8	paragraph	paragraph	NOUN	Q3	Number=Sing	0	_	_	NER=O
+9	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+10	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+11	only	only	ADV	A14	_	0	_	_	NER=O
+12	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+13	dealt	deal	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+14	with	with	ADP	Z5	_	0	_	_	NER=O
+15	in	in	ADP	Z5	_	0	_	_	NER=O
+16	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+17	sitting	sitting	NOUN	M8	Number=Sing	0	_	_	NER=O
+18	with	with	ADP	Z5	_	0	_	_	NER=O
+19	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+20	agreement	agreement	NOUN	A6.1p	Number=Sing	0	_	_	NER=O
+21	of	of	ADP	Z5	_	0	_	_	NER=O
+22	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+23	House	House	PROPN	H4	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+24	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100035.seg2.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.562
+# text = The vote on this paragraph shall be taken and, in accordance with Rule 42 of the Rules of Procedure, a three-quarters majority shall be required for such consent.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+3	on	on	ADP	Z5	_	0	_	_	NER=O
+4	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+5	paragraph	paragraph	NOUN	Q3	Number=Sing	0	_	_	NER=O
+6	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+7	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+8	taken	take	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+9	and	and	CCONJ	Z5	_	0	_	_	NER=O|SpaceAfter=No
+10	,	,	PUNCT	Z9	_	0	_	_	NER=O
+11	in	in	ADP	Z5	_	0	_	_	NER=O
+12	accordance	accordance	NOUN	S7.1n	Number=Sing	0	_	_	NER=O
+13	with	with	ADP	Z5	_	0	_	_	NER=O
+14	Rule	rule	NOUN	Z2	Number=Sing	0	_	_	NER=B-MISC
+15	42	42	NUM	Z2	NumForm=Digit|NumType=Card	0	_	_	NER=I-MISC
+16	of	of	ADP	Z5	_	0	_	_	NER=O
+17	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+18	Rules	rule	NOUN	G2.1	Number=Plur	0	_	_	NER=B-MISC
+19	of	of	ADP	Z5	_	0	_	_	NER=I-MISC
+20	Procedure	procedure	NOUN	X4.2	Number=Sing	0	_	_	NER=I-MISC|SpaceAfter=No
+21	,	,	PUNCT	Z9	_	0	_	_	NER=O
+22	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+23	three	three	NUM	N1	NumForm=Word|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+24	-	-	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+25	quarters	quarter	NOUN	N1	Number=Plur	0	_	_	NER=O
+26	majority	majority	NOUN	N5p	Number=Sing	0	_	_	NER=O
+27	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+28	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+29	required	require	VERB	X7p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+30	for	for	ADP	Z5	_	0	_	_	NER=O
+31	such	such	ADJ	Z5	Degree=Pos	0	_	_	NER=O
+32	consent	consent	NOUN	S7.4p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+33	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100053
+# newpar id = ParlaMint-DK_20220428100053.seg3
+# lang = en
+# sent_id = ParlaMint-DK_20220428100053.seg3.1
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.351
+# text = The consent may be put to the vote.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	consent	consent	NOUN	S7.4p	Number=Sing	0	_	_	NER=O
+3	may	may	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+4	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+5	put	put	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+6	to	to	ADP	Z5	_	0	_	_	NER=O
+7	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+8	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+9	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100053.seg3.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.751
+# text = The vote will end.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+3	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+4	end	end	VERB	T2n	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100053.seg3.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.615
+# text = voted 98 (S, V, SF, RV, EL, KF, DF, NB, LA, FG, SP, Hans Kristian Skibby (UFG), Karina Adsbøl (UFG), Lise Bech (UFG) and Nas Khader (UFG), against 0, abstentions 0.
+1	voted	vote	VERB	G1.2	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+2	98	98	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+3	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+4	S	S	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z9	_	0	_	_	NER=O
+6	V	V	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z9	_	0	_	_	NER=O
+8	SF	SF	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+9	,	,	PUNCT	Z9	_	0	_	_	NER=O
+10	RV	RV	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z9	_	0	_	_	NER=O
+12	EL	EL	PROPN	M5	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+13	,	,	PUNCT	Z9	_	0	_	_	NER=O
+14	KF	KF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+15	,	,	PUNCT	Z9	_	0	_	_	NER=O
+16	DF	DF	PROPN	Z99	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+17	,	,	PUNCT	Z9	_	0	_	_	NER=O
+18	NB	NB	PROPN	Z5	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+19	,	,	PUNCT	Z9	_	0	_	_	NER=O
+20	LA	LA	PROPN	Z2	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+21	,	,	PUNCT	Z9	_	0	_	_	NER=O
+22	FG	FG	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+23	,	,	PUNCT	Z9	_	0	_	_	NER=O
+24	SP	SP	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+25	,	,	PUNCT	Z9	_	0	_	_	NER=O
+26	Hans	Hans	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+27	Kristian	Kristian	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+28	Skibby	Skibby	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+29	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+30	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+31	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+32	,	,	PUNCT	Z9	_	0	_	_	NER=O
+33	Karina	Karina	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+34	Adsbøl	Adsbøl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+35	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+36	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+37	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+38	,	,	PUNCT	Z9	_	0	_	_	NER=O
+39	Lise	Lise	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+40	Bech	Bech	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+41	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+42	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+43	)	)	PUNCT	Z9	_	0	_	_	NER=O
+44	and	and	CCONJ	Z5	_	0	_	_	NER=O
+45	Nas	Nas	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+46	Khader	Khader	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+47	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+48	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+49	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+50	,	,	PUNCT	Z9	_	0	_	_	NER=O
+51	against	against	ADP	Z5	_	0	_	_	NER=O
+52	0	0	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+53	,	,	PUNCT	Z9	_	0	_	_	NER=O
+54	abstentions	abstention	NOUN	G1.2	Number=Plur	0	_	_	NER=O
+55	0	0	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+56	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100053.seg3.4
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.207
+# text = The consent is thus granted.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	consent	consent	NOUN	S7.4p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	thus	thus	ADV	Z5|A2.2	_	0	_	_	NER=O
+5	granted	grant	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+6	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100121
+# newpar id = ParlaMint-DK_20220428100121.seg4
+# lang = en
+# sent_id = ParlaMint-DK_20220428100121.seg4.1
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.757
+# text = Amendments have been tabled.
+1	Amendments	amendment	NOUN	A2.1p	Number=Plur	0	_	_	NER=O
+2	have	have	AUX	A9p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+4	tabled	tab	VERB	Q1.2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100121.seg4.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.893
+# text = Does anyone wish to speak?
+1	Does	do	AUX	S1.1.3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	anyone	anyone	PRON	Z8	Number=Sing	0	_	_	NER=O
+3	wish	wish	VERB	X7p	VerbForm=Inf	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	speak	speak	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+6	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100121.seg4.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.313
+# text = Mrs Pia Kjærsgaard does.
+1	Mrs	Mrs	PROPN	Z1	Number=Sing	0	_	_	NER=O
+2	Pia	Pia	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+3	Kjærsgaard	Kjærsgaard	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+4	does	do	VERB	A1.1.1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100149
+# newpar id = ParlaMint-DK_20220428100149.seg5
+# lang = en
+# sent_id = ParlaMint-DK_20220428100149.seg5.1
+# senti_3 = Negative
+# senti_6 = negative
+# senti_n = 0.318
+# text = I take the floor, also because, as the contribution from our report says, we were actually a little surprised that things were mixed up, because we think we are doing that here.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	take	take	VERB	A9p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+4	floor	floor	NOUN	H2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z9	_	0	_	_	NER=O
+6	also	also	ADV	N5p	_	0	_	_	NER=O
+7	because	because	SCONJ	Z5|A2.2	_	0	_	_	NER=O|SpaceAfter=No
+8	,	,	PUNCT	Z9	_	0	_	_	NER=O
+9	as	as	SCONJ	Z5	_	0	_	_	NER=O
+10	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+11	contribution	contribution	NOUN	A9n	Number=Sing	0	_	_	NER=O
+12	from	from	ADP	Z5	_	0	_	_	NER=O
+13	our	we	PRON	Z8	Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	NER=O
+14	report	report	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+15	says	say	VERB	Q2.1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+16	,	,	PUNCT	Z9	_	0	_	_	NER=O
+17	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+18	were	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+19	actually	actually	ADV	A5.4p	_	0	_	_	NER=O
+20	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+21	little	little	ADJ	N3.2n	Degree=Pos	0	_	_	NER=O
+22	surprised	surprised	ADJ	X2.6n	Degree=Pos	0	_	_	NER=O
+23	that	that	SCONJ	Z5	_	0	_	_	NER=O
+24	things	thing	NOUN	O2	Number=Plur	0	_	_	NER=O
+25	were	be	AUX	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+26	mixed	mix	VERB	A2.1p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+27	up	up	ADP	Z5	_	0	_	_	NER=O|SpaceAfter=No
+28	,	,	PUNCT	Z9	_	0	_	_	NER=O
+29	because	because	SCONJ	Z5|A2.2	_	0	_	_	NER=O
+30	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+31	think	think	VERB	A5.4p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+32	we	we	PRON	A5.4p	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+33	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+34	doing	do	VERB	A1.1.1	Tense=Pres|VerbForm=Part	0	_	_	NER=O
+35	that	that	PRON	Z5	Number=Sing|PronType=Dem	0	_	_	NER=O
+36	here	here	ADV	M6	PronType=Dem	0	_	_	NER=O|SpaceAfter=No
+37	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100149.seg5.2
+# senti_3 = Positive
+# senti_6 = positive
+# senti_n = 4.976
+# text = We are very committed to helping where we can in relation to the Ukrainians.
+1	We	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+2	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	very	very	ADV	A13.3	_	0	_	_	NER=O
+4	committed	committed	ADJ	S6p	Degree=Pos	0	_	_	NER=O
+5	to	to	SCONJ	Z5	_	0	_	_	NER=O
+6	helping	help	VERB	S8p	VerbForm=Ger	0	_	_	NER=O
+7	where	where	SCONJ	M6	PronType=Int	0	_	_	NER=O
+8	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+9	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+10	in	in	ADP	A6.1	_	0	_	_	NER=O
+11	relation	relation	NOUN	A6.1	Number=Sing	0	_	_	NER=O
+12	to	to	ADP	Z5	_	0	_	_	NER=O
+13	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+14	Ukrainians	Ukrainian	PROPN	Z2|S2	Number=Plur	0	_	_	NER=B-MISC|SpaceAfter=No
+15	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100149.seg5.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.292
+# text = We have gone so far that we are also voting in favour of a special law.
+1	We	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+2	have	have	AUX	A9p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	gone	go	VERB	M1	Tense=Past|VerbForm=Part	0	_	_	NER=O
+4	so	so	ADV	T1.1.2	_	0	_	_	NER=O
+5	far	far	ADV	T1.1.2	Degree=Pos	0	_	_	NER=O
+6	that	that	SCONJ	Z5	_	0	_	_	NER=O
+7	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+8	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+9	also	also	ADV	N5p	_	0	_	_	NER=O
+10	voting	voting	VERB	G1.2	Tense=Pres|VerbForm=Part	0	_	_	NER=O
+11	in	in	ADP	Z5	_	0	_	_	NER=O
+12	favour	favour	NOUN	S8p	Number=Sing	0	_	_	NER=O
+13	of	of	ADP	Z5	_	0	_	_	NER=O
+14	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+15	special	special	ADJ	A4.2p	Degree=Pos	0	_	_	NER=O
+16	law	law	NOUN	G2.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+17	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100149.seg5.4
+# senti_3 = Negative
+# senti_6 = negative
+# senti_n = 0.413
+# text = But we were very puzzled when we realised and in the debate afterwards it seemed as if the Minister for Integration was a little surprised that Afghans also come under this scheme.
+1	But	but	CCONJ	Z5	_	0	_	_	NER=O
+2	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+3	were	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+4	very	very	ADV	A13.3	_	0	_	_	NER=O
+5	puzzled	puzzled	ADJ	X2.5n	Degree=Pos	0	_	_	NER=O
+6	when	when	SCONJ	Z5	PronType=Int	0	_	_	NER=O
+7	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+8	realised	realise	VERB	X2.5p	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+9	and	and	CCONJ	Z5	_	0	_	_	NER=O
+10	in	in	ADP	Z5	_	0	_	_	NER=O
+11	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+12	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+13	afterwards	afterwards	ADV	N4	_	0	_	_	NER=O
+14	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+15	seemed	seem	VERB	A8	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+16	as	as	SCONJ	Z5	_	0	_	_	NER=O
+17	if	if	SCONJ	Z7	_	0	_	_	NER=O
+18	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+19	Minister	Minister	PROPN	G1.1|S2	Number=Sing	0	_	_	NER=O
+20	for	for	ADP	Z5	_	0	_	_	NER=O
+21	Integration	Integration	PROPN	A1.8p	Number=Sing	0	_	_	NER=O
+22	was	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+23	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+24	little	little	ADJ	N3.2n	Degree=Pos	0	_	_	NER=O
+25	surprised	surprise	VERB	X2.6n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+26	that	that	SCONJ	Z5	_	0	_	_	NER=O
+27	Afghans	Afghan	PROPN	Z2|S2	Number=Plur	0	_	_	NER=B-MISC
+28	also	also	ADV	N5p	_	0	_	_	NER=O
+29	come	come	VERB	M1	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+30	under	under	ADP	Z5	_	0	_	_	NER=O
+31	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+32	scheme	scheme	NOUN	X7p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+33	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100149.seg5.5
+# senti_3 = Negative
+# senti_6 = mixed negative
+# senti_n = 0.508
+# text = After all, it is located in two ministries, i.e. also in the Ministry of Employment, so perhaps there has not been proper coordination between ministries.
+1	After	after	ADP	Z4	_	0	_	_	NER=O
+2	all	all	DET	Z4	_	0	_	_	NER=O|SpaceAfter=No
+3	,	,	PUNCT	Z9	_	0	_	_	NER=O
+4	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+5	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+6	located	locate	VERB	M6	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+7	in	in	ADP	A2.1p	_	0	_	_	NER=O
+8	two	two	NUM	A2.1p	NumForm=Word|NumType=Card	0	_	_	NER=O
+9	ministries	ministry	NOUN	G1.1	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+10	,	,	PUNCT	Z9	_	0	_	_	NER=O
+11	i.e.	i.e.	ADV	A4.1	Abbr=Yes	0	_	_	NER=O
+12	also	also	ADV	N5p	_	0	_	_	NER=O
+13	in	in	ADP	Z5	_	0	_	_	NER=O
+14	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+15	Ministry	Ministry	PROPN	G1.1	Number=Sing	0	_	_	NER=B-ORG
+16	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+17	Employment	employment	PROPN	I3.1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+18	,	,	PUNCT	Z9	_	0	_	_	NER=O
+19	so	so	ADV	Z5	_	0	_	_	NER=O
+20	perhaps	perhaps	ADV	A7	_	0	_	_	NER=O
+21	there	there	PRON	Z5	_	0	_	_	NER=O
+22	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+23	not	not	PART	Z6	_	0	_	_	NER=O
+24	been	be	VERB	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+25	proper	proper	ADJ	A5.4p	Degree=Pos	0	_	_	NER=O
+26	coordination	coordination	NOUN	S7.1p	Number=Sing	0	_	_	NER=O
+27	between	between	ADP	Z5	_	0	_	_	NER=O
+28	ministries	ministry	NOUN	G1.1	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+29	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100149.seg5.6
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.619
+# text = That is why we are asking for the proposal to be split up so that we can vote individually and so that we can give our support to Ukraine, but not to the Afghan interpreters.
+1	That	that	PRON	Z5	Number=Sing|PronType=Dem	0	_	_	NER=O
+2	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	why	why	SCONJ	A2.2	PronType=Int	0	_	_	NER=O
+4	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+5	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+6	asking	ask	VERB	Q2.2	Tense=Pres|VerbForm=Part	0	_	_	NER=O
+7	for	for	ADP	Z5	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	proposal	proposal	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+10	to	to	PART	Z5	_	0	_	_	NER=O
+11	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+12	split	split	VERB	A6.1n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+13	up	up	ADP	Z5	_	0	_	_	NER=O
+14	so	so	SCONJ	Z5	_	0	_	_	NER=O
+15	that	that	SCONJ	Z5	_	0	_	_	NER=O
+16	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+17	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+18	vote	vote	VERB	G1.2	VerbForm=Inf	0	_	_	NER=O
+19	individually	individually	ADV	N5n	_	0	_	_	NER=O
+20	and	and	CCONJ	Z5	_	0	_	_	NER=O
+21	so	so	SCONJ	Z5	_	0	_	_	NER=O
+22	that	that	SCONJ	Z5	_	0	_	_	NER=O
+23	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+24	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+25	give	give	VERB	A5.4p	VerbForm=Inf	0	_	_	NER=O
+26	our	we	PRON	A5.4p	Number=Plur|Person=1|Poss=Yes|PronType=Prs	0	_	_	NER=O
+27	support	support	NOUN	S8p	Number=Sing	0	_	_	NER=O
+28	to	to	ADP	Z5	_	0	_	_	NER=O
+29	Ukraine	Ukraine	PROPN	Z2	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+30	,	,	PUNCT	Z9	_	0	_	_	NER=O
+31	but	but	CCONJ	Z5	_	0	_	_	NER=O
+32	not	not	PART	Z6	_	0	_	_	NER=O
+33	to	to	ADP	Z5	_	0	_	_	NER=O
+34	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+35	Afghan	Afghan	ADJ	Z2	Degree=Pos	0	_	_	NER=B-MISC
+36	interpreters	interpreter	NOUN	Q3|I3.2|S2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+37	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100245
+# newpar id = ParlaMint-DK_20220428100245.seg6
+# lang = en
+# sent_id = ParlaMint-DK_20220428100245.seg6.1
+# senti_3 = Negative
+# senti_6 = mixed negative
+# senti_n = 0.554
+# text = After legal advice, I have to say to Mrs Pia Kjærsgaard that, since no amendment has been tabled on it, it cannot be done.
+1	After	after	ADP	Z5	_	0	_	_	NER=O
+2	legal	legal	ADJ	G2.1	Degree=Pos	0	_	_	NER=O
+3	advice	advice	NOUN	Q2.2|S8p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+4	,	,	PUNCT	Z9	_	0	_	_	NER=O
+5	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+6	have	have	VERB	A9p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+7	to	to	PART	Z5	_	0	_	_	NER=O
+8	say	say	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O
+9	to	to	ADP	Z5	_	0	_	_	NER=O
+10	Mrs	Mrs	PROPN	Z1	Number=Sing	0	_	_	NER=O
+11	Pia	Pia	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+12	Kjærsgaard	Kjærsgaard	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+13	that	that	SCONJ	Z5	_	0	_	_	NER=O|SpaceAfter=No
+14	,	,	PUNCT	Z9	_	0	_	_	NER=O
+15	since	since	SCONJ	Z5	_	0	_	_	NER=O
+16	no	no	DET	Z6	_	0	_	_	NER=O
+17	amendment	amendment	NOUN	A2.1p	Number=Sing	0	_	_	NER=O
+18	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+19	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+20	tabled	tab	VERB	Q1.2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+21	on	on	ADP	Z5	_	0	_	_	NER=O
+22	it	it	PRON	Z8	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+23	,	,	PUNCT	Z9	_	0	_	_	NER=O
+24	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+25	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+26	not	not	PART	Z6	_	0	_	_	NER=O
+27	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+28	done	do	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+29	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100245.seg6.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.105
+# text = It's the highest legal expertise that says this.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+2	's	be	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+4	highest	high	ADJ	N3.7p	Degree=Sup	0	_	_	NER=O
+5	legal	legal	ADJ	G2.1	Degree=Pos	0	_	_	NER=O
+6	expertise	expertise	NOUN	X2.2p	Number=Sing	0	_	_	NER=O
+7	that	that	PRON	A13.3	PronType=Rel	0	_	_	NER=O
+8	says	say	VERB	Q2.1	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+9	this	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O|SpaceAfter=No
+10	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100245.seg6.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.167
+# text = I am told that there must have been an amendment to the Rules of Procedure.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	am	be	AUX	A3p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	told	tell	VERB	Q2.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+4	that	that	SCONJ	Z5	_	0	_	_	NER=O
+5	there	there	PRON	Z5	_	0	_	_	NER=O
+6	must	must	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+7	have	have	AUX	A9p	VerbForm=Inf	0	_	_	NER=O
+8	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+9	an	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+10	amendment	amendment	NOUN	A2.1p	Number=Sing	0	_	_	NER=O
+11	to	to	ADP	Z5	_	0	_	_	NER=O
+12	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+13	Rules	rule	NOUN	G2.1	Number=Plur	0	_	_	NER=B-MISC
+14	of	of	ADP	Z5	_	0	_	_	NER=I-MISC
+15	Procedure	procedure	NOUN	X4.2	Number=Sing	0	_	_	NER=I-MISC|SpaceAfter=No
+16	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100245.seg6.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.119
+# text = Can I make an addition?).
+1	Can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+2	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+3	make	make	VERB	A1.1.1	VerbForm=Inf	0	_	_	NER=O
+4	an	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+5	addition	addition	NOUN	N5p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+6	?	?	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+7	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+8	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100245.seg6.5
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.383
+# text = Yes, of course, when you are not allowed to have a vote, you are allowed to add something.
+1	Yes	yes	INTJ	Z4	_	0	_	_	NER=O|SpaceAfter=No
+2	,	,	PUNCT	Z9	_	0	_	_	NER=O
+3	of	of	ADP	Z5	ExtPos=ADV	0	_	_	NER=O
+4	course	course	NOUN	M6	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+5	,	,	PUNCT	Z9	_	0	_	_	NER=O
+6	when	when	SCONJ	Z5	PronType=Int	0	_	_	NER=O
+7	you	you	PRON	Z8	Case=Nom|Person=2|PronType=Prs	0	_	_	NER=O
+8	are	be	AUX	A3p	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+9	not	not	PART	Z6	_	0	_	_	NER=O
+10	allowed	allow	VERB	S7.4p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+11	to	to	PART	Z5	_	0	_	_	NER=O
+12	have	have	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+13	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+14	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+15	,	,	PUNCT	Z9	_	0	_	_	NER=O
+16	you	you	PRON	Z8	Case=Nom|Person=2|PronType=Prs	0	_	_	NER=O
+17	are	be	AUX	A3p	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+18	allowed	allow	VERB	S7.4p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+19	to	to	PART	Z5	_	0	_	_	NER=O
+20	add	add	VERB	A5.4p	VerbForm=Inf	0	_	_	NER=O
+21	something	something	PRON	A5.4p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+22	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100302
+# newpar id = ParlaMint-DK_20220428100302.seg7
+# lang = en
+# sent_id = ParlaMint-DK_20220428100302.seg7.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.234
+# text = Thank you.
+1	Thank	thank	VERB	Z4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	you	you	PRON	Z4	Case=Acc|Person=2|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+3	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100302.seg7.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.684
+# text = Well, I would just like to ask you to read the comments very carefully, so that you can at least fully understand what this is all about.
+1	Well	well	INTJ	Z4	_	0	_	_	NER=O|SpaceAfter=No
+2	,	,	PUNCT	Z9	_	0	_	_	NER=O
+3	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+4	would	would	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+5	just	just	ADV	A14	_	0	_	_	NER=O
+6	like	like	VERB	E2p	VerbForm=Inf	0	_	_	NER=O
+7	to	to	PART	Z5	_	0	_	_	NER=O
+8	ask	ask	VERB	A5.4p	VerbForm=Inf	0	_	_	NER=O
+9	you	you	PRON	A5.4p	Case=Acc|Person=2|PronType=Prs	0	_	_	NER=O
+10	to	to	PART	Z5	_	0	_	_	NER=O
+11	read	read	VERB	Q3	VerbForm=Inf	0	_	_	NER=O
+12	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+13	comments	comment	NOUN	Q2.1	Number=Plur	0	_	_	NER=O
+14	very	very	ADV	A13.3	_	0	_	_	NER=O
+15	carefully	carefully	ADV	A1.3p	_	0	_	_	NER=O|SpaceAfter=No
+16	,	,	PUNCT	Z9	_	0	_	_	NER=O
+17	so	so	SCONJ	Z5	_	0	_	_	NER=O
+18	that	that	SCONJ	Z5	_	0	_	_	NER=O
+19	you	you	PRON	Z8	Case=Nom|Person=2|PronType=Prs	0	_	_	NER=O
+20	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+21	at	at	ADP	Z5	ExtPos=ADV	0	_	_	NER=O
+22	least	least	ADJ	A13.7	Degree=Sup	0	_	_	NER=O
+23	fully	fully	ADV	A13.2	_	0	_	_	NER=O
+24	understand	understand	VERB	A5.4p	VerbForm=Inf	0	_	_	NER=O
+25	what	what	PRON	A5.4p	PronType=Int	0	_	_	NER=O
+26	this	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+27	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+28	all	all	ADV	A13.2	_	0	_	_	NER=O
+29	about	about	ADP	Z5	_	0	_	_	NER=O|SpaceAfter=No
+30	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100302.seg7.3
+# senti_3 = Negative
+# senti_6 = negative
+# senti_n = 0.469
+# text = In fact, I do not think that Parliament was at first reading.
+1	In	in	ADP	A5.2p	_	0	_	_	NER=O
+2	fact	fact	NOUN	A5.2p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+3	,	,	PUNCT	Z9	_	0	_	_	NER=O
+4	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+5	do	do	AUX	S1.1.3p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+6	not	not	PART	Z6	_	0	_	_	NER=O
+7	think	think	VERB	X2.1	VerbForm=Inf	0	_	_	NER=O
+8	that	that	SCONJ	Z5	_	0	_	_	NER=O
+9	Parliament	Parliament	PROPN	G1.1	Number=Sing	0	_	_	NER=O
+10	was	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+11	at	at	ADP	Z5	_	0	_	_	NER=O
+12	first	first	ADJ	G1.1	Degree=Pos|NumType=Ord	0	_	_	NER=O
+13	reading	reading	NOUN	G1.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100302.seg7.4
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.613
+# text = Thank you.
+1	Thank	thank	VERB	Z4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	you	you	PRON	Z4	Case=Acc|Person=2|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+3	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100322
+# newpar id = ParlaMint-DK_20220428100322.seg8
+# lang = en
+# sent_id = ParlaMint-DK_20220428100322.seg8.1
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.772
+# text = Then I'll see if anyone else wants to speak.
+1	Then	then	ADV	N4	PronType=Dem	0	_	_	NER=O
+2	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+3	'll	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+4	see	see	VERB	X3.4	VerbForm=Inf	0	_	_	NER=O
+5	if	if	SCONJ	Z7	_	0	_	_	NER=O
+6	anyone	anyone	PRON	Z8	Number=Sing	0	_	_	NER=O
+7	else	else	ADJ	A6.1n	Degree=Pos	0	_	_	NER=O
+8	wants	want	VERB	X7p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+9	to	to	PART	Z5	_	0	_	_	NER=O
+10	speak	speak	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100322.seg8.2
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.361
+# text = As this is not the case, the debate is closed and we shall proceed to the vote.
+1	As	as	SCONJ	Z5	_	0	_	_	NER=O
+2	this	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	not	not	PART	Z6	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z9	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+10	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+11	closed	close	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+12	and	and	CCONJ	Z5	_	0	_	_	NER=O
+13	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+14	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+15	proceed	proceed	VERB	A1.1.1	VerbForm=Inf	0	_	_	NER=O
+16	to	to	ADP	Z5	_	0	_	_	NER=O
+17	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+18	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+19	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100328
+# newpar id = ParlaMint-DK_20220428100328.seg9
+# lang = en
+# sent_id = ParlaMint-DK_20220428100328.seg9.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.455
+# text = PRESIDENT. - The next item is the joint debate on the following motions for resolutions: 1-4, member of the Committee?
+1	PRESIDENT	president	NOUN	G1.1|S7.1p|S2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+2	.	.	PUNCT	Z9	_	0	_	_	NER=O
+3	-	-	PUNCT	Z9	_	0	_	_	NER=O
+4	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+6	item	item	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+7	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	joint	joint	ADJ	S5p	Degree=Pos	0	_	_	NER=O
+10	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+11	on	on	ADP	Z5	_	0	_	_	NER=O
+12	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+13	following	follow	VERB	M1	VerbForm=Ger	0	_	_	NER=O
+14	motions	motion	NOUN	M1	Number=Plur	0	_	_	NER=O
+15	for	for	ADP	Z5	_	0	_	_	NER=O
+16	resolutions	resolution	NOUN	X6p	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+17	:	:	PUNCT	Z9	_	0	_	_	NER=O
+18	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+19	-	-	PUNCT	Z99	_	0	_	_	NER=O|SpaceAfter=No
+20	4	4	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+21	,	,	PUNCT	Z9	_	0	_	_	NER=O
+22	member	member	NOUN	S5p|S2	Number=Sing	0	_	_	NER=O
+23	of	of	ADP	Z5	_	0	_	_	NER=O
+24	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+25	Committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+26	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.2
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.119
+# text = They are adopted.
+1	They	they	PRON	Z8	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	NER=O
+2	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	adopted	adopt	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.422
+# text = Amendment No 1 shall be put to the vote. 8 outside the report by Peter Skaarup (DF), and a vote can be taken.
+1	Amendment	amendment	NOUN	A2.1p	Number=Sing	0	_	_	NER=B-MISC
+2	No	no	DET	Z6	_	0	_	_	NER=I-MISC
+3	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=I-MISC
+4	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+5	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+6	put	put	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+7	to	to	ADP	Z5	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+10	.	.	PUNCT	Z9	_	0	_	_	NER=O
+11	8	8	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+12	outside	outside	ADP	Z5	_	0	_	_	NER=O
+13	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+14	report	report	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+15	by	by	ADP	Z5	_	0	_	_	NER=O
+16	Peter	Peter	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+17	Skaarup	Skaarup	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+18	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+19	DF	DF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+20	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+21	,	,	PUNCT	Z9	_	0	_	_	NER=O
+22	and	and	CCONJ	Z5	_	0	_	_	NER=O
+23	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+24	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+25	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+26	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+27	taken	take	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+28	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.751
+# text = The vote will end.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+3	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+4	end	end	VERB	T2n	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.5
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.773
+# text = In favour of voting 11 (DF, NB, Hans Kristian Skibby (UFG), Karina Adsbøl (UFG) and Lise Bech (UFG)), against voting 87 (S, V, SF, RV, EL, KF, LA, FG, SP and Nas Khader (UFG)), abstention 0.
+1	In	in	ADP	Z5	_	0	_	_	NER=O
+2	favour	favour	NOUN	S8p	Number=Sing	0	_	_	NER=O
+3	of	of	SCONJ	Z5	_	0	_	_	NER=O
+4	voting	voting	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+5	11	11	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+6	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+7	DF	DF	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+8	,	,	PUNCT	Z9	_	0	_	_	NER=O
+9	NB	NB	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+10	,	,	PUNCT	Z9	_	0	_	_	NER=O
+11	Hans	Hans	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+12	Kristian	Kristian	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+13	Skibby	Skibby	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+14	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+16	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+17	,	,	PUNCT	Z9	_	0	_	_	NER=O
+18	Karina	Karina	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+19	Adsbøl	Adsbøl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+20	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+21	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+22	)	)	PUNCT	Z9	_	0	_	_	NER=O
+23	and	and	CCONJ	Z5	_	0	_	_	NER=O
+24	Lise	Lise	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+25	Bech	Bech	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+26	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+27	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+28	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+29	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+30	,	,	PUNCT	Z9	_	0	_	_	NER=O
+31	against	against	ADP	Z5	_	0	_	_	NER=O
+32	voting	voting	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+33	87	87	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+34	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+35	S	S	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+36	,	,	PUNCT	Z9	_	0	_	_	NER=O
+37	V	V	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+38	,	,	PUNCT	Z9	_	0	_	_	NER=O
+39	SF	SF	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+40	,	,	PUNCT	Z9	_	0	_	_	NER=O
+41	RV	RV	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+42	,	,	PUNCT	Z9	_	0	_	_	NER=O
+43	EL	EL	PROPN	M5	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+44	,	,	PUNCT	Z9	_	0	_	_	NER=O
+45	KF	KF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+46	,	,	PUNCT	Z9	_	0	_	_	NER=O
+47	LA	LA	PROPN	Z2	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+48	,	,	PUNCT	Z9	_	0	_	_	NER=O
+49	FG	FG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+50	,	,	PUNCT	Z9	_	0	_	_	NER=O
+51	SP	SP	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG
+52	and	and	CCONJ	Z5	_	0	_	_	NER=O
+53	Nas	Nas	PROPN	Z1	Number=Sing	0	_	_	NER=B-LOC
+54	Khader	Khader	PROPN	Z1	Number=Sing	0	_	_	NER=I-LOC
+55	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+56	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+57	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+58	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+59	,	,	PUNCT	Z9	_	0	_	_	NER=O
+60	abstention	abstention	NOUN	G1.2	Number=Sing	0	_	_	NER=O
+61	0	0	NUM	Z9	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+62	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.6
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.669
+# text = It has been rejected.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+2	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+4	rejected	reject	VERB	X7n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.7
+# senti_3 = Negative
+# senti_6 = mixed negative
+# senti_n = 1.230
+# text = I shall now look at Amendment No 17. 9, also tabled by Peter Skaarup (DF), who rejected.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+3	now	now	ADV	T1.1.2	_	0	_	_	NER=O
+4	look	look	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+5	at	at	ADP	Z5	_	0	_	_	NER=O
+6	Amendment	amendment	NOUN	A2.1p	Number=Sing	0	_	_	NER=B-MISC
+7	No	no	ADV	Z6	_	0	_	_	NER=I-MISC
+8	17	17	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=I-MISC|SpaceAfter=No
+9	.	.	PUNCT	Z9	_	0	_	_	NER=O
+10	9	9	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z9	_	0	_	_	NER=O
+12	also	also	ADV	N5p	_	0	_	_	NER=O
+13	tabled	tab	VERB	Q1.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+14	by	by	ADP	Z5	_	0	_	_	NER=O
+15	Peter	Peter	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+16	Skaarup	Skaarup	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+17	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+18	DF	DF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+19	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+20	,	,	PUNCT	Z9	_	0	_	_	NER=O
+21	who	who	PRON	Z8	PronType=Rel	0	_	_	NER=O
+22	rejected	reject	VERB	X7n	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+23	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.8
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.669
+# text = It has been rejected.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+2	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+4	rejected	reject	VERB	X7n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.9
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.430
+# text = PRESIDENT. - The next item is the joint debate on the following motions for resolutions: 5-7, elected by the Committee?
+1	PRESIDENT	president	NOUN	G1.1|S7.1p|S2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+2	.	.	PUNCT	Z9	_	0	_	_	NER=O
+3	-	-	PUNCT	Z9	_	0	_	_	NER=O
+4	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+6	item	item	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+7	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	joint	joint	ADJ	S5p	Degree=Pos	0	_	_	NER=O
+10	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+11	on	on	ADP	Z5	_	0	_	_	NER=O
+12	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+13	following	follow	VERB	M1	VerbForm=Ger	0	_	_	NER=O
+14	motions	motion	NOUN	M1	Number=Plur	0	_	_	NER=O
+15	for	for	ADP	Z5	_	0	_	_	NER=O
+16	resolutions	resolution	NOUN	X6p	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+17	:	:	PUNCT	Z9	_	0	_	_	NER=O
+18	5	5	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+19	-	-	PUNCT	Z99	_	0	_	_	NER=O|SpaceAfter=No
+20	7	7	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+21	,	,	PUNCT	Z9	_	0	_	_	NER=O
+22	elected	elect	VERB	G1.2|X7p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+23	by	by	ADP	Z5	_	0	_	_	NER=O
+24	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+25	Committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+26	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.10
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.119
+# text = They are adopted.
+1	They	they	PRON	Z8	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	NER=O
+2	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	adopted	adopt	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.11
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.842
+# text = I propose that the draft law should go directly to the third reading without referral back to committee and, if no one objects, I consider it adopted.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	propose	propose	VERB	Q2.2|X7p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	that	that	SCONJ	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	draft	draft	NOUN	Q1.2	Number=Sing	0	_	_	NER=O
+6	law	law	NOUN	G2.1	Number=Sing	0	_	_	NER=O
+7	should	should	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+8	go	go	VERB	M1	VerbForm=Inf	0	_	_	NER=O
+9	directly	directly	ADV	M6	_	0	_	_	NER=O
+10	to	to	ADP	Z5	_	0	_	_	NER=O
+11	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+12	third	third	ADJ	G1.1	Degree=Pos|NumType=Ord	0	_	_	NER=O
+13	reading	reading	NOUN	G1.1	Number=Sing	0	_	_	NER=O
+14	without	without	ADP	Z5	_	0	_	_	NER=O
+15	referral	referral	NOUN	Q2.2|S2	Number=Sing	0	_	_	NER=O
+16	back	back	ADV	M6	_	0	_	_	NER=O
+17	to	to	ADP	Z5	_	0	_	_	NER=O
+18	committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=O
+19	and	and	CCONJ	Z5	_	0	_	_	NER=O|SpaceAfter=No
+20	,	,	PUNCT	Z9	_	0	_	_	NER=O
+21	if	if	SCONJ	Z7	_	0	_	_	NER=O
+22	no	no	DET	Z6	_	0	_	_	NER=O
+23	one	one	NOUN	N1	Number=Sing	0	_	_	NER=O
+24	objects	object	VERB	A6.1n	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+25	,	,	PUNCT	Z9	_	0	_	_	NER=O
+26	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+27	consider	consider	VERB	A5.4p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+28	it	it	PRON	A5.4p	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+29	adopted	adopt	VERB	A9p	Tense=Past|VerbForm=Part	0	_	_	NER=O|SpaceAfter=No
+30	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100328.seg9.12
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.075
+# text = It's agreed.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+2	's	be	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	agreed	agree	VERB	A6.1p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220428100426
+# newpar id = ParlaMint-DK_20220428100426.seg10
+# lang = en
+# sent_id = ParlaMint-DK_20220428100426.seg10.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.239
+# text = For technical reasons, a short break must be made.
+1	For	for	ADP	Z5	_	0	_	_	NER=O
+2	technical	technical	ADJ	Y1	Degree=Pos	0	_	_	NER=O
+3	reasons	reason	NOUN	A2.2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+4	,	,	PUNCT	Z9	_	0	_	_	NER=O
+5	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+6	short	short	ADJ	T1.3n	Degree=Pos	0	_	_	NER=O
+7	break	break	NOUN	K1|T1.3	Number=Sing	0	_	_	NER=O
+8	must	must	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+9	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+10	made	make	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100426.seg10.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.471
+# text = I'm here to close the meeting.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+2	'm	be	AUX	A3p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	here	here	ADV	M6	PronType=Dem	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	close	close	VERB	A1.1.1	VerbForm=Inf	0	_	_	NER=O
+6	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+7	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+8	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220428100426.seg10.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.643
+# text = The next meeting will be held today at 2 p.m. 10:15.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+3	meeting	meeting	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+4	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+5	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+6	held	hold	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+7	today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O
+8	at	at	ADP	Z5	_	0	_	_	NER=O
+9	2	2	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+10	p.m.	p.m.	NOUN	Z99	Number=Sing	0	_	_	NER=O
+11	10:15	10:15	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+12	.	.	PUNCT	Z9	_	0	_	_	NER=O
+

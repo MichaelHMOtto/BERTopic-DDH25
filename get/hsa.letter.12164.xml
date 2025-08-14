@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Pietro Pavesi an Hugo Schuchardt (02-08689)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2362">
+            <forename>Pietro</forename>
+            <surname>Pavesi</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12164" type="PID">o:hsa.letter.12164</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-08689</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08689</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2362">
+                <forename>Pietro</forename>
+                <surname>Pavesi</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.822" ref="http://sws.geonames.org/3171366">Pavia</origPlace>
+              <origDate ana="dcterms:created" when="1905-01-02">1905-01-02</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Pietro Pavesi und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2362"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12164">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2362" ref="https://viaf.org/viaf/8171677">
+            <forename>Pietro</forename>
+            <surname>Pavesi</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.822" key="#GID.1" ref="http://sws.geonames.org/3171366">Pavia</placeName>
+          <date when="1905-01-02">1905-01-02</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Pavia</settlement>
+                <name ref="http://geonames.org/3171366" type="fcode:PPLA2">Pavia</name>
+                <location>
+                  <geo>9.15917,45.19205</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2362" type="context">
+                        Korrespondenz Pietro Pavesi - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.210" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Fischereigeräte</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12164" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12164" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12164" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12164" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12164" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>REGIA UNIVERSITÀ DI PAVIA<lb/> Gabinetto Zoologico<lb/> Pavia 2 Gennaio 1905</dateline>
+        <opener>Illustre Collega</opener>
+        <p> L’articolo <hi rend="unknown" rendition="#none">Italien</hi> in <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4583">Amtl. Ber. Berlin 1880 III, p. 54-55</ref>
+
+          </bibl> è una traduzione libera del Catalogo italiano, Firenze 1880, p. 24, nella parte che io ho scritta per illustrazione dei modelli da me esporti a spese del Ministero A. I. E.<note
+            n="1" place="foot" type="editorial">
+„Affari Italiani Esteriori“.</note> Anche in questo c’è <hi
+            rend="unknown" rendition="#none">Arguss-a-cua</hi> (meglio <hi rend="unknown"
+            rendition="#none">
+coua</hi> o <hi rend="unknown" rendition="#none">couva</hi>) o <hi rend="unknown"
+            rendition="#none">Red-a-pussón</hi> (meglio <hi rend="unknown"
+            rendition="#none">pousson</hi>) per guada, e per guadino <hi rend="unknown"
+            rendition="#none">Argussìn</hi>, <hi rend="unknown"
+            rendition="#none">
+Arguss-largh</hi> ecc. Non c’è differenza di forma, ma di grandezza, come Gourma, Gourmón, Gourmetta, Tremagg, Tremaggión, Tremaggìn; e il guadino è quello che Ella mi figura, si chiama <hi
+            rend="unknown"
+            rendition="#none">sibiello</hi> sul lago di Como e si adopra per prendere il pesce grosso e gettarlo in barca quando è poco abboccato all’amo di tirlindana o dl lenza qualunque. Anche il nome di <hi
+            rend="unknown" rendition="#none">red-à-poussón</hi> è dato all’<hi rend="unknown"
+            rendition="#none">
+Arguss</hi> perchè non di rado si adopra insieme con altro palo, semplie o prov- <pb
+            facs="#IMG.2"
+            n="2"/> veduto all’estremità inferiore di pezzi di cuoio, che si spinge ripetutamente sul fondo o sugli anfratti delle rive per scacciare il pesce, il quale incappa in vece della rete dell’<hi
+            rend="unknown" rendition="#none">
+arguss</hi>. Questo palo o <hi rend="unknown"
+            rendition="#none">poussón</hi> è manovrato dalla stessa persona, oppure da un compagno. Lo <hi
+            rend="unknown" rendition="#none">Arguss-a-cona</hi> è tutt’altro che il berto vello, ma sempre un <hi
+            rend="unknown"
+            rendition="#none">Arguss</hi>, tutt’al più con la rete a sacco più lunga e che va restringendosi anche nelle maglie. In Targioni II.i, p. 262<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4673">
+                <hi rend="unknown" rendition="#none">La pesca in Italia</hi>. Documenti, raccolti e ordinati da per cura di AD. TARGONI TOZZETTI, Genova: Tip. del R. Istituto Sordo-muti, 1872.</ref>
+            </bibl>
+          </note>, si nomina è vero un <hi rend="unknown" rendition="#none">arguzzo quadro</hi> o <hi rend="unknown"
+            rendition="#none">navoussa</hi>; ma non ha che fare con bilancia e forse potrà esser detto quadro allorchè l’arco di legno della <hi
+            rend="unknown"
+            rendition="#none">
+navoussa</hi> sia quadrato. Dico „forse“ perchè io non ho mai sentito chiamare con la <hi
+            rend="unknown" rendition="#none">navoussa</hi>. </p>
+
+        <p> A questo proposito stia bene in guardia nel dar valore alla nomenclatura e alle descrizioni del Targioni, il quale fu un compilatore, anzi un cucitore di relazioni locali, spesso mandate da incompetenti; senza vagliarle, nè compararle. Del pari si guardi dal ritenere esatte le descrizioni dei direttori delle cattedre ambulanti di Agricoltura, in genere in- <pb
+            facs="#IMG.3" n="3"/> competenti e che non conoscono nè reti nè pesci. </p>
+
+        <p>Mi congratulo con Lei che possiede una sì ricca biblioteca piscatoria; ma spiacemi di non poterLe offrire alcuna mia, essendo esauriti i miei estratti. Circa l’operetta mia <hi
+            rend="unknown" rendition="#none">I pesci e la pesca nel Canton Ticino</hi>
+          <note n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8338">Pietro Pavesi, <hi rend="unknown" rendition="#none">I pesci e la pesca nel Canton Ticino: Memoria</hi>, Ticino, Tip. Veladini e comp., 1873</ref>
+            </bibl> [kein Bibliotheksnachweis].</note>, della quale mi ha parlato tempo fa il collega Salvioni<note
+            n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2590">Carlo Salvioni</persName> (1858-1920), ital. Romanist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2590?locale=de">HSA 09912-09930</ref>.</note>, credo a di Lei nome, forse potrà trovare copia a Lugano Tipografia Veladini e C. 1871/73. In essa tutto il capitolo II è dedicato a <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.210">strumenti</ref> e modi di pesca, „da me descritti“ per lunga pratica e convivenza coi pescatori dei Laghi di Lugano, Maggiore ecc. Ne ho pure riparlato in <hi
+            rend="unknown"
+            rendition="#none">
+Relazioni [sic] e proposte intorno ad una convenzione di pesca fra l’Italia e la Svizzera</hi>, in Annali Jud. e Comm. 1880 n. 22, Roma Tip. Erredi Botta.<note
+            n="5" place="foot" type="editorial">Siehe <ref target="https://babel.hathitrust.org/cgi/pt?id=hvd.hwinyf&amp;amp;seq=9">
+hier</ref>
+          </note> Accenni a strumenti di pesca nella mia Nota <hi rend="unknown"
+            rendition="#none">Escursione zoologica al lago di Toblino</hi>, in Atti Soc. ital. Sc. nat. XXV, Milano 1881 Tip. Bernardoni; e nella mia Relaz. su la <hi
+            rend="unknown" rendition="#none">Pesca fluviale e lacustre – Piscicoltura</hi>, in Ann. I. e C.<note n="6"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9907">
+                <hi rend="unknown" rendition="#none">Annali dell’Industria e del Commercio</hi> 1882.</ref>
+            </bibl>
+          </note> Roma 1882 Tip. Botta. Ben volentieri poi Le manderei il mio grosso volume <hi rend="unknown"
+            rendition="#none">
+L’industria del tonno</hi>, pubblicatonsi dal Ministero I. C. Roma, 1889 Tip. Botta<note
+            n="7" place="foot" type="editorial"> Der genaue Titel lautet: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9908">
+                <hi rend="unknown" rendition="#none"> L’industria del tonno: relazione alla Commissione reale per le tonnare</hi>, Roma: Tip. eredi Botta, 1889 [In testa al front.: Ministero di agricoltura, industria e commercio, Divisione industrie, commerci e credito]</ref>
+            </bibl>.</note>; ma non ne ho più copia e nemmeno ne ha il Ministero,<pb facs="#IMG.4"
+            n="4"/> il quale pensa perciò a fare una 2<hi
+            rendition="#sup">a</hi>. ed. stante la continua ricerca. Per Lei forse interesserebbe la mia memoria storica <hi
+            rend="unknown" rendition="#none">Ordini e Statuti del Paratico dei pescatori di Pavia</hi>, dove in più luoghi parlo di nomi antichi di pesci e di strumenti di pesa (Pavia Tip. Jusi 1894, in Boll. storico pavese, a. I. 3. 4, a. II. 1. 2.); ma sono tuttavia nello stesso caso. </p>
+        <p>Non conosco il vacabolario del Tommasini<note n="8" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5572">Cesare Tommasini, <hi rend="unknown" rendition="#none">Vocabolario generale di pesca con le voci corrispondenti nei varii dialetti del regno</hi>, Torino: G. B. Paravia, 1906</ref>
+            </bibl>
+          </note>, probabilmente cessato e sospeso; certo sarebbe utilissimo e anche a me, da tempo, è venuto in mente di scrivere uno studio comparato dei nomi di strumenti di pesca, innumerevoli nelle provincie italiane, ma che si potrebbero ridurre a pochi. Le occupazioni diverse, la cattiva salute e molti dolori domestici me ne hanno distolto. </p>
+        <closer>
+          <salute>Mi comandi e mi tenga per di Lei</salute>
+          <lb/>
+          <salute>Dev<hi rendition="#sup">mo</hi>
+          </salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2362">P. Pavesi</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

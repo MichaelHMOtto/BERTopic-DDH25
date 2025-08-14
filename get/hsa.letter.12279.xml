@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Karl Scherzer an Hugo Schuchardt (01-10039)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2629">
+            <forename>Karl</forename>
+            <surname>Scherzer</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12279" type="PID">o:hsa.letter.12279</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-10039</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10039</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2629">
+                <forename>Karl</forename>
+                <surname>Scherzer</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.177" ref="http://sws.geonames.org/2879139">Leipzig</origPlace>
+              <origDate ana="dcterms:created" when="1881-12-29">1881-12-29</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Karl Scherzer und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2629"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12279">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2629" ref="https://viaf.org/viaf/56913741">
+            <forename>Karl</forename>
+            <surname>Scherzer</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.177" key="#GID.1" ref="http://sws.geonames.org/2879139">Leipzig</placeName>
+          <date when="1881-12-29">1881-12-29</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Leipzig</settlement>
+                <name ref="http://geonames.org/2879139" type="fcode:PPLA3">Leipzig</name>
+                <location>
+                  <geo>12.37129,51.33962</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2629" type="context">
+                        Korrespondenz Karl Scherzer - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4636" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Smithonian Institution</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.418" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Lingua franca</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.860" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Italienisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.503" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Malaiisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.555" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Pidgins (Englisch)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12279" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12279" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12279" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12279" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12279" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Leipzig 29. Db. 1881</dateline>
+        <opener>Hochgeehrter Herr Professor,</opener>
+        <p> Auf Ihre in dem geschätzten Schreiben vom 25. dies. ausgesprochenen Wunsche erlaube ich mir zu erwiedern, daß es mir stets zum besonderen Vergnügen gereichen wird Ihnen und der von Ihnen vertretenen Wissenschaft dienlich werden zu können. </p>
+
+        <p>Leider dürfte im gegebenen Falle keiner im Stande sein, die gewuenschte Auskunft und Adressen zu liefern wenigstens nicht in dem ausgedehnten <pb
+            facs="#IMG.2" n="2"/> Maße als ich es von Herzen gern thun möchte. </p>
+        <p> Meine Reisen in Centralamerika, Westindien datiren mehr als Ein Vierteljahrhundert zurück und die meisten der während jener Wanderungen erworbenen Freunde sind entweder wieder nach Europa zurückgekehrt oder zu den Vätern gegangen – </p>
+        <p> In that unborn land </p>
+        <p>from which no traveller returns! ... </p>
+        <p> Um wenigstens meinen guten Willen zu bethätigen, will ich Ihnen nachfolgend einige wolgemeinte Rathschläge geben und Empfehlungen von geeigneten Personen beifügen. </p>
+
+        <p> [linker Rand] Ich schliesse für <placeName> Venezuela</placeName> u. <placeName> Granada</placeName> noch eine Karte für den Prof. Dr. Raimundi an der Universität in Lima (<placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5916">
+Peru</placeName>) bei, einen Mailänder von Geblüt welcher vielleicht am besten die gewünschten Ratschläge zu geben in der Lage sein dürfte. </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p>Für <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5965">Haiti</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5970"> Jamaica</placeName>, Centralamerica würde ich empfehlen, sich an meinen Freund Prof. Spencer Baird, Direktor des <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4636">Smithonschen Institutes</ref> in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6628">
+ Washington</placeName> zu wenden, derselbe ist zwar Zoologe (Ichthyolog) aber hat in seiner Stellung die ausgebreitetsten Beziehungen, er kann Ihnen die <hi
+            rend="unknown" rendition="#none">besten</hi> Adressen angeben. Er spricht zwar etwas <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.667">Deutsch</ref>; es wäre aber zweckmäßiger Ihre kurz formulirten Wünsche in <ref target="https://gams.uni-graz.at/o:hsa.languages#L.891">
+            <hi rend="unknown"
+            rendition="#none">englischer</hi> Sprache</ref> vorzutragen. Für die afrikanische Ost u. Westküste sowie für Nord-Indien, empfehle ich Dr. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2561">Rost</persName> Bibliothekar des India Office in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.656">London</placeName>. Derselbe ist selbst Sprachforscher: äußerst bewandert mit den Sprachen in den engl. Colonien. Die Arbeiten von Dr <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5343"> Bleek</persName> sowie von dem vortrefflichen Sir Georg Grey (gegenwärtig in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5860"> Neuseeland</placeName> angesiedelt) über die afrikan. Sprachen sind Ihnen ja wol zu Gesicht gekommen? </p>
+        <p> [linker Rand] In <placeName> Smyrna</placeName> dürfte Hr. <hi rend="unknown" rendition="#none">C. Neumann</hi> Ihren Interessen foerderlich sein können. </p>
+        <pb facs="#IMG.4" n="4"/>
+        <p>Was die <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.418">lingua franca</ref> betrifft so ist sie eigentlich nichts als ein verderbtes mit griechischen u. türkischen Worten gemischtes <ref target="https://gams.uni-graz.at/o:hsa.languages#L.860">
+            <hi rend="unknown" rendition="#none">Italienisch</hi>
+          </ref>. </p>
+        <p>Ich sehe wenig Unterschied zwischen der l. franca und dem Italienischen gesprochen, welches in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.335">
+            <hi rend="unknown" rendition="#none">Triest</hi>
+          </placeName> geredet wird. Die L. franca ist wie das <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.503"> Malayische</ref> in Vorderindien, die Handelssprache, wodurch sich die zalreichen vielsprachischen Handelsvölker verständlich machen. Viel interessanter ist das sogenannte <ref target="https://gams.uni-graz.at/o:hsa.languages#L.555">
+            <hi rend="unknown" rendition="#none">Pitschen</hi>-Englisch</ref> wie solches in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5946">China</placeName> namentlich in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6279"> Shanghai</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.95">
+Hongkong</placeName> gesprochen wird. Pitchen (business) English ist eine <hi
+            rend="unknown" rendition="#none">Sprache für sich</hi>, die Engländer ebenso wenig verstehen wie Chinesen, wenn sie dieselbe zu erstem Mal hören. </p>
+        <p>So viel mir erinnerlich hat Bastian über die Mengsprachen geschrieben, ebenso widmet Carl Andrée denselben in seiner <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10178">Geographie des Welthandels (Stuttgart J. Maier 1875</ref>
+          </bibl>) eine interessante Schilderung. </p>
+        <closer>
+          <salute>Mit dem Wunsche daß Ihnen meine Andeutungen u. Empfehlungen von einigem Nutzen sein mögen</salute>
+          <lb/>
+          <salute>Ihr bereitwillig Ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2629">D<hi rendition="#sup"> r</hi>Scherzer</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

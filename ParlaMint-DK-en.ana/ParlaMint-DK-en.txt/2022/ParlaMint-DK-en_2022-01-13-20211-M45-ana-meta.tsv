@@ -1,0 +1,785 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+ParlaMint-DK_20220113100001	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	34	38	0	
+ParlaMint-DK_20220113100001.seg1.1	ParlaMint-DK_20220113100001	s	English	Positive	mixed positive	3.826	1	4	5	0	
+ParlaMint-DK_20220113100001.seg1.2	ParlaMint-DK_20220113100001	s	English	Neutral	neutral negative	1.903	1	30	33	0	
+ParlaMint-DK_20220113100019	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	26	29	0	
+ParlaMint-DK_20220113100019.seg2.1	ParlaMint-DK_20220113100019	s	English	Neutral	neutral positive	3.054	1	20	22	0	
+ParlaMint-DK_20220113100019.seg2.2	ParlaMint-DK_20220113100019	s	English	Positive	mixed positive	4.154	1	6	7	0	
+ParlaMint-DK_20220113100105	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	14	15	1	
+ParlaMint-DK_20220113100105.seg3.1	ParlaMint-DK_20220113100105	s	English	Neutral	neutral positive	3.117	1	14	15	1	
+ParlaMint-DK_20220113100125	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	62	1952	2139	19	
+ParlaMint-DK_20220113100125.seg4.1	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113100125.seg4.2	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.802	1	76	83	1	
+ParlaMint-DK_20220113100125.seg4.3	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.459	1	62	64	0	
+ParlaMint-DK_20220113100125.seg4.4	ParlaMint-DK_20220113100125	s	English	Negative	mixed negative	0.826	1	56	58	1	
+ParlaMint-DK_20220113100125.seg4.5	ParlaMint-DK_20220113100125	s	English	Negative	mixed negative	0.537	1	55	61	0	
+ParlaMint-DK_20220113100125.seg4.6	ParlaMint-DK_20220113100125	s	English	Negative	negative	0.213	1	27	30	0	
+ParlaMint-DK_20220113100125.seg4.7	ParlaMint-DK_20220113100125	s	English	Negative	negative	0.166	1	54	61	0	
+ParlaMint-DK_20220113100125.seg4.8	ParlaMint-DK_20220113100125	s	English	Negative	negative	0.133	1	64	69	0	
+ParlaMint-DK_20220113100125.seg4.9	ParlaMint-DK_20220113100125	s	English	Negative	mixed negative	0.836	1	40	46	0	
+ParlaMint-DK_20220113100125.seg4.10	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.025	1	48	50	0	
+ParlaMint-DK_20220113100125.seg4.11	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.927	1	64	69	0	
+ParlaMint-DK_20220113100125.seg4.12	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.369	1	55	60	0	
+ParlaMint-DK_20220113100125.seg4.13	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.021	1	28	29	0	
+ParlaMint-DK_20220113100125.seg4.14	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.880	1	80	84	1	
+ParlaMint-DK_20220113100125.seg4.15	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.178	1	26	28	0	
+ParlaMint-DK_20220113100125.seg4.16	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.363	1	27	29	1	
+ParlaMint-DK_20220113100125.seg4.17	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.368	1	31	35	0	
+ParlaMint-DK_20220113100125.seg4.18	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.381	1	14	17	0	
+ParlaMint-DK_20220113100125.seg4.19	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	1.647	1	33	35	0	
+ParlaMint-DK_20220113100125.seg4.20	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.003	1	39	43	0	
+ParlaMint-DK_20220113100125.seg4.21	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.425	1	44	47	1	
+ParlaMint-DK_20220113100125.seg4.22	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.852	1	55	63	4	
+ParlaMint-DK_20220113100125.seg4.23	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.755	1	17	18	0	
+ParlaMint-DK_20220113100125.seg4.24	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.151	1	18	19	0	
+ParlaMint-DK_20220113100125.seg4.25	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.761	1	16	18	0	
+ParlaMint-DK_20220113100125.seg4.26	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.390	1	39	44	1	
+ParlaMint-DK_20220113100125.seg4.27	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.248	1	37	39	0	
+ParlaMint-DK_20220113100125.seg4.28	ParlaMint-DK_20220113100125	s	English	Positive	positive	4.509	1	11	12	0	
+ParlaMint-DK_20220113100125.seg4.29	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.368	1	30	34	0	
+ParlaMint-DK_20220113100125.seg4.30	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.823	1	21	24	0	
+ParlaMint-DK_20220113100125.seg4.31	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.421	1	11	12	0	
+ParlaMint-DK_20220113100125.seg4.32	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.683	1	21	23	0	
+ParlaMint-DK_20220113100125.seg4.33	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.691	1	58	63	3	
+ParlaMint-DK_20220113100125.seg4.34	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.321	1	22	24	0	
+ParlaMint-DK_20220113100125.seg4.35	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	1.785	1	19	22	0	
+ParlaMint-DK_20220113100125.seg4.36	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.250	1	28	30	0	
+ParlaMint-DK_20220113100125.seg4.37	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.780	1	47	53	0	
+ParlaMint-DK_20220113100125.seg4.38	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.974	1	29	33	1	
+ParlaMint-DK_20220113100125.seg4.39	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.134	1	13	14	0	
+ParlaMint-DK_20220113100125.seg4.40	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.996	1	21	23	2	
+ParlaMint-DK_20220113100125.seg4.41	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.026	1	44	48	0	
+ParlaMint-DK_20220113100125.seg4.42	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.717	1	11	12	0	
+ParlaMint-DK_20220113100125.seg4.43	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.129	1	35	37	1	
+ParlaMint-DK_20220113100125.seg4.44	ParlaMint-DK_20220113100125	s	English	Positive	positive	4.767	1	23	25	0	
+ParlaMint-DK_20220113100125.seg4.45	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.903	1	16	18	0	
+ParlaMint-DK_20220113100125.seg4.46	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.329	1	36	38	0	
+ParlaMint-DK_20220113100125.seg4.47	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.358	1	23	25	0	
+ParlaMint-DK_20220113100125.seg4.48	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.224	1	28	30	0	
+ParlaMint-DK_20220113100125.seg4.49	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.016	1	17	18	0	
+ParlaMint-DK_20220113100125.seg4.50	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.353	1	11	12	0	
+ParlaMint-DK_20220113100125.seg4.51	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.446	1	8	10	0	
+ParlaMint-DK_20220113100125.seg4.52	ParlaMint-DK_20220113100125	s	English	Negative	negative	0.386	1	6	8	0	
+ParlaMint-DK_20220113100125.seg4.53	ParlaMint-DK_20220113100125	s	English	Neutral	neutral negative	2.175	1	31	34	0	
+ParlaMint-DK_20220113100125.seg4.54	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.978	1	13	15	0	
+ParlaMint-DK_20220113100125.seg4.55	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.930	1	11	12	0	
+ParlaMint-DK_20220113100125.seg4.56	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.565	1	33	38	0	
+ParlaMint-DK_20220113100125.seg4.57	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.034	1	10	12	0	
+ParlaMint-DK_20220113100125.seg4.58	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.996	1	25	28	2	
+ParlaMint-DK_20220113100125.seg4.59	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	3.137	1	36	41	0	
+ParlaMint-DK_20220113100125.seg4.60	ParlaMint-DK_20220113100125	s	English	Neutral	neutral positive	2.600	1	58	63	0	
+ParlaMint-DK_20220113100125.seg4.61	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	4.081	1	37	43	0	
+ParlaMint-DK_20220113100125.seg4.62	ParlaMint-DK_20220113100125	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113101401	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	17	21	2	
+ParlaMint-DK_20220113101401.seg5.1	ParlaMint-DK_20220113101401	s	English	Positive	mixed positive	4.321	1	7	8	1	
+ParlaMint-DK_20220113101401.seg5.2	ParlaMint-DK_20220113101401	s	English	Neutral	neutral positive	3.135	1	4	5	0	
+ParlaMint-DK_20220113101401.seg5.3	ParlaMint-DK_20220113101401	s	English	Neutral	neutral positive	2.977	1	6	8	1	
+ParlaMint-DK_20220113101406	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	189	211	3	
+ParlaMint-DK_20220113101406.seg6.1	ParlaMint-DK_20220113101406	s	English	Positive	positive	4.884	1	13	14	0	
+ParlaMint-DK_20220113101406.seg6.2	ParlaMint-DK_20220113101406	s	English	Negative	mixed negative	0.707	1	46	49	0	
+ParlaMint-DK_20220113101406.seg6.3	ParlaMint-DK_20220113101406	s	English	Positive	mixed positive	3.648	1	35	37	2	
+ParlaMint-DK_20220113101406.seg6.4	ParlaMint-DK_20220113101406	s	English	Neutral	neutral positive	2.519	1	35	41	0	
+ParlaMint-DK_20220113101406.seg6.5	ParlaMint-DK_20220113101406	s	English	Negative	negative	0.361	1	41	47	1	
+ParlaMint-DK_20220113101406.seg6.6	ParlaMint-DK_20220113101406	s	English	Positive	mixed positive	3.873	1	13	16	0	
+ParlaMint-DK_20220113101406.seg6.7	ParlaMint-DK_20220113101406	s	English	Neutral	neutral negative	2.238	1	6	7	0	
+ParlaMint-DK_20220113101519	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	0	
+ParlaMint-DK_20220113101519.seg7.1	ParlaMint-DK_20220113101519	s	English	Positive	mixed positive	3.913	1	3	5	0	
+ParlaMint-DK_20220113101520	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	161	179	2	
+ParlaMint-DK_20220113101520.seg8.1	ParlaMint-DK_20220113101520	s	English	Positive	mixed positive	4.440	1	4	8	0	
+ParlaMint-DK_20220113101520.seg8.2	ParlaMint-DK_20220113101520	s	English	Positive	positive	4.640	1	26	27	1	
+ParlaMint-DK_20220113101520.seg8.3	ParlaMint-DK_20220113101520	s	English	Positive	positive	4.806	1	29	32	1	
+ParlaMint-DK_20220113101520.seg8.4	ParlaMint-DK_20220113101520	s	English	Negative	negative	0.294	1	60	67	0	
+ParlaMint-DK_20220113101520.seg8.5	ParlaMint-DK_20220113101520	s	English	Neutral	neutral positive	3.220	1	42	45	0	
+ParlaMint-DK_20220113101620	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113101620.seg9.1	ParlaMint-DK_20220113101620	s	English	Neutral	neutral positive	3.344	1	3	4	1	
+ParlaMint-DK_20220113101621	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	105	113	0	
+ParlaMint-DK_20220113101621.seg10.1	ParlaMint-DK_20220113101621	s	English	Negative	mixed negative	1.081	1	30	31	0	
+ParlaMint-DK_20220113101621.seg10.2	ParlaMint-DK_20220113101621	s	English	Neutral	neutral positive	2.850	1	4	5	0	
+ParlaMint-DK_20220113101621.seg10.3	ParlaMint-DK_20220113101621	s	English	Negative	negative	0.234	1	45	48	0	
+ParlaMint-DK_20220113101621.seg10.4	ParlaMint-DK_20220113101621	s	English	Neutral	neutral positive	2.723	1	26	29	0	
+ParlaMint-DK_20220113101656	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113101656.seg11.1	ParlaMint-DK_20220113101656	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113101658	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	89	101	0	
+ParlaMint-DK_20220113101658.seg12.1	ParlaMint-DK_20220113101658	s	English	Neutral	neutral positive	2.859	1	23	28	0	
+ParlaMint-DK_20220113101658.seg12.2	ParlaMint-DK_20220113101658	s	English	Neutral	neutral negative	2.402	1	6	7	0	
+ParlaMint-DK_20220113101658.seg12.3	ParlaMint-DK_20220113101658	s	English	Neutral	neutral negative	2.333	1	19	21	0	
+ParlaMint-DK_20220113101658.seg12.4	ParlaMint-DK_20220113101658	s	English	Positive	mixed positive	3.915	1	41	45	0	
+ParlaMint-DK_20220113101729	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	7	9	1	
+ParlaMint-DK_20220113101729.seg13.1	ParlaMint-DK_20220113101729	s	English	Positive	mixed positive	3.668	1	7	9	1	
+ParlaMint-DK_20220113101731	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	11	183	205	3	
+ParlaMint-DK_20220113101731.seg14.1	ParlaMint-DK_20220113101731	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113101731.seg14.2	ParlaMint-DK_20220113101731	s	English	Neutral	neutral positive	3.056	1	22	24	1	
+ParlaMint-DK_20220113101731.seg14.3	ParlaMint-DK_20220113101731	s	English	Negative	negative	0.136	1	34	36	0	
+ParlaMint-DK_20220113101731.seg14.4	ParlaMint-DK_20220113101731	s	English	Negative	negative	0.286	1	7	9	0	
+ParlaMint-DK_20220113101731.seg14.5	ParlaMint-DK_20220113101731	s	English	Positive	positive	4.925	1	12	13	0	
+ParlaMint-DK_20220113101731.seg14.6	ParlaMint-DK_20220113101731	s	English	Positive	positive	4.604	1	7	8	0	
+ParlaMint-DK_20220113101731.seg14.7	ParlaMint-DK_20220113101731	s	English	Positive	mixed positive	3.519	1	24	27	0	
+ParlaMint-DK_20220113101731.seg14.8	ParlaMint-DK_20220113101731	s	English	Neutral	neutral negative	2.381	1	29	33	1	
+ParlaMint-DK_20220113101731.seg14.9	ParlaMint-DK_20220113101731	s	English	Neutral	neutral positive	3.165	1	16	18	1	
+ParlaMint-DK_20220113101731.seg14.10	ParlaMint-DK_20220113101731	s	English	Positive	positive	5.208	1	6	7	0	
+ParlaMint-DK_20220113101731.seg14.11	ParlaMint-DK_20220113101731	s	English	Neutral	neutral negative	1.682	1	24	27	0	
+ParlaMint-DK_20220113101836	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113101836.seg15.1	ParlaMint-DK_20220113101836	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113101838	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	141	150	3	
+ParlaMint-DK_20220113101838.seg16.1	ParlaMint-DK_20220113101838	s	English	Neutral	neutral positive	3.414	1	20	22	0	
+ParlaMint-DK_20220113101838.seg16.2	ParlaMint-DK_20220113101838	s	English	Positive	mixed positive	3.572	1	53	55	1	
+ParlaMint-DK_20220113101838.seg16.3	ParlaMint-DK_20220113101838	s	English	Negative	negative	0.287	1	25	27	0	
+ParlaMint-DK_20220113101838.seg16.4	ParlaMint-DK_20220113101838	s	English	Positive	positive	5.114	1	34	36	2	
+ParlaMint-DK_20220113101838.seg16.5	ParlaMint-DK_20220113101838	s	English	Positive	mixed positive	4.111	1	9	10	0	
+ParlaMint-DK_20220113101938	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113101938.seg17.1	ParlaMint-DK_20220113101938	s	English	Neutral	neutral positive	3.328	1	2	3	1	
+ParlaMint-DK_20220113101940	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	116	130	0	
+ParlaMint-DK_20220113101940.seg18.1	ParlaMint-DK_20220113101940	s	English	Negative	negative	0.326	1	10	11	0	
+ParlaMint-DK_20220113101940.seg18.2	ParlaMint-DK_20220113101940	s	English	Neutral	neutral negative	2.052	1	38	44	0	
+ParlaMint-DK_20220113101940.seg18.3	ParlaMint-DK_20220113101940	s	English	Neutral	neutral negative	2.167	1	32	36	0	
+ParlaMint-DK_20220113101940.seg18.4	ParlaMint-DK_20220113101940	s	English	Positive	mixed positive	4.314	1	36	39	0	
+ParlaMint-DK_20220113102016	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113102016.seg19.1	ParlaMint-DK_20220113102016	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113102017	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	9	129	148	2	
+ParlaMint-DK_20220113102017.seg20.1	ParlaMint-DK_20220113102017	s	English	Neutral	neutral negative	2.459	1	12	13	0	
+ParlaMint-DK_20220113102017.seg20.2	ParlaMint-DK_20220113102017	s	English	Neutral	neutral positive	2.941	1	15	17	1	
+ParlaMint-DK_20220113102017.seg20.3	ParlaMint-DK_20220113102017	s	English	Neutral	neutral negative	2.249	1	19	22	0	
+ParlaMint-DK_20220113102017.seg20.4	ParlaMint-DK_20220113102017	s	English	Neutral	neutral positive	2.718	1	22	25	0	
+ParlaMint-DK_20220113102017.seg20.5	ParlaMint-DK_20220113102017	s	English	Neutral	neutral negative	2.237	1	7	9	0	
+ParlaMint-DK_20220113102017.seg20.6	ParlaMint-DK_20220113102017	s	English	Neutral	neutral negative	1.687	1	6	7	0	
+ParlaMint-DK_20220113102017.seg20.7	ParlaMint-DK_20220113102017	s	English	Neutral	neutral negative	2.253	1	26	29	1	
+ParlaMint-DK_20220113102017.seg20.8	ParlaMint-DK_20220113102017	s	English	Positive	positive	5.127	1	5	6	0	
+ParlaMint-DK_20220113102017.seg20.9	ParlaMint-DK_20220113102017	s	English	Positive	mixed positive	3.659	1	17	20	0	
+ParlaMint-DK_20220113102053	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	2	
+ParlaMint-DK_20220113102053.seg21.1	ParlaMint-DK_20220113102053	s	English	Neutral	neutral positive	3.402	1	3	5	2	
+ParlaMint-DK_20220113102054	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	166	183	5	
+ParlaMint-DK_20220113102054.seg22.1	ParlaMint-DK_20220113102054	s	English	Negative	negative	0.313	1	68	77	3	
+ParlaMint-DK_20220113102054.seg22.2	ParlaMint-DK_20220113102054	s	English	Positive	mixed positive	3.934	1	8	9	0	
+ParlaMint-DK_20220113102054.seg22.3	ParlaMint-DK_20220113102054	s	English	Neutral	neutral positive	2.753	1	26	27	1	
+ParlaMint-DK_20220113102054.seg22.4	ParlaMint-DK_20220113102054	s	English	Negative	mixed negative	1.222	1	9	10	0	
+ParlaMint-DK_20220113102054.seg22.5	ParlaMint-DK_20220113102054	s	English	Negative	negative	0.301	1	25	27	0	
+ParlaMint-DK_20220113102054.seg22.6	ParlaMint-DK_20220113102054	s	English	Negative	mixed negative	1.214	1	4	5	0	
+ParlaMint-DK_20220113102054.seg22.7	ParlaMint-DK_20220113102054	s	English	Negative	negative	0.050	1	26	28	1	
+ParlaMint-DK_20220113102205	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113102205.seg23.1	ParlaMint-DK_20220113102205	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113102206	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	10	214	237	1	
+ParlaMint-DK_20220113102206.seg24.1	ParlaMint-DK_20220113102206	s	English	Negative	mixed negative	0.809	1	16	18	0	
+ParlaMint-DK_20220113102206.seg24.2	ParlaMint-DK_20220113102206	s	English	Neutral	neutral negative	2.209	1	45	50	0	
+ParlaMint-DK_20220113102206.seg24.3	ParlaMint-DK_20220113102206	s	English	Neutral	neutral negative	2.188	1	19	21	0	
+ParlaMint-DK_20220113102206.seg24.4	ParlaMint-DK_20220113102206	s	English	Negative	mixed negative	0.630	1	43	47	1	
+ParlaMint-DK_20220113102206.seg24.5	ParlaMint-DK_20220113102206	s	English	Negative	mixed negative	0.921	1	12	13	0	
+ParlaMint-DK_20220113102206.seg24.6	ParlaMint-DK_20220113102206	s	English	Neutral	neutral negative	2.282	1	5	6	0	
+ParlaMint-DK_20220113102206.seg24.7	ParlaMint-DK_20220113102206	s	English	Negative	mixed negative	1.053	1	20	21	0	
+ParlaMint-DK_20220113102206.seg24.8	ParlaMint-DK_20220113102206	s	English	Positive	mixed positive	4.443	1	12	13	0	
+ParlaMint-DK_20220113102206.seg24.9	ParlaMint-DK_20220113102206	s	English	Neutral	neutral positive	3.237	1	15	17	0	
+ParlaMint-DK_20220113102206.seg24.10	ParlaMint-DK_20220113102206	s	English	Positive	mixed positive	3.924	1	27	31	0	
+ParlaMint-DK_20220113102309	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113102309.seg25.1	ParlaMint-DK_20220113102309	s	English	Positive	mixed positive	3.865	1	2	3	1	
+ParlaMint-DK_20220113102310	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	90	99	5	
+ParlaMint-DK_20220113102310.seg26.1	ParlaMint-DK_20220113102310	s	English	Positive	mixed positive	3.536	1	7	9	0	
+ParlaMint-DK_20220113102310.seg26.2	ParlaMint-DK_20220113102310	s	English	Neutral	neutral positive	3.188	1	17	20	2	
+ParlaMint-DK_20220113102310.seg26.3	ParlaMint-DK_20220113102310	s	English	Negative	negative	0.176	1	56	58	3	
+ParlaMint-DK_20220113102310.seg26.4	ParlaMint-DK_20220113102310	s	English	Negative	mixed negative	1.016	1	7	8	0	
+ParlaMint-DK_20220113102310.seg26.5	ParlaMint-DK_20220113102310	s	English	Positive	mixed positive	4.065	1	3	4	0	
+ParlaMint-DK_20220113102341	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113102341.seg27.1	ParlaMint-DK_20220113102341	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113102342	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	129	141	3	
+ParlaMint-DK_20220113102342.seg28.1	ParlaMint-DK_20220113102342	s	English	Positive	positive	4.567	1	5	7	0	
+ParlaMint-DK_20220113102342.seg28.2	ParlaMint-DK_20220113102342	s	English	Positive	mixed positive	3.992	1	35	38	2	
+ParlaMint-DK_20220113102342.seg28.3	ParlaMint-DK_20220113102342	s	English	Neutral	neutral positive	3.377	1	28	29	0	
+ParlaMint-DK_20220113102342.seg28.4	ParlaMint-DK_20220113102342	s	English	Neutral	neutral positive	3.114	1	10	13	0	
+ParlaMint-DK_20220113102342.seg28.5	ParlaMint-DK_20220113102342	s	English	Positive	mixed positive	4.224	1	24	26	1	
+ParlaMint-DK_20220113102342.seg28.6	ParlaMint-DK_20220113102342	s	English	Neutral	neutral positive	2.903	1	27	28	0	
+ParlaMint-DK_20220113102418	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	4	6	2	
+ParlaMint-DK_20220113102418.seg29.1	ParlaMint-DK_20220113102418	s	English	Neutral	neutral positive	3.430	1	4	6	2	
+ParlaMint-DK_20220113102420	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	158	167	2	
+ParlaMint-DK_20220113102420.seg30.1	ParlaMint-DK_20220113102420	s	English	Neutral	neutral positive	2.652	1	10	11	0	
+ParlaMint-DK_20220113102420.seg30.2	ParlaMint-DK_20220113102420	s	English	Negative	negative	0.286	1	68	71	1	
+ParlaMint-DK_20220113102420.seg30.3	ParlaMint-DK_20220113102420	s	English	Neutral	neutral negative	2.046	1	11	12	0	
+ParlaMint-DK_20220113102420.seg30.4	ParlaMint-DK_20220113102420	s	English	Negative	negative	0.194	1	69	73	1	
+ParlaMint-DK_20220113102515	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113102515.seg31.1	ParlaMint-DK_20220113102515	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113102516	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	8	227	245	0	
+ParlaMint-DK_20220113102516.seg32.1	ParlaMint-DK_20220113102516	s	English	Negative	mixed negative	0.857	1	7	8	0	
+ParlaMint-DK_20220113102516.seg32.2	ParlaMint-DK_20220113102516	s	English	Neutral	neutral positive	3.101	1	29	31	0	
+ParlaMint-DK_20220113102516.seg32.3	ParlaMint-DK_20220113102516	s	English	Neutral	neutral negative	2.312	1	68	71	0	
+ParlaMint-DK_20220113102516.seg32.4	ParlaMint-DK_20220113102516	s	English	Negative	mixed negative	1.293	1	23	25	0	
+ParlaMint-DK_20220113102516.seg32.5	ParlaMint-DK_20220113102516	s	English	Neutral	neutral negative	2.393	1	30	33	0	
+ParlaMint-DK_20220113102516.seg32.6	ParlaMint-DK_20220113102516	s	English	Positive	mixed positive	4.426	1	10	11	0	
+ParlaMint-DK_20220113102516.seg32.7	ParlaMint-DK_20220113102516	s	English	Negative	mixed negative	0.549	1	32	35	0	
+ParlaMint-DK_20220113102516.seg32.8	ParlaMint-DK_20220113102516	s	English	Negative	negative	0.179	1	28	31	0	
+ParlaMint-DK_20220113102619	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	4	6	1	
+ParlaMint-DK_20220113102619.seg33.1	ParlaMint-DK_20220113102619	s	English	Positive	mixed positive	3.707	1	4	6	1	
+ParlaMint-DK_20220113102620	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	72	76	0	
+ParlaMint-DK_20220113102620.seg34.1	ParlaMint-DK_20220113102620	s	English	Negative	mixed negative	1.491	1	28	30	0	
+ParlaMint-DK_20220113102620.seg34.2	ParlaMint-DK_20220113102620	s	English	Neutral	neutral positive	3.488	1	10	11	0	
+ParlaMint-DK_20220113102620.seg34.3	ParlaMint-DK_20220113102620	s	English	Negative	negative	0.182	1	34	35	0	
+ParlaMint-DK_20220113102649	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113102649.seg35.1	ParlaMint-DK_20220113102649	s	English	Neutral	neutral positive	3.374	1	2	3	0	
+ParlaMint-DK_20220113102649-2	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	113	122	0	
+ParlaMint-DK_20220113102649-2.seg36.1	ParlaMint-DK_20220113102649-2	s	English	Negative	negative	0.352	1	9	10	0	
+ParlaMint-DK_20220113102649-2.seg36.2	ParlaMint-DK_20220113102649-2	s	English	Negative	mixed negative	1.399	1	46	49	0	
+ParlaMint-DK_20220113102649-2.seg36.3	ParlaMint-DK_20220113102649-2	s	English	Neutral	neutral positive	2.875	1	44	46	0	
+ParlaMint-DK_20220113102649-2.seg36.4	ParlaMint-DK_20220113102649-2	s	English	Positive	positive	4.830	1	14	17	0	
+ParlaMint-DK_20220113102722	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	33	41	2	
+ParlaMint-DK_20220113102722.seg37.1	ParlaMint-DK_20220113102722	s	English	Positive	mixed positive	4.050	1	3	5	0	
+ParlaMint-DK_20220113102722.seg37.2	ParlaMint-DK_20220113102722	s	English	Neutral	neutral positive	2.756	1	23	27	0	
+ParlaMint-DK_20220113102722.seg37.3	ParlaMint-DK_20220113102722	s	English	Neutral	neutral positive	3.198	1	7	9	2	
+ParlaMint-DK_20220113102750	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	28	565	622	6	
+ParlaMint-DK_20220113102750.seg38.1	ParlaMint-DK_20220113102750	s	English	Positive	positive	4.936	1	22	24	1	
+ParlaMint-DK_20220113102750.seg38.2	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	1.144	1	20	23	0	
+ParlaMint-DK_20220113102750.seg38.3	ParlaMint-DK_20220113102750	s	English	Positive	mixed positive	4.447	1	15	17	1	
+ParlaMint-DK_20220113102750.seg38.4	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.183	1	42	47	0	
+ParlaMint-DK_20220113102750.seg38.5	ParlaMint-DK_20220113102750	s	English	Positive	positive	5.292	1	12	13	0	
+ParlaMint-DK_20220113102750.seg38.6	ParlaMint-DK_20220113102750	s	English	Positive	positive	4.937	1	13	14	0	
+ParlaMint-DK_20220113102750.seg38.7	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	1.099	1	16	17	0	
+ParlaMint-DK_20220113102750.seg38.8	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.151	1	27	30	0	
+ParlaMint-DK_20220113102750.seg38.9	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	1.338	1	35	37	0	
+ParlaMint-DK_20220113102750.seg38.10	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	3.465	1	27	31	2	
+ParlaMint-DK_20220113102750.seg38.11	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.207	1	19	20	0	
+ParlaMint-DK_20220113102750.seg38.12	ParlaMint-DK_20220113102750	s	English	Positive	mixed positive	4.489	1	19	20	0	
+ParlaMint-DK_20220113102750.seg38.13	ParlaMint-DK_20220113102750	s	English	Positive	mixed positive	3.667	1	13	15	1	
+ParlaMint-DK_20220113102750.seg38.14	ParlaMint-DK_20220113102750	s	English	Positive	mixed positive	3.516	1	17	19	0	
+ParlaMint-DK_20220113102750.seg38.15	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	1.250	1	22	23	0	
+ParlaMint-DK_20220113102750.seg38.16	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.269	1	5	6	0	
+ParlaMint-DK_20220113102750.seg38.17	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	2.567	1	4	5	0	
+ParlaMint-DK_20220113102750.seg38.18	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	1.073	1	4	5	0	
+ParlaMint-DK_20220113102750.seg38.19	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	2.829	1	4	5	0	
+ParlaMint-DK_20220113102750.seg38.20	ParlaMint-DK_20220113102750	s	English	Neutral	neutral negative	2.500	1	4	5	0	
+ParlaMint-DK_20220113102750.seg38.21	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	2.902	1	10	12	0	
+ParlaMint-DK_20220113102750.seg38.22	ParlaMint-DK_20220113102750	s	English	Negative	mixed negative	0.626	1	26	28	0	
+ParlaMint-DK_20220113102750.seg38.23	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.145	1	15	18	0	
+ParlaMint-DK_20220113102750.seg38.24	ParlaMint-DK_20220113102750	s	English	Negative	negative	0.495	1	17	18	0	
+ParlaMint-DK_20220113102750.seg38.25	ParlaMint-DK_20220113102750	s	English	Positive	mixed positive	4.386	1	63	68	1	
+ParlaMint-DK_20220113102750.seg38.26	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	3.418	1	24	25	0	
+ParlaMint-DK_20220113102750.seg38.27	ParlaMint-DK_20220113102750	s	English	Positive	positive	4.778	1	35	37	0	
+ParlaMint-DK_20220113102750.seg38.28	ParlaMint-DK_20220113102750	s	English	Neutral	neutral positive	2.790	1	35	40	0	
+ParlaMint-DK_20220113103248	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	11	14	1	
+ParlaMint-DK_20220113103248.seg39.1	ParlaMint-DK_20220113103248	s	English	Neutral	neutral positive	3.135	1	4	5	0	
+ParlaMint-DK_20220113103248.seg39.2	ParlaMint-DK_20220113103248	s	English	Neutral	neutral positive	3.124	1	7	9	1	
+ParlaMint-DK_20220113103251	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	206	223	1	
+ParlaMint-DK_20220113103251.seg40.1	ParlaMint-DK_20220113103251	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113103251.seg40.2	ParlaMint-DK_20220113103251	s	English	Neutral	neutral positive	2.757	1	10	11	0	
+ParlaMint-DK_20220113103251.seg40.3	ParlaMint-DK_20220113103251	s	English	Neutral	neutral positive	2.812	1	8	9	0	
+ParlaMint-DK_20220113103251.seg40.4	ParlaMint-DK_20220113103251	s	English	Negative	mixed negative	0.994	1	65	68	0	
+ParlaMint-DK_20220113103251.seg40.5	ParlaMint-DK_20220113103251	s	English	Positive	mixed positive	4.012	1	23	25	0	
+ParlaMint-DK_20220113103251.seg40.6	ParlaMint-DK_20220113103251	s	English	Neutral	neutral positive	2.864	1	55	61	0	
+ParlaMint-DK_20220113103251.seg40.7	ParlaMint-DK_20220113103251	s	English	Negative	mixed negative	0.861	1	43	46	1	
+ParlaMint-DK_20220113103406	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	0	
+ParlaMint-DK_20220113103406.seg41.1	ParlaMint-DK_20220113103406	s	English	Positive	mixed positive	4.113	1	3	5	0	
+ParlaMint-DK_20220113103408	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	101	107	2	
+ParlaMint-DK_20220113103408.seg42.1	ParlaMint-DK_20220113103408	s	English	Neutral	neutral positive	3.448	1	16	17	1	
+ParlaMint-DK_20220113103408.seg42.2	ParlaMint-DK_20220113103408	s	English	Positive	mixed positive	4.424	1	22	24	0	
+ParlaMint-DK_20220113103408.seg42.3	ParlaMint-DK_20220113103408	s	English	Positive	positive	4.838	1	32	33	1	
+ParlaMint-DK_20220113103408.seg42.4	ParlaMint-DK_20220113103408	s	English	Negative	negative	0.500	1	23	24	0	
+ParlaMint-DK_20220113103408.seg42.5	ParlaMint-DK_20220113103408	s	English	Positive	mixed positive	3.742	1	8	9	0	
+ParlaMint-DK_20220113103512	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113103512.seg43.1	ParlaMint-DK_20220113103512	s	English	Positive	mixed positive	3.587	1	2	3	1	
+ParlaMint-DK_20220113103513	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	62	67	2	
+ParlaMint-DK_20220113103513.seg44.1	ParlaMint-DK_20220113103513	s	English	Positive	positive	5.064	1	16	17	0	
+ParlaMint-DK_20220113103513.seg44.2	ParlaMint-DK_20220113103513	s	English	Neutral	neutral positive	3.017	1	13	14	0	
+ParlaMint-DK_20220113103513.seg44.3	ParlaMint-DK_20220113103513	s	English	Negative	negative	0.217	1	33	36	2	
+ParlaMint-DK_20220113103536	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113103536.seg45.1	ParlaMint-DK_20220113103536	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113103537	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	69	77	0	
+ParlaMint-DK_20220113103537.seg46.1	ParlaMint-DK_20220113103537	s	English	Negative	negative	0.277	1	20	23	0	
+ParlaMint-DK_20220113103537.seg46.2	ParlaMint-DK_20220113103537	s	English	Negative	mixed negative	0.647	1	32	36	0	
+ParlaMint-DK_20220113103537.seg46.3	ParlaMint-DK_20220113103537	s	English	Neutral	neutral positive	3.266	1	17	18	0	
+ParlaMint-DK_20220113103610	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	4	6	2	
+ParlaMint-DK_20220113103610.seg47.1	ParlaMint-DK_20220113103610	s	English	Neutral	neutral positive	3.399	1	4	6	2	
+ParlaMint-DK_20220113103612	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	193	209	4	
+ParlaMint-DK_20220113103612.seg48.1	ParlaMint-DK_20220113103612	s	English	Negative	negative	0.316	1	28	32	2	
+ParlaMint-DK_20220113103612.seg48.2	ParlaMint-DK_20220113103612	s	English	Negative	mixed negative	0.922	1	44	47	0	
+ParlaMint-DK_20220113103612.seg48.3	ParlaMint-DK_20220113103612	s	English	Negative	negative	0.117	1	5	6	0	
+ParlaMint-DK_20220113103612.seg48.4	ParlaMint-DK_20220113103612	s	English	Negative	mixed negative	1.364	1	19	20	0	
+ParlaMint-DK_20220113103612.seg48.5	ParlaMint-DK_20220113103612	s	English	Negative	negative	0.128	1	27	30	1	
+ParlaMint-DK_20220113103612.seg48.6	ParlaMint-DK_20220113103612	s	English	Negative	negative	0.328	1	41	43	0	
+ParlaMint-DK_20220113103612.seg48.7	ParlaMint-DK_20220113103612	s	English	Negative	negative	0.147	1	29	31	1	
+ParlaMint-DK_20220113103720	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	0	
+ParlaMint-DK_20220113103720.seg49.1	ParlaMint-DK_20220113103720	s	English	Positive	mixed positive	4.113	1	3	5	0	
+ParlaMint-DK_20220113103721	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	140	152	1	
+ParlaMint-DK_20220113103721.seg50.1	ParlaMint-DK_20220113103721	s	English	Negative	mixed negative	0.564	1	66	72	1	
+ParlaMint-DK_20220113103721.seg50.2	ParlaMint-DK_20220113103721	s	English	Negative	mixed negative	0.515	1	23	27	0	
+ParlaMint-DK_20220113103721.seg50.3	ParlaMint-DK_20220113103721	s	English	Neutral	neutral positive	2.792	1	51	53	0	
+ParlaMint-DK_20220113103829	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113103829.seg51.1	ParlaMint-DK_20220113103829	s	English	Positive	mixed positive	3.517	1	3	4	1	
+ParlaMint-DK_20220113103830	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	93	102	2	
+ParlaMint-DK_20220113103830.seg52.1	ParlaMint-DK_20220113103830	s	English	Negative	negative	0.240	1	45	51	1	
+ParlaMint-DK_20220113103830.seg52.2	ParlaMint-DK_20220113103830	s	English	Positive	mixed positive	4.487	1	36	38	1	
+ParlaMint-DK_20220113103830.seg52.3	ParlaMint-DK_20220113103830	s	English	Negative	mixed negative	0.999	1	12	13	0	
+ParlaMint-DK_20220113103908	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113103908.seg53.1	ParlaMint-DK_20220113103908	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113103909	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	93	104	1	
+ParlaMint-DK_20220113103909.seg54.1	ParlaMint-DK_20220113103909	s	English	Negative	mixed negative	0.576	1	21	25	1	
+ParlaMint-DK_20220113103909.seg54.2	ParlaMint-DK_20220113103909	s	English	Neutral	neutral positive	2.995	1	21	22	0	
+ParlaMint-DK_20220113103909.seg54.3	ParlaMint-DK_20220113103909	s	English	Neutral	neutral negative	2.255	1	23	26	0	
+ParlaMint-DK_20220113103909.seg54.4	ParlaMint-DK_20220113103909	s	English	Positive	mixed positive	3.622	1	10	12	0	
+ParlaMint-DK_20220113103909.seg54.5	ParlaMint-DK_20220113103909	s	English	Neutral	neutral positive	3.491	1	18	19	0	
+ParlaMint-DK_20220113103955	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	4	6	1	
+ParlaMint-DK_20220113103955.seg55.1	ParlaMint-DK_20220113103955	s	English	Neutral	neutral positive	3.398	1	4	6	1	
+ParlaMint-DK_20220113103957	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	210	234	1	
+ParlaMint-DK_20220113103957.seg56.1	ParlaMint-DK_20220113103957	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113103957.seg56.2	ParlaMint-DK_20220113103957	s	English	Positive	mixed positive	4.311	1	9	12	0	
+ParlaMint-DK_20220113103957.seg56.3	ParlaMint-DK_20220113103957	s	English	Negative	negative	0.360	1	23	24	0	
+ParlaMint-DK_20220113103957.seg56.4	ParlaMint-DK_20220113103957	s	English	Negative	negative	0.049	1	50	55	0	
+ParlaMint-DK_20220113103957.seg56.5	ParlaMint-DK_20220113103957	s	English	Positive	mixed positive	4.070	1	37	40	1	
+ParlaMint-DK_20220113103957.seg56.6	ParlaMint-DK_20220113103957	s	English	Neutral	neutral negative	1.531	1	83	93	0	
+ParlaMint-DK_20220113103957.seg56.7	ParlaMint-DK_20220113103957	s	English	Positive	mixed positive	4.226	1	6	7	0	
+ParlaMint-DK_20220113104102	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113104102.seg57.1	ParlaMint-DK_20220113104102	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113104103	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	95	101	0	
+ParlaMint-DK_20220113104103.seg58.1	ParlaMint-DK_20220113104103	s	English	Positive	mixed positive	4.129	1	76	81	0	
+ParlaMint-DK_20220113104103.seg58.2	ParlaMint-DK_20220113104103	s	English	Positive	positive	4.871	1	19	20	0	
+ParlaMint-DK_20220113104158	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113104158.seg59.1	ParlaMint-DK_20220113104158	s	English	Neutral	neutral positive	3.328	1	2	3	1	
+ParlaMint-DK_20220113104159	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	105	116	2	
+ParlaMint-DK_20220113104159.seg60.1	ParlaMint-DK_20220113104159	s	English	Positive	mixed positive	4.481	1	14	15	0	
+ParlaMint-DK_20220113104159.seg60.2	ParlaMint-DK_20220113104159	s	English	Positive	mixed positive	4.108	1	34	37	1	
+ParlaMint-DK_20220113104159.seg60.3	ParlaMint-DK_20220113104159	s	English	Negative	mixed negative	0.904	1	17	19	0	
+ParlaMint-DK_20220113104159.seg60.4	ParlaMint-DK_20220113104159	s	English	Neutral	neutral positive	2.547	1	7	8	0	
+ParlaMint-DK_20220113104159.seg60.5	ParlaMint-DK_20220113104159	s	English	Negative	negative	0.340	1	33	37	1	
+ParlaMint-DK_20220113104233	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113104233.seg61.1	ParlaMint-DK_20220113104233	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113104234	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	56	60	1	
+ParlaMint-DK_20220113104234.seg62.1	ParlaMint-DK_20220113104234	s	English	Positive	positive	5.257	1	38	40	0	
+ParlaMint-DK_20220113104234.seg62.2	ParlaMint-DK_20220113104234	s	English	Neutral	neutral positive	2.740	1	18	20	1	
+ParlaMint-DK_20220113104309	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	20	24	2	
+ParlaMint-DK_20220113104309.seg63.1	ParlaMint-DK_20220113104309	s	English	Positive	mixed positive	3.639	1	6	7	1	
+ParlaMint-DK_20220113104309.seg63.2	ParlaMint-DK_20220113104309	s	English	Neutral	neutral positive	2.595	1	6	7	0	
+ParlaMint-DK_20220113104309.seg63.3	ParlaMint-DK_20220113104309	s	English	Positive	mixed positive	3.760	1	8	10	1	
+ParlaMint-DK_20220113104327	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	23	821	895	22	
+ParlaMint-DK_20220113104327.seg64.1	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	4.006	1	79	85	3	
+ParlaMint-DK_20220113104327.seg64.2	ParlaMint-DK_20220113104327	s	English	Neutral	neutral positive	2.567	1	20	22	0	
+ParlaMint-DK_20220113104327.seg64.3	ParlaMint-DK_20220113104327	s	English	Negative	negative	0.191	1	48	51	0	
+ParlaMint-DK_20220113104327.seg64.4	ParlaMint-DK_20220113104327	s	English	Negative	mixed negative	0.606	1	8	9	0	
+ParlaMint-DK_20220113104327.seg64.5	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	4.296	1	29	32	0	
+ParlaMint-DK_20220113104327.seg64.6	ParlaMint-DK_20220113104327	s	English	Positive	positive	5.091	1	16	17	1	
+ParlaMint-DK_20220113104327.seg64.7	ParlaMint-DK_20220113104327	s	English	Negative	negative	0.276	1	74	81	5	
+ParlaMint-DK_20220113104327.seg64.8	ParlaMint-DK_20220113104327	s	English	Negative	negative	0.038	1	29	32	0	
+ParlaMint-DK_20220113104327.seg64.9	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	4.170	1	5	6	0	
+ParlaMint-DK_20220113104327.seg64.10	ParlaMint-DK_20220113104327	s	English	Negative	mixed negative	0.883	1	29	32	0	
+ParlaMint-DK_20220113104327.seg64.11	ParlaMint-DK_20220113104327	s	English	Neutral	neutral positive	3.374	1	86	95	1	
+ParlaMint-DK_20220113104327.seg64.12	ParlaMint-DK_20220113104327	s	English	Neutral	neutral positive	3.287	1	32	35	4	
+ParlaMint-DK_20220113104327.seg64.13	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	3.969	1	18	20	0	
+ParlaMint-DK_20220113104327.seg64.14	ParlaMint-DK_20220113104327	s	English	Neutral	neutral positive	2.936	1	53	58	2	
+ParlaMint-DK_20220113104327.seg64.15	ParlaMint-DK_20220113104327	s	English	Neutral	neutral negative	2.172	1	13	15	0	
+ParlaMint-DK_20220113104327.seg64.16	ParlaMint-DK_20220113104327	s	English	Positive	positive	4.537	1	29	32	0	
+ParlaMint-DK_20220113104327.seg64.17	ParlaMint-DK_20220113104327	s	English	Neutral	neutral positive	2.541	1	29	32	1	
+ParlaMint-DK_20220113104327.seg64.18	ParlaMint-DK_20220113104327	s	English	Negative	mixed negative	0.579	1	16	18	1	
+ParlaMint-DK_20220113104327.seg64.19	ParlaMint-DK_20220113104327	s	English	Neutral	neutral negative	1.685	1	67	69	1	
+ParlaMint-DK_20220113104327.seg64.20	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	3.903	1	7	8	0	
+ParlaMint-DK_20220113104327.seg64.21	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	4.223	1	63	69	2	
+ParlaMint-DK_20220113104327.seg64.22	ParlaMint-DK_20220113104327	s	English	Negative	negative	0.350	1	12	13	0	
+ParlaMint-DK_20220113104327.seg64.23	ParlaMint-DK_20220113104327	s	English	Positive	mixed positive	4.219	1	59	64	1	
+ParlaMint-DK_20220113104816	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	10	12	1	
+ParlaMint-DK_20220113104816.seg65.1	ParlaMint-DK_20220113104816	s	English	Neutral	neutral negative	2.495	1	10	12	1	
+ParlaMint-DK_20220113104819	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	112	121	0	
+ParlaMint-DK_20220113104819.seg66.1	ParlaMint-DK_20220113104819	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113104819.seg66.2	ParlaMint-DK_20220113104819	s	English	Positive	mixed positive	3.514	1	37	39	0	
+ParlaMint-DK_20220113104819.seg66.3	ParlaMint-DK_20220113104819	s	English	Neutral	neutral positive	2.839	1	13	14	0	
+ParlaMint-DK_20220113104819.seg66.4	ParlaMint-DK_20220113104819	s	English	Positive	mixed positive	4.155	1	16	17	0	
+ParlaMint-DK_20220113104819.seg66.5	ParlaMint-DK_20220113104819	s	English	Neutral	neutral negative	1.874	1	20	22	0	
+ParlaMint-DK_20220113104819.seg66.6	ParlaMint-DK_20220113104819	s	English	Neutral	neutral negative	1.538	1	24	26	0	
+ParlaMint-DK_20220113104858	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113104858.seg67.1	ParlaMint-DK_20220113104858	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113104900	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	59	64	0	
+ParlaMint-DK_20220113104900.seg68.1	ParlaMint-DK_20220113104900	s	English	Positive	mixed positive	3.656	1	33	36	0	
+ParlaMint-DK_20220113104900.seg68.2	ParlaMint-DK_20220113104900	s	English	Positive	mixed positive	4.257	1	26	28	0	
+ParlaMint-DK_20220113104922	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113104922.seg69.1	ParlaMint-DK_20220113104922	s	English	Positive	mixed positive	3.587	1	2	3	1	
+ParlaMint-DK_20220113104923	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	106	115	0	
+ParlaMint-DK_20220113104923.seg70.1	ParlaMint-DK_20220113104923	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113104923.seg70.2	ParlaMint-DK_20220113104923	s	English	Neutral	neutral negative	1.947	1	29	30	0	
+ParlaMint-DK_20220113104923.seg70.3	ParlaMint-DK_20220113104923	s	English	Negative	mixed negative	1.071	1	26	29	0	
+ParlaMint-DK_20220113104923.seg70.4	ParlaMint-DK_20220113104923	s	English	Positive	positive	4.614	1	12	13	0	
+ParlaMint-DK_20220113104923.seg70.5	ParlaMint-DK_20220113104923	s	English	Positive	positive	5.037	1	11	12	0	
+ParlaMint-DK_20220113104923.seg70.6	ParlaMint-DK_20220113104923	s	English	Neutral	neutral negative	1.822	1	26	28	0	
+ParlaMint-DK_20220113104958	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113104958.seg71.1	ParlaMint-DK_20220113104958	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113104959	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	113	126	2	
+ParlaMint-DK_20220113104959.seg72.1	ParlaMint-DK_20220113104959	s	English	Negative	mixed negative	1.099	1	30	32	1	
+ParlaMint-DK_20220113104959.seg72.2	ParlaMint-DK_20220113104959	s	English	Negative	negative	0.471	1	19	22	1	
+ParlaMint-DK_20220113104959.seg72.3	ParlaMint-DK_20220113104959	s	English	Negative	mixed negative	1.403	1	27	31	0	
+ParlaMint-DK_20220113104959.seg72.4	ParlaMint-DK_20220113104959	s	English	Positive	mixed positive	4.431	1	17	18	0	
+ParlaMint-DK_20220113104959.seg72.5	ParlaMint-DK_20220113104959	s	English	Negative	negative	0.356	1	20	23	0	
+ParlaMint-DK_20220113105037	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	9	12	2	
+ParlaMint-DK_20220113105037.seg73.1	ParlaMint-DK_20220113105037	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113105037.seg73.2	ParlaMint-DK_20220113105037	s	English	Positive	mixed positive	3.503	1	7	9	2	
+ParlaMint-DK_20220113105039	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	65	75	6	
+ParlaMint-DK_20220113105039.seg74.1	ParlaMint-DK_20220113105039	s	English	Neutral	neutral positive	3.457	1	11	14	1	
+ParlaMint-DK_20220113105039.seg74.2	ParlaMint-DK_20220113105039	s	English	Neutral	neutral negative	1.537	1	7	8	0	
+ParlaMint-DK_20220113105039.seg74.3	ParlaMint-DK_20220113105039	s	English	Neutral	neutral positive	2.562	1	19	21	3	
+ParlaMint-DK_20220113105039.seg74.4	ParlaMint-DK_20220113105039	s	English	Neutral	neutral negative	1.718	1	10	11	1	
+ParlaMint-DK_20220113105039.seg74.5	ParlaMint-DK_20220113105039	s	English	Negative	negative	0.330	1	18	21	1	
+ParlaMint-DK_20220113105109	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113105109.seg75.1	ParlaMint-DK_20220113105109	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113105111	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	7	157	177	5	
+ParlaMint-DK_20220113105111.seg76.1	ParlaMint-DK_20220113105111	s	English	Positive	mixed positive	3.766	1	32	36	3	
+ParlaMint-DK_20220113105111.seg76.2	ParlaMint-DK_20220113105111	s	English	Positive	mixed positive	3.602	1	13	17	0	
+ParlaMint-DK_20220113105111.seg76.3	ParlaMint-DK_20220113105111	s	English	Positive	positive	4.693	1	10	11	0	
+ParlaMint-DK_20220113105111.seg76.4	ParlaMint-DK_20220113105111	s	English	Neutral	neutral positive	2.997	1	9	10	1	
+ParlaMint-DK_20220113105111.seg76.5	ParlaMint-DK_20220113105111	s	English	Positive	mixed positive	4.208	1	29	35	0	
+ParlaMint-DK_20220113105111.seg76.6	ParlaMint-DK_20220113105111	s	English	Neutral	neutral positive	3.364	1	36	39	0	
+ParlaMint-DK_20220113105111.seg76.7	ParlaMint-DK_20220113105111	s	English	Neutral	neutral negative	2.339	1	28	29	1	
+ParlaMint-DK_20220113105156	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113105156.seg77.1	ParlaMint-DK_20220113105156	s	English	Positive	mixed positive	3.517	1	3	4	1	
+ParlaMint-DK_20220113105157	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	97	113	2	
+ParlaMint-DK_20220113105157.seg78.1	ParlaMint-DK_20220113105157	s	English	Positive	mixed positive	4.481	1	23	31	1	
+ParlaMint-DK_20220113105157.seg78.2	ParlaMint-DK_20220113105157	s	English	Positive	positive	4.699	1	8	9	0	
+ParlaMint-DK_20220113105157.seg78.3	ParlaMint-DK_20220113105157	s	English	Negative	negative	0.134	1	15	16	0	
+ParlaMint-DK_20220113105157.seg78.4	ParlaMint-DK_20220113105157	s	English	Neutral	neutral positive	2.775	1	7	9	0	
+ParlaMint-DK_20220113105157.seg78.5	ParlaMint-DK_20220113105157	s	English	Neutral	neutral negative	2.361	1	23	25	0	
+ParlaMint-DK_20220113105157.seg78.6	ParlaMint-DK_20220113105157	s	English	Negative	mixed negative	1.474	1	21	23	1	
+ParlaMint-DK_20220113105238	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	6	9	1	
+ParlaMint-DK_20220113105238.seg79.1	ParlaMint-DK_20220113105238	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113105238.seg79.2	ParlaMint-DK_20220113105238	s	English	Neutral	neutral positive	3.406	1	4	6	1	
+ParlaMint-DK_20220113105239	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	87	99	2	
+ParlaMint-DK_20220113105239.seg80.1	ParlaMint-DK_20220113105239	s	English	Positive	positive	4.574	1	58	67	2	
+ParlaMint-DK_20220113105239.seg80.2	ParlaMint-DK_20220113105239	s	English	Positive	mixed positive	4.154	1	29	32	0	
+ParlaMint-DK_20220113105316	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	24	28	3	
+ParlaMint-DK_20220113105316.seg81.1	ParlaMint-DK_20220113105316	s	English	Positive	mixed positive	3.895	1	8	9	1	
+ParlaMint-DK_20220113105316.seg81.2	ParlaMint-DK_20220113105316	s	English	Neutral	neutral positive	2.595	1	6	7	0	
+ParlaMint-DK_20220113105316.seg81.3	ParlaMint-DK_20220113105316	s	English	Positive	mixed positive	3.783	1	10	12	2	
+ParlaMint-DK_20220113105337	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	27	805	879	5	
+ParlaMint-DK_20220113105337.seg82.1	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	3.912	1	28	33	0	
+ParlaMint-DK_20220113105337.seg82.2	ParlaMint-DK_20220113105337	s	English	Positive	positive	4.740	1	20	21	0	
+ParlaMint-DK_20220113105337.seg82.3	ParlaMint-DK_20220113105337	s	English	Positive	positive	4.584	1	15	16	2	
+ParlaMint-DK_20220113105337.seg82.4	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.208	1	16	17	0	
+ParlaMint-DK_20220113105337.seg82.5	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	3.571	1	29	31	0	
+ParlaMint-DK_20220113105337.seg82.6	ParlaMint-DK_20220113105337	s	English	Positive	positive	4.575	1	53	60	1	
+ParlaMint-DK_20220113105337.seg82.7	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.490	1	38	42	0	
+ParlaMint-DK_20220113105337.seg82.8	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.473	1	60	67	0	
+ParlaMint-DK_20220113105337.seg82.9	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	4.420	1	13	14	0	
+ParlaMint-DK_20220113105337.seg82.10	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	0.610	1	44	47	0	
+ParlaMint-DK_20220113105337.seg82.11	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	0.954	1	26	28	1	
+ParlaMint-DK_20220113105337.seg82.12	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	0.967	1	14	15	0	
+ParlaMint-DK_20220113105337.seg82.13	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	1.404	1	45	48	0	
+ParlaMint-DK_20220113105337.seg82.14	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.024	1	29	33	0	
+ParlaMint-DK_20220113105337.seg82.15	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.125	1	17	19	0	
+ParlaMint-DK_20220113105337.seg82.16	ParlaMint-DK_20220113105337	s	English	Neutral	neutral positive	2.982	1	6	7	0	
+ParlaMint-DK_20220113105337.seg82.17	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	1.120	1	11	12	0	
+ParlaMint-DK_20220113105337.seg82.18	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	3.546	1	43	46	0	
+ParlaMint-DK_20220113105337.seg82.19	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	4.487	1	10	11	0	
+ParlaMint-DK_20220113105337.seg82.20	ParlaMint-DK_20220113105337	s	English	Negative	negative	0.463	1	49	52	0	
+ParlaMint-DK_20220113105337.seg82.21	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	1.247	1	32	34	0	
+ParlaMint-DK_20220113105337.seg82.22	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	0.791	1	36	39	0	
+ParlaMint-DK_20220113105337.seg82.23	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	3.982	1	30	33	0	
+ParlaMint-DK_20220113105337.seg82.24	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	0.585	1	36	40	0	
+ParlaMint-DK_20220113105337.seg82.25	ParlaMint-DK_20220113105337	s	English	Negative	mixed negative	1.422	1	66	71	1	
+ParlaMint-DK_20220113105337.seg82.26	ParlaMint-DK_20220113105337	s	English	Positive	positive	5.203	1	37	40	0	
+ParlaMint-DK_20220113105337.seg82.27	ParlaMint-DK_20220113105337	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113105837	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	12	15	2	
+ParlaMint-DK_20220113105837.seg83.1	ParlaMint-DK_20220113105837	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113105837.seg83.2	ParlaMint-DK_20220113105837	s	English	Neutral	neutral positive	2.702	1	10	12	2	
+ParlaMint-DK_20220113105841	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	166	181	0	
+ParlaMint-DK_20220113105841.seg84.1	ParlaMint-DK_20220113105841	s	English	Positive	positive	5.248	1	10	12	0	
+ParlaMint-DK_20220113105841.seg84.2	ParlaMint-DK_20220113105841	s	English	Positive	mixed positive	3.884	1	15	16	0	
+ParlaMint-DK_20220113105841.seg84.3	ParlaMint-DK_20220113105841	s	English	Neutral	neutral positive	2.701	1	54	58	0	
+ParlaMint-DK_20220113105841.seg84.4	ParlaMint-DK_20220113105841	s	English	Neutral	neutral negative	2.206	1	35	40	0	
+ParlaMint-DK_20220113105841.seg84.5	ParlaMint-DK_20220113105841	s	English	Neutral	neutral negative	2.430	1	52	55	0	
+ParlaMint-DK_20220113105942	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113105942.seg85.1	ParlaMint-DK_20220113105942	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113105943	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	91	100	0	
+ParlaMint-DK_20220113105943.seg86.1	ParlaMint-DK_20220113105943	s	English	Positive	mixed positive	3.635	1	12	13	0	
+ParlaMint-DK_20220113105943.seg86.2	ParlaMint-DK_20220113105943	s	English	Negative	mixed negative	0.637	1	10	11	0	
+ParlaMint-DK_20220113105943.seg86.3	ParlaMint-DK_20220113105943	s	English	Positive	mixed positive	3.819	1	6	7	0	
+ParlaMint-DK_20220113105943.seg86.4	ParlaMint-DK_20220113105943	s	English	Negative	mixed negative	0.580	1	37	40	0	
+ParlaMint-DK_20220113105943.seg86.5	ParlaMint-DK_20220113105943	s	English	Neutral	neutral negative	1.866	1	14	16	0	
+ParlaMint-DK_20220113105943.seg86.6	ParlaMint-DK_20220113105943	s	English	Negative	mixed negative	1.462	1	12	13	0	
+ParlaMint-DK_20220113110017	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	29	34	4	
+ParlaMint-DK_20220113110017.seg87.1	ParlaMint-DK_20220113110017	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113110017.seg87.2	ParlaMint-DK_20220113110017	s	English	Positive	mixed positive	4.178	1	19	20	2	
+ParlaMint-DK_20220113110017.seg87.3	ParlaMint-DK_20220113110017	s	English	Neutral	neutral positive	3.449	1	5	7	2	
+ParlaMint-DK_20220113110017.seg87.4	ParlaMint-DK_20220113110017	s	English	Positive	mixed positive	3.960	1	3	4	0	
+ParlaMint-DK_20220113110045	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	27	553	606	9	
+ParlaMint-DK_20220113110045.seg88.1	ParlaMint-DK_20220113110045	s	English	Positive	positive	4.588	1	15	16	1	
+ParlaMint-DK_20220113110045.seg88.2	ParlaMint-DK_20220113110045	s	English	Positive	mixed positive	3.840	1	6	7	0	
+ParlaMint-DK_20220113110045.seg88.3	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.245	1	16	17	0	
+ParlaMint-DK_20220113110045.seg88.4	ParlaMint-DK_20220113110045	s	English	Negative	mixed negative	1.094	1	21	23	0	
+ParlaMint-DK_20220113110045.seg88.5	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.498	1	18	20	0	
+ParlaMint-DK_20220113110045.seg88.6	ParlaMint-DK_20220113110045	s	English	Negative	mixed negative	1.339	1	19	21	0	
+ParlaMint-DK_20220113110045.seg88.7	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.192	1	12	15	0	
+ParlaMint-DK_20220113110045.seg88.8	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.457	1	20	23	0	
+ParlaMint-DK_20220113110045.seg88.9	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.163	1	29	32	2	
+ParlaMint-DK_20220113110045.seg88.10	ParlaMint-DK_20220113110045	s	English	Positive	positive	4.955	1	24	27	0	
+ParlaMint-DK_20220113110045.seg88.11	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.266	1	5	6	0	
+ParlaMint-DK_20220113110045.seg88.12	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.116	1	13	15	1	
+ParlaMint-DK_20220113110045.seg88.13	ParlaMint-DK_20220113110045	s	English	Positive	positive	4.545	1	31	33	2	
+ParlaMint-DK_20220113110045.seg88.14	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	2.751	1	33	35	0	
+ParlaMint-DK_20220113110045.seg88.15	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	2.537	1	13	14	0	
+ParlaMint-DK_20220113110045.seg88.16	ParlaMint-DK_20220113110045	s	English	Negative	negative	0.434	1	7	8	0	
+ParlaMint-DK_20220113110045.seg88.17	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	2.548	1	9	10	0	
+ParlaMint-DK_20220113110045.seg88.18	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.331	1	13	14	0	
+ParlaMint-DK_20220113110045.seg88.19	ParlaMint-DK_20220113110045	s	English	Positive	mixed positive	4.358	1	45	46	0	
+ParlaMint-DK_20220113110045.seg88.20	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.377	1	13	14	0	
+ParlaMint-DK_20220113110045.seg88.21	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.326	1	19	21	0	
+ParlaMint-DK_20220113110045.seg88.22	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.136	1	38	41	0	
+ParlaMint-DK_20220113110045.seg88.23	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	2.853	1	36	40	2	
+ParlaMint-DK_20220113110045.seg88.24	ParlaMint-DK_20220113110045	s	English	Neutral	neutral positive	3.330	1	30	36	1	
+ParlaMint-DK_20220113110045.seg88.25	ParlaMint-DK_20220113110045	s	English	Neutral	neutral negative	2.394	1	22	24	0	
+ParlaMint-DK_20220113110045.seg88.26	ParlaMint-DK_20220113110045	s	English	Negative	mixed negative	1.149	1	18	19	0	
+ParlaMint-DK_20220113110045.seg88.27	ParlaMint-DK_20220113110045	s	English	Positive	mixed positive	4.244	1	28	29	0	
+ParlaMint-DK_20220113110452	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	12	15	2	
+ParlaMint-DK_20220113110452.seg89.1	ParlaMint-DK_20220113110452	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113110452.seg89.2	ParlaMint-DK_20220113110452	s	English	Neutral	neutral positive	2.702	1	10	12	2	
+ParlaMint-DK_20220113110455	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	138	152	2	
+ParlaMint-DK_20220113110455.seg90.1	ParlaMint-DK_20220113110455	s	English	Positive	positive	4.727	1	26	27	0	
+ParlaMint-DK_20220113110455.seg90.2	ParlaMint-DK_20220113110455	s	English	Positive	positive	5.063	1	25	30	0	
+ParlaMint-DK_20220113110455.seg90.3	ParlaMint-DK_20220113110455	s	English	Negative	mixed negative	1.050	1	19	21	0	
+ParlaMint-DK_20220113110455.seg90.4	ParlaMint-DK_20220113110455	s	English	Negative	mixed negative	0.608	1	25	27	0	
+ParlaMint-DK_20220113110455.seg90.5	ParlaMint-DK_20220113110455	s	English	Negative	mixed negative	1.274	1	19	21	1	
+ParlaMint-DK_20220113110455.seg90.6	ParlaMint-DK_20220113110455	s	English	Negative	mixed negative	1.037	1	24	26	1	
+ParlaMint-DK_20220113110540	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113110540.seg91.1	ParlaMint-DK_20220113110540	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113110541	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	75	84	0	
+ParlaMint-DK_20220113110541.seg92.1	ParlaMint-DK_20220113110541	s	English	Neutral	neutral negative	1.613	1	12	14	0	
+ParlaMint-DK_20220113110541.seg92.2	ParlaMint-DK_20220113110541	s	English	Neutral	neutral positive	2.722	1	25	28	0	
+ParlaMint-DK_20220113110541.seg92.3	ParlaMint-DK_20220113110541	s	English	Neutral	neutral positive	2.664	1	19	22	0	
+ParlaMint-DK_20220113110541.seg92.4	ParlaMint-DK_20220113110541	s	English	Neutral	neutral positive	3.001	1	19	20	0	
+ParlaMint-DK_20220113110604	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113110604.seg93.1	ParlaMint-DK_20220113110604	s	English	Positive	mixed positive	3.517	1	3	4	1	
+ParlaMint-DK_20220113110613	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	156	167	1	
+ParlaMint-DK_20220113110613.seg94.1	ParlaMint-DK_20220113110613	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113110613.seg94.2	ParlaMint-DK_20220113110613	s	English	Negative	mixed negative	0.528	1	67	71	0	
+ParlaMint-DK_20220113110613.seg94.3	ParlaMint-DK_20220113110613	s	English	Negative	negative	0.154	1	56	60	0	
+ParlaMint-DK_20220113110613.seg94.4	ParlaMint-DK_20220113110613	s	English	Neutral	neutral negative	1.870	1	31	33	1	
+ParlaMint-DK_20220113110710	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113110710.seg95.1	ParlaMint-DK_20220113110710	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113110711	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	104	110	2	
+ParlaMint-DK_20220113110711.seg96.1	ParlaMint-DK_20220113110711	s	English	Negative	negative	0.272	1	34	36	1	
+ParlaMint-DK_20220113110711.seg96.2	ParlaMint-DK_20220113110711	s	English	Negative	mixed negative	0.576	1	12	13	1	
+ParlaMint-DK_20220113110711.seg96.3	ParlaMint-DK_20220113110711	s	English	Neutral	neutral negative	2.463	1	17	18	0	
+ParlaMint-DK_20220113110711.seg96.4	ParlaMint-DK_20220113110711	s	English	Neutral	neutral negative	1.609	1	41	43	0	
+ParlaMint-DK_20220113110748	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113110748.seg97.1	ParlaMint-DK_20220113110748	s	English	Positive	mixed positive	3.517	1	3	4	1	
+ParlaMint-DK_20220113110750	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	88	99	2	
+ParlaMint-DK_20220113110750.seg98.1	ParlaMint-DK_20220113110750	s	English	Positive	mixed positive	3.968	1	21	26	1	
+ParlaMint-DK_20220113110750.seg98.2	ParlaMint-DK_20220113110750	s	English	Neutral	neutral negative	1.723	1	12	13	1	
+ParlaMint-DK_20220113110750.seg98.3	ParlaMint-DK_20220113110750	s	English	Positive	mixed positive	4.063	1	3	4	0	
+ParlaMint-DK_20220113110750.seg98.4	ParlaMint-DK_20220113110750	s	English	Neutral	neutral negative	2.305	1	27	30	0	
+ParlaMint-DK_20220113110750.seg98.5	ParlaMint-DK_20220113110750	s	English	Neutral	neutral positive	2.733	1	25	26	0	
+ParlaMint-DK_20220113110825	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	0	
+ParlaMint-DK_20220113110825.seg99.1	ParlaMint-DK_20220113110825	s	English	Positive	mixed positive	4.113	1	3	5	0	
+ParlaMint-DK_20220113110826	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	54	61	1	
+ParlaMint-DK_20220113110826.seg100.1	ParlaMint-DK_20220113110826	s	English	Positive	positive	5.121	1	17	21	1	
+ParlaMint-DK_20220113110826.seg100.2	ParlaMint-DK_20220113110826	s	English	Neutral	neutral positive	2.542	1	8	9	0	
+ParlaMint-DK_20220113110826.seg100.3	ParlaMint-DK_20220113110826	s	English	Positive	mixed positive	3.593	1	7	8	0	
+ParlaMint-DK_20220113110826.seg100.4	ParlaMint-DK_20220113110826	s	English	Positive	mixed positive	4.222	1	22	23	0	
+ParlaMint-DK_20220113110844	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	27	33	2	
+ParlaMint-DK_20220113110844.seg101.1	ParlaMint-DK_20220113110844	s	English	Positive	mixed positive	4.169	1	5	6	0	
+ParlaMint-DK_20220113110844.seg101.2	ParlaMint-DK_20220113110844	s	English	Neutral	neutral positive	2.595	1	6	7	0	
+ParlaMint-DK_20220113110844.seg101.3	ParlaMint-DK_20220113110844	s	English	Neutral	neutral positive	3.413	1	16	20	2	
+ParlaMint-DK_20220113110852	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	31	850	936	7	
+ParlaMint-DK_20220113110852.seg102.1	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.555	1	17	20	1	
+ParlaMint-DK_20220113110852.seg102.2	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	3.006	1	28	32	1	
+ParlaMint-DK_20220113110852.seg102.3	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	3.349	1	14	17	0	
+ParlaMint-DK_20220113110852.seg102.4	ParlaMint-DK_20220113110852	s	English	Neutral	neutral negative	2.481	1	11	12	0	
+ParlaMint-DK_20220113110852.seg102.5	ParlaMint-DK_20220113110852	s	English	Negative	mixed negative	0.502	1	74	80	0	
+ParlaMint-DK_20220113110852.seg102.6	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.827	1	30	34	0	
+ParlaMint-DK_20220113110852.seg102.7	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.529	1	19	22	0	
+ParlaMint-DK_20220113110852.seg102.8	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.549	1	56	58	1	
+ParlaMint-DK_20220113110852.seg102.9	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	2.674	1	20	22	0	
+ParlaMint-DK_20220113110852.seg102.10	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	2.649	1	10	12	0	
+ParlaMint-DK_20220113110852.seg102.11	ParlaMint-DK_20220113110852	s	English	Negative	mixed negative	0.674	1	11	12	0	
+ParlaMint-DK_20220113110852.seg102.12	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	3.273	1	31	32	0	
+ParlaMint-DK_20220113110852.seg102.13	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.927	1	8	10	0	
+ParlaMint-DK_20220113110852.seg102.14	ParlaMint-DK_20220113110852	s	English	Negative	mixed negative	0.698	1	21	23	0	
+ParlaMint-DK_20220113110852.seg102.15	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	3.436	1	18	19	0	
+ParlaMint-DK_20220113110852.seg102.16	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.967	1	6	7	0	
+ParlaMint-DK_20220113110852.seg102.17	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	3.899	1	92	101	1	
+ParlaMint-DK_20220113110852.seg102.18	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	2.807	1	12	14	0	
+ParlaMint-DK_20220113110852.seg102.19	ParlaMint-DK_20220113110852	s	English	Neutral	neutral negative	2.220	1	20	22	0	
+ParlaMint-DK_20220113110852.seg102.20	ParlaMint-DK_20220113110852	s	English	Negative	negative	0.393	1	27	29	0	
+ParlaMint-DK_20220113110852.seg102.21	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	3.601	1	34	38	0	
+ParlaMint-DK_20220113110852.seg102.22	ParlaMint-DK_20220113110852	s	English	Negative	negative	0.488	1	55	62	0	
+ParlaMint-DK_20220113110852.seg102.23	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	4.434	1	20	21	0	
+ParlaMint-DK_20220113110852.seg102.24	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	3.862	1	52	58	1	
+ParlaMint-DK_20220113110852.seg102.25	ParlaMint-DK_20220113110852	s	English	Negative	negative	0.211	1	45	50	1	
+ParlaMint-DK_20220113110852.seg102.26	ParlaMint-DK_20220113110852	s	English	Negative	mixed negative	0.967	1	17	19	0	
+ParlaMint-DK_20220113110852.seg102.27	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	4.037	1	6	7	0	
+ParlaMint-DK_20220113110852.seg102.28	ParlaMint-DK_20220113110852	s	English	Neutral	neutral positive	2.774	1	16	17	1	
+ParlaMint-DK_20220113110852.seg102.29	ParlaMint-DK_20220113110852	s	English	Positive	positive	4.792	1	59	62	0	
+ParlaMint-DK_20220113110852.seg102.30	ParlaMint-DK_20220113110852	s	English	Negative	mixed negative	0.849	1	19	21	0	
+ParlaMint-DK_20220113110852.seg102.31	ParlaMint-DK_20220113110852	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113111340	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	4	6	2	
+ParlaMint-DK_20220113111340.seg103.1	ParlaMint-DK_20220113111340	s	English	Neutral	neutral positive	3.126	1	4	6	2	
+ParlaMint-DK_20220113111343	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	113	122	5	
+ParlaMint-DK_20220113111343.seg104.1	ParlaMint-DK_20220113111343	s	English	Positive	mixed positive	4.041	1	53	58	0	
+ParlaMint-DK_20220113111343.seg104.2	ParlaMint-DK_20220113111343	s	English	Neutral	neutral positive	2.703	1	13	14	2	
+ParlaMint-DK_20220113111343.seg104.3	ParlaMint-DK_20220113111343	s	English	Negative	negative	0.422	1	47	50	3	
+ParlaMint-DK_20220113111424	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113111424.seg105.1	ParlaMint-DK_20220113111424	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113111425	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	9	171	187	5	
+ParlaMint-DK_20220113111425.seg106.1	ParlaMint-DK_20220113111425	s	English	Positive	positive	4.695	1	10	12	0	
+ParlaMint-DK_20220113111425.seg106.2	ParlaMint-DK_20220113111425	s	English	Neutral	neutral positive	3.444	1	9	11	0	
+ParlaMint-DK_20220113111425.seg106.3	ParlaMint-DK_20220113111425	s	English	Neutral	neutral negative	1.858	1	41	45	1	
+ParlaMint-DK_20220113111425.seg106.4	ParlaMint-DK_20220113111425	s	English	Neutral	neutral positive	2.600	1	13	14	0	
+ParlaMint-DK_20220113111425.seg106.5	ParlaMint-DK_20220113111425	s	English	Negative	negative	0.223	1	35	37	1	
+ParlaMint-DK_20220113111425.seg106.6	ParlaMint-DK_20220113111425	s	English	Neutral	neutral positive	2.807	1	13	14	2	
+ParlaMint-DK_20220113111425.seg106.7	ParlaMint-DK_20220113111425	s	English	Negative	mixed negative	1.171	1	9	10	0	
+ParlaMint-DK_20220113111425.seg106.8	ParlaMint-DK_20220113111425	s	English	Neutral	neutral negative	2.479	1	17	18	1	
+ParlaMint-DK_20220113111425.seg106.9	ParlaMint-DK_20220113111425	s	English	Positive	mixed positive	4.250	1	24	26	0	
+ParlaMint-DK_20220113111516	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	1	
+ParlaMint-DK_20220113111516.seg107.1	ParlaMint-DK_20220113111516	s	English	Positive	mixed positive	3.587	1	2	3	1	
+ParlaMint-DK_20220113111517	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	97	107	2	
+ParlaMint-DK_20220113111517.seg108.1	ParlaMint-DK_20220113111517	s	English	Neutral	neutral positive	3.065	1	30	32	1	
+ParlaMint-DK_20220113111517.seg108.2	ParlaMint-DK_20220113111517	s	English	Positive	mixed positive	4.036	1	4	5	0	
+ParlaMint-DK_20220113111517.seg108.3	ParlaMint-DK_20220113111517	s	English	Negative	mixed negative	1.429	1	28	33	1	
+ParlaMint-DK_20220113111517.seg108.4	ParlaMint-DK_20220113111517	s	English	Negative	mixed negative	0.981	1	35	37	0	
+ParlaMint-DK_20220113111552	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	2	3	0	
+ParlaMint-DK_20220113111552.seg109.1	ParlaMint-DK_20220113111552	s	English	Positive	mixed positive	3.806	1	2	3	0	
+ParlaMint-DK_20220113111553	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	129	135	0	
+ParlaMint-DK_20220113111553.seg110.1	ParlaMint-DK_20220113111553	s	English	Positive	mixed positive	3.513	1	87	91	0	
+ParlaMint-DK_20220113111553.seg110.2	ParlaMint-DK_20220113111553	s	English	Positive	positive	4.573	1	33	34	0	
+ParlaMint-DK_20220113111553.seg110.3	ParlaMint-DK_20220113111553	s	English	Neutral	neutral positive	2.642	1	9	10	0	
+ParlaMint-DK_20220113111628	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	7	9	2	
+ParlaMint-DK_20220113111628.seg111.1	ParlaMint-DK_20220113111628	s	English	Positive	mixed positive	3.503	1	7	9	2	
+ParlaMint-DK_20220113111629	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	8	168	185	6	
+ParlaMint-DK_20220113111629.seg112.1	ParlaMint-DK_20220113111629	s	English	Positive	positive	4.828	1	35	38	2	
+ParlaMint-DK_20220113111629.seg112.2	ParlaMint-DK_20220113111629	s	English	Positive	positive	5.412	1	5	6	0	
+ParlaMint-DK_20220113111629.seg112.3	ParlaMint-DK_20220113111629	s	English	Positive	positive	5.210	1	17	19	2	
+ParlaMint-DK_20220113111629.seg112.4	ParlaMint-DK_20220113111629	s	English	Negative	negative	0.465	1	19	23	0	
+ParlaMint-DK_20220113111629.seg112.5	ParlaMint-DK_20220113111629	s	English	Neutral	neutral positive	2.804	1	14	17	1	
+ParlaMint-DK_20220113111629.seg112.6	ParlaMint-DK_20220113111629	s	English	Neutral	neutral positive	2.812	1	37	38	0	
+ParlaMint-DK_20220113111629.seg112.7	ParlaMint-DK_20220113111629	s	English	Positive	mixed positive	3.954	1	25	27	0	
+ParlaMint-DK_20220113111629.seg112.8	ParlaMint-DK_20220113111629	s	English	Neutral	neutral positive	2.765	1	16	17	1	
+ParlaMint-DK_20220113111738	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	11	14	0	
+ParlaMint-DK_20220113111738.seg113.1	ParlaMint-DK_20220113111738	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113111738.seg113.2	ParlaMint-DK_20220113111738	s	English	Neutral	neutral positive	3.320	1	6	7	0	
+ParlaMint-DK_20220113111738.seg113.3	ParlaMint-DK_20220113111738	s	English	Positive	mixed positive	3.960	1	3	4	0	
+ParlaMint-DK_20220113111740	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	11	209	234	4	
+ParlaMint-DK_20220113111740.seg114.1	ParlaMint-DK_20220113111740	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113111740.seg114.2	ParlaMint-DK_20220113111740	s	English	Positive	mixed positive	4.486	1	7	8	0	
+ParlaMint-DK_20220113111740.seg114.3	ParlaMint-DK_20220113111740	s	English	Positive	positive	4.996	1	12	15	2	
+ParlaMint-DK_20220113111740.seg114.4	ParlaMint-DK_20220113111740	s	English	Neutral	neutral negative	1.716	1	23	25	0	
+ParlaMint-DK_20220113111740.seg114.5	ParlaMint-DK_20220113111740	s	English	Neutral	neutral positive	2.702	1	23	24	1	
+ParlaMint-DK_20220113111740.seg114.6	ParlaMint-DK_20220113111740	s	English	Positive	mixed positive	4.085	1	21	22	0	
+ParlaMint-DK_20220113111740.seg114.7	ParlaMint-DK_20220113111740	s	English	Positive	mixed positive	3.743	1	20	21	0	
+ParlaMint-DK_20220113111740.seg114.8	ParlaMint-DK_20220113111740	s	English	Neutral	neutral positive	2.541	1	8	9	0	
+ParlaMint-DK_20220113111740.seg114.9	ParlaMint-DK_20220113111740	s	English	Positive	positive	4.794	1	40	44	0	
+ParlaMint-DK_20220113111740.seg114.10	ParlaMint-DK_20220113111740	s	English	Positive	positive	4.533	1	45	54	1	
+ParlaMint-DK_20220113111740.seg114.11	ParlaMint-DK_20220113111740	s	English	Neutral	neutral positive	3.053	1	8	9	0	
+ParlaMint-DK_20220113111843	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	4	1	
+ParlaMint-DK_20220113111843.seg115.1	ParlaMint-DK_20220113111843	s	English	Positive	mixed positive	3.517	1	3	4	1	
+ParlaMint-DK_20220113111844	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	98	110	3	
+ParlaMint-DK_20220113111844.seg116.1	ParlaMint-DK_20220113111844	s	English	Negative	negative	0.430	1	24	28	1	
+ParlaMint-DK_20220113111844.seg116.2	ParlaMint-DK_20220113111844	s	English	Neutral	neutral positive	3.025	1	12	15	1	
+ParlaMint-DK_20220113111844.seg116.3	ParlaMint-DK_20220113111844	s	English	Neutral	neutral negative	1.955	1	20	24	0	
+ParlaMint-DK_20220113111844.seg116.4	ParlaMint-DK_20220113111844	s	English	Positive	mixed positive	4.262	1	42	43	1	
+ParlaMint-DK_20220113111923	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	2	5	8	0	
+ParlaMint-DK_20220113111923.seg117.1	ParlaMint-DK_20220113111923	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113111923.seg117.2	ParlaMint-DK_20220113111923	s	English	Positive	mixed positive	4.113	1	3	5	0	
+ParlaMint-DK_20220113111925	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	137	148	0	
+ParlaMint-DK_20220113111925.seg118.1	ParlaMint-DK_20220113111925	s	English	Positive	mixed positive	3.746	1	21	23	0	
+ParlaMint-DK_20220113111925.seg118.2	ParlaMint-DK_20220113111925	s	English	Negative	mixed negative	1.438	1	49	54	0	
+ParlaMint-DK_20220113111925.seg118.3	ParlaMint-DK_20220113111925	s	English	Neutral	neutral positive	3.151	1	48	51	0	
+ParlaMint-DK_20220113111925.seg118.4	ParlaMint-DK_20220113111925	s	English	Neutral	neutral positive	2.841	1	19	20	0	
+ParlaMint-DK_20220113112000	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	18	24	3	
+ParlaMint-DK_20220113112000.seg119.1	ParlaMint-DK_20220113112000	s	English	Positive	mixed positive	3.650	1	5	8	1	
+ParlaMint-DK_20220113112000.seg119.2	ParlaMint-DK_20220113112000	s	English	Neutral	neutral positive	2.595	1	6	7	0	
+ParlaMint-DK_20220113112000.seg119.3	ParlaMint-DK_20220113112000	s	English	Neutral	neutral positive	3.487	1	7	9	2	
+ParlaMint-DK_20220113112020	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	12	270	293	1	
+ParlaMint-DK_20220113112020.seg120.1	ParlaMint-DK_20220113112020	s	English	Positive	mixed positive	4.074	1	5	7	0	
+ParlaMint-DK_20220113112020.seg120.2	ParlaMint-DK_20220113112020	s	English	Positive	positive	4.727	1	12	13	0	
+ParlaMint-DK_20220113112020.seg120.3	ParlaMint-DK_20220113112020	s	English	Positive	positive	4.871	1	19	20	1	
+ParlaMint-DK_20220113112020.seg120.4	ParlaMint-DK_20220113112020	s	English	Negative	mixed negative	1.342	1	71	75	0	
+ParlaMint-DK_20220113112020.seg120.5	ParlaMint-DK_20220113112020	s	English	Negative	mixed negative	0.923	1	14	15	0	
+ParlaMint-DK_20220113112020.seg120.6	ParlaMint-DK_20220113112020	s	English	Neutral	neutral negative	1.607	1	24	25	0	
+ParlaMint-DK_20220113112020.seg120.7	ParlaMint-DK_20220113112020	s	English	Negative	mixed negative	1.374	1	20	21	0	
+ParlaMint-DK_20220113112020.seg120.8	ParlaMint-DK_20220113112020	s	English	Positive	positive	4.688	1	31	35	0	
+ParlaMint-DK_20220113112020.seg120.9	ParlaMint-DK_20220113112020	s	English	Neutral	neutral positive	2.972	1	15	17	0	
+ParlaMint-DK_20220113112020.seg120.10	ParlaMint-DK_20220113112020	s	English	Neutral	neutral positive	3.250	1	38	41	0	
+ParlaMint-DK_20220113112020.seg120.11	ParlaMint-DK_20220113112020	s	English	Neutral	neutral positive	3.350	1	19	21	0	
+ParlaMint-DK_20220113112020.seg120.12	ParlaMint-DK_20220113112020	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113112205	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	19	23	2	
+ParlaMint-DK_20220113112205.seg121.1	ParlaMint-DK_20220113112205	s	English	Positive	positive	4.849	1	10	11	0	
+ParlaMint-DK_20220113112205.seg121.2	ParlaMint-DK_20220113112205	s	English	Neutral	neutral positive	2.637	1	5	6	0	
+ParlaMint-DK_20220113112205.seg121.3	ParlaMint-DK_20220113112205	s	English	Neutral	neutral positive	3.399	1	4	6	2	
+ParlaMint-DK_20220113112230	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	15	504	565	5	
+ParlaMint-DK_20220113112230.seg122.1	ParlaMint-DK_20220113112230	s	English	Positive	mixed positive	3.613	1	2	3	0	
+ParlaMint-DK_20220113112230.seg122.2	ParlaMint-DK_20220113112230	s	English	Neutral	neutral negative	2.114	1	42	43	1	
+ParlaMint-DK_20220113112230.seg122.3	ParlaMint-DK_20220113112230	s	English	Neutral	neutral negative	1.503	1	78	90	0	
+ParlaMint-DK_20220113112230.seg122.4	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	2.848	1	6	7	0	
+ParlaMint-DK_20220113112230.seg122.5	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	3.289	1	26	30	0	
+ParlaMint-DK_20220113112230.seg122.6	ParlaMint-DK_20220113112230	s	English	Positive	mixed positive	4.440	1	39	41	0	
+ParlaMint-DK_20220113112230.seg122.7	ParlaMint-DK_20220113112230	s	English	Positive	positive	4.665	1	2	4	0	
+ParlaMint-DK_20220113112230.seg122.8	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	3.073	1	99	108	1	
+ParlaMint-DK_20220113112230.seg122.9	ParlaMint-DK_20220113112230	s	English	Negative	mixed negative	0.790	1	18	20	0	
+ParlaMint-DK_20220113112230.seg122.10	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	3.100	1	12	13	0	
+ParlaMint-DK_20220113112230.seg122.11	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	3.364	1	39	42	0	
+ParlaMint-DK_20220113112230.seg122.12	ParlaMint-DK_20220113112230	s	English	Positive	positive	4.551	1	63	72	3	
+ParlaMint-DK_20220113112230.seg122.13	ParlaMint-DK_20220113112230	s	English	Positive	mixed positive	4.043	1	40	45	0	
+ParlaMint-DK_20220113112230.seg122.14	ParlaMint-DK_20220113112230	s	English	Neutral	neutral positive	3.245	1	23	29	0	
+ParlaMint-DK_20220113112230.seg122.15	ParlaMint-DK_20220113112230	s	English	Positive	positive	4.605	1	15	18	0	
+ParlaMint-DK_20220113112640	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	3	19	26	2	
+ParlaMint-DK_20220113112640.seg123.1	ParlaMint-DK_20220113112640	s	English	Positive	mixed positive	3.852	1	5	8	1	
+ParlaMint-DK_20220113112640.seg123.2	ParlaMint-DK_20220113112640	s	English	Neutral	neutral positive	2.624	1	5	6	0	
+ParlaMint-DK_20220113112640.seg123.3	ParlaMint-DK_20220113112640	s	English	Neutral	neutral positive	3.301	1	9	12	1	
+ParlaMint-DK_20220113112705	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	39	1517	1663	5	
+ParlaMint-DK_20220113112705.seg124.1	ParlaMint-DK_20220113112705	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113112705.seg124.2	ParlaMint-DK_20220113112705	s	English	Positive	positive	5.048	1	26	28	0	
+ParlaMint-DK_20220113112705.seg124.3	ParlaMint-DK_20220113112705	s	English	Positive	mixed positive	4.111	1	13	14	0	
+ParlaMint-DK_20220113112705.seg124.4	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	1.487	1	13	14	0	
+ParlaMint-DK_20220113112705.seg124.5	ParlaMint-DK_20220113112705	s	English	Neutral	neutral positive	2.611	1	8	9	0	
+ParlaMint-DK_20220113112705.seg124.6	ParlaMint-DK_20220113112705	s	English	Positive	positive	4.595	1	140	156	1	
+ParlaMint-DK_20220113112705.seg124.7	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.692	1	85	94	2	
+ParlaMint-DK_20220113112705.seg124.8	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.563	1	38	42	0	
+ParlaMint-DK_20220113112705.seg124.9	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.507	1	39	45	0	
+ParlaMint-DK_20220113112705.seg124.10	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.106	1	21	23	0	
+ParlaMint-DK_20220113112705.seg124.11	ParlaMint-DK_20220113112705	s	English	Neutral	neutral negative	2.351	1	6	7	0	
+ParlaMint-DK_20220113112705.seg124.12	ParlaMint-DK_20220113112705	s	English	Neutral	neutral negative	1.780	1	11	12	0	
+ParlaMint-DK_20220113112705.seg124.13	ParlaMint-DK_20220113112705	s	English	Neutral	neutral positive	3.097	1	11	14	0	
+ParlaMint-DK_20220113112705.seg124.14	ParlaMint-DK_20220113112705	s	English	Neutral	neutral negative	2.220	1	23	25	0	
+ParlaMint-DK_20220113112705.seg124.15	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.520	1	31	35	0	
+ParlaMint-DK_20220113112705.seg124.16	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.655	1	72	82	0	
+ParlaMint-DK_20220113112705.seg124.17	ParlaMint-DK_20220113112705	s	English	Neutral	neutral positive	2.851	1	13	14	0	
+ParlaMint-DK_20220113112705.seg124.18	ParlaMint-DK_20220113112705	s	English	Positive	positive	5.198	1	24	26	0	
+ParlaMint-DK_20220113112705.seg124.19	ParlaMint-DK_20220113112705	s	English	Positive	positive	4.501	1	21	23	0	
+ParlaMint-DK_20220113112705.seg124.20	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.271	1	35	38	0	
+ParlaMint-DK_20220113112705.seg124.21	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	1.093	1	38	42	0	
+ParlaMint-DK_20220113112705.seg124.22	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.960	1	49	54	0	
+ParlaMint-DK_20220113112705.seg124.23	ParlaMint-DK_20220113112705	s	English	Positive	mixed positive	4.101	1	10	11	0	
+ParlaMint-DK_20220113112705.seg124.24	ParlaMint-DK_20220113112705	s	English	Positive	mixed positive	3.962	1	61	65	0	
+ParlaMint-DK_20220113112705.seg124.25	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.535	1	47	51	0	
+ParlaMint-DK_20220113112705.seg124.26	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.568	1	53	56	0	
+ParlaMint-DK_20220113112705.seg124.27	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	1.398	1	96	109	1	
+ParlaMint-DK_20220113112705.seg124.28	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.252	1	58	62	0	
+ParlaMint-DK_20220113112705.seg124.29	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.193	1	44	47	0	
+ParlaMint-DK_20220113112705.seg124.30	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.370	1	53	57	0	
+ParlaMint-DK_20220113112705.seg124.31	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.318	1	35	39	1	
+ParlaMint-DK_20220113112705.seg124.32	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.185	1	20	22	0	
+ParlaMint-DK_20220113112705.seg124.33	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	1.496	1	46	50	0	
+ParlaMint-DK_20220113112705.seg124.34	ParlaMint-DK_20220113112705	s	English	Negative	mixed negative	0.726	1	47	50	0	
+ParlaMint-DK_20220113112705.seg124.35	ParlaMint-DK_20220113112705	s	English	Neutral	neutral negative	1.776	1	53	56	0	
+ParlaMint-DK_20220113112705.seg124.36	ParlaMint-DK_20220113112705	s	English	Neutral	neutral positive	2.963	1	56	60	0	
+ParlaMint-DK_20220113112705.seg124.37	ParlaMint-DK_20220113112705	s	English	Neutral	neutral positive	2.814	1	44	49	0	
+ParlaMint-DK_20220113112705.seg124.38	ParlaMint-DK_20220113112705	s	English	Negative	negative	0.495	1	18	19	0	
+ParlaMint-DK_20220113112705.seg124.39	ParlaMint-DK_20220113112705	s	English	Positive	mixed positive	4.384	1	57	60	0	
+ParlaMint-DK_20220113113644	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	16	21	1	
+ParlaMint-DK_20220113113644.seg125.1	ParlaMint-DK_20220113113644	s	English	Neutral	neutral negative	1.693	1	16	21	1	
+ParlaMint-DK_20220113113650	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	10	232	250	3	
+ParlaMint-DK_20220113113650.seg126.1	ParlaMint-DK_20220113113650	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113113650.seg126.2	ParlaMint-DK_20220113113650	s	English	Neutral	neutral negative	2.356	1	12	13	0	
+ParlaMint-DK_20220113113650.seg126.3	ParlaMint-DK_20220113113650	s	English	Positive	positive	5.140	1	29	31	1	
+ParlaMint-DK_20220113113650.seg126.4	ParlaMint-DK_20220113113650	s	English	Negative	negative	0.224	1	28	29	0	
+ParlaMint-DK_20220113113650.seg126.5	ParlaMint-DK_20220113113650	s	English	Negative	negative	0.469	1	41	44	1	
+ParlaMint-DK_20220113113650.seg126.6	ParlaMint-DK_20220113113650	s	English	Positive	mixed positive	4.129	1	17	19	0	
+ParlaMint-DK_20220113113650.seg126.7	ParlaMint-DK_20220113113650	s	English	Neutral	neutral negative	1.692	1	31	34	0	
+ParlaMint-DK_20220113113650.seg126.8	ParlaMint-DK_20220113113650	s	English	Neutral	neutral positive	3.065	1	4	5	0	
+ParlaMint-DK_20220113113650.seg126.9	ParlaMint-DK_20220113113650	s	English	Neutral	neutral negative	2.237	1	50	53	1	
+ParlaMint-DK_20220113113650.seg126.10	ParlaMint-DK_20220113113650	s	English	Neutral	neutral negative	2.272	1	18	19	0	
+ParlaMint-DK_20220113113753	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	1	3	5	0	
+ParlaMint-DK_20220113113753.seg127.1	ParlaMint-DK_20220113113753	s	English	Positive	mixed positive	4.113	1	3	5	0	
+ParlaMint-DK_20220113113754	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	5	149	163	3	
+ParlaMint-DK_20220113113754.seg128.1	ParlaMint-DK_20220113113754	s	English	Positive	mixed positive	4.494	1	3	5	0	
+ParlaMint-DK_20220113113754.seg128.2	ParlaMint-DK_20220113113754	s	English	Positive	mixed positive	4.293	1	48	51	2	
+ParlaMint-DK_20220113113754.seg128.3	ParlaMint-DK_20220113113754	s	English	Neutral	neutral negative	1.957	1	23	25	0	
+ParlaMint-DK_20220113113754.seg128.4	ParlaMint-DK_20220113113754	s	English	Negative	mixed negative	0.588	1	18	20	0	
+ParlaMint-DK_20220113113754.seg128.5	ParlaMint-DK_20220113113754	s	English	Negative	negative	0.490	1	57	62	1	
+ParlaMint-DK_20220113113850	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	6	46	54	1	
+ParlaMint-DK_20220113113850.seg129.1	ParlaMint-DK_20220113113850	s	English	Positive	mixed positive	4.234	1	2	3	0	
+ParlaMint-DK_20220113113850.seg129.2	ParlaMint-DK_20220113113850	s	English	Positive	mixed positive	3.781	1	14	16	0	
+ParlaMint-DK_20220113113850.seg129.3	ParlaMint-DK_20220113113850	s	English	Neutral	neutral negative	2.449	1	12	14	0	
+ParlaMint-DK_20220113113850.seg129.4	ParlaMint-DK_20220113113850	s	English	Neutral	neutral positive	2.782	1	11	12	1	
+ParlaMint-DK_20220113113850.seg129.5	ParlaMint-DK_20220113113850	s	English	Neutral	neutral positive	3.126	1	4	5	0	
+ParlaMint-DK_20220113113850.seg129.6	ParlaMint-DK_20220113113850	s	English	Positive	mixed positive	4.075	1	3	4	0	
+ParlaMint-DK_20220113113906	ParlaMint-DK-en_2022-01-13-20211-M45	u	English	-	-	-	4	62	67	3	
+ParlaMint-DK_20220113113906.seg130.1	ParlaMint-DK_20220113113906	s	English	Neutral	neutral negative	2.339	1	10	11	0	
+ParlaMint-DK_20220113113906.seg130.2	ParlaMint-DK_20220113113906	s	English	Neutral	neutral positive	2.705	1	18	19	1	
+ParlaMint-DK_20220113113906.seg130.3	ParlaMint-DK_20220113113906	s	English	Neutral	neutral positive	2.825	1	13	14	1	
+ParlaMint-DK_20220113113906.seg130.4	ParlaMint-DK_20220113113906	s	English	Neutral	neutral positive	2.869	1	21	23	1	

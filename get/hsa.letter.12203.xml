@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Behrendt Pick an Hugo Schuchardt (15-08820)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">
+            <forename>Behrendt</forename>
+            <surname>Pick</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12203" type="PID">o:hsa.letter.12203</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">15-08820</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08820</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">
+                <forename>Behrendt</forename>
+                <surname>Pick</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" ref="http://sws.geonames.org/2918752">Gotha</origPlace>
+              <origDate ana="dcterms:created" when="1921-03-05">1921-03-05</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Behrendt Pick und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2402"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12203">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2402" ref="https://viaf.org/viaf/71523763">
+            <forename>Behrendt</forename>
+            <surname>Pick</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" key="#GID.1" ref="http://sws.geonames.org/2918752">Gotha</placeName>
+          <date when="1921-03-05">1921-03-05</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Gotha</settlement>
+                <name ref="http://geonames.org/2918752" type="fcode:PPLA3">Gotha</name>
+                <location>
+                  <geo>10.70193,50.94823</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2402" type="context">
+                        Korrespondenz Behrendt Pick - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12203" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12203" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12203" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Gotha 5.III.1921</dateline>
+        <opener>Lieber verehrter Herr Hofrat!</opener>
+        <p> Ihr willkommener Brief vom 20. Februar ist länger als nötig unterwegs gewesen, weil er erst von einer Zensurbehörde auf Grund von § soundso geöffnet worden ist. Aber die Behörde hat sich ja überzeugt, dass er nichts verbotenes enthält, und hat ihn frisch verschlossen weiterbefördert. </p>
+        <p>Ich danke Ihnen sehr für Übersendung der Photographie des Döllschen<note n="1" place="foot" type="editorial">
+            <persName>Friedrich Ludwig Theodor Doell</persName> (1789-1863), aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.81">Gotha</placeName> stammender deutscher Porträtmaler, der für seinen Gönner Herzog August von Gotha eine große Zahl von Bildern malte, die in verschiedenen thüringischen Galerien hängen.</note> Bildes. Die Erwerbung für Gotha ist sowohl des Dargestellten wie des Malers wegen von grosser Wichtigkeit. Da Geheimrat Purgold<note
+            n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2459">
+Karl Purgold</persName> (1851-1939), Historiker u. Bibliothekar in Gotha; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2459">HSA 09055-09076</ref>.</note> noch verreist ist, habe ich mit Ehwald<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1439">Rudolf Ehwald</persName> (1847-1927), Bibliothekar in Gotha; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1439">HSA 02705-02707</ref>.</note> darüber beraten, und er ist derselben Meinung wie ich. Wir bitten Sie sehr, uns die Photographie noch einige Wochen hier zu lassen, bis Purgold zurück ist; er wird um den 15. März erwartet und wird gewiss nicht viel länger ausbleiben. Auch er wird natürlich unsere Meinung teilen und dann sich über den Preis äussern können. Sollten die laufenden Mittel des Museums nicht ausreichen, so bringen wir den nötigen Betrag schon irgenwie auf. Doell ist ja nicht gerade ein „gesuchter“ Meister, aber es ist doch ein schönes Bild und der Rahmen ist kostbar; also wird es sich schon um eine gute Anzahl Tausender (in Oesterreich Zehntausender) handeln, denke ich. </p>
+        <p>Am 14. März verreise ich auf mehere Wochen nach der <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6003">Schweiz</placeName>, wohin ich zu einer Arbeit eingeladen bin. Wen ich Purgold nicht mehr sprechen sollte, so <pb
+            facs="#IMG.2" n="2"/> wird Ehwald ihm die Photographie übergeben und das weitere veranlassen, so dass P. Ihnen dann selbst schreiben kann. Nach meiner Meinung kann es kaum etwas geben, was für das Gothaer Museum wichtiger, so dass auch ein besonderes Opfer für den Ankauf des Bildes angebracht wäre; für irgend ein anderes Museum hätte das Bild auch keinen so hohen Wert, so dass es für beide Teile, Sie und das Museum, am besten wäre, wenn das Bild nach Gotha käme, was ja auch sonst gewiss in Ihrem Sinne ist. </p>
+        <closer>
+          <salute> Ich schliesse für heute in der Hoffnung, dass das Bild in seine Heimat zurückkehren wird, und verbleibe mit vielen Grüssen</salute>
+          <lb/>
+          <salute>Ihr herzlichst ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">BPick</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

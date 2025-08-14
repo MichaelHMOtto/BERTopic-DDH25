@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Heinrich Schröder an Hugo Schuchardt (01-10203)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2674">
+            <forename>Heinrich</forename>
+            <surname>Schröder</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12291" type="PID">o:hsa.letter.12291</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-10203</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10203</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2674">
+                <forename>Heinrich</forename>
+                <surname>Schröder</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="11" unit="pages">11 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.855" ref="http://sws.geonames.org/2891122">Kiel</origPlace>
+              <origDate ana="dcterms:created" when="1910-05-07">1910-05-07</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Heinrich Schröder und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2674"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12291">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2674" ref="https://viaf.org/viaf/166858847">
+            <forename>Heinrich</forename>
+            <surname>Schröder</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.855" key="#GID.1" ref="http://sws.geonames.org/2891122">Kiel</placeName>
+          <date when="1910-05-07">1910-05-07</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Kiel</settlement>
+                <name ref="http://geonames.org/2891122" type="fcode:PPLA">Kiel</name>
+                <location>
+                  <geo>10.13489,54.32133</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2674" type="context">
+                        Korrespondenz Heinrich Schröder - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4182" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indogermanische Forschungen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3085" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Zeitschrift für romanische Philologie</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4302" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Germanisch-Romanische Monatsschrift</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.130" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Dreschflegel</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.9">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.10">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12291" xml:id="IMG.11">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12291" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>GRM – GERMANISCH-ROMANISCHE MONATSSCHRIFT – GRM <lb/> KIEL (WAITZSTR. 39), den 7. Mai 1910.</dateline>
+        <opener>Hochverehrter Herr Hofrat,</opener>
+        <p> ich bitte Sie mein Schweigen gütigst entschuldigen zu wollen. Ich hätte Ihnen längst geantwortet, wenn ich nicht gehofft hätte, daß es Herrn Hofrat Meyer-Lübke gelingen würde, Sie davon zu überzeugen, daß ich in bester Absicht gehandelt habe. Nur auf die Nachricht wartete ich, um dann selbst an Sie zu schreiben. Nun erhalte ich aber Ihren Brief vom 29.4., den Herr M.-L. auf Ihren Wunsch mir schickt. </p>
+        <p>Sie schreiben darin: „Wenn Dr. Schr. bezüglich ihrer (der Berichtigungen) Bedenken hatte, so mußte er mir <pb
+            facs="#IMG.2" n="2"/> diese mitteilen; ich hätte sie entweder zerstreut oder die Notizen zurückgezogen. Daß er sich deshalb an einen Dritten wenden würde, ließ ich mir nicht träumen. Es kommt dabei nicht in Betracht, daß Sie der Dritte waren und daß ich in Ihr gerechtes Urteil keinen Zweifel setze; aber ich bin so unbescheiden zu meinen, daß ich selbst, besonders schon wegen meines Alters, genügende Bürgschaft für mich leiste, und daß eine Superarbitrierung in diesem wie in sonstigen Fällen etwas Verletzendes für mich hat.“ </p>
+
+        <p>Hochverehrter Herr Hofrat, in diesen Ihren Worten liegt der Schlüssel für mein Verhalten. Ich hatte den dringenden Wunsch, Sie möchten auf den Abdruck der „Erklärung“ verzichten; ich hielt das aus verschiedenen Gründen für notwendig. Aber ich sagte mir, es stünde <pb
+            facs="#IMG.3" n="3"/>
+          <hi rend="unknown"
+            rendition="#none">mir</hi> nach meiner Stellung und meinem Alter nicht wohl an, einem Gelehrten Ihres Alters und Ihrer Bedeutung einen solchen Wunsch, eine solche Bitte vorzutragen. Und deshalb bat ich Herrn M.-L.<note
+            n="1" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2180"> Wilhelm Meyer-Lübke.</persName>
+          </note>, sich mit Ihnen in Verbindung zu setzen. </p>
+
+        <p>Also nicht „Geringschätzung“, wie Sie meinen, sondern die Verehrung und Bewunderung, die ich für Sie empfinde, ist schuld an meinem sonst unerklärlichen und unverzeihlichen Schweigen und hat mich bewogen, mich an Herrn M.-L. zu wenden. Unglücklicherweise hat dieser meine Briefe dann erst nach seiner Rückkehr von Reise in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName> erhalten. Sonst – daran zweifle ich nicht – würde er mündlich alles mit Ihnen zu Ihrer Befriedigung klargestellt haben. </p>
+        <p>Meine Bedenken richten sich besonders gegen Ihre „Erklärung“ <pb facs="#IMG.4"
+            n="4"/> zu Borchlings Bericht über die Grazer Tagung<note n="2" place="foot"
+              type="editorial">Vgl. in HSA den Brief Borchlings an <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.9483/sdef:TEI/get?context=context:hsa.letters.1178">
+ 01-01223</ref>) vom 31.3.1910.</note>. Es ist keine „Berichtigung“: Sie geben selbst zu, daß Borchling<note
+            n="3" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1178">Conrad August Johann Carl Borchling</persName> (1872-1945), deutscher Germanist.</note> die volkskundl. Sektion mit Recht als Meringers „Werk“ bezeichnet.<note
+            n="4" place="foot" type="editorial">Vgl. die Korrespondenz <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2169">Rudolf Meringers</persName> mit Schuchardt, <ref target="https://gams.uni-graz.at/context:hsa.letters.2169?locale=de">HSA 07037-07071</ref>.</note> Sie wenden sich nur gegen den Ausdruck „ureigenstes“ Werk, in den Sie etwas hineinlegen, woran Borchling meiner festen Überzeugung nach nicht im entferntesten gedacht hat. Soweit ich (natürlich ohne Sie zu nennen) habe feststellen können, ist kein Leser auf den Gedanken gekommen, daß in Borchlings Worten eine Spitze gegen irgendeinen enthalten sein könnte. Sachlich haben Sie daher auch nichts gegen die Stelle einzuwenden, und da Ihre Person weder genannt, noch auch nur angedeutet ist, so glaubte ich, Ihre „Erklärung“ nicht bringen zu dürfen. </p>
+
+        <p>Sie verweisen auf andere „Berichtigungen“, die wir bereits gebracht haben. Wenn es sich in Ihrem Falle um eine „Berichtigung“ ge- <pb
+            facs="#IMG.5"
+            n="5"/> handelt hätte, dann hätte ich kein Bedenken getragen, sie abzudrucken. Ich habe auch schon einmal – leider! – Erklärungen persönlichen Inhalts bringen müssen. Aber da lag die Sache anders. Wendt (<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.265"> Hambg</placeName>) hatte in seinem Bericht über die Pariser Neuphilologenversammlung Förster (<placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.38">Berlin</placeName>) persönlich kritisiert und zwar unter Namensnennung. Da konnte ich die Erwiderung nicht ablehnen. Ich bedaure, daß ich die betr. Stelle in Wendts Bericht nicht gestrichen hatte. </p>
+
+        <p>Aber zu Ihren persönlichen Bemerkungen und Anspielungen, die nur von sehr wenigen verstanden werden können, von den meisten viell. willkürlich ausgelegt werden, scheint mir Borchlings Bericht, der Sie gar nicht nennt, auch nicht einmal von Ferne andeutend auf Sie hinweist, keinen Anlaß zu geben. Ich hätte auch Herrn Borchling erst den Wortlaut Ihrer Erklärung <pb
+            facs="#IMG.6"
+            n="6"/> mitteilen müssen, ebenso Herrn Meringer, gegen den Ihre Erklärung sich richtet, und ich hätte die Gegenerklärungen dieser Herren zugleich mit Ihrer Erklärung abdrucken müssen. Sie werden mir zugeben, daß eine solche Aussicht für den Redakteur einer so jungen Ztschr. nicht gerade erfreulich war. Denn zweifellos wären mir wieder von den verschiedensten Seiten Vorwürfe gemacht worden, wie es auch in dem Falle Wendt/Förster<note
+            n="5" place="foot" type="editorial">
+            <persName> Gustav Wendt</persName> / <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1507">Wendelin Förster</persName>.</note> geschehen war, in dem ich Försters Erklärung nicht ablehnen konnte, weil ich – leider – die gegen ihn gerichtete persönliche Bemerkung in Wendts Bericht nicht gestrichen hatte, wie ich es hätte tun sollen. </p>
+        <p>Jedenfalls aber hätte ich Ihre Erklärung mit den beiden Gegenerklärungen, die ich doch erst hätte abwarten müssen, im Märzheft nicht mehr abdrucken können: dazu wäre es zu spät geworden. </p>
+        <p>Nun kam dann auch noch Ihre „Berichtigung“<note n="6" place="foot"
+            type="editorial"> Schuchardt, „Berichtigung von R. Meringer“, GRM 1, 1910, 596.</note>, die ja an sich rein sachlich ist, aber, in Verbindung mit der vorausgehenden „Erklärung“ <pb
+            facs="#IMG.7" n="7"/> doch zweifellos von allen Lesern als Ausfluß persönlicher Mißstimmung ausgelegt worden wäre. Daher freute ich mich sehr, als Sie beides – „Erklärung“ und „Berichtigung“ – zurückzogen, und wollte nur noch Meyer-Lübkes Nachricht, daß Sie zufriedengestellt seien, abwarten, um Ihnen dann für Ihr Entgegenkommen zu danken und Ihnen weitere Aufklärung über den Grund meines Schweigens zu geben. </p>
+
+        <p>Nun bestehn Sie aber in dem Brief an Herrn M.-L. wieder auf Abdruck der „Berichtigung“, und zwar schon im Maiheft. Das ist wieder ebenso unmöglich, wie es s. Zt. im Märzheft unmöglich gewesen wäre.<note
+            n="7" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.504"> Schuchardt, „ [Berichtigung von R. Meringer, Germanisch-Romanische Monatsschrift 1, S. 596]“, <hi
+                  rend="unknown" rendition="#none">GRM</hi> 2, 1910, 368.</ref>
+            </bibl>
+
+          </note> Das Maiheft ist schon gedruckt, das Juniheft wird schon gesetzt und in 8 Tagen schicke ich schon wieder das Mskr. für das Juliheft ab. Im Juniheft könnte ich also die Berichtigung noch unterbringen. Aber ich möchte Sie doch herzlich bitten, auf die Berichtigung ganz zu <pb
+            facs="#IMG.8"
+            n="8"/> verzichten. Sie ist ja, wie schon gesagt, ganz sachlich gehalten; aber, wie ich meine und ich nicht allein, geht sie von einer irrigen Voraussetzung aus: Meringer hat da doch offenbar nur an rein sprachwissenschaftliche Zeitschriften gedacht, sodaß also nur Kuhns Zs.<note
+            n="8" place="foot" type="editorial">
+            <hi rend="unknown" rendition="#none">Historische Sprachforschung</hi> .</note>, Bezz. Btr.<note n="9"
+            place="foot" type="editorial">Nicht identifiziert.</note>, Indog. Forsch.<note n="10" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4182">
+              <hi rend="unknown" rendition="#none">Indogermanische Forschungen.</hi>
+            </ref>
+          </note> inbetracht kommen konnten, an Groeber Zs.<note n="11" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3085">
+              <hi rend="unknown" rendition="#none">Zeitschrift für romanische Philologie</hi>
+            </ref>.</note> hat gewiß keiner gedacht. </p>
+        <p>Wenn ich also Ihre „Berichtigung“ abdrucke – und wenn Sie darauf bestehn, dann tu ich’s –, dann werde ich diese Bemerkung gleich hinzufügen. Tu ich’s nicht, so muß ich auf eine Erwiderung von Meringers Seite gefaßt sein, und ein unerquicklicher Streit zieht sich durch mehrere Hefte hin – keinem zur Freude, unserem jungen Unternehmen aber sicherlich zum Schaden. Ich bitte also um Ihre Weisung. Von Herzen dankbar würde ich Ihnen sein, wenn Sie auf den Abdruck der Berichtigung verzichteten. </p>
+        <p>Und nun, hochverehrter Herr Hofrat, zürnen Sie mir nicht! <pb facs="#IMG.9"
+            n="9"/> Seien Sie überzeugt, daß wirklich nur das Gefühl der Verehrung für Sie mich bisher davon zurückgehalten hat, an Sie zu schreiben in einer Sache, in der meine Überzeugung, gegen die ich nichts machen kann, von der Ihrigen abweicht. Sie können mir glauben, ich hab es oft genug bewiesen, daß es mir nicht am Muth fehlt, meine Ansichten zur Geltung zu bringen; aber selber ist es mir so schwer geworden, meine abweichende Überlegung zu äußern wie in diesem Falle Ihnen gegenüber. Aber Ihr letzter Brief an Herrn Meyer-L.<note
+            n="12" place="foot" type="editorial">Wilhelm Meyer-Lübke.</note>, in dem Sie sogar von „Gering- <pb
+            facs="#IMG.10" n="10"/> schätzigkeit“ sprechen, die ich Ihnen gegenüber an den Tag gelegt hätte, zwingt mich zu offener Aussprache. </p>
+        <p>Ich bitte Sie nochmals, zürnen Sie mir nicht, lassen Sie auch bitte die <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4302">GRM</ref>. es nicht entgelten, daß ich nicht sofort auf Ihre Wünsche eingegangen bin. Ich bitte Sie herzlichst, unsere Ztschr. nicht zu vergessen, wenn Sie Passendes für uns haben. </p>
+        <p>Ich hätte Sie gern in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6"> Graz</placeName> kennen gelernt, aber ich wollte Sie nicht belästigen. Ich weiß ja daß Männer wie Sie bei solchen Gelegenheiten unter der Zudringlichkeit von wirklichen Verehrern und bloßen Neugierigen genug zu leiden haben. </p>
+        <pb facs="#IMG.11" n="11"/>
+        <p>Für Ihre interessante Abhandlung über den <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.130">Dreschflegel</ref>
+          <note n="13" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.531">Schuchardt, „Sachwortgeschichtliches über den Dreschflegel“, <hi
+                  rend="unknown" rendition="#none">ZrP</hi> 34, 1910, 257-294.</ref>
+            </bibl>
+          </note> sage ich Ihnen meinen herzlichsten Dank. </p>
+        <closer>
+          <salute>In aufrichtiger Verehrung</salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <salute>hochachtungsvoll ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2674">Heinr. Schröder</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

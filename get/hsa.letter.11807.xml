@@ -1,0 +1,369 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (99-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11807" type="PID">o:hsa.letter.11807</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">99-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 46-52</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1891-02-01">1891-02-01</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11807">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1891-02-01">1891-02-01</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5511" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Académie des inscriptions et belles-lettres</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3378" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue des Patois Gallo-Romans</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.6168" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue de philologie française et provençale</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5049" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">École des Chartes</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f101" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f103" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f104" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f102" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f105" xml:id="IMG.5">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f106" xml:id="IMG.6">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7520" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz, 1 février 91</dateline>
+        <opener>Cher ami,</opener>
+        <p> Dans le billet que je vous adressai immédiatement après avoir eu le gros lot, je vous annonçai que je vous écrirais sous peu plus au long. Mais ce n’est qu’aujourd’hui que j’en trouve le temps. </p>
+        <p> D’abord mille remerciments pour ce beau volume si riche<note n="1" place="foot" type="editorial">
+            <hi rendition="#i">Études romanes dédiées à Gaston Paris</hi> par ses étudiants à l’occasion du 25<hi
+              rendition="#sup">e</hi> anniversaire de son doctorat (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4909">
+Bédier et al. 1891</ref>
+            </bibl>).</note>, si panaché qui réunit les reflets de votre puissante et variée activité, en tant qu’elle s’est opérée sur ceux de votre nation ou de votre langue. Nous autres, nous vous devons encore un in-folio. </p>
+        <p> Je vous ai envoyé deux exemplaires de mon étude sur le malaioportugais de <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5971">Côte de Java</placeName>
+          <note n="2" place="foot" type="editorial"> Neuvième partie des <hi
+              rendition="#i">
+Kreolische Studien</hi> de Schuchardt, consacrée au «Malaioportugiesische von Batavia und Tugu» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.176">Schuchardt 1890b</ref>
+            </bibl>). Ce travail est le plus vaste et le plus programmatique de la série des <hi
+            rendition="#i">Kreolische Studien</hi>. </note>, dont l’un était destiné à être présenté à l’<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5511">Académie</ref> comme symbole de l’hommage de son nouveau correspondant. Car bien piètre fut ma lettre de remerciements, dont je pourrais m’excuser en disant que <pb
+            facs="#IMG.2" n="2"/> mes sentiments étaient trop forts pour trouver dans le moment même une expression vraiment académique. Quant à mon malaioportugais je vous défierais de trouver un meilleur exemple du mélange des langues, si des flexions – le malai n’en a pas – fussent entrées en jeu. Du reste, je n’en dirai pas du bien de mon travail si non que je m’y suis donné pas mal de mal. </p>
+        <p> Ce n’est pas le mien dont je vous voulais entretenir, c’est celui de M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1391">Dietrich</persName>. Quand votre lettre, que je reçus à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.738">Bade-Bade</placeName> au commencement du mois d’Octobre, me dit assez nettement que «<hi
+            rendition="#u">je vous avais fait prendre</hi>» cette dissertation<note n="3" place="foot"
+              type="editorial">Voir l. du 18 mars 1890 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11797">HS 90-24457</ref>).</note>, je fus saisi de frayeur; car l’idée d’une telle responsabilité avait été bien loin de moi. Voici, en peu de mots, l’histoire de cette affaire. Je ne donne jamais de thèmes à mes élèves, pas même quand ils m’en demandent. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1391">M. Dietrich</persName> commença à s’occuper du créole de la <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.153">Réunion</placeName> à ses risques et périls. Il est vrai que tout d’abord je lui donnai non seulement tous les matériaux nécessaires, mais aussi des conseils pour la disposition générale comme pour les détails. Mais avant qu’il <pb
+            facs="#IMG.3"
+            n="3"/> se mît à l’exécution, je lui demandai s’il voulait traiter le sujet en collaboration avec moi ou s’il avait l’intention d’en faire sa thèse de doctorat. Il se décida pour ce dernier et je dus l’abandonner à ses propres forces. Le travail qu’il me présenta ensuite, était fait consciencieusement, mais montra un manque complet de talent d’exposition. L’introduction était tout simplement impossible; je la lui fis changer, mais même alors elle ne me contenta pas tout à fait. Je pensais que ce travail se devait imprimer, non pas pour faire plaisir à des lecteurs quelconques mais dans l’intérêt de la science (je ne savais pas encore que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5069">J. Bédier</persName> était créole et romaniste en même temps), il était à espérer que, parmi les habitants de la <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.153">Réunion</placeName>, quelqu’un se trouverait qui voulût éclaircir tant d’obscurité<note
+            n="4" place="foot"
+            type="editorial">La lettre est coupée à la marge. Il y a sans doute une virgule ou un «et».</note>, répondre à tant de questions. C’est pour cela que j’engageai M. D. à écrire en français quoique je pusse prévoir quelle serait la sorte de français qui sortirait de sa plume. Nous pensions d’abord à <pb
+            facs="#IMG.4" n="4"/> la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3378">Revue des patois g.-r</ref>.<note n="5" place="foot"
+              type="editorial">Voir l. du 10 novembre 1889 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11795">HS 88-24457</ref>).</note> et à la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.6168">Revue</ref> de M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1312">Clédat</persName>
+          <note n="6" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.6168">
+              <hi rendition="#i">La Revue de philologie française et provençale</hi>
+            </ref>, fondée par <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1312">Léon Clédat</persName> (1851-1930), ancien élève de G. Paris à l’<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5049">Ecole des chartes</ref>, chargé d’un cours de la littérature médiévale à l’université de Lyon. </note>; mais nous nous vîmes obligés, enfin, à recourir à la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>. Je ne me rappelle plus les termes dans lesquels je vous écrivis; en tout cas mon intention était de ne me porter garant que pour le fond du travail (sans partager toutefois toutes les opinions émises par M. D.), mais point du tout d’anticiper ou d’influencer votre jugement à l’égard de – comment dirais-je? – la toilette de la candidate. Je n’ai pas vu les premières épreuves; M. Dietrich les renvoya peu de jours avant mon retour à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">
+Graz</placeName>. Mais j’ai devant moi les secondes, et j’ai déjà indiqué à M. D. plusieurs choses à changer ou à ajouter. Néanmoins, je dois vous dire que je me trouve dans une situation très embarrassante. Mon seul souci est celui de vous contenter ou plutôt de ne pas vous mécontenter. Mais comment dois je m’y prendre? Je pense que le travail de M. D. est «publiable» (s.v.v.)<note
+            n="7" place="foot" type="editorial">
+            <hi
+            rendition="#i">sit venia verbo</hi>.</note> mais j’avoue que la manière dont il expose les faits ne me convient pas toujours et que je ne sais comment y remédier sans refaire moi-même telle <pb
+            facs="#IMG.5"
+            n="5"/> et telle partie. Par exemple, j’aurais naturellement quelque chose à dire sur les mots d’<hi
+            rendition="#u">origine obscure</hi>, dont la longue liste me fait une impression curieuse<note n="8"
+            place="foot" type="editorial">La liste des mots «d’origine obscure» établie par Adolphe Dietrich (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2332">1891</ref>
+
+            </bibl>) comprend plus de 170 entrées.</note>; cependant pour en parler comme je voudrais, il me faudrait des recherches assez longues et pénibles. En effet, j’avais conseillé à M. D. de ne pas se préoccuper des influences malgaches, mozambiques, hindous etc., ayant l’intention de les discuter moi-même dans un travail spécial. Voilà ou en est l’affaire. Je ne sais pas trop comment vous autres vous savez vous incorporer dans vos élèves; il est vrai, moi je ne fais que leur prêcher l’indépendance, la sceptique à l’égard des <hi
+            rendition="#u">verba magistri</hi>. Je ne voudrais pas qu’on dît que l’auteur de telle ou telle dissertation appartint <hi
+            rendition="#u">à mon école</hi>. Dans les toasts qu’on m’a portés aux banquets d’il y a quelques semaines, on a insisté sur cette tendance <hi
+            rendition="#u">antiscolastique</hi> de moi. Mais laissons à part mon incapacité de m’amalgamer avec M. D.<note
+            n="9" place="foot"
+              type="editorial">Nous ne savons rien de précis sur le rapport entre Schuchardt et Dietrich. Une seule lettre de ce dernier est conservée au HSA. Écrite en français, depuis Paris, en octobre 1891, elle parle des diffultés de tout ordre qu’il y rencontre lors de son séjour (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1388">HSA 01-02307</ref>; <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7354">Krämer 2014</ref>
+
+            </bibl>, 142‑49, 142‑49).</note>; c’est aussi l’arrangement typographique qui me donnerait lieu à des observations. Surtout, il est très peu «<hi
+            rendition="#u">übersichtlich</hi>»;<note n="10" place="foot" type="editorial">Pour la représentation graphique de ce qui suit, voir fac-similé.</note>
+        </p>
+        <p> 1) 1) </p>
+        <p> a) au lieu de a) </p>
+        <p> α) α) </p>
+        <p> β) β) </p>
+        <p> tout cela embarrasse et fatigue; <pb facs="#IMG.6"
+            n="6"/> mais je comprends qu’autrement il faudrait être très prodigue de papier. Donc, encore une fois; je crois que le travail de M. D. peut s’imprimer tel qu’il est; mais je n’en prends pas la responsabilité. Je regrette de ne pas m’avoir exprimé assez clairement; c’est la première fois que j’ai cherché à placer le travail d’un de mes élèves et ce sera la dernière. Mais je relirai le travail, pour voir s’il y a encore des peccadilles à corriger. Veuillez donc, cher ami, m’excuser si je ne me comporte pas tout à fait comme vous l’aurez désiré. Mes amitiés à M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">Paul Meyer</persName>. </p>
+        <closer>
+          <salute>Votre bien dévoué</salute>
+          <lb/>
+          <signed> H. Schuchardt </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

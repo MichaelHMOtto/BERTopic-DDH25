@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Pier Enea Guarnerio an Hugo Schuchardt (05-04185)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1658">
+            <forename>Pier Enea</forename>
+            <surname>Guarnerio</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11554" type="PID">o:hsa.letter.11554</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-04185</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04185</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1658">
+                <forename>Pier Enea</forename>
+                <surname>Guarnerio</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Karte (Postkarte)</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.125" ref="http://sws.geonames.org/3173435">Mailand</origPlace>
+              <origDate ana="dcterms:created" when="1909-11-23">1909-11-23</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Pier Enea Guarnerio und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1658"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11554">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1658" ref="https://viaf.org/viaf/32114683">
+            <forename>Pier Enea</forename>
+            <surname>Guarnerio</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.125" key="#GID.1" ref="http://sws.geonames.org/3173435">Mailand</placeName>
+          <date when="1909-11-23">1909-11-23</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Milan</settlement>
+                <name ref="http://geonames.org/3173435" type="fcode:PPLA">Milan</name>
+                <location>
+                  <geo>9.18951,45.46427</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1658" type="context">
+                        Korrespondenz Pier Enea Guarnerio - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11554" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11554" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11554" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>
+          <lb/>[CARTOLINA POSTALE ITALIANA, <lb/>MILANO, 23-11-09] </dateline>
+        <pb facs="#IMG.2" n="2"/>
+        <dateline>
+          <lb/>Milano, via Rovere 3 <lb/>22-XI-09 </dateline>
+        <opener>Illustre Professore,</opener>
+        <p>Voglio sperare che mi permetterà una preghiera. Vedo annunziato nella <hi rend="unknown" rendition="#none">Cultura</hi>
+          <note n="1" place="foot" type="editorial">Rez. N. N., <hi rend="unknown"
+              rendition="#none">La Cultura, rivista critica</hi> XXVIII, 1909, 703-704 (fehlt in HSA; nicht gez., aber am Ende der Rez. findet sich der Hinweis A. R. CLEMENTELLI, <hi
+              rend="unknown"
+            rendition="#none">gerente responsabile</hi>). Hier die Rez.: „Le osservazioni contenute in esso, dice l’illustre glottologo, sono soggettive, personali; parola che suona abitualmente biasimo sulla nostra bocca. Ma non è l’individuo – segue lo S. – il soggetto di ogni vita spirituale? Oggettività non è altro che il maggior accordo possibile delle nostre conoscenze con quelle degli altri. E pertanto, come la storia dell’arte è storia dell’artista, così quella della scienza è storia dello scienziato. L’individualità promuove il progresso della scienza, il raggiungimento di valori sempre più alti. Nè vi è misura obbiettiva del valore della scienza, poichè sarebbe vano cercarlo negli scopi di utilità pratica, da cui invece essa si libera nel suo sviluppo. Che anzi la soddisfazione più alta meglio che nel sapere, è nella ricerca. A torto quindi l’Ostwald considera inutile sciupìo di tempo la linguistica; essa è una parte della storia dello spirito umano. Storia dello spirito appunto, e non scienza naturale; e le naturalistiche leggi fonetiche non sono che mezzi di lavoro, abbisognando esse stesse di spiegazione. Esse non vanno considerate come prodotto della collettività concepita come organismo, nè isolatamente dagli altri cambiamenti linguistici, anzi dai cambiamenti nei costumi, nel vestito ecc. Come questi, le mutazioni fonetiche divengono comuni per l’imitazione, spontanea o no, la quale domina quasi tutta la vita linguistica. Non si tratta di fenomeni etnologici, ma antropologici; cambiamenti individuali e imitazione bastano a spiegare il dividersi delle lingue. La linguistica dunque deve derivare dall’unità la molteplicità; ma deve anche saper scorgere nella molteplicità l’unità, servendo così alla storia, dopo essersene servita. Ed infine essa è prettamente connessa alla storia della cultura: come già Cicerone ammoniva i retori del suo tempo, la verborum doctrina non va disgiunta dalla rerum doctrina“. - Vgl. zuvor PK 04185 (22.11.1909). </note> un suo opusculo „Sprachgeschichtliche Werte“,<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.505">Schuchardt, „Sprachgeschichtliche Werte“, <hi
+                  rend="unknown" rendition="#none">
+Strōmateis. Grazer Festgabe zur 50. Versammlung deutscher Philologen und Schulmänner</hi>, Graz: Selbstverlag des Festausschusses, 1909, 155-172.</ref>
+            </bibl>
+          </note> che mi interesserebbe assai di leggere e meditare, come si meritano tutti i suoi lavori. Potrebbe Ella favorirmene un esemplare? Le sarei gratissimo dell’invio e fin d’ora la ringrazio infinitamente, confermandomi </p>
+        <closer>
+          <salute>Obblig<hi rendition="#sup">mo</hi>
+          </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1658">Prof. Guarnerio</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

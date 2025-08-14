@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Michele Scherillo an Hugo Schuchardt (02-10037)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2628">
+            <forename>Michele</forename>
+            <surname>Scherillo</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11941" type="PID">o:hsa.letter.11941</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-10037</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10037</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2628">
+                <forename>Michele</forename>
+                <surname>Scherillo</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.103" ref="http://sws.geonames.org/3172394">Neapel</origPlace>
+              <origDate ana="dcterms:created" when="1902-01-08">1902-01-08</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Michele Scherillo und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2628"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11941">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2628" ref="https://viaf.org/viaf/59125240">
+            <forename>Michele</forename>
+            <surname>Scherillo</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.103" key="#GID.1" ref="http://sws.geonames.org/3172394">Neapel</placeName>
+          <date when="1902-01-08">1902-01-08</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Naples</settlement>
+                <name ref="http://geonames.org/3172394" type="fcode:PPLA">Naples</name>
+                <location>
+                  <geo>14.26811,40.85216</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2628" type="context">
+                        Korrespondenz Michele Scherillo - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11941" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11941" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11941" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11941" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11941" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Napoli, 8 gennaio 1902<lb/> (via Salvator Rosa 289)</dateline>
+        <opener>Illustre e caro professore,</opener>
+        <p> Le rispondo, finalmente!</p>
+        <p/>
+        <p>L’ultima Sua lettera la lessi subito al <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1353">D’Ovidio</persName>, che mi disse che Le avrebbe risposto direttamente. <note
+            n="1" place="foot" type="editorial">
+Dieser Brief fehlt in der entsprechenden HSA-Korrespondenz; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1353?locale=de">
+08432-08494</ref>.</note>
+        </p>
+        <p>Quanto ai fusi, ho fatto una larga inchiesta, ed eccone i risultati. A <hi rend="unknown"
+            rendition="#none">Soccavo</hi> (‘ab Iove principium!‘<note n="2" place="foot" type="editorial">Vergil, <hi
+              rend="unknown"
+            rendition="#none">
+Ecl.</hi> III,60.</note> vede dove si va a ficcare l’amor patrio!) dunque il fuso<note
+            n="3" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> interessierte sich für Spindeln besonders in den Jahren 1900 bis 1905.</note>
+          <hi rend="unknown" rendition="#none">sempre</hi> usato è fatto così. [Zeichnung]. </p>
+
+        <p>L’uncino fa tutto un corpo con una specie di cappelletto di ferro, conico (a), che s’infigge sul fuso. Il verticello si adatta, di sotto, faccendo risalire fino a un po‘ più giù della <pb
+            facs="#IMG.2" n="2"/> metà del fuso. Così: [Fig. A] </p>
+
+        <p>S’intende che il filo s’attorciglia nello spazio tra a e b. – Quando però il fuso è troppo leggiero, e la filatrice è abile e vuol far presto, essa aggiunge un secondo verticello, dalla testa, facendolo discendere fin sotto il cappelletto di ferro (sossavese: <hi
+            rend="unknown" rendition="#none">musculone</hi>). Si ha quindi la forma: [Fig. B] </p>
+        <p> E il filo s’attorciglia tra i due verticelli (a-b). Ripeto: questo secondo verticello, superiore, non s’aggiunge che in casi singolari: quando cioè si abbia molta fretta e la filatrice sia molto svelta. Se la sveltezza manca, il filo si spezza. A Soccavo il fuso [Fig. C] è completamente ignorato. </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p>Ora, come a <hi rend="unknown" rendition="#none">Soccavo</hi>, le faccende <hi rend="unknown"
+            rendition="#none">fusiche</hi> vanno pure a <hi rend="unknown" rendition="#none">Pianura</hi> e <hi
+            rend="unknown" rendition="#none">Pozzuoli</hi> (dello stesso circondario), ad <hi rend="unknown"
+            rendition="#none">Arzano</hi>, a <hi rend="unknown" rendition="#none">Sant’Anastasia</hi>, a <hi
+            rend="unknown" rendition="#none">Somma vesuviana</hi>, a <hi rend="unknown"
+            rendition="#none">
+Sperone</hi>, a <hi rend="unknown" rendition="#none">Sant‘ Antimo</hi>, a <hi
+            rend="unknown" rendition="#none">Cesa</hi>, ad <hi rend="unknown" rendition="#none">Aversa</hi>, a <hi
+            rend="unknown" rendition="#none">Sant‘ Arpino</hi>, a <hi rend="unknown"
+            rendition="#none">Succivo</hi>, a <hi rend="unknown" rendition="#none">Orta d’Atella</hi>, a <hi
+            rend="unknown" rendition="#none">Casaluce</hi>, a <hi rend="unknown" rendition="#none">Nola</hi>, a <hi
+            rend="unknown" rendition="#none">Fratta piccola</hi>, a <hi rend="unknown"
+            rendition="#none">Fratta maggiore</hi>, a <hi rend="unknown" rendition="#none">
+Casandrino</hi>, a <hi
+            rend="unknown" rendition="#none">Casoria</hi>, ad <hi rend="unknown" rendition="#none">Afragola</hi>, a <hi
+            rend="unknown" rendition="#none">Casalnuovo</hi> (paesi della provincia di <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.103">Napoli</placeName> e di Caserta, quasi confinanti), e anche a <hi
+            rend="unknown" rendition="#none">Bagnoli Irpino</hi> (Avellino). – A <hi rend="unknown" rendition="#none">Procida</hi> la forma coi due verticelli (Fig. B) è generalmente preferita. </p>
+        <p>Invece, dei paesi vicino Napoli adoperano il fuso ‘col verticello fino e l’uncino‘ (Fig. C): <hi
+            rend="unknown" rendition="#none">Portici</hi>, <hi rend="unknown"
+            rendition="#none">Torre del Greco</hi>, <hi rend="unknown" rendition="#none">Torre Annunziata</hi>, <hi
+            rend="unknown" rendition="#none">Gragnano</hi>, <hi rend="unknown" rendition="#none">Scafati</hi>, <pb
+            facs="#IMG.4" n="4"/>
+          <hi rend="unknown"
+            rendition="#none">Angri</hi>. Non enumero, s’intende, che quei paesi, dei quali ho potuto avere informazioni in questi giorni. – In <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5890">Sicilia</placeName> mi dicono generalmente usato il fuso Fig. C. </p>
+        <p>La funzione del verticello inferiore non è, come Lei suppone, d’essere girato sulla coscia; ma esso serve a dare il necessario contrappeso ed equilibrio. Sulla coscia si fa striciare la corda del fuso [Zeichnung] (a-c). </p>
+        <p>Il fuso di Soccavo differisce dal fuso tarantino, da Lei disegnato, per una più alta collocazione del verticello. </p>
+        <p>Non so nulla del fuso „con intonatura di spira“. A Soccavo non si conosce. </p>
+        <p>Tornerò fra due giorni a <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.125">Milano</placeName> (Via Gabrio Casati, 1); ma qui come colà sono a Sua disposizione per ciò che posso. </p>
+        <closer>
+          <salute>Intanto Le auguro ottimo anno; e mi auguro che voglia continuarmi la Sua benevolenza.</salute>
+          <lb/>
+          <salute>Aff<hi rendition="#sup">mo</hi> dev<hi rendition="#sup">mo</hi>
+          </salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2628">M. Scherillo</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

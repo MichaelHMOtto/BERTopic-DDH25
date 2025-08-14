@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (170-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11904" type="PID">o:hsa.letter.11904</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">170-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 103</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Karte (Postkarte)</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.172" ref="http://sws.geonames.org/2523920">Palermo</origPlace>
+              <origDate ana="dcterms:created" when="1901-05-16">1901-05-16</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11904">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.172" key="#GID.1" ref="http://sws.geonames.org/2523920">Palermo</placeName>
+          <date when="1901-05-16">1901-05-16</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Palermo</settlement>
+                <name ref="http://geonames.org/2523920" type="fcode:PPLA">Palermo</name>
+                <location>
+                  <geo>13.3636,38.1166</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f208" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f207" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7591" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <pb facs="#IMG.2" n="2"/>
+        <dateline>Palermo, Hôtel Trinacria</dateline>
+        <opener> Th. Fr.!<note n="1" place="foot" type="editorial">Abbréviation pour «Theurer Freund».</note>
+        </opener>
+
+        <p>Eine kleine Nachschrift zum Gestrigen. Aus meinen scherzhaften Äusserungen dürfen Sie nicht entnehmen dass ich Ihnen das – sehr begreifliche – Vergessen übel genommen habe, wohl aber mache ich Ihnen einen kleinen Vorwurf daraus dass Sie das Vergessen nicht sogleich haben eingestehen wollen<note
+            n="2" place="foot" type="editorial">Référence à l’oubli de G. Paris de parler de la <hi
+              rendition="#i">Bible de Leiçarraga</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.448">Schuchardt &amp; Linschmann 1900</ref>
+
+            </bibl>).</note>. Von jeher habe ich die unselige Eigenschaft besessen, eine Ungewissheit nicht lange ertragen zu können. Als Sie mir nicht antworteten, befragte ich wegen der Sache <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1195">Bréal</persName>, der mir kurz schrieb «Le livre de Sch. et L. se trouve à la Bibl. de l’Acad.; d’où je conclus que M. P. s’est acquitté de la commission»<note
+            n="3" place="foot"
+            type="editorial">Nous n’avons pas retrouvé cette lettre.</note>. Punktum. Die Schlussfolgerung schien mir nicht gerechtfertigt; ich wandte mich deshalb an noch eine Persönlichkeit welche mir versprach, Erhebungen anzustellen. «Tant de bruit pour une omelette<note
+            n="4" place="foot"
+              type="editorial">Proverbe tiré d’une parole qu’aurait prononcée le poète libertin <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6586">Jacques Vallée des Barreaux</persName> (1599-1673), alors qu’il dégustait une omelette au lard en plein carême.</note>, c.-à.-d. un bouquin» werden Sie sagen, ich kann darauf nur antworten: «Voilà comme je suis» (Fam. Benoîton)<note
+            n="5" place="foot" type="editorial">
+            <hi
+              rendition="#i">La famille Benoîton</hi>, comédie en 5 actes de Victorien Sardou. Ici, acte III, scène 19. Schuchardt utilisera à nouveau cette référence contre Thomas dans un écrit de 1902: «Vielleicht lebt er [Thomas] in der Vorstellung, wie auch manche andern Sprachforscher, dass die Grundsätze und Methoden etwas Persönliches, etwas Angeborenes oder doch ein für alle Mal Erworbenes seien, dass sie ausserhalb der Wissenschaft liegen. […] Nun dem sei wie ihm wolle; nur sollte man was man nicht begründen will, auch nicht behaupten. Das aber thut Thomas […]: ‘J’ai pour principe, quand il y a conflit entre la phonétique et la sémantique, de donner toujours tort à cette dernière, car je suis persuadé que plus je lui fais perdre de procès, plus je l’enrichis’. Als ich dies las, blitzte vor mir das ‘Voilà comme je suis! des kleinen Benoîton auf – sans comparaison natürlich» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.711">Schuchardt 1902b</ref>
+
+            </bibl>, 390‑91). </note>. – Jener Eigenschaft entspringt auch die kleine Verstimmung die ich in meiner Auseinandersetzung mit <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">Thomas</persName> (nicht dem Ungläubigen, sondern dem Gläubigen) empfunden habe. Soweit meine <hi
+            rendition="#u">Roman. Etym</hi>.<note n="6" place="foot"
+              type="editorial">«Romanische Etymologieen II» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.28">Schuchardt 1899a</ref>
+            </bibl>), dont Thomas rend compte dans la <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1256">Thomas 1900b</ref>
+            </bibl>).</note> eine polemische Spitze haben, ist sie gegen Sie gerichtet; ich hatte erwartet <hi
+            rendition="#uu">Sie</hi> würden entgegnen und nicht durch einen Andern mir entgegnen lassen, und Sie hätten es in glücklicherer Weise gethan als <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">Thomas</persName>. Aber der νέφεληγερέτης ist hinter den Wolken geblieben. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">Thomas</persName> spricht natürlich seine eigenen Ansichten aus, aber auch zugleich die Ihrigen; nun weiss ich nicht wie weit sich diese beiden decken, und das ist eine leidige, lästige Ungewissheit<note
+            n="7" place="foot"
+              type="editorial">G. Paris est jusque-là resté en retrait de ces querelles étymologiques. Sur <hi
+              rendition="#i">trouver</hi> notamment, qui oppose ouvertement Thomas à Schuchardt, il s’en tient à son article de 1878, dans lequel il déclarait l’étymologie par <hi
+              rendition="#i">turbare</hi> «suspecte» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7893">G. Paris 1878</ref>
+            </bibl>, 418). Il faut attendre la parution des «Problèmes philologiques» de Thomas dans la <hi
+              rendition="#i">Romania</hi> 31/121 pour voir G. Paris préciser, dans une longue note intégrée à l’article, sa position sur le sujet: «Enfin il est permis de douter que la série de sens admise par M. Sch., – 'troubler l’eau pour faire sortir les poissons', d’où 'troubler les poissons pour les prendre', d’où 'chercher [à prendre] des poissons', d’où 'chercher' en général, d’où 'trouver', – soit vraisemblable, qu’une occupation aussi restreinte que celle de la pêche à la bouille ait donné lieu dans la langue commnue à un si riche développement, et que de toute la série il ne reste dans cette langue que le dernier aboutissement, lequel aurait été déjà acquis à l’époque impériale» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3996">Thomas 1902</ref>
+            </bibl>, 12‑13). </note>. Ich komme ganz unbegründeter Weise in einen Gegensatz, zu <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">Thomas</persName> den ich nicht nur schätze, sondern mit dem ich auch sympathisire; unsere Bestrebungen sind z. Th. auf ganz analoge Objekte gerichtet, und wir nähern uns ihnen doch auch wesentlich auf denselben Wegen. – Von meinem Balkon aus umspannt mein Blick den ganzen Golf von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.172">Palermo</placeName>; die Wolken die in diesen Tagen den Himmel verdüsterten sind verschwunden, möge die ganze Romania sich der gleichen Helle erfreuen. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2417">Pitrè</persName> mit dem ich viel zusammen bin, gedenkt Ihrer mit Liebe und Begeisterung. </p>
+        <closer>
+          <salute>Herzl.</salute>
+          <signed>Ihr H. Sch.</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Reinhold Rost an Hugo Schuchardt (19-09788)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2561">
+            <forename>Reinhold</forename>
+            <surname>Rost</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12040" type="PID">o:hsa.letter.12040</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">19-09788</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">09788</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2561">
+                <forename>Reinhold</forename>
+                <surname>Rost</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.656" ref="http://sws.geonames.org/2643743">London</origPlace>
+              <origDate ana="dcterms:created" when="1888-06-25">1888-06-25</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Reinhold Rost und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2561"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12040">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2561" ref="https://viaf.org/viaf/41991851">
+            <forename>Reinhold</forename>
+            <surname>Rost</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.656" key="#GID.1" ref="http://sws.geonames.org/2643743">London</placeName>
+          <date when="1888-06-25">1888-06-25</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>United Kingdom</country>
+                <settlement>London</settlement>
+                <name ref="http://geonames.org/2643743" type="fcode:PPLC">London</name>
+                <location>
+                  <geo>-0.12574,51.50853</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2561" type="context">
+                        Korrespondenz Reinhold Rost - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3204" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Pantun</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12040" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12040" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12040" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>[India Office, Whitehall. S. W.] 25 Juni 88. </dateline>
+        <opener>Sehr verehrter Freund, </opener>
+        <p> Sie haben durch Ihren Entschuldigungsbrief in der That feurige Kohlen auf mein Haupt gehäuft, da es ja an mir war mich wegen meines unverzeihlich langen Schweigens bei Ihnen zu entschuldigen. Froh bin ich übrigens zu erfahren, daß es Ihnen nicht schlimmer geht als in früheren Jahren. Bei mir geht es rasch abwärts. Ich bin eben erst von schwerer Krankheit zur gewohnten Arbeit zurückgekehrt; einen Rückfall würde ich schwerlich durchmachen. </p>
+        <p>Mit der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3204">
+Pantun</ref>-Handschrift hat es keine Eile; sie steht Ihnen noch auf Jahre zur Verfügung, und sollte ich dann nicht mehr unter der Lebenden sein, so behalten Sie sie zum Andenken an mich. <note
+            n="1" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> hatte die sehr wertvolle Handschrift allerdings auch zum Zeitpunkt des Todes von Rost noch in seinem Besitz. Zu ihrer Geschichte und rezenten Veröffentlichung vgl. die einschlägige Fußnote zu <ref target="https://gams.uni-graz.at/o:hsa.letter.12032">
+Brief 09782</ref> oben.</note>
+        </p>
+
+        <p> Ueber den Verf. des Artikels in den Proceedings of the R. Geogr. Soc., der dort Everard F. im Thurn heißt, habe ich nichts in Erfahrung bringen können;<note
+            n="2" place="foot" type="editorial">Wahrscheinlich <persName>
+
+Everard Ferdinand Im Thurn</persName> (1852-1932), ein schweizstämmiger britischer Botaniker, Reisender, Ethnologe, Entdecker und ethnologischer Photograph. Hier ist eventuell der Artikel <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8805">E.F. im Thurn. 1880. A journey in the interior of British Guaiana, in: <hi
+                  rend="unknown" rendition="#none">Proceedings of the Royal Geographic Society</hi> 2 (1880): 465-488.</ref>
+            </bibl>
+
+          </note> sein Name steht in keiner Mitgliederliste und in keinem officiellen Handbuch. Doch giebt es in die City eine Firma J. C. Im Thurn &amp; Sons, 1 Eart Indio Avenne, London, E. C., die jedenfalls mit dem <note
+            n="3" place="foot" type="editorial">auf S. 1 seitliche Anmerkung von <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+Schuchardts</persName> Hand: vergessen, worum es sich handelte. Wohl Negerport von Südamerika. Der Bezug und der Zeitpunkt, an dem diese Anmerkung entstand, ist nicht klar, denn Schuchardt wusste sehr wohl, auch noch zur Zeit der Abfassung seines Testaments, um welche “<ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3204">
+Pantun</ref>-Handschrift” es sich handelte. </note>
+          <pb facs="#IMG.2" n="2"/> erwähnten Herrn in naher Beziehung steht. Ein Brief von Ihnen würde sicher Beachtung finden und Ihnen Auskunft verschaffen. </p>
+        <p>Wenn irgend Einer, kann Steen Donald Ferguson<note n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1478">Donald William Ferguson</persName> (1853-1910). Herausgeber der Zeitung 
+
+Ceylon Observer. Das HSA enthält <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1478?locale=de">Briefe von ihm an Schuchardt</ref> aus den Jahren 1888-1895.</note> Colombo, über des “Ceylon-Portuguese”<note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8806">Ferguson, Donald William (1908). The discovery of Ceylon by the Portuguese in 1506.</ref>
+            </bibl> Veröffentlicht in <placeName>
+
+Colombo</placeName>.</note> Mittheilungen machen. </p>
+        <p>Besten Dank für die übersandten Abhandlungen, an denen ich mich delectiren werde. </p>
+        <p>Gestern Abend war der Tagala Dr. Rizal,<note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2531">José Rizal</persName> (1871-1896) war philippinischer Publizist, Schriftsteller und Mediziner. Als Kritiker des Kolonialregimes machte er in Europa Stimmung gegen die spanische Beherrschung der <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.5856">Philippinen</placeName> und wurde schließlich vom spanischen Kolonialregime hingerichtet und ist der bedeutendste philippinische Nationalheld. Es gibt einen Brief von Rizal an Schuchardt (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.1997/sdef:TEI/get?context=context:hsa.letters.2531">
+HSA 09682</ref>). Er war während seines Londoner Aufenthaltes regelmäßiger Abendgast bei Rost.</note> ein Freund Blumentritt’s,<note
+            n="7" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1160">
+Ferdinand Blumentritt</persName> (1853-1913), Schuldirektor in Leitmeritz (Böhmen) war der engste und wichtigste Freund von Rizal in Europa, der sich als politischer Korrespondent und Vertreter der philippinischen Befreiungsbewegung in Europa einen Namen machte. Er war einer der intensivsten Korrespondenten Schuchardts, es gibt 143 Schreiben Blumentritts, die Gegenbriefe Schuchardts sind leider nicht auffindbar (<ref target="https://gams.uni-graz.at/context:hsa.letters.1160?locale=de">HSA 01038-01179</ref>). </note> bei mir. </p>
+        <p>Ich werde den ganzen Sommer in <placeName>
+
+London</placeName> bleiben und nur dann nur wann, auf einige Tage aufs Land gehen. </p>
+        <closer>
+          <salute>In treuer Ergebenheit </salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2561"> R. Rost.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hermann Meurer an Hugo Schuchardt (04-07153)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2179">
+            <forename>Hermann</forename>
+            <surname>Meurer</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+                  Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12457" type="PID">o:hsa.letter.12457</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">04-07153</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität
+                     Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07153</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2179">
+                <forename>Hermann</forename>
+                <surname>Meurer</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="5" unit="pages">5 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.441" ref="http://sws.geonames.org/2812482">Weimar</origPlace>
+              <origDate ana="dcterms:created">Unbekannt</origDate>
+            </origin>
+            <provenance> Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz. </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Hermann Meurer und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2179"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>, <ref
+            target="https://www.ediarum.org/">ediarum</ref> und
+               der <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und
+               befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des
+               Nachlasses von Hugo Schuchardt (1842-1927). Die Onlinepräsentation stellt alle
+               Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung. Die Bearbeitung
+               des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz, die
+               zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12457">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2179" ref="https://viaf.org/viaf/57379822">
+            <forename>Hermann</forename>
+            <surname>Meurer</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.441" key="#GID.1" ref="http://sws.geonames.org/2812482">Weimar</placeName>
+          <date>Unbekannt</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Weimar</settlement>
+                <name ref="http://geonames.org/2812482" type="fcode:PPLA3">Weimar</name>
+                <location>
+                  <geo>11.32903,50.9803</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2179" type="context"> Korrespondenz Hermann
+                        Meurer - Hugo Schuchardt </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Latein</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.219" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Koptisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12457" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12457" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12457" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12457" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12457" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12457" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <opener>Sehr geehrter Herr Professor!</opener>
+        <p> Köstlich: „Emeritirter Hofrat“ sind Sie, wie mir <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2047">Linschmann</persName>
+               schreibt. Sie können doch höchstens „emeritirter Univ. Prof.“ sein, aber ein
+               Amtstitel wie Prof. ist „character indelebilis“ und Hofrat bleiben Sie bis an ihr,
+               hoffentlich recht fernes, Ende. Die Abhandlung folgt anbei. Zuerst muß ich bemerken,
+               daß ich diesen Aufsatz des gelehrten Beiwerks entkleidet hatte, da ich ihn von
+               verschiedenen Zeitschriften als zu gelehrt zurückgeschickt erhielt. So machte ich ihn
+               für ein größeres Publikum zurecht u. schickte ihn an ein protest. Blatt in
+                  <placeName> Bremen</placeName>. Die Herrn, ich glaube es war Pastor Ehmde, der mir
+               schrieb, <pb
+            facs="#IMG.2"
+            n="2"/> hatten ihn noch für zu gelehrt befunden, obgleich
+               er sie höchlichst interessiert habe, und ihn liebenswürdiger Weise an D. Websky,
+               Schriftleiter der Prot. Monatsblätter in Berlin<note
+            n="1" place="foot" type="editorial">
+
+            <persName> Julius Ernst Websky</persName> (1850-1922), Evang. Theologe, Publizist.
+                  (Das „D.“ steht vermutlich für den theol. Doktortitel).</note>, gesandt, der ihn
+               auch gleich aufgenommen hat. Hätte ich das ahnen können, so hätte ich die andere
+               Bearbeitung mit literar. Zuthaten, u. genauerem Unterschied der baskischen
+               Verbalbildung im Gegensatz zu den flektierenden Sprachen u. s. w. zugesandt. Auch
+               hatte ich noch die 2te Auf. Der Proverbes Basques, Paris 1847 in die Hände
+                  bekommen<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6368">
+                <hi rend="unknown" rendition="#none">Proverbes basques: suivis des poésies
+                           basques du même auteur</hi>
+              </ref>
+
+            </bibl>. Von Oihenart, Arnaut; die Erstausgabe stammt von 1657.</note>, mit der
+               ganzen Bibliographie von Francisque Michel<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6557">Francisque
+                     Michel</persName> (1809-1887), franz. französischer Historiker, Romanist,
+                  Mediävist, Argotforscher und Bibliophile (<ref
+            target="https://de.wikipedia.org/wiki/Francisque_Michel">
+                  wikipedia</ref>).</note>; nicht minder fand ich interessante Sachen zu <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5677">Leiçarraga</persName> in
+                  Brunet<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4202">
+                <hi rend="unknown" rendition="#none">Manuel du libraire et de l'amateur de
+                           livres</hi>, par Jacques-Charles Brunet (mehrere Ausg.)</ref>
+            </bibl>.</note>. Das alles hätte ich benutzen können. <pb facs="#IMG.3"
+            n="3"/>
+               Vor allem hat mir der Umstand verleidet, daß Bruston der Dekan in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6214"> Montauban</placeName>
+          <note n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1222">Charles
+                     Bruston</persName> (1838-1937), prot. Geistlicher Prof. a. d. <hi
+              rend="unknown"
+            rendition="#none"> Faculté de théologie protestante de Montauban
+                  </hi>.</note>, meine (<ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.886"> latein.</ref> abgefaßte) gar nicht mißzuverstehende Frage; wie viel <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">baskisch</ref> redende
+               Reformierte in jenen 2 Departements heutzutage anzunehmen seien, fälschlich
+               beantwortet hat, denn die 4843 sind Reformierte, aber sprechen nicht mehr Baskisch.
+               Ich beabsichtige vorläufig die Sache auf sich beruhen zu lassen, da Websky hier nach
+                  <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.441">Weimar</placeName>
+               gekommen ist – seine Schwiegermutter wohnt hier – u. mich besuchen will. </p>
+        <p>Linschmann wohnt in Oetzsch bei <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName>
+          <note n="6" place="foot"
+            type="editorial">Bis 1934 ein Ortsteil der Stadt <placeName>
+                     Markkleeberg</placeName> im Landkreis Leipzig.</note>, wie mir auf meine
+               Anfrage Prof. Zarncke<note
+            n="7" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3052"> Eduard
+                     Zarncke</persName> (1857-1936), Klass. Philologe; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.3052?locale=de">HSA
+                     12970-12977</ref>.</note> neulich mitteilte. Ich hatte Linschmann <pb
+            facs="#IMG.4"
+            n="4"/> die Fahnenabzüge zum Aufsatz geschickt, die er mir mit seinen
+               Bemerkungen zurücksandte. Allein dazu war es zu spät, diese Zusätze über Ihren Titel,
+               Bibliographie u. s. w. einzufügen; was sollte das auch! Durch eine Bemerkung zu den
+               4843 prot. Basken aufmerksam gemacht, schrieb ich zugleich mit Zusendung des
+               Aufsatzes an Websky. Prot. Mbl.<note
+            n="8" place="foot" type="editorial">
+            <hi rend="unknown" rendition="#none">Monatsblatt</hi>.</note>, an Bruston und
+               fragte deshalb an. Er antwortete: er bedaure meine Frage mißverstanden zu haben.
+               Linschmann hat bei seinem Namen bemerkt „nachdem er im Meissnischen als Geistlicher
+               gewirkt“. Ich hatte aber absichtlich das vermieden, da ich nicht wußte, ob ihm dieser
+               Zusatz genehm sein würde. </p>
+        <p>So steht die Sache: Sie müssen mit der mangelhaften Anzeige Ihrer Arbeit vorlieb
+               nehmen und den guten Willen für die That. Ich bin ja Laie u. hatte mich nun
+               einigermaßen </p>
+        <pb facs="#IMG.1" n="5"/>
+
+        <p>I1 RandI Prof. Schubert, den Sie kennen, war den ganzen Winter wegen Kehlkopfleiden
+               in Gries<note
+            n="9" place="foot" type="editorial">
+            <hi rend="unknown" rendition="#none">Gries</hi>-Quirein (italienisch <hi rend="unknown"
+              rendition="#none">Gries</hi>-San Quirino), zu diesem Zeitpunkt
+                  selbständiger Kurort, heute Teil von <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.468">Bozen</placeName>.</note> u.
+               am Gardasee; einmal habe ich ihn gesprochen. Jetzt ist er wieder irgendwo in der
+               Sommerfrische rus evolavit sagt der feinere Franzose. </p>
+        <pb facs="#IMG.2" n="6"/>
+        <p> I2 RandI Als glebae adscriptus bleibe ich immer hier. Sollten Sie nach Weimar
+               kommen, bitte ich Sie uns zu besuchen. </p>
+        <closer>
+          <salute>Mit herzl. Gruß Ihr </salute>
+          <lb/>
+          <signed>Dr. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2179"> H.
+                     Meurer</persName>
+          </signed>
+        </closer>
+        <pb facs="#IMG.4" n="7"/>
+        <postscript>
+          <p>mit dem Baskischen bekannt gemacht, wie jetzt mit dem <ref target="https://gams.uni-graz.at/o:hsa.languages#L.219">Koptischen</ref> wegen
+                  Athan. Kircher (Beiblatt zur Magd. Ztg. 6. Mai) </p>
+          <p> Hoffentlich sind Sie gestärkt von der Reise zurückgekehrt; leider <pb facs="#IMG.3"
+              n="8"/> nicht Prof. H. S. Si ex itinere redux lectiones indicabit, wie
+                  es vor 48 Jahren in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.216">
+                     Jena</placeName> am schwarzen Bret (sic) hieß. Es würde mir sehr angenehm sein,
+                  Günstiges von Ihnen berichtet zu sehen. </p>
+        </postscript>
+      </div>
+      <div corresp="#L.12457" subtype="original" type="appendix" xml:lang="de">
+        <pb facs="#IMG.5" n="9"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

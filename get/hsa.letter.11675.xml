@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Anton Marty an Hugo Schuchardt (01-06876)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2140">
+            <forename>Anton</forename>
+            <surname>Marty</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11675" type="PID">o:hsa.letter.11675</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-06876</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06876</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2140">
+                <forename>Anton</forename>
+                <surname>Marty</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="8" unit="pages">8 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.343" ref="http://sws.geonames.org/3067696">Prag</origPlace>
+              <origDate ana="dcterms:created" when="1893-06-15">1893-06-15</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Anton Marty und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2140"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11675">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2140" ref="https://viaf.org/viaf/7497024">
+            <forename>Anton</forename>
+            <surname>Marty</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.343" key="#GID.1" ref="http://sws.geonames.org/3067696">Prag</placeName>
+          <date when="1893-06-15">1893-06-15</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Czechia</country>
+                <settlement>Prague</settlement>
+                <name ref="http://geonames.org/3067696" type="fcode:PPLC">Prague</name>
+                <location>
+                  <geo>14.42076,50.08804</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2140" type="context">
+                        Korrespondenz Anton Marty - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11675" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11675" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Prag 15 Juni 93.</dateline>
+        <opener>Verehrter Herr College!</opener>
+        <p> Sie haben mir durch Übersendung Ihrer schönen Abhandlung über den mehrzeiligen Relativsatz<note n="1"
+            place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.442">Schuchardt, „Der mehrzielige Frage- und Relativsatz“, <hi
+                  rend="unknown" rendition="#none">
+Analecta Graeciensia: Festschrift zur 42. Versammlung deutscher Philologen und Schulmänner zu Wien Pfingsten 1893</hi>, 195-217.</ref>
+            </bibl>
+          </note> (in der ich wieder eine Reihe von Bemerkungen zur Psychologie der Sprache Wort für Wort unterschreiben könnte) eine rechte Freude gemacht. Um so größer, als sie ja doch nicht allzuhäufig sind, die Arbeiten von der Art wie diese u. andere von Ihnen, die ich früher wiederholt u. mit erneutem Vergnügen u. Nutzen gelesen habe. </p>
+
+        <p>Die philosophische Behandlung der Sprache theilt das allgemeine Schicksal der Philosophie. Die wirkliche Begabung zur Untersuchung u. Lösung der Probleme ist, wie Sie S. 4 auch andeuten, relativ selten. An die Stelle <pb
+            facs="#IMG.2"
+            n="2"/> wahrer, die Forschung fördernder Leistungen drängen sich dann vielfach – und oft längere Perioden besprechend – Surrogate dem Publikum auf. Wie als Philosophie überhaupt, so auch speziell als Sprachphilosophie, gilt dann zb. die Kunst über Alles, selbst über das Einfachste u. Klarste in möglichst unverständlicher u. hochtönender Weise abzuhandeln, den Leser mit einem ordentlichen Sturzbad neuer philosophisch sein sollenden Termini u. geheimnisvoll-paradoxen Sentenzen zu überschütten u. ihn, erfüllt von gründlichem Respekt vor dieser „tiefen“ Betrachtungsweise, in halber Bewußtlosigkeit zu entlassen. So war es bei uns in der Schelling-Hegel’schen Zeit. Später kam in der Sprachphilosophie Herbart zur Herrschaft. Seine Psychologie nimmt zwar, im <pb
+            facs="#IMG.3"
+            n="3"/> Verhältniß zur sog. Spekulation, den Charakter des Empirischen für sich in Anspruch; aber leider ohne die Verheißung zu erfüllen. Denn die Vorstellungsmassen, von denen sie fort u. fort redet, u. deren Steigen u. Sinken u. Verdichtungen u. Verschmelzungen u. sw. hat nie ein Sterblicher in sich erfahren. Aber gerade in der sog. Sprachpsychologie hat sich das Operiren mit diesen gelehrten Fiktionen – die trefflich geeignet sind den Laien in ehrfürchtiges Erstaunen zu setzen – am längsten u. hartnäckigsten erhalten. Kein Wunder, daß Mancher – nur um der Auseinandersetzung mit <hi
+            rend="unknown"
+            rendition="#none">dieser</hi> Sprachphilosophie zu entgehen – sich gar nicht mehr auf eine philologische Betrachtung des inneren Sprachlebens einläßt u. schließlich, um sein Gewissen zu <pb
+            facs="#IMG.4" n="4"/> beruhigen, sogar dem verzweifelten Grundsatz beipflichtet, der Sprachforscher habe sich gar nicht um die Bedeutung, also um die Funktion der Sprachmittel, zu kümmern. </p>
+
+        <p>Wenn Ihre Gesundheit Sie über kurz od. lang doch dazu kommen ließe, Ihr Vorhaben auszuführen u. meinen Aufsatz einer Besprechung zu unterziehen<note
+            n="2" place="foot"
+            type="editorial">Kein Nachweis.</note> würde mich dies außerordentlich interessiren. Mögen Sie im Einzelnen gar Manches zu verbessern od. zu ergänzen finden, so würde ich mich nur freuen daraus zu lernen. Im Großen u. Ganzen aber darf ich Sie ja als Bundesgenossen betrachten, wie dies auch der (persönlich mir nicht weiter bekannte) Verfasser eines Referats über meinen „Sprachreflex“artikel in der Zeitschr. für österr. Gymn. (Jahrg. 1892 S. 323-333 Vgl. 328 Anmerk.) empfunden hat.<note
+            n="3" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8642">Friedrich Schroeder (Gebweiler), Rez. von Marty, <hi
+                  rend="unknown" rendition="#none">Über Sprachreflex, Nativismus und absichtliche Sprachbildung, ZföG</hi> 44, 1893, 323-333</ref>
+            </bibl>; in der zit. Anm.auf S. 328 beruft sich Marty auf diverse „Empiristen“: zunächst auf <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.5237">Jacob Grimm</persName> und Herbart, von den neueren auf <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2627">Scherer</persName>, Jolly, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+Schuchardt</persName> und <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1215">Brugmann</persName>.</note> Und es thut einigermaßen Noth, <pb
+            facs="#IMG.5" n="5"/> daß diejenigen, denen es um das Studium des inneren Sprachlebens auf Grund einer gesunden Psychologie zu thun ist, sich zusammenschließen. </p>
+        <p>
+          <hi rend="unknown"
+            rendition="#none">Einen</hi> Punkt hätte ich in meiner Abhandlung gerne noch betont u. etwas ausgeführt, wenn der Raum es erlaubt hätte. Beim Streit, ob mit gewissen Ausdrücken (insbesond. wenn es sich nicht um einfache Namen, sond. um syntaktische Wendungen u. um Aussagen handelt) dasselbe od. nicht dasselbe gesagt sei, wird man sich oft nicht zu einigen vermögen, wenn man nicht genau darauf Acht hat, was mit „dasselbe“ gemeint ist: ob ein identischer od. bloß ein äquivalenter Gedanke. Ich nenne identische Urtheile solche, welchen dieselben Vorstellungen zu Grunde liegen u. einerlei Qualität (bejahender od. verneinender Charakter) zukommt: <pb
+            facs="#IMG.6" n="6"/>
+        </p>
+        <p>zb.{ Es gibt Quadrate </p>
+        <p> Es gibt gleichseitige Rechtecke </p>
+        <p> Hier liegt der ganze Unterschied in der Beziehungsweise. Ebenso m. E. bei: </p>
+        <p> { Es gibt Waldbäume, die nicht Coniferen sind </p>
+        <p> Es werden “ “ gefunden, die nicht Coniferen sind. </p>
+        <p> Anders in Fällen wie: </p>
+        <p> { A ist </p>
+        <p> Es ist wahr, daß A ist </p>
+        <p> Es ist falsch, daß A nicht ist </p>
+        <p> od. die Behauptung, daß A nicht sei, ist falsch u. sw. </p>
+        <p> Das sind m. E. bloß äquivalente Urtheile, dh. solche, aus denen gleichviel gefolgert werden kann m. a. W. solche, von denen sich das eine aus dem anderen als selbstverständlich (a priori) ergibt. </p>
+        <pb facs="#IMG.7" n="7"/>
+        <p>Von <hi rend="unknown" rendition="#none">der</hi> Art sind natürlich auch: </p>
+        <p>{ Karl ist Bräutigam von Marie </p>
+        <p>Marie ist Braut von Karl </p>
+        <p>Karl u. Marie sind Verlobte </p>
+        <p> Die Verlobung von Karl und Marie ist Thatsache. </p>
+        <p>Ebenso: { A hat den B geschlagen </p>
+        <p>B ist von A geschlagen worden usw. </p>
+
+        <p> Doch dies genügt längst um Ihnen anzudeuten, was ich meine, u. es kommt mir nur darauf an den Schein zu vermeiden, als ob ich allzu Vieles dem Gebiete der sog. inneren Sprachform zutheilte u. demjenigen der Bedeutung entzöge. Die Unterschiede äquivalenter Urtheile rechne auch ich durchaus zu den Differenzen der Bedeutung, obschon man oft auch von äquivalenten Sätzen sagt, sie bedeuteten <hi
+            rend="unknown" rendition="#none">dasselbe</hi>. Das gilt eben nicht strenge. </p>
+        <pb facs="#IMG.8" n="8"/>
+        <p>Exemplare der ersten „Sprachreflex“artikel habe ich im Augenblick leider nicht bei der Hand.<note n="4"
+            place="foot" type="editorial">Martys Artikel ist in diversen Faszikeln der <hi rend="unknown" rendition="#none">Viertljahrsschrift für wissenschaftliche Philosophie</hi> erschienen: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8631">1. Art. VIII S. 456-478</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8632">2. Art. X S. 69-105</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8633">3. Art. ebd. S. 346-364</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8635">4. Art. XIII S. 195-220</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8634">5. Art. ebd. S. 304-344</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8636">6. Art. XIV, S. 55-84</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8637">7. Art. ebd. S. 443-484</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8638">8. Art. XV, S. 251-284</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8639">9. Art. ebd. S. 335-467</ref>
+            </bibl>; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8640">10. Art. XVI, S. 104-122</ref>
+            </bibl>.</note> Ich bin aber darauf aus, solcher noch habhaft zu werden u. sende sie, sobald ich sie zusammenbringe. Denn gar zu gern wüßte ich Sie im Besitze der vollständigen Serie. </p>
+        <closer>
+          <salute>Inzwischen mit dem Ausdruck aufrichtiger Verehrung u. bestem Gruße</salute>
+          <lb/>
+          <salute>Ihr ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2140">A. Marty</persName>
+          </signed>
+        </closer>
+        <postscript>
+
+          <p> P. S. Ihre Beobachtung, daß nervöse Erschöpfung oft gar nicht zu eindringendem Denken wohl aber zu einem, feinfühligeren Anforderungen entsprechenden Ausdruck desselben unfähig macht, war mir interessant. Solche Aphasie erfahre ich an mir selbst (im Colleg, etwa nach schlaflosen Nächten) u. bezüglich der schriftstellerischen Thätigkeit sprach mir wiederholt mein Freund Prof. Brentano<note
+              n="5" place="foot" type="editorial">
+
+              <persName>
+
+Franz Clemens Brentano</persName> (1838-1917), deutscher Philosoph und Psychologe, Prof. in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName>; wie Marty war er ursprünglich kathol. Priester gewesen, aber wegen der Verkündigung des Dogmas der päpstlichen Unfehlbarkeit aus der Kirche ausgetreten.</note> von einer ähnlichen Fatalität.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

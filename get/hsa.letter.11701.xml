@@ -1,0 +1,326 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Émile Laoust an Hugo Schuchardt (01-06245)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2000">
+            <forename>Émile</forename>
+            <surname>Laoust</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11701" type="PID">o:hsa.letter.11701</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-06245</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06245</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2000">
+                <forename>Émile</forename>
+                <surname>Laoust</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6487" ref="http://sws.geonames.org/2538475">Rabat</origPlace>
+              <origDate ana="dcterms:created" when="1920-01-04">1920-01-04</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Émile Laoust und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2000"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11701">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2000" ref="https://viaf.org/viaf/68964517">
+            <forename>Émile</forename>
+            <surname>Laoust</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6487" key="#GID.1" ref="http://sws.geonames.org/2538475">Rabat</placeName>
+          <date when="1920-01-04">1920-01-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Morocco</country>
+                <settlement>Rabat</settlement>
+                <name ref="http://geonames.org/2538475" type="fcode:PPLC">Rabat</name>
+                <location>
+                  <geo>-6.83255,34.01325</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2000" type="context">
+                        Korrespondenz Émile Laoust - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.660" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Berberisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11701" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11701" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11701" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11701" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11701" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>ÉCOLE SUPÉRIEURE <hi rend="unknown" rendition="#none">Rabat</hi>, le 4 janvier 1920<lb/>E LANGUE ARABE<lb/>ET DE<lb/>DIALECTES BERBÉRES</dateline>
+        <opener>Très honoré Professeur Schuchardt,</opener>
+        <p>Je reçois par l’intermédiaire de M.<hi
+            rendition="#sup">r</hi> Challamel, Editeur à Paris, vos deux intéressantes brocchures: «Berberische Hiatustilgung» et «Die romanischen Lehnwörter im Berberischen».<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.98">Schuchardt, Hugo (1920). <hi
+                  rend="unknown" rendition="#none">[Rez. von:] E. Laoust, Mots et choses berbères. Notes de linguistique et d’ethnographie, dialectes du Maroc</hi>. In: Zeitschrift der deutschen morgenländischen Gesellschaft H. 74, S. 298-301.</ref>
+            </bibl> - <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.556">Die romanischen Lehnwörter im Berberischen, SB d. Wien. Ak. 188, IV, 1-82.</ref>
+            </bibl>
+          </note>
+        </p>
+
+        <p>Je les ai parcourues avec la plus vive curiosité et, en regrettant, personnellement de n’avoir pu utiliser plus tôt les résultats de vos remarquables recherches. Je partage vos vues sur un grand nombre de points. Je suis, d’autre part, persuadé que c’est par des études semblables aux vôtres que nous finirons enfin par faire, en berbère, du travail <pb
+            facs="#IMG.2" n="2"/> vraiment scientifique.</p>
+
+        <p>Il appartient à des savants comme vous de mettre en œuvre les matériaux que nous, vivant au milieu de populations berbères, avons surtout charge de recueillir. C’est à quoi je m’attache de mon côté, et les «Mots et Choses berbères»<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3882">E. Laoust, <hi rend="unknown" rendition="#none">Motes et choses berbères, notes de linguistique et d’ethnographie, dialectes du Maroc</hi>, Paris: Challamel, 1920.</ref>
+            </bibl>
+          </note> dont vous avez reçu un exemplaire n’ont pas d’autre objet que de consigner en les classant provisoirement les premiers résultats obtenus au Maroc. Ce premier volume sera suivi de plusieurs autres.</p>
+        <p>Par ce même courrier, je vous adresse mon «Etude sur le dialecte berbère de Ntifa»<note n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4607">E. Laoust, <hi rend="unknown" rendition="#none">Ecole supérieure de langue arabe et de dialectes berbère de Rabat,:Étude sur le dialecte berbère des Ntifa ; grammaire ; textes</hi>, Paris: Leroux, 1918.</ref>
+            </bibl>
+          </note>. Je crains qu’elle ne vous apprenne rien de plus que vous ne sachiez déjà. Elle ne me donne pas entièrement satisfaction.</p>
+
+        <p>Je serais, par ailleurs, particulièrement heureux de mettre dans ma bibliothèque vos autres travaux sur le berbère <pb
+            facs="#IMG.3" n="3"/> tels que:</p>
+        <p>- Ein alter Plural auf -u̯.<note n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.586">Schuchardt, Hugo (1908). <hi
+                  rend="unknown" rendition="#none">Berberische Studien I. Ein alter Plural auf -u̯?</hi>. In: Wiener Zeitschrift für die Kunde des Morgenlandes H. 22, S. 245-264.</ref>
+            </bibl>
+          </note>
+        </p>
+        <p>- Zu den arabischen Lehnwörtern<note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.272">Schuchardt, Hugo (1908). <hi
+                  rend="unknown" rendition="#none">Berberische Studien II. Zu den arabischen Lehnwörtern</hi>.</ref>
+            </bibl> (Schuchardt-Werk Nr.562)</note>
+        </p>
+        <p>- Zu den <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.660">
+berberischen</ref> Substantiven auf -im.<note n="6"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.449">
+Schuchardt, Hugo (1912). <hi
+                  rend="unknown" rendition="#none">Zu den berberischen Substantiven auf -im</hi>.</ref>
+            </bibl> (Schuchardt-Werk Nr.625)</note>
+        </p>
+        <p>Ai-je trop présumé en vous priant de vouloir bien me dire où je pourrais me les procurer?</p>
+        <p>M<hi rendition="#sup">r</hi>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2811">H. Stumme</persName>
+          <note n="7" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2811">Hans Stumme</persName> (1864-1936), deutscher Orientalist und Semitist; vgl. HSA 11356-11394.</note> me fait savoir qu’il vous a prié de donner pour la <hi
+            rend="unknown" rendition="#none">
+ZDMG</hi> un compte-rendu des «Mots et Choses berbères»<note n="8"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3882">E. Laoust, <hi rend="unknown" rendition="#none">Motes et choses berbères, notes de linguistique et d’ethnographie, dialectes du Maroc</hi>, Paris: Challamel, 1920.</ref>
+            </bibl>
+          </note>. Je serais très heureux d’être jugé par vous et j’insisterais volontiers avec lui pour que vous acceptiez.</p>
+        <closer>
+          <salute>Veuillez agréer, très honoré Professeur Schuchardt, l’expression de mes meilleurs sentiments</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2000">Laoust E.</persName>
+            <lb/>Professeur à l’Ecole Supérieure<lb/> de langue arabe et des<lb/> dialectes berbères de<lb/> Rabat (Maroc)</signed>
+        </closer>
+        <pb facs="#IMG.4" n="4"/>
+        <postscript>
+          <p>Connaissez-vous la revue intituleé les "Archives Berberes" que nous avons fondeé ici a Rabat?</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

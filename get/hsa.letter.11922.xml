@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Elia Lattes an Hugo Schuchardt (04-06274)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2004">
+            <forename>Elia</forename>
+            <surname>Lattes</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11922" type="PID">o:hsa.letter.11922</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">04-06274</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06274</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="it"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2004">
+                <forename>Elia</forename>
+                <surname>Lattes</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.125" ref="http://sws.geonames.org/3173435">Mailand</origPlace>
+              <origDate ana="dcterms:created" when="1894-05-03">1894-05-03</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Elia Lattes und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2004"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11922">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2004" ref="https://viaf.org/viaf/73842287">
+            <forename>Elia</forename>
+            <surname>Lattes</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.125" key="#GID.1" ref="http://sws.geonames.org/3173435">Mailand</placeName>
+          <date when="1894-05-03">1894-05-03</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Milan</settlement>
+                <name ref="http://geonames.org/3173435" type="fcode:PPLA">Milan</name>
+                <location>
+                  <geo>9.18951,45.46427</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2004" type="context">
+                        Korrespondenz Elia Lattes - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="it">Italienisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11922" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11922" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11922" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11922" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11922" xml:lang="it">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Milano 3 Maggio 1894</dateline>
+        <opener>Onorando Signore e Maestro!</opener>
+
+        <p> Addolorato per l’equivoco che imparo dalla Sua lettera 1 corrente, mentre La ringrazio assai della prova di stima che mi dà colla Sua nobile franchezza, non dispero mi sia dato giustificazione a pieno, tanto mi pare assurdo che non debba tornar facile ad un Italiano (e per giunta ad un amico e scolaro dell’<persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1056">Ascoli</persName>) di provare, che verso di Lei non nutro nè nutrí mai nè mai nutrirà, se non senti di gratitudine e di affetto, senza dire della profonda sempre rinnovantisi ammirazione. Ecco la storia. Nel mio libro su Novilara, v’è un appendice lungo sulle iss. Venete, di cui lungamente s’occupò il sig. G. Meyer<note
+            n="1" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2185">Gustav Meyer</persName> (1850-1900), deutscher Indogermanist und Sprachwissenschaftler, zeitweise <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardts</persName> Nachbar; </note> nella sua recensione del libro del Pauli<note
+            n="2" place="foot" type="editorial">
+
+            <persName>
+Cart Eugen Pauli</persName> (1839-1901), deutscher Sprachwissenschaftler und Etruskologe. Die Rez. konnte nicht nachgewiesen werden.</note> , e ve n’ha un altra sulle iss. de Lenno, circa le quali egli si espresse nel 2.° vol degli Essays, in modo che non crede mai più esatto; perciò pensai dovergli mandare il mio scritto, sempre sperando d’acquistare amici <pb
+            facs="#IMG.2"
+            n="2"/> o di scemare gli avversari delle dottrine italo-etrusche, alle quali da 25 anni mi son dedicato. Negli stessi Essays egli trattò in modo contrario a quello che stimo giusto, della questione etrusca; e nel libro intorno alla Mummia, io cercai di combattere la sua argomentazione: ecco perchè, avendo potuto riavere da ultimo a mia disposizione un esemplare del mio volumone, gli chiesi se mai <hi
+            rend="unknown"
+            rendition="#none">a Lei</hi> o a lui facesse comodo, e avutane risposta affermativa glielo mandai, non conservando a me per ora se non le mie prove di stampa come Handexemplar. Tanto più volentieri, confesso, mandai a lui i due libri, in quanto che da ultimo eramisi narrata che Loro due vivevano nella stessa casa, quasi in communanza di studj i libri, sicchè mi persuasi che fosse lecita un’offerta fatta in comune, dacchè il caso mi privava di farla a ciascuno separatamente, come mi permisi in occasione del libro sulle isc. Paleolatine <pb
+            facs="#IMG.3"
+            n="3"/> provenienza etrusca. Così pure accadde che mi paresse lecito acchiudere nel pacco del libro il Giornale, perchè cioè stimai essere il modi piú sicuro, senza troppo incommodo del sig. prof. G. Meyer: che se mi permisi, d’indirizzare a Lei, si fu perchè conteneva un annunzio che mi lusingavo potesse a Lei specialmente riuscire alcun poco interessante. Prima di ieri, fu quella la sola copia d’esso giornale ch’io abbia spedito ad alcuno: ieri soltanto ne mandai una al Deecke<note
+            n="3" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5509">Wilhelm Deecke</persName> (1831-1897), deutscher Sprachwissenschaftler, bes. Etruskologe</note> e una al Krall<note
+            n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1950">Jakob Krall</persName> (1857-1905), österr. Orientalist, bes. Ägyptologe; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1950">HSA 95764-05765</ref>.</note>, sicchè, quantunque si tratti di cota minima, proprio questa volta era mia intenzione di dare a me il piacere di usare a Lei un piccolo atto di particolare deferenza, troppo piccolo perchè nè Ella potesse espettarlo, nè a me fosse lecito avvertirnela. Naturamente era poi fisso nel mio pensiero, com’è del resto, se non Le spiace, che appena avuti gli estratti della lettura ivi annnunciata, uno de‘ primi esemplari dovesse partire (e partirà infatti, spero, alla fine della prossima settimana) per <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">
+Graz</placeName> al di Lei indirizzo; e così pure il commento sistematico <pb
+            facs="#IMG.4" n="4"/> dell’ultima colonna della Mummia, di cui ivi allo stesso proposito si tocca.<note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4445">Elia Lattes, <hi rend="unknown" rendition="#none">Studi metrici intorno all'iscrizione etrusca della Mummia</hi>, memorie 4, Milano: Hoepli, 1895 (Memorie del Reale Istituto Lombardo di Scienze e Lettere, Classe di Lettere, Scienze Morali e Storiche, 20, 1).</ref>
+            </bibl>
+
+          </note> Ed ora, se per mia disgrazia, non riuscii a persuaderla della purità delle mie intenzioni e de‘ miei atti (forse al più, alquanto liberi e ebadati), pazienza: il tempo, sono sicuro, lavorerà a favore mio presso di Lei e saprà fare ciò che io non seppi; se però, per mia fortuna, fossi riuscito, oh! me lo dica, perchè sarà per me soddisfazione grande. Oltre agli obblighi che ho verso di Lei insieme a tutti gli studiosi di cose italiche, oltre all’obligo pel regalo preziosissimo dei Bask. Stud. I,<note
+            n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.88">Schuchardt, <hi rend="unknown" rendition="#none">Baskische Studien I. Über die Entstehung der Bezugsformen des Baskischen Zeitworts</hi>, Wien: F. Tempsky, 1893.</ref>
+            </bibl>
+
+          </note> ho quello speziale che da Lei mi vennero le prime parole di lode ed incoraggiamento per i miei studj etruschi, fuori della cerchia ristrettissima degli etruscologi: e mi diedero tanto piacere, che le trascrissi subito all’Ascoli, il quale non mancò di rilevarmene dal canto suo l’importanza, in aggiunta a quanto io già gli dicevo, e scorgervi un lieto presagio. – Non avendo l’onore di conoscerla personalmente, nulla sapevo nè che frau Lei, e il Suo sig. Collega<note
+            n="7" place="foot" type="editorial">Gemeint ist wohl Gustav Meyer.</note> vi fosse disparità d’anni, nè che la di Lei salute lasciasse a desiderare. La mia è da 35 anni (ne ho 50) una lotta perpetua di giorni in giorno, di ora in ora collo stomaco: il poco che fo, dopo lunga interruzione, è fatto a prezzo di continue astensioni e di un reggime che nessuno immagina. Avviene così che per mesi e mesi non vedo nemmeno il mio Amico e Maestro Ascoli: e però niente sapevo delle di Lei gentili espressioni a mio riguardo per occasione di una sua eventuale passata di qui. Spero che, nel caso, vorrà avertirmene e indicarmi il Suo albergo, giacchè sgraziatamente le mie ore e abitudini son affatto diverse di necessità da quelle dei più. </p>
+        <closer>
+          <salute>Mi perdoni adunque <pb facs="#IMG.1" n="5"/> e mi creda con affettuosa devozione Suo</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2004">ELattes</persName>
+          </signed>
+          <dateline>28 Principe Umberto</dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

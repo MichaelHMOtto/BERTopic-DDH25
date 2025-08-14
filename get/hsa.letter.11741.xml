@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (34-08575)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11741" type="PID">o:hsa.letter.11741</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">34-08575</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08575</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created" when="1880">1880</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11741">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date when="1880">1880</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4138" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romanische Studien</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4141" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Prix Volney</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11741" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11741" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7455" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <opener>Cher ami,<note n="1" place="foot" type="editorial">Lettre manuscrite, [s. l.], [janvier-mars 1880].</note>
+        </opener>
+        <p>Vous me ferez grand plaisir de m'envoyer votre note sur <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1507">Förster</persName>
+          <note n="2" place="foot"
+              type="editorial">Il nous manque au moins une lettre ici dans laquelle Schuchardt sonde auprès de G. Paris la possibilité de publier, dans la <hi
+              rendition="#i">Romania</hi>, une note de lecture sur l’article de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1507">Förster</persName> intitulé «Beiträge zur romanischen Lautlehre», paru dans le dernier numéro de la <hi rendition="#i">Zeitschrift für romanische Philologie</hi> de 1879 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1434">Förster 1879</ref>
+
+            </bibl>). Souhaitant sans doute publier son texte aussi rapidement que possible, Schuchardt a finalement opté pour une publication dans le premier numéro de la <hi rendition="#i">Zeitschrift für romanische Philologie</hi> de 1880 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.652">Schuchardt 1880c</ref>
+            </bibl>), comme il l’avait initialement prévu (voir l. du 26 avril 1880 [<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11742">HS 35-24457</ref>]).</note>. Vous est-il égal qu’elle paraisse dans les <hi
+            rendition="#u">Périodiques</hi>, signée de vous naturellement? Je n’ai pas encore lu son article; je suis pour le moment soûl de phonétique, et je serais très heureux que vous en rendîssiez compte pour moi<note
+            n="3" place="foot" type="editorial">Aucun compte rendu spécifique de l’étude de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1507">Förster</persName> ne paraîtra dans la <hi rendition="#i">Romania</hi>. Si G. Paris (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7927">1880a, 330-331</ref>
+            </bibl>) en parle – certes de façon détaillée et critique dans la <hi
+              rendition="#i">Romania</hi> 9/34 d’avril 1880 – c’est indirectement, dans sa recension du volume III de la <hi
+              rendition="#i">Zeitschrift für romanische Philologie</hi>, dans lequel est publié la première partie du travail de Förster. Le numéro suivant de la <hi
+              rendition="#i">Romania</hi> mentionne brièvement la recension critique du livre de Förster par Schuchardt, parue dans cette même <hi rendition="#i">Zeitschrift</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7928">Paris 1880b, 479</ref>
+            </bibl>).</note>. J’envoie votre lettre à <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1046">d’Arbois</persName>, qui en sera très touché<note n="4"
+            place="foot" type="editorial">Aucune trace de cette lettre n’a été retrouvée, et la correspondance entre Schuchardt et d’Arbois de Jubainville ne mentionne aucune intervention de G. Paris.</note>. </p>
+        <p>Je réservais pour une occasion propice la mention de votre droit de propriété sur <hi
+            rendition="#u">frustiare</hi> (trouvé d’ailleurs <hi rendition="#u">indépendamment</hi> par <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1725">Havet</persName>
+          <note n="5" place="foot" type="editorial"> Voir l. du 23 juin 1875 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11732">HS 25-24456</ref>), l. du 3 août 1875 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11733">HP 26-08569</ref>) et l. du 15 octobre 1879 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11740">HS 33-24456</ref>). </note> et auparavant par moi, dans mes cours), croyant agir dans votre esprit en n’en faisant pas l’objet d’une réclamation expresse. J’ai été devancé, mais cela me donnera précisément le moyen d’en parler dans la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>
+          <note n="6" place="foot"
+              type="editorial"> G. Paris éclaire également ce point dans sa recension du n° III de la <hi
+              rendition="#i">Zeitschrift</hi>: «M. F[örster] rappelle que l’étym. <hi
+              rendition="#i">frustiare</hi> avait été donnée par M. Schuchardt quatre ans avant M. Havet (cf. <hi rendition="#i">Rom</hi>. VIII, 127); M. Schuchardt nous en avait prévenus de son côté et nous attendions une occasion pour lui restituer son droit de priorité» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7927">Paris 1880a</ref>
+
+            </bibl>). Notons que s’il mentionne Schuchardt, c’est bien contre la volonté exprimée par ce dernier (voir l. du 15 octobre 1879 [<ref target="https://gams.uni-graz.at/o:hsa.letter.11740">HS 33-24456</ref>]). </note>. </p>
+        <p>J’ai reçu l’introduction de <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1720">Hajdeu</persName>
+          <note n="7" place="foot"
+              type="editorial">Hâjdeu est l’ancienne forme du nom de famille Hasdeu, que portait p. ex. Alexandru Hâjdeu, le père de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1720">Bogdan Petriceicu Hasdeu</persName>, également philologue.</note>, avec son nouveau volume <note
+            n="8" place="foot" type="editorial"> Il s’agit du second volume de l’ouvrage <hi rendition="#i">Cuvente den Bătrâni</hi>, publié en 1879 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3585">Hasdeu 1878-79</ref>
+
+            </bibl>), pour lequel Schuchardt avait rédigé une introduction. Hasdeu espérait ainsi ouvrir ses travaux au public germanophone avec une introduction qui aurait fait office de «frontispice» (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.4488">HSA 31-04444</ref>). Schuchardt, pour sa part, ne cache pas la peine que lui a coûté un tel travail, et justifie sa démarche critique par une volonté de ne pas se placer au-dessus de Hasdeu (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.4489">HSA 32-1176</ref>). Jugée particulièrement sévère par celui-ci, l’introduction intitulée <hi rendition="#i">Über B. P. Hasdeu’s Altrumänische Texte und Glossen</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.336">Schuchardt 1880b</ref>
+            </bibl>) ne paraîtra finalement que de façon séparée, au début de l’année 1880 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1559">Mazzoni 1983</ref>
+            </bibl>, 158, n. 6). </note>, ainsi que la réponse de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5708">Cihac</persName> à <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1554">Gaster</persName> dans les <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4138">Rom. Studien</ref>
+          <note n="9" place="foot"
+              type="editorial">Le débat part d’un compte rendu particulièrement critique de Cihac de l’ouvrage <hi rendition="#i">Cuvente den Bătrâni</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3585">Hasdeu 1878</ref>
+            </bibl>), paru dans les <hi rendition="#i">Romanische Studien</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6637">Cihac 1879c</ref>
+            </bibl>).</note>. Je parlerai de tout cela, et notamment de votre belle introduction<note n="10"
+            place="foot"
+              type="editorial">G. Paris relate de façon lapidaire le débat entre Cihac, Gaster et Hasdeu dans la partie «Périodiques» de la <hi rendition="#i">Romania</hi> 9/35 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7931">G. Paris 1880c, 481</ref>
+            </bibl>).</note>. Pourquoi tout le monde est-il si malveillant (excepté vous) pour <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5708">Cihac</persName>? Je trouve son second <pb facs="#IMG.2"
+            n="2"/> volume notamment très louable, et surtout très utile. Il y a sans doute là des raisons personnelles que je ne connais pas. Cihac du reste a l’air d’avoir un mauvais caractère. Il est, n’est-ce pas? juif comme <ref
+            target="https://gams.uni-graz.at/o:hsa.persons#P.1554">Gaster</ref>? Vous devriez bien vous charger de la partie roumaine dans la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>; au moins je serai tranquille sur ce que nous disons dans ce domaine où je suis loin d’être chez moi. </p>
+        <closer>
+          <salute>A vous</salute>
+          <signed>GParis.</signed>
+        </closer>
+        <postscript>
+          <p>
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.5708">Cihac</persName> a envoyé son livre à l’Institut pour le <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.4141">prix Volney</ref> (prix de linguistique)<note
+              n="11" place="foot" type="editorial">Malgré ces légères réserves de G. Paris, le <ref
+                target="https://gams.uni-graz.at/o:hsa.subjects#S.4141">prix Volney</ref> est accordé en 1880 au <hi rendition="#i">Dictionnaire d’étymologie daco-romane</hi> de Cihac (<bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7951">«Chronique» 1880a</ref>
+              </bibl>, 630; <bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7718">Leopold 2014</ref>
+              </bibl>, 342-343).</note>; il n’y a pas de concurrents sérieux. On m’a consulté. J’ai dit que le prix serait peut-être excessif, mais qu’une mention, avec les 2/3 de l’argent serait parfaitement juste. La somme est peu de chose (1500 fr.), mais le prix est très estimé.</p>
+          <p> Je voudrais bien avoir l’espoir de vous voir prochainement, soit ici, soit à Vienne, où je veux toujours aller. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

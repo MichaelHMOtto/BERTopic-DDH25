@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Carl Friedrich Lehmann-Haupt (08-HS-LH-02)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Angelika   </forename>
+            <surname>Kellner</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12064" type="PID">o:hsa.letter.12064</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">08-HS-LH-02</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Deutschland</country>
+            <settlement>Berlin</settlement>
+            <repository ref="https://archives.dainst.org/index.php/deutsches-archaologisches-institut-berlin-archiv-der-zentrale">Deutsches Archäologisches Institut Berlin - Archiv der Zentrale</repository>
+            <idno type="shelfmark">HS</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1904-03-06">1904-03-06</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Angelika   </forename>
+              <surname>Kellner</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Carl Friedrich Lehmann-Haupt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2015"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12064">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1904-03-06">1904-03-06</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2015" ref="https://viaf.org/viaf/74158824">
+            <forename>Carl Friedrich</forename>
+            <surname>Lehmann-Haupt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2015" type="context">
+                        Korrespondenz Hugo Schuchardt - Carl Friedrich Lehmann-Haupt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.690" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Rossijskaja Akademija Nauk (St. Petersburg)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5054" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Oxford</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5468" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Dreyfus-Affäre</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.742" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Georgisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12064" xml:id="IMG.1">
+
+        <desc>
+                  
+               Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt
+               mit freundlicher Genehmigung des <ref target="https://archives.dainst.org/index.php/deutsches-archaologisches-institut-berlin-archiv-der-zentrale">Deutschen Archäologischen Instituts Berlin - Archiv der Zentrale</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12064" xml:id="IMG.2">
+
+        <desc>
+                  
+               Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt
+               mit freundlicher Genehmigung des <ref target="https://archives.dainst.org/index.php/deutsches-archaologisches-institut-berlin-archiv-der-zentrale">Deutschen Archäologischen Instituts Berlin - Archiv der Zentrale</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12064" xml:id="IMG.3">
+
+        <desc>
+                  
+               Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt
+               mit freundlicher Genehmigung des <ref target="https://archives.dainst.org/index.php/deutsches-archaologisches-institut-berlin-archiv-der-zentrale">Deutschen Archäologischen Instituts Berlin - Archiv der Zentrale</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12064" xml:id="IMG.4">
+
+        <desc>
+                  
+               Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt
+               mit freundlicher Genehmigung des <ref target="https://archives.dainst.org/index.php/deutsches-archaologisches-institut-berlin-archiv-der-zentrale">Deutschen Archäologischen Instituts Berlin - Archiv der Zentrale</ref>.
+             </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12064" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz, Elisabethstr. 6<lb/> 6 März 1904</dateline>
+        <opener>Sehr geehrter Herr Kollege, </opener>
+        <p> Ich danke Ihnen vielmals für Ihre 
+Karte vom 12 Febr. und gebe Ihnen “erneute Nachricht” d.h. ich habe bis jetzt bezüglich der georg. Hdss. keine Auskunft erhalten. </p>
+
+        <p>Ich leugne nicht dass ich darüber einigermassen verstimmt bin, allerdings hauptsächlich wegen des Zusammentreffens mit einer Reihe ähnlicher Erscheinungen. Man könnte fast glauben, es bestünde eine Verschwörung dass man mir, wenn ich in georgischen Angelegenheiten eine Anfrage stelle, nicht zu antworten habe. <pb
+            facs="#IMG.2"
+            n="2"/> So ist in <placeName>
+
+Petersburg</placeName> ein Deutschrusse mit dem ich früher in freundschaftlichem Briefwechsel stand;<note
+            n="1" place="foot" type="editorial">
+Gemeint ist wahrscheinlich <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2587">Carl Gustav Hermann Salemann (Karl Germanowitsch Saleman)</persName>, 1849/50-1916, Iranist, Bibliothekar, Hochschullehrer und Mitglied der <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.690">Petersburger Akademie</ref>. Im Nachlaß Schuchardts in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName> gibt es von ihm die <ref target="https://gams.uni-graz.at/context:hsa.letters.2587">Briefe Nrn. 09892-09895</ref> aus den Jahren 1896-1897.</note> vor zwei und einem halben Jahr bat ich ihn um Etwas, was er mir versprochen hatte, und zwar handelte es sich um die einfachste Sache der Welt, und auf alle meine Briefe an ihn hat er geschwiegen und ebenso schweigen alle seine Freunde und Kollegen auf die an sie gerichteten Briefe, in denen ich sie nur bitte zu erforschen ob er mir etwas übel genommen hat. Dazu kann nun allerdings gar kein triftiger Grund vorhanden sein – es scheint wirklich dass er mir aus purer Faulheit nicht schreibt. </p>
+
+        <p>Nun bei Berlinern setze ich eine solche Ursache des Nichtschreibens nicht voraus. Vielleicht stellt man sich vor dass sich an irgendwelche <pb
+            facs="#IMG.3"
+            n="3"/>Mitteilungen über die Hdss. lästige Wünsche von meiner Seite anknüpfen könnten. Diese Gefahr ist wohl schon dadurch ausgeschlossen dass ich vornehmlich Linguist bin, nicht Philologe und dass ich zunächst mit meiner eigenen georg. Hdss. genug zu tun haben würde. Allerdings wünschte ich einen gewissen Überblick über Alles was in die georgische Philologie einschlägt, zu haben; es ist ja immerhin möglich dass in alten Hdss. sprachlich oder paleographisch Interessantes auftaucht. Es sind ja sehr wenige da die sich mit diesen Studien beschäftigen, ausserhalb <placeName>
+
+Russlands</placeName> kenne ich so gut wie Niemanden.<pb
+            facs="#IMG.4" n="4"/>Die Geschwister Wardrop<note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2975">Oliver Wardrop</persName> (1864-1948) und seine Schwester <persName>
+
+Marjorie Scott Wardrop</persName> (1869-1909). OW war Reisender, Publizist und Übersetzer, später britischer Gesandter in <placeName>
+Georgien</placeName>, sowie Gründer und Stifter der 
+<hi
+              rend="unknown" rendition="#none">
+
+Kartvelian Studies</hi>
+ an der <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.5054">Universität Oxford</ref>; MW war eine bedeutende literarische Übersetzerin aus dem <ref
+              target="https://gams.uni-graz.at/o:hsa.languages#L.742">Georgischen</ref> und Herausgeberin georgischer Volksmärchen. Schuchardt hatte mit Oliver Wardrop in den Jahren 1895-1896 korrespondiert (vgl. die <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2975?locale=de">Briefe Nr. 12614-12620</ref> im Grazer Nachlass).</note> haben Einiges aus dem Georg. übersetzt; Conybeare<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1323">Frederick Cornwallis Conybeare</persName> (1856-1924) war ein britischer Theologe und Orientalist, Professor in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.9">
+Oxford</placeName>. Er war auch publizistisch tätig, so als <hi
+              rend="unknown" rendition="#none">Dreyfusard</hi> rund um die <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5468">Affäre</ref>. Übersetzer frühchristlicher Texte und Mitglied der Armenischen Kirche.</note> hat sich wenn ich nicht irre, behufs theol. Litt. auch damit beschäftigt. – Vielleicht würde ich Ihnen alles das nicht gesagt haben, wenn ich nicht die Absicht hätte, im Laufe der nächsten Zeit, vielleicht noch im Frühjahr, nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.38">Berlin</placeName> zu kommen (hauptsächlich um die Museen zu besuchen). Nach den georg. Hdss. würde ich mich dann aber nicht erkundigen, falls ich nicht vorher irgend eine schriftliche Auskunft erhalten hätte. Können Sie mir eine solche verschaffen? Ich würde Ihnen sehr dankbar sein. </p>
+        <closer>
+          <salute>Mit besten Grüssen</salute>
+          <lb/>
+          <salute> Ihr erg.</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+HSchuchardt</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

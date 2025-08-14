@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Béla Tóth an Hugo Schuchardt (02-11751)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2874">
+            <forename>Béla</forename>
+            <surname>Tóth</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12001" type="PID">o:hsa.letter.12001</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-11751</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11751</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="hu"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2874">
+                <forename>Béla</forename>
+                <surname>Tóth</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="5" unit="pages">5 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.431" ref="http://sws.geonames.org/3054643">Budapest</origPlace>
+              <origDate ana="dcterms:created" when="1896-07-04">1896-07-04</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Béla Tóth und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2874"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12001">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2874" ref="https://viaf.org/viaf/7511842">
+            <forename>Béla</forename>
+            <surname>Tóth</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.431" key="#GID.1" ref="http://sws.geonames.org/3054643">Budapest</placeName>
+          <date when="1896-07-04">1896-07-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Hungary</country>
+                <settlement>Budapest</settlement>
+                <name ref="http://geonames.org/3054643" type="fcode:PPLC">Budapest</name>
+                <location>
+                  <geo>19.04045,47.49835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2874" type="context">
+                        Korrespondenz Béla Tóth - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="hu">Ungarisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12001" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12001" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12001" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12001" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12001" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12001" xml:lang="hu">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>[Tóth Béla<lb/> IX., Ferenc-Körút 13.]</dateline>
+        <opener>Mélyen tisztelt Mester, </opener>
+        <p> Velencében kapott kitüntető, kedves és <hi rend="unknown"
+            rendition="#none">
+kétféle</hi> remek kalligráfiával* irott sorait azért nem köszöntem meg még ott, mert a jó Mester kívánsága beteljesedett: szép idő volt; és én a Lidon reggeltől estig mint ar arab mese boldog embere éltem egy <hi
+            rend="unknown" rendition="#none">
+capannaban</hi>; nem volt ingem. Még kevésbbé papirosom és tollam. </p>
+        <p>
+
+          <placeName>
+Padovában</placeName> még szeretetreméltó levelének vétele előtt jártam egy vasárnap és kerestem is <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2852">Teza</persName> professor urat; de sajnos, nem volt otthon. </p>
+        <p>Most egy kéréssel alkalmatlankodom a mélyen tisztelt Mesternek. </p>
+        <p>Kérem, olvassa el a Nyelvőr májusi füzetében (217 l.) ar <hi rend="unknown" rendition="#none">atilla</hi> kézdését illető soraimat. </p>
+        <p>Mialatt <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.99">
+Velencében</placeName> voltam, Kozma Andor, ez a jeles fiatal költő, ki mellesleg derék eruditus is, le-</p>
+        <p>Ezt a bókot tréfa nélkül adom visna. A grafológia, <foreign
+            xml:lang="grc">
+χειρογραμματομαντία</foreign> meg tudom is én mi, balgaság. De nem igaz, hogy <foreign
+            xml:lang="la">docti male pingunt</foreign>; csak az igaz, hogy <foreign xml:lang="la">indocti peins</foreign>. Minden jól fegyelmezett elméjű ember ha nem is szépen, de tisztán ír. Nem tudok erős logyikus fejet, akinek a tolla csúnnyán fogott volna.</p>
+        <pb facs="#IMG.2" n="2"/>
+        <p>velet írt nekem: hogy ezt dolgot az osztrák és porosz katonai <hi rend="unknown"
+            rendition="#none">vorschriftokban</hi> kellene nyomozni, mert a huszárok dolmánya itt is, ott is sőt talán másutt is <hi
+            rend="unknown" rendition="#none">attila</hi> s lehet, hogy már a Hadik huszárjai is viselték ezen a néven. </p>
+        <p>Kutatást indítottam <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.97">
+Bécsben</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.38">Berlinben</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.103">
+Nápolyban</placeName> és <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Párizsban</placeName>; Párizsban nem katonai szempontból, de azért, mert <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6960">PIERRE LAROUSSE <hi rend="unknown" rendition="#none">Grand Dictionnaire Universel</hi>
+            </ref>
+          </bibl> je (2<hi rendition="#sup">me</hi> supplément) szerint az <hi rend="unknown"
+            rendition="#none">Attila</hi> s.f. (d'<hi rend="unknown" rendition="#none">Attila</hi>, nom propre) nemcsak a « tunique courte à tresses, en forme de dolman, portée par les hussards prussiens », hanem « casagne de dame, garnie de tresses ou de fourrures, qui a été quelque temps à la mode. » </p>
+
+        <p> Erre még nem kaptam választ. Azt hiszem, nem is lesz a kutatás eredménye valami fontos; mert úgy emlékszem, hogy ez a női <hi
+            rend="unknown" rendition="#none">
+attila</hi> a 60-as években volt <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">Franciaországban</placeName> divatos. </p>
+        <p> Ellenben igen fontos, amit a bécsi és a berlini Kriegs-Archiv részéről kaptam. </p>
+        <p> A bécsi Kriegs-Archiv ezt közli velem: </p>
+
+        <p>„Die Bennung „Attila“ für das früher „Dolman“ gennante Adjustierungsstück der K. und K. Husaren-regimenter wurde erst im Jahre 1849 bei Neuorganisierung der Husaren-Regimenter eingeführt. In der <pb
+            facs="#IMG.3" n="3"/> officiellen Vorschrift von 1767 erscheint nur der Ausdruck „Dolman“ (als Leibrock) und „Pelz“, und diese Ausdrücke blieben bis zur neuen Adjustierungsvorschrift vom Jahre 1850, in welcher der Ausdruck „Dolman“ verschwindet und die Bezeichnung „Attila“ an seine Stelle tritt. In wiefern des Ausdruck „Attila“ früher etwa schon bei ungarischer Kleidung Sprachgebrauch war und als solcher vielleicht auch bei Husarenjacken gelegentlich gebraucht wurde, lässt sich nicht wohl nachweisen; officiell war der Ausdruck bestimmt nicht.“ </p>
+        <p>A berlini Kriegs-Ministerium részéről ezt a felvilágositást kaptam: </p>
+        <p> „Der Attila ist eingeführt: 1) für die Offiziere des Gardehusaren-Regiments auf Allerhöchste Befehl vom 3 Mai 1841; 2) für die Offiziere sämmtlicher Husaren-Regimenter der Linie durch Allerhöchste Kabinets-Ordre vom 14 Oktober 1841: 3) für die Mannschaften sämmtlicher Husaren-Regimenter durch Allerh. Kabinets-Ordre vom 22 Dezember 1853.“ </p>
+
+        <p>Megemlítem még, mit ír nekem Giuseppe Fumagalli barátom, a 
+
+nápolyi Biblioteca Universitaria őre (nemsokára a milanoi Brera igazgatója): „La parola <hi
+            rend="unknown" rendition="#none">
+attila</hi> o <hi rend="unknown"
+            rendition="#none">atilla</hi> non è conosciuta da noi, <pb facs="#IMG.4" n="4"/> che diciamo sempre <hi
+            rend="unknown" rendition="#none">dolman</hi>, e quello die nostri ufficiali è chiamato <hi rend="unknown"
+            rendition="#none">spencer</hi> [sic!]. Ma l’etimologia del prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1943">Kőrösi</persName> mi soddisfa poco, tanto più che la parola <hi
+            rend="unknown" rendition="#none">
+attillato</hi>, com'Ella ben sa, da noi significa <hi rend="unknown"
+            rendition="#none">stretto alla persona</hi> e questo non mi pare il caso del <hi rend="unknown" rendition="#none">dolman</hi>, che, almeno qui, s’intende ampio.“ </p>
+        <p> Fumagallit az olasz huszártisztek dolmánya vesztegette meg: [Zeichnung]</p>
+        <p>Bocsánatot kérek a <hi rend="unknown" rendition="#none">kleiner Moritz</hi>
+          <note n="1" place="foot"
+              type="editorial">Möglicherweise eine Anspielung auf den Künstler-Humoristen <persName>
+Moritz Schwind</persName> (<ref
+            target="https://www.biographien.ac.at/oebl/oebl_S/Schwind_Moritz_1804_1871.xml?frames=yes?">
+https://www.biographien.ac.at/oebl/oebl_S/Schwind_Moritz_1804_1871.xml?frames=yes?</ref>).</note> e rajzáért; de a „<hi
+            rend="unknown" rendition="#none">spencer</hi>“ igaz. – A nápolyi közlésben fontos, hogy az olaszok az <hi
+            rend="unknown" rendition="#none">
+atilláról</hi> nem tudnak. </p>
+        <p>Az elmondottak után bennem az a furcsa gondolat támad, hogy hátha <hi rend="unknown"
+            rendition="#none">porosz eredetű</hi> az egész <hi rend="unknown" rendition="#none">attila</hi>. </p>
+        <p>Ezért fordulo alázatos kérésemmel a mélyen tisztelt Mesterhez: kegyeskednék nekem megmondani, mit tud az <hi
+            rend="unknown" rendition="#none">attila</hi>, <hi rend="unknown"
+            rendition="#none">atilla</hi> régibb német nyomairól. <foreign xml:lang="la">
+            <hi rend="unknown" rendition="#none">Res angusta domi</hi>
+          </foreign>. Nincs itthon semmim, de voltaképpen nem is tudom: hol kellene valamit keresni. <foreign xml:lang="la">
+            <hi rend="unknown" rendition="#none">In rebus germanicis</hi>
+          </foreign> igazi polinéziai vagyok. SANDERS <hi rend="unknown" rendition="#none">Fremdwörterbuch</hi>ja<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8786">Daniel Sanders (1871) <hi
+                  rend="unknown" rendition="#none">Fremdwörterbuch</hi>. 2 Bände. Leipzig: Wigand.</ref>
+            </bibl>
+          </note> e kérdésben tán alaposabb, mint a – salva venia – <hi rend="unknown" rendition="#none">bassa manélka</hi> dolgában. De a könyuhöz sem férhetek most. </p>
+        <pb facs="#IMG.5" n="5"/>
+        <p>Igen nagy hálára köztelezne engemet a tisztelt és kedves mester, ha valamely üres órajában (van-e olyan?) <hi
+            rend="unknown"
+            rendition="#none">privatissime</hi> közlené velem, ami e kérdést illetőleg emlékezetiben van. Ne fáradjon e voltaképpen nem valami fontos dologgal semmi szín alatt; csak azt ajándékozza nekem, kérem, ami épp heverőben van. És itélje meg: igazam lehet-e, mikor azt sejtem, hogy az <hi
+            rend="unknown" rendition="#none">attila</hi>, <hi rend="unknown" rendition="#none">
+atilla</hi> neologia, mely talán Berlinen át került hozzánk. </p>
+        <p> Ezek után a Mesternek vagyok tisztelő és (magyar ember nehezen állja meg, hogy Schuchardt Húgónak ezt ne írja) szerető </p>
+        <closer>
+          <salute>Ezek után a Mesternek vagyok tisztelő és (magyar ember nehezen állja meg, hogy <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt Húgónak</persName> ezt ne írja) szerető</salute>
+          <lb/>
+          <salute>alázatos szolgája </salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2874">Tóth Béla</persName>
+          </signed>
+          <dateline>Budapest 1896. VII. 4. </dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

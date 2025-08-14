@@ -1,0 +1,353 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Albert Samuel Gatschet an Hugo Schuchardt (01-03574)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1555">
+            <forename>Albert Samuel</forename>
+            <surname>Gatschet</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+          <persName>
+            <forename>Sarah</forename>
+            <surname>Melker</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11982" type="PID">o:hsa.letter.11982</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-03574</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">03574</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1555">
+                <forename>Albert Samuel</forename>
+                <surname>Gatschet</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6628" ref="http://sws.geonames.org/4140963">Washington</origPlace>
+              <origDate ana="dcterms:created" when="1882-02-09">1882-02-09</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+            <persName>
+              <forename>Sarah</forename>
+              <surname>Melker</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Albert Samuel Gatschet und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1555"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11982">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1555" ref="https://viaf.org/viaf/30288504">
+            <forename>Albert Samuel</forename>
+            <surname>Gatschet</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6628" key="#GID.1" ref="http://sws.geonames.org/4140963">Washington</placeName>
+          <date when="1882-02-09">1882-02-09</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>United States</country>
+                <settlement>Washington</settlement>
+                <name ref="http://geonames.org/4140963" type="fcode:PPLC">Washington</name>
+                <location>
+                  <geo>-77.03637,38.89511</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1555" type="context">
+                        Korrespondenz Albert Samuel Gatschet - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.1007" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Yale Universität (New Haven, CT)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.839" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kreolsprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4546" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Herzogin Anna Amalia Bibliothek (Weimar)</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.349" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französischbasierte Kreolsprache (Louisiana)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.3366" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englischbasierte Kreolsprache (South Carolina)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.226" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11982" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11982" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11982" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11982" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11982" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Washington, D.C.<lb/> febr. 9, 1882</dateline>
+        <opener>Geehrter Herr Professor,</opener>
+
+        <p> Eben von einer linguist. ethnol. Forschungsreise nach Südcarolina und Louisiana zurückgekehrt, finde ich Ihren Brief vor, den ich sofort beantworte. Ich schreibe Ihnen einige Wörter aus, die ich gerade in dieser Gegend (südliches Louisiana) bei den Weißen, Indianern &amp;amp; Negern gelernt habe und <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.349">Creolenfranzösisch</ref> angehören. Addison van Name<note
+            n="1" place="foot" type="editorial">
+            <persName>
+Addison van Name</persName> (1835-1922), Bibliothekar der <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.1007">Yale University</ref> 1865-1905. Autor der <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2168">"Contributions to Creole Grammar", Transactions of the American Philological Association (1869-1896), Vol. I, 123-168.</ref>
+            </bibl>
+
+          </note> scheint in der Universitätsstadt <placeName>
+New Haven</placeName>, Conn. zu wohnen, wo auch der Sanskritist <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5707">Dwight Whitney</persName> lehrt. (am Yale College). </p>
+        <p>
+          <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.3366">Negerenglisch</ref> &amp;amp; Negerfranzösisch finden Sie in dem etwa 1865 von e. Dame, deren Name mir nicht erinnerlich ist, herausgegebenen <hi
+            rend="unknown" rendition="#none">Slave Songs</hi>
+          <note n="2" place="foot" type="editorial">Es handelt sich um das Buch <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5334">Allen, William Francis &amp;amp; Lucy McKim Garison &amp;amp; Charles Pickard Ware <hi
+                  rend="unknown" rendition="#none">Slave Songs of the United States</hi>. New York: Simpson 1867</ref>
+            </bibl>. Der Band ist in <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardts</persName> Privatbibliothek vorhanden. </note>. Schreiben Sie deshalb an Herrn W. P. Garrison, Editor of „<hi
+            rend="unknown" rendition="#none">Nation</hi>“, Office of Evening Post, 210 Broadway, <hi rend="unknown" rendition="#none">New York City</hi>, das Buch kostet etwa 1¼ Dollar. Diese Dame war während des Bürgerkrieges auf Hilton Head bei Savannah, Georgia &amp;amp; besorgte dort kranke oder invalide Neger, gleichzeitig ihre Lieder sammelnd, und früher gesammelte Negerweisen bei Abfassung ihres Buches benutzend. Das Buch ist groß Octav. </p>
+        <p>Als ich in <placeName>
+New Orleans</placeName> war, fragte ich viele <pb facs="#IMG.2"
+            n="2"/> […] ob nicht gedruckte Bücher über das <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.839">Creolische</ref> existieren, erhielt aber stets ein <hi
+            rend="unknown"
+            rendition="#none">Nein</hi> zur Antwort. Trotzdem ist ¼ der Bevölk. von N. Orl. ganz creolisch-französisch, die Landschaften westlich davon bis 150 engl. Meilen von der Stadt sprechen alle <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.226">französisch</ref>. In Lafayette Parish hört man sie mit großen Augen an, wenn sie <ref target="https://gams.uni-graz.at/o:hsa.languages#L.891">englisch</ref> zu sprechen versuchen. </p>
+        <p>Wenden Sie sich deßhalb an meinen Bekannten, den Geistlichen Rouquette<note n="3" place="foot" type="editorial">
+            <persName>
+
+Adrien Emmanuel Rouquette</persName> (1813-1887) Schriftsteller und Missionar mit kreolischer Mutter, publizierte auch zu indigener Ethnographie. </note>, („Father“) </p>
+        <p>
+          <hi rend="unknown" rendition="#none">adresse</hi>: Palace of Archbishop, </p>
+        <p>Chartres and Ursulines Streets </p>
+        <p>New Orleans, La. </p>
+
+        <p>Den Ausdruck Gumbofranzösisch habe ich nie gehört, er bezieht sich aber jedenfalls auf die Frucht des, wie mir Rouquette sagte, aus <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5946">China</placeName> importierten Gumbobaumes, dieser trägt Früchte [Zeichnung], etwa 12'' lang, welche eine gelbe Masse liefern, die als Gewürze in Suppen sehr geschätzt wird. Darum diese Frucht von Negern &amp;amp; den untern Classen überhaupt, die das schlechteste Creolisch sprechen, gezogen auf den French Market, oder überhaupt zu Markt gebracht wird, muß sich dieß als Spitzname für Creolisch herausgebildet haben. Der Baum wird etwa 20' hoch. </p>
+        <p>Theile der Bibel ins westindische, holländische &amp;amp;tc Creolisch <pb facs="#IMG.3" n="3"/> übersetzt, können Sie leicht von der 
+
+Londoner Bibelgesellschaft erlangen. </p>
+
+        <p> Im Chinookjargon hat G. Gibbs etwa 500 Wörter gesammelt &amp;amp; sagt, daß die englischen W. darin ⅕, die französischen ebensoviel ausmachen.<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8780">George Gibbs. 1863. <hi rend="unknown" rendition="#none">A Dictionary of the Chinook Jargon, or trade languag of Oregon</hi>.</ref>
+
+            </bibl> (Smithsonian Miscellaneous Collections 7 (10). Schuchardt kannte diese Arbeit von <persName>
+
+Gibbs</persName> allerdings schon. Er bittet seinen Freund <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1933">Reinhold Köhler</persName>, damals Bibliothekar in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.441">Weimar</placeName>, schon 1871 dieses Buch für die Bibliothek anzuschaffen (vgl. Brief Schuchardt an Köhler <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.6697/sdef:TEI/get?context=context:hsa.letters.1933">
+HSA 048-S.97-100</ref>). Man sieht hier das sehr frühe Interesse Schuchardts an <hi
+              rend="unknown" rendition="#none">Trade Languages</hi>. In der Tat ist dieses Buch in der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4546">
+Herzogin Anna Amalia Bibliothek</ref> in Weimar verzeichnet.</note> Der Haupttheil gehört dem 
+Chinook an, das an der <hi
+            rend="unknown" rendition="#none">Mündung</hi> des Col. River<note n="5" place="foot" type="editorial">Columbia River.</note> gesprochen wurde, und mit dem dortigen Clatsop fast identisch war. </p>
+        <p>Von einem Mischidiom in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5972">
+Canada</placeName> hörte ich nie, die Canad. sprechen jedenf. nur wunderbares Französisch. Correspondenz Schreiben mit Prof. Campbell, Presbyterian College, Montreal, Canada. Er ist der einzige Mensch den ich dort kenne, &amp;amp; zwar nur durch Correspondenz. Die franz. kathol. Canadier gelten bei der U.S. Bevölkerung für ignorant &amp;amp; perfid, sie machen nur ⅕ der gesamten Canad. Bevölkerung aus. </p>
+        <p>Ich bin identisch mit dem Professor der ortset. F., &amp;amp; bekenne daß die 100 ersten Seiten (wenigstens!) jenes Buches einer Neubearbeitung dringend bedürfen. </p>
+        <p>Sie schrieben, daß van Name’s Schrift in den Trans. Am phil. ass., 1869-70, enthalten sei. Wenn unter <hi
+            rend="unknown"
+            rendition="#none">phil.</hi> philological verstanden ist, so schreiben Sie jedenfalls um Auskunft &amp;amp; Preis an Herrn J. Hammond <hi
+            rend="unknown" rendition="#none">Trumbull</hi>, 745 Asylum Street, Hartford, Connecticut.</p>
+        <closer>
+          <salute> Ergbnst Ihr </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1555">Albert S. Gatschet </persName>
+          </signed>
+          <dateline>Bureau of Ethnology<lb/> P.O. Box 585</dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

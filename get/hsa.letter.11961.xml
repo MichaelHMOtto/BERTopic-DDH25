@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Adolf Noreen an Hugo Schuchardt (08-07937)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2311">
+            <forename>Adolf</forename>
+            <surname>Noreen</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11961" type="PID">o:hsa.letter.11961</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">08-07937</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07937</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2311">
+                <forename>Adolf</forename>
+                <surname>Noreen</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6627" ref="http://sws.geonames.org/2671224">Strömstad</origPlace>
+              <origDate ana="dcterms:created" when="1904-07-29">1904-07-29</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Adolf Noreen und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2311"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11961">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2311" ref="https://viaf.org/viaf/69698254">
+            <forename>Adolf</forename>
+            <surname>Noreen</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6627" key="#GID.1" ref="http://sws.geonames.org/2671224">Strömstad</placeName>
+          <date when="1904-07-29">1904-07-29</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Sweden</country>
+                <settlement>Strömstad</settlement>
+                <name ref="http://geonames.org/2671224" type="fcode:PPLA2">Strömstad</name>
+                <location>
+                  <geo>11.1712,58.93945</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2311" type="context">
+                        Korrespondenz Adolf Noreen - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11961" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11961" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11961" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11961" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Strömstad 29 juli 1904.</dateline>
+        <opener>Hochgeehrter Herr Kollege!</opener>
+        <p> Es hat mich wahrhaftig geärgert und geschmerzt, dass ich bei Ihrem Besuch in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6089">Uppsala</placeName> nicht mehr da war, denn Sie kommen wirklich nicht allzu oft nach <placeName>
+
+Schweden</placeName>. Aber, bitte, kommen Sie <hi
+            rend="unknown"
+            rendition="#none">nie</hi> zwischen 5 juni – 25 aug., denn zu dieser Zeit sind wir alle Professoren putzweg! <note
+            n="1" place="foot" type="editorial">Steigerung wie „putzmunter“?</note>
+        </p>
+        <p>Jetzt zu Ihren Fragen! Wenn ich diese nicht <hi rend="unknown"
+            rendition="#none">
+hier</hi> beantworte, so hat dies seinen Grund darin, daß sie sämtlich schon beantwortet sind und zwar ausführlich in meiner grossen neuschwedischen Grammatik „Våort språk“ k. 1-3,, Lund, C. W. K. Gleerup, 1903ff.<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5376">Noreen, <hi rend="unknown" rendition="#none">Vårt språk, nysvensk grammatik i utförlig framställning</hi>, Lund: C. W. K. Gleerup, 1903.</ref>
+            </bibl>
+          </note> (das 4. h. erscheint im august 1904), wo, besonders im h. 3, eine ausführliche Bibliographie <hi
+            rend="unknown"
+            rendition="#none">alles</hi> (soweit möglich) verzeichnet, was über das 
+
+Neuschwedische und dessen Dialekte geschrieben <pb
+            facs="#IMG.2"
+            n="2"/> worden ist, und wo die angeführten Arbeiten von kritischen Bemerkungen begleitet sind. Auffälliger Weise scheint dies mein Buch noch nicht in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">
+Deutschland</placeName> u. s. w. in irgend welcher Ausdehnung bekannt worden zu sein. Und doch ist es wohl seiner Anlegung nach die ausführlichste Grammatik, die es überhaupt für eine germanische Sprache giebt. Wenn Sie noch vor 25 august des Buches nicht habhaft geworden sind, wird es mir ein grosses Vergnügen werden Ihnen von Uppsala aus ein Exemplar zusenden zu können; hier<note
+            n="3" place="foot" type="editorial">
+            <placeName>
+Strömstad</placeName> ist ein Ort in der schwedischen Provinz Västra Götalands län.</note> ist mir leider kein solches vorrätig. Nachdem Sie dann das Buch benutzt haben, können Sie mich ja des näheren ausfragen wegen der daselbst zitierten Hülfsmittel. Aber jetzt schon möchte ich beantworten, dass </p>
+        <p>1) Für die Pflanzennamen ist das Hauptwerk das Buch von Jenssen-Tusch: Nordiske Plantenavne.<note n="4"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8724">Harald Jenssen-Tusch, <hi
+                  rend="unknown" rendition="#none">Nordiske plantenavne</hi>, København: Hagerup, 1871.</ref>
+            </bibl>
+          </note>
+        </p>
+
+        <p> 2) Rietz‘ Dialect-Lexicon ist noch heute – wiewol etwas flüchtig gemacht – unser brauchbarstes und besonders unser vielseitigstes Dialektwörterbuch. <note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5380">Johan E. Rietz, <hi rend="unknown" rendition="#none">Svenskt dialect-lexicon, København</hi> [u.a.]: Ejnar Munksgaard [u.a.], s. d.</ref>
+            </bibl>
+          </note>
+        </p>
+        <p>3) Für die Fischereigeräte haben wir fast nichts von lexikalischer Art zu bieten. </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p>
+          <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6519">Lundell</persName> giebt noch die Landsmålstidskrift heraus. Das in lexikalischer Hinsicht wichtigste von dem was darin steckt, ist wol die von mir, Brugge u. a. herausgeebene „Ordbok öfver debuilet“ (Band IV, h. 2; 1883)<note
+            n="6" place="foot" type="editorial">Titel nicht genau ermittelt, nicht in den größeren Bibliothekskatalogen verzeichnet.</note> mit sehr altertümlichem und etymologisch wichtigem Material. </p>
+
+        <p> Hoffentlich höre ich also weiteres von Ihnen. Und – kommen Sie nochmals nach Schweden, aber um Gottes willen <hi
+            rend="unknown" rendition="#none">zur rechten Zeit</hi>! </p>
+        <closer>
+          <salute>Das würde herzlich erfreuen</salute>
+          <lb/>
+          <salute>Ihren ergebenen</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2311">Adolf Noreen.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

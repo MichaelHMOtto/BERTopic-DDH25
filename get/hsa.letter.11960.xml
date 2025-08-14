@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Adolf Noreen (07-04333)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11960" type="PID">o:hsa.letter.11960</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">07-04333</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Schweden</country>
+            <settlement>Uppsala</settlement>
+            <repository ref="https://www.uu.se/en">Universität Uppsala</repository>
+            <idno type="shelfmark">04333</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6626" ref="http://sws.geonames.org/2711537">Göteborg</origPlace>
+              <origDate ana="dcterms:created" when="1904-07-12">1904-07-12</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Adolf Noreen</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2311"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11960">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6626" key="#GID.1" ref="http://sws.geonames.org/2711537">Göteborg</placeName>
+          <date when="1904-07-12">1904-07-12</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2311" ref="https://viaf.org/viaf/69698254">
+            <forename>Adolf</forename>
+            <surname>Noreen</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Sweden</country>
+                <settlement>Gothenburg</settlement>
+                <name ref="http://geonames.org/2711537" type="fcode:PPLA">Gothenburg</name>
+                <location>
+                  <geo>11.96679,57.70716</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2311" type="context">
+                        Korrespondenz Hugo Schuchardt - Adolf Noreen
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11960" xml:id="IMG.1">
+
+        <desc>
+                   Die
+               Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt mit
+               freundlicher Genehmigung der <ref target="https://www.uu.se/en">Universität Uppsala</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11960" xml:id="IMG.2">
+
+        <desc>
+                   Die
+               Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt mit
+               freundlicher Genehmigung der <ref target="https://www.uu.se/en">Universität Uppsala</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11960" xml:id="IMG.3">
+
+        <desc>
+                   Die
+               Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt mit
+               freundlicher Genehmigung der <ref target="https://www.uu.se/en">Universität Uppsala</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11960" xml:id="IMG.4">
+
+        <desc>
+                   Die
+               Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv“ erfolgt mit
+               freundlicher Genehmigung der <ref target="https://www.uu.se/en">Universität Uppsala</ref>.
+             </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11960" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Grand Hôtel<lb/> Göteborg den 12 Juli 1904.</dateline>
+        <opener>Hochgeehrter Herr Kollege,</opener>
+
+        <p> Indem ich, morgen, <placeName>
+Schweden</placeName> verlasse, möchte ich Ihnen mein Bedauern ausdrücken Sie in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6089">Upsala</placeName> nicht mehr vorgefunden zu haben, also Ihren vor langen Jahren in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName> gemachten Besuch nicht haben erwidern zu können. Mein Bedauern ist freilich sehr eigennütziger Art; ich hatte gehofft mich über Vieles, was mich beschäftigt, <pb
+            facs="#IMG.2"
+            n="2"/> aufzuklären. Ich habe mich während der wenigen Wochen die ich Schweden zubrachte, durch fleissige Lektüre mit dem 
+
+Schwedischen vertraut gemacht, und meine diesbezüglichen Erfahrungen und Erlernungen, so zu sagen meine individuellen Spracherlebnisse könnten nur als Substrat mündlicher Unterhatung dienen.*) [*) Ich kaufte mir kürzlich Ihre beiden Bände: <hi
+            rend="unknown" rendition="#none">Spridda Studier</hi>;<note n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8717">Adolf Noreen, <hi rend="unknown" rendition="#none">Spridda studier, populära uppsatser</hi>, Stockholm: Gebers, 1895 u. ö.</ref>
+            </bibl>
+
+          </note> sie werden wohl auf manche der Fragen die in mir aufgestiegen sind, Antwort geben]. Anderes hingegen läßt sich auch brieflich erledigen, und das bringe ich nun hier zur Sprache. Bei meinen etymologischen Untersuchungen muss ich nicht selten die nordischen Sprachen zu Rate ziehen, und da schaut es dann nicht ganz schlecht mit den Hülfsmitteln aus. Das Wörterbuch von <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5289">
+            <hi rend="unknown" rendition="#none">Falk</hi>
+          </persName> und <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5290">
+            <hi rend="unknown" rendition="#none">Torp</hi>
+          </persName>
+          <note n="2" place="foot" type="editorial">
+Hjalmar Sejerstedt Falk u. Alf Torp, <hi rend="unknown" rendition="#none">
+Norwegisch-dänisches etymologisches Wörterbuch</hi>
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8718">Band 1</ref>
+            </bibl> und <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8719">Band 2</ref>
+
+            </bibl>, Heidelberg: Winter, 1910, (hier ist wohl eine frühere Ausg. gemeint).</note> wird mir das kleine von <hi
+            rend="unknown" rendition="#none">
+Jessen</hi>
+          <note n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5364">Edwin Jessen, <hi rend="unknown" rendition="#none">Dansk etymologisk ordbog</hi>, Kjøbenhavn: Gyldendalske Boghandel, 1893.</ref>
+            </bibl>
+          </note> ersetzen und aus dem jütl. von <hi rend="unknown" rendition="#none">Fejlberg</hi>
+          <note n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1885">H. J. Fejlberg, <hi rend="unknown" rendition="#none">Bidrag til en ordbog over jyske almuesmål</hi>, København: Thieles Bogtrykkeri, 1904.</ref>
+            </bibl>
+          </note> denke ich auch manchen Nutzen zu ziehen. Ich bedauere dass <hi rend="unknown"
+            rendition="#none">Tamms</hi> Wtb.<note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8720">Fredrik August Tamm, <hi
+                  rend="unknown" rendition="#none">Etymologisk svensk ordbok</hi>, Uppsala: Berling, 1890-1905.</ref>
+            </bibl>
+
+          </note> so langsam vorwärts schreitet, freue mich aber doch dass es – woran ich bis vor Kurzem zweifelte – überhaupt fortgesetzt wird. Aber über die Mundarten Schwedens fehlt es wohl noch sehr an lexikalischem Material? Das Wb. von <hi
+            rend="unknown" rendition="#none">Riez</hi> sah ich nur ganz flüchtig ein,<note n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5380">Johan Ernst Rietz,<hi rend="unknown" rendition="#none"> Svenskt dialektlexikon</hi>, B.A. Cronholm, 1867.</ref>
+            </bibl>
+
+          </note> und konnte mich nicht vergewissern bis zu welchem Grade es für meine Studien brauchbar wäre; immerhin suchte ich es mir zu verschaffen, aber <hi
+            rend="unknown" rendition="#none">Klemming</hi> in St. hatte es nicht.<note n="7" place="foot"
+            type="editorial">
+
+
+H. Klemming, Verlagsbuchhandlung <placeName>
+Stockholm</placeName> (keine näheren Angaben).</note> Was in der Zeitschrift (gibt sie Lundell<note
+            n="8" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6519">
+Johan August Lundell</persName> (185-1940), schwedischer Linguist an der 
+Univ. Uppsala.</note> noch heraus?) in dieser Hinsicht steht, ist da wohl zu zerstreut um von mir in Betracht gezogen werden zu können; auch schaffe ich mir zwar alle möglichen Bücher an, aber keine Zeitschriften wenn sie nicht im grossen Ganzen in der Richtung meiner Studien liegen. Hingegen würden solche Veröffentlichungen wie <pb
+            facs="#IMG.3" n="3"/> Snudéns Allmogelifret en Nestergötasocken (?? <note n="9" place="foot"
+            type="editorial">Titel bibliothekarisch nicht identifiziert.</note>) das ich neulich, mehr aus Zufall kaufte, mir Dienste zu Leisten vermögen; ich weiss nicht wie viel von solchen vorhanden ist. Es kommt mir nämlich sehr auf die Fachausdrücke an, z. B. auf die Pflanzennamen. Ich habe mir <hi
+            rend="unknown" rendition="#none">Nathorst</hi> Svenska Växtnamn<note n="10" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8721">
+                <hi rend="unknown" rendition="#none">Svenska växtnamn. Historisk öfversikt, kritiska anmärkningar, förslag till metod</hi>, Stockholm: Norstedt, 1903 (Kungliga Svenska Vetenskapsakademien: Kungliga Svenska Vetenskapsakademiens handlingar. Bihang).</ref>
+            </bibl>
+
+          </note> angeschafft, bin aber einigermassen enttäuscht, indem der mundartliche Sprachgebrauch nicht berücksichtigt zu sein scheint. Der erste Versuch den ich mit diesem WB. machte schlug fehl. Ich fand in meinem Schwed.- d. Wtb. von Helms<note
+            n="11" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8722">Svenn Henrik Helms, <hi rend="unknown" rendition="#none">Neues vollständiges schwedisch-deutsches und deutsch-schwedisches Wörterbuch nebst einem kurzen Abrisse der Formenlehre beider Sprachen</hi>, Leipzig : Holtze Nachf., 1904.</ref>
+            </bibl>
+          </note> (das mich übrigens auch sehr oft im Stich lässt) <hi rend="unknown"
+            rendition="#none">alster</hi>*), Spindelbaum. Nathorst hat diesen Namen auch in den Anmerkungen nichts [Helms gibt im andern Teil: Spindelbaum <hi
+            rend="unknown"
+            rendition="#none">vindspelbom</hi>, - das ist natürlich kein „Baum“ im botanischen Sinn]. Mehr als an allem Andern liegt mir an den Benennungen der Fischereigeräte, bes. für Netze und Netzteile; denn diese interessieren mich ganz abgesehen von ihre, etwaigen Zusammenhang mit romanischen, oder noch deutlicher gesagt, hier interessieren mich auch die Dinge als solche. Ich war gestern in Marstrand<note
+            n="12" place="foot" type="editorial">Kleine Schäreninsel in der Gemeinde Kungälv im Süden von Bohuslän.</note>
+        </p>
+        <p>*) ist das etwa = <hi rend="unknown" rendition="#none">jolster</hi> "Weide"? <pb facs="#IMG.4"
+            n="4"/> um mir die Fischereiausstellung anzusehen, und lernte dabei Herrn Fischereiinspektor Trybom<note
+            n="13" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2889">Filip Trybom</persName> (1850-1913); vgl. 
+HSA 11894 (Wolf, <hi
+              rend="unknown"
+            rendition="#none">Nachlaß</hi>, 79) bezeichnet ihn als „Entomologen“. </note> aus Stockholm kennen, der mir behülflich zu sein versprach. Aber zu voller Befriedigung meiner Wünsche wird es wohl nicht reichen. Es ist das ein sehr vernachlässigtes Gebiet, konnte ich doch, trotz allen Nachfragens, in Stockholm Niemanden auftreiben der mir über Einzelheiten im Fischereimuseum Auskunft hätte geben können. Es scheint sich geradezu Niemand um dasselbe zu kümmern. Die Fischereiausdrücke scheinen nun nach den Gegenden recht verschieden zu sein; z. B. das Wort <hi
+            rend="unknown"
+            rendition="#none">känsa</hi>, die Angelschnur an der Grundleine (mein Wtb. kennt es gar nicht) [ist] nicht überall bekannt. Vielleicht finden sich dergleichen Wörter gebucht in gewissen Wörterbüchern allgemeinen Charakters, etwa in <hi
+            rend="unknown" rendition="#none">Fischerströms</hi> Nya Svenska Economiska Dictionnaire?<note n="14"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8723">Johan Fischerström, <hi rend="unknown" rendition="#none">Nya swenska dictionnairen. Eller Försök til et almänt och fullständigt lexicon, i swenska hushållningen och naturläran</hi>, Stockholm: Tryckt i Kumblinska tryckeriet, 1781, 1-4.</ref>
+            </bibl>
+
+          </note> – Ich breche hier ab, das Schreiben wird mir auch da ich etwas angegriffen bin, einigermassen sauer. Haben Sie doch die Güte mir einmal nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName>, wo ich in einigen Wochen wieder eintreffen werde, ein paar Zeilen in diesen Angelegenheiten zu schreiben. </p>
+        <closer>
+          <salute>Mit verbindlichstem Gruss </salute>
+          <lb/>
+          <salute>Ihr erg.</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+HSchuchardt</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

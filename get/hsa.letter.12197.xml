@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Behrendt Pick an Hugo Schuchardt (09-08814)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">
+            <forename>Behrendt</forename>
+            <surname>Pick</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12197" type="PID">o:hsa.letter.12197</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">09-08814</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08814</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">
+                <forename>Behrendt</forename>
+                <surname>Pick</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" ref="http://sws.geonames.org/2918752">Gotha</origPlace>
+              <origDate ana="dcterms:created" when="1906-11-30">1906-11-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Behrendt Pick und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2402"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12197">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2402" ref="https://viaf.org/viaf/71523763">
+            <forename>Behrendt</forename>
+            <surname>Pick</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.81" key="#GID.1" ref="http://sws.geonames.org/2918752">Gotha</placeName>
+          <date when="1906-11-30">1906-11-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Gotha</settlement>
+                <name ref="http://geonames.org/2918752" type="fcode:PPLA3">Gotha</name>
+                <location>
+                  <geo>10.70193,50.94823</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2402" type="context">
+                        Korrespondenz Behrendt Pick - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Latein</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12197" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12197" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12197" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12197" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12197" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Gotha, 30.XI.06</dateline>
+        <opener>Sehr verehrter Herr Professor!</opener>
+        <p> Entschuldigen Sie, dass ich Ihren zweiten Brief nicht schneller beantwortet habe. Es gab in dieser Zeit sehr viel zu thun, namentlich die Revision eines grossen Fundes von Groschen des XIV. Jahrhunderts, die sehr eilig war. Daher kann ich Ihnen erst heute schreiben. </p>
+        <p>Also: der <hi rend="unknown" rendition="#none">Memorial</hi> numismatico<note n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9969">
+                <hi rend="unknown" rendition="#none">Memorial Numismático Español, coleccion de trabajos, articulos etc., sobre la numismática antiqua y moderna, especialmente la Española</hi>, Barcelona: Verdaguer, 1866-1880.</ref>
+            </bibl>
+          </note> ist eingegangen, und es scheint in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5989">Spanien</placeName>
+          <hi rend="unknown"
+            rendition="#none">keine</hi> neue num. Zeitschrift entstanden zu sein. Dagegen finde ich oft für numismatische Artikel (bes. über Münzfunde) die mir nicht zugängliche Zeitschrift „O Archeologo Portuguès“ citirt (die seit 1895 zu bestehen scheint)<note
+            n="2" place="foot" type="editorial">
+            <hi rend="unknown"
+            rendition="#none">O arqueólogo português</hi>
+, Ministério da Educação Nacional, Direcção Geral do Ensino Superior e das Belas Artes; Museu Nacional de Arqueología Etnología, Lisboa, 1895ff.</note>, so z. B. einen Artikel über <hi
+            rend="unknown"
+            rendition="#none">Balearia</hi> Band 11 (vor. Monat). – Die Haupterscheinungen über spanisches Münzwesen finden Sie bequem citirt in dem Werk von E. <hi
+            rend="unknown" rendition="#none">Babelon</hi>, Traité des Monnaies grecques et romaines, Tome I (1901)<note
+            n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9972">Ernest Babelon, <hi rend="unknown" rendition="#none">Traité des monnaies grecques et romaines</hi>, Paris 1901-32</ref>
+
+            </bibl>.</note> p. 238-242. Nach 1893 (Hübner) fehlt der Katalog der Sammlung Manuel Vidal Quadras y Ramon in Barcelona<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9973">
+                <hi rend="unknown" rendition="#none">Catálogo de la colección de monedas y medallas</hi> de Manuel Vidal Quadras y Ramón de Barcelona,1892 ff.</ref>
+            </bibl> (mehrere Bände).</note> (Band I enthält die Antiken), den Sie vielleicht aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.97">
+Wien</placeName> bekommen können (hier nicht vorhanden). Ferner ein Artikel von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2017"> J. Leite de Vasconcellos</persName>, les monnaies de la Lusitanie portugaise<note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9974">Leite de Vasconcelos, <hi
+                  rend="unknown" rendition="#none">Les monnaies de la Lusitanie portugaise</hi>, Paris; Société française de numismatique, 1900.</ref>
+            </bibl>
+          </note>, u. das Sammelwerk „Congrès international de numismatique réuni à Paris, à 1900 (hier vorhanden)<note
+            n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9975">
+                <hi rend="unknown" rendition="#none">Congrès International de Numismatique réuní à Paris, en 100 Procés-verbaux et mémoires</hi> publiés par [Henri] de Castellane et Adrien Blanchet, Paris: Société Française de Numismatique, 1900.</ref>
+            </bibl>
+          </note>. <pb facs="#IMG.2" n="2"/> In <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">Deutschland</placeName> beschäftigt man sich fast garnicht mit den iberischen Münzen; in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">Frankreich</placeName> weiss wohl R. Mowat<note n="7"
+            place="foot" type="editorial">
+
+            <persName>
+
+Robert B. Mowat</persName> (1883-1941), britisch-schottischer Historiker. – Es ist keine Korrespondenz mit <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> erhalten.</note> am besten Bescheid, der Ihnen gewiss gern Auskunft geben wird. Sie können ihn eventuell von mir grüssen, ich war ihm öfters gefällig (<placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName>, rue des Feuillantines 10; Commandant R. Mowat). </p>
+
+        <p>Über die Formen der Ort- und Völkernamen auf Münzen giebt es keine erschöpfende Zusammenstellung. Das Buch von <hi
+            rend="unknown" rendition="#none">Boutkowski</hi>, petit M de poche (Berlin 1889)<note n="8" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9976">Alexandre Boutkowski-Glinka, <hi
+                  rend="unknown" rendition="#none">Petit mionnet de poche ou répertoire pratique à l'usage des numismatistes en voyage et collectionneurs des monnaies grecques ...</hi>, Berlin: Selbstverlag, 1889, 417 S.</ref>
+            </bibl>
+
+          </note>, bringt zwar eine lange Liste; aber es ist das ein wüstes Plagiat von einer Liste, die sich Imhoof-Blumer<note
+            n="9" place="foot" type="editorial">
+
+            <persName>
+Friedrich Imhoof-Blumer</persName> (1838-1920), Schweizer Numismatiker.</note> zu seinem Privatgebrauch gemacht hatte, die aber zu Recherchen weder bestimmt noch geeignet war. Ich habe gelegentlich einiges über die Namensform auf griech. Münzen gesagt, aber ohne Belege anzugeben, und nur für <hi
+            rend="unknown"
+            rendition="#none">
+griechische</hi> Münzen. Da liegt die Sache sehr einfach. Die Regel ist, dass der <hi
+            rend="unknown"
+            rendition="#none">Genitiv pluralis</hi> des Völkernamens angegeben wird (seit überhaupt die Namen <hi
+            rend="unknown"
+            rendition="#none">
+ausgeschrieben</hi> werden), wobei νόμισμα zu ergänzen ist. Der Genetiv <hi
+            rend="unknown" rendition="#none">singularis</hi> ist selten, er findet sich nur, wenn die Stadt einen <hi
+            rend="unknown"
+            rendition="#none">Beinamen</hi> hat, z. B. Xρᾶϛ Ἐπίδαυρου. Wo Nominativ, Dativ und Accusativ stehen, hat das meist einen besonderen Grund. [einscannen]. Die Regel, dass der mit νόμισμα zu ergänzende Genetiv das correcte ist wird dadurch nicht umgestossen. Auch bei Königsmünzen steht der Genetiv fast allein (Βασιλεύς Άλεξάνδρου); nur in der <pb
+            facs="#IMG.3"
+            n="3"/> ältest. Zeit und in der Kaiserzeit finden sich einige Ausnahmen (Nominative). Jedenfalls kann man sagen, dass der <hi
+            rend="unknown" rendition="#none">
+Locativ</hi>, der für Sie wohl wichtig wäre, im griechischen Sprachgebiet nicht vorkommt. </p>
+        <p> Im <ref target="https://gams.uni-graz.at/o:hsa.languages#L.886">
+            <hi rend="unknown" rendition="#none">lateinischen</hi>
+          </ref> liegt es anders. Das vorherrschende ist hier der <hi rend="unknown"
+            rendition="#none">Nominativ</hi>: ROMA bezeichnet das Goldstück als <hi rend="unknown"
+            rendition="#none">seine</hi> Münze, ebenso die Colonien (wo aber in Asien zuweilen unter griechischem Einfluss der Genetiv vorgekommen scheint). Aber in (<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italien</placeName>?) <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5989">Spanien</placeName> u. Africa kommt auch Ablativ vor. In Italien liegt es besonders schwierig, und das läßt sich nicht kurz abmachen (s. <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9977">Mommsen, Römisches Münzwesen</ref>
+          </bibl>, und C. I. L. I<note n="10" place="foot"
+            type="editorial">Corpus Inscriptionum Latinarum.</note>). Zu Africa habe ich mir HIPPONE LIBERA gemerkt. Die spanischen Beispiele kennen Sie selbst; die Auffassung wird öfters zweifelhaft sein; aber es giebt doch wohl einige <hi
+            rend="unknown" rendition="#none">sichere</hi> Ablative? (<hi rend="unknown"
+            rendition="#none">
+Obulcone</hi> ist allerdings unsicher). Formen wie <hi rend="unknown"
+            rendition="#none">Ilipense</hi> sind doch wohl <hi rend="unknown" rendition="#none">
+Nominative</hi> der Adjectivums, wobei aes oder argentum zu ergänzen sein wird. Ich habe mich um die Formen auf dem spanischen Wege nie gekümmert; aber wenn Sie es nicht selbst tun wollen, kann ich die Frage erneut untersuchen; es würde mich auch interessieren, aber sofort komme ich nicht dazu. – Die Form [einscannen] macht ja keine Schwierigkeiten, sie ist aber correct griechisch; die Münzen sind ja auch in Gallien geprägt (vgl. Blanchet, traité des monnaies gauloises p, 273 f.) – </p>
+        <p>Das wäre alles; es würde mich freuen, wenn es Ihnen etwas nützte. Auf Wunsch stehe ich weiter gern zur Verfügung. </p>
+        <p>Nachtragen will ich, dass Herr <hi rend="unknown"
+            rendition="#none">Linschmann</hi> wohl in Meiningen lebt.<note n="11" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2047">Theodor Linschmann</persName> (1850-1940), deutscher Pfarrer und späterer Bibliotheksdirektor; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.2047">HSA 06465-06540</ref>.</note> – </p>
+        <p>Über <hi rend="unknown" rendition="#none">Kubitschek</hi>
+          <note n="12" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1969">
+Wilhelm Kubitschek</persName> (1858-1936), österr. Althistoriker, Klass. Archäologe u. Numismatiker, der wichtige Ämter in Verwaltung und Wissenschaft bekleidete; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1969">
+HSA 05843</ref>.</note> urteile ich nicht besser als Prof. Bauer<note
+            n="13" place="foot" type="editorial">Vermutlich ist <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1098">Adolf Bauer</persName> (1855-1919) gemeint; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1098?locale=de">HSA 00612-00640</ref>.</note>
+          <pb facs="#IMG.4"
+            n="4"/> und alle Fachgenossen, – trotz Ihrer Karte, die mir die Absendung des Buchs meldet. Er ist einer der unpraktischsten Menschen, die ich kenne. Und was die von Ihnen erwähnte „Bescheidenheit“ betrifft, so ist sie nur ganz <hi
+            rend="unknown"
+            rendition="#none">äusserlich</hi>; im Innern ist er ein ungewöhnlich dünkelhafter Mensch. Vor 4 oder 5 Jahren hat er einmal vierzehn Tage hier gearbeitet; aber ich muss sagen, dass selten oder nie ein Mensch meine Geduld durch zur Schau getragene Sanftmut und Bedürfnisslosigkeit nebst tugendhaftester Selbstzufriedenheit so auf die Probe gestellt hat. Ich glaube ja, dass er eine ganze Menge von Kenntnissen hat, aber zu seinem Hochmut hat er um so weniger Grund als er zwar schon viel Grosses <hi
+            rend="unknown" rendition="#none">begonnen</hi>, aber noch nie etwas <hi rend="unknown"
+            rendition="#none">fertig</hi> gemacht hat. Indessen habeat sibi<note n="14" place="foot"
+            type="editorial">„Er schreibe es sich selbst zu, er habe seinen Willen“.</note>; <hi rend="unknown" rendition="#none">mir</hi> persönlich hat er übrigens auch nichts zu leide gethan, mich ärgert nur diese unberechtigte Tugendboldenhaftigkeit. </p>
+        <closer>
+          <salute>Leben Sie wohl. Aber wenn Sie etwas von hier oder von mir brauchen, so schreiben Sie nur; wenn ich nicht sofort antworte, so ist das nicht böser Wille und nicht einmal Bummelei. </salute>
+          <lb/>
+          <salute>Mit vielen Grüssen</salute>
+          <lb/>
+          <salute>Ihr ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2402">BPick.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

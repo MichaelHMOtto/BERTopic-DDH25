@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (157-24457)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11891" type="PID">o:hsa.letter.11891</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">157-24457</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24457, fol. 89-90</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1900-07-18">1900-07-18</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11891">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1900-07-18">1900-07-18</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.6616" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Bibliothèque de l'Arsenal</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f179" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f180" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f181" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f182" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7578" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz 18 Juli 1900.</dateline>
+        <opener>Lieber Freund,</opener>
+        <p> Sie wissen – denn ich habe es Ihrer gütigen Anregung zu verdanken – dass mir Herr <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1538">Frantz Funck-Brentano</persName>
+          <note n="1" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1538">Frantz Funck-Brentano</persName> (1862-1947), diplômé de l’École des Chartes, nommé en 1885 conservateur à la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.6616">Bibliothèque de l’Arsenal</ref>.</note> einen sehr wichtigen Dienst leistete, indem er aus der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.6616">Arsenalbibliothek</ref> für mich ein baskisches Büchlein entlehnte das in unserem schon seit fast einem Jahre fertigen Neudruck inbegriffen ist<note
+            n="2" place="foot" type="editorial">Voir l. du 13 novembre 1897 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11871">GP 137-08628</ref>).</note>. </p>
+
+        <p> An der Einleitung wird jetzt gedruckt; die Vorrede muss ich demnächst fertig stellen, und da erhebt sich nun die große Schwierigkeit in welcher <pb
+            facs="#IMG.2" n="2"/> Weise ich der <hi
+            rendition="#u">Arsenalbibliothek</hi> gedenken soll. Zunächst hatte ich die Sorge, eine Erwähnung <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1538">F. Br.</persName>’s könne ihm irgendwie schaden. Ich schrieb ihm; seine Antwort war eine etwas unbestimmte<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1538">Funck-Brentano</persName> à Schuchardt, le 6 juin 1900: «Vous êtes vraiment trop aimable de vouloir bien me citer dans votre introduction à propos du tout petit service que j’ai pu vous rendre. Vous pouvez me citer si vous le désirez, mais cela n’en vaut vraiment pas la peine. En tous cas je vous remercie cordialement de votre gracieuse pensée» (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.6306">HSA 03-3201</ref>).</note>. Ich schrieb ihm zum zweiten Mal; er antwortete mir «Ce que j’ai fait est en dehors de toutes les règles; néanmoins comme je n’ai pas l’habitude de rougir de ce que je fais, ni de le cacher, vous pouvez si vous le jugez bon, mettre mon nom dans votre introduction ou ne pas le mettre. Comme vous voudrez.»<note
+            n="4" place="foot"
+              type="editorial">Citation d’une lettre de Funck-Brentano à Schuchardt du 14 juin 1900 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.6306">HSA 04-3202</ref>). Finalement, Schuchardt ne mentionnera pas le nom de Funck-Brentano, et ce dernier ne lui en tiendra pas rigueur (Funck-Brentano à Schuchardt, 24 décembre 1900, <ref target="https://gams.uni-graz.at/o:hsa.letter.6308">HSA 05-3203</ref>).</note>
+        </p>
+        <p> Ça ne m’avance pas du tout. <pb facs="#IMG.3"
+            n="3"/> Denn die Verlegenheit ist eine formale. Nachdem ich mit kurzen Worten dem Vorstand der X bibliothek und dem Vorstand der Y bibliothek den Dank ausgesprochen habe – ohne Nennung irgend eines Namens – soll ich auseinandersetzen in welcher Weise sich Herr <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1538">F. Br</persName>. verpflichtet hat, was immer einigen Raum beanspruchen würde? Auf der andern Seite, kann ich doch nicht wohl die <hi
+            rendition="#u">Arsenalbibliothek</hi> mit Stillschweigen übergehen; ich hätte allerdings die Texte von zwei oder drei andern <pb
+            facs="#IMG.4" n="4"/> Orten haben können – immerhin bin ich Rechenschaft darüber schuldig, wo und wie ich sie benutzt habe. Ich denke der Fall der Entlehnung «wider alle Regeln» wird doch bei Ihnen zuweilen vorkommen; wie verhält man sich dann? </p>
+        <p> Ich muss z.B. auch auf <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2939">J. Vinson</persName> Rücksicht nehmen, der sich in der <hi
+            rendition="#i">Rev. de. ling.</hi> einmal sehr empört darüber äusserte dass man ein kostbares Buch aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName> nach der Provinz ausgeliehen hatte, der es aber allerdings ganz natürlich findet wenn man ihm von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.107">Darmstadt</placeName> aus ein Unicum leiht<note n="5"
+            place="foot"
+              type="editorial">La première référence nous reste inconnue. La seconde renvoie à l’édition de <hi
+              rendition="#i">Refranes y Sentencias</hi>, 1596, édité par van Eys en octobre 1894 à partir du seul exemplaire connu, conservé à la Bibliothèque Grand-Ducale de Hesse, à Darmstadt. J. Vinson précise que «l’administration de la Bibliothèque a bien voulu [le lui] confier du mois de février au mois d’avril 1895, de sorte qu[’il ait] pu en prendre une copie figurée» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7909">Vinson 1896</ref>
+            </bibl>, 204). </note>. </p>
+        <p> Ich hoffe es geht Ihnen und den Ihrigen gut; meinen Handkuss an <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2351">Fräulein Griette.</persName>
+        </p>
+        <closer>
+          <salute>Totus vester</salute>
+          <signed>H. Schuchardt</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

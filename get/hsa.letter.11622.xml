@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gottlieb Haberlandt an Hugo Schuchardt (28-04286)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1683">
+            <forename>Gottlieb</forename>
+            <surname>Haberlandt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11622" type="PID">o:hsa.letter.11622</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">28-04286</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04286</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1683">
+                <forename>Gottlieb</forename>
+                <surname>Haberlandt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" ref="http://sws.geonames.org/2950159">Berlin</origPlace>
+              <origDate ana="dcterms:created" when="1919-12-07">1919-12-07</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gottlieb Haberlandt und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1683"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11622">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1683" ref="https://viaf.org/viaf/18021801">
+            <forename>Gottlieb</forename>
+            <surname>Haberlandt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" key="#GID.1" ref="http://sws.geonames.org/2950159">Berlin</placeName>
+          <date when="1919-12-07">1919-12-07</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Berlin</settlement>
+                <name ref="http://geonames.org/2950159" type="fcode:PPLC">Berlin</name>
+                <location>
+                  <geo>13.41053,52.52437</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1683" type="context">
+                        Korrespondenz Gottlieb Haberlandt - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4296" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Berlin (Friedrich-Wilhelms-Universität)</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Latein</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11622" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11622" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11622" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11622" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11622" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Berlin-Dahlem, 7. Dez. 1919.</dateline>
+        <opener>Lieber u. verehrter Freund!</opener>
+
+        <p> Du hast mir mit Deinem Lebenszeichen vom 3. Nov. eine große Freude gemacht u. Deinem Briefe sowohl wie Deinen Aufsätzen in unseren Akademieberichten entnehme ich, wie ungebrochen rege Dein Geist weiterschürft u. den letzten Problemen Deiner Wissenschaft nachspürt. Auch ich freute mich sehr über das Spiel des Zufalls, der unsre beiden Arbeiten einander so nahe gerückt hat u. in einem der letzten Hefte das Spiel beinahe wiederholt hätte. Auch ich wage mich gegen das Fach meiner <pb
+            facs="#IMG.2" n="2"/> wissenschaftlichen Arbeit zu an die letzten Aufgaben der biologischen Forschung heran. Unterstützt werde ich dabei von meinen noch immer scharfen Sinnen: ich mikroskopiere noch immer mit ebenso guten, kaum zu ermüdenden Augen wie vor 30 Jahren u. betrachte das als eine große Gunst des Schicksals. </p>
+
+        <p>In der wissenschaftlichen Arbeit finde ich allein Trost u. Vergessen in all dem Jammer, der den Zusammenbruch unseres Volkes u., wie es scheint, der ganzen abendländischen Kultur begleitet. Auch mein kleines Kinderpärchen, das prächtig gedeiht, lenkt mich tagtäglich von trüben Gedanken ab. Die erwachsenen Kinder, die ja selbst mit der Not der Zeit zu kämpfen haben, können mir in dieser Hinsicht kaum <pb
+            facs="#IMG.3" n="3"/> helfen. Edith in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName>
+          <note n="1" place="foot" type="editorial">
+
+            <persName>
+Edith Haberlandt</persName> (1882-1939), österr. Malerin.</note> schlägt sich tapfer durch; mein Ältester in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.134">Innsbruck</placeName>, der Extraordinarius geworden ist,<note
+            n="2" place="foot" type="editorial">
+
+            <persName>
+Ludwig Haberlandt </persName>(1885-1932), österreichischer Physiologe. Er gilt als Pionier der hormonalen Empfängnisverhütung, der Vorarbeiten zur Entwicklung der Antibabypille führte (<ref
+            target="https://de.wikipedia.org/wiki/Ludwig_Haberlandt">
+wikipedia</ref>).</note> arbeitet im ungeheizten Institut mit knurrendem Magen eifrig u. zuversichtlich darauf los; Fritz, der sich als Oberarzt in einem Lazarett die Ruhr geholt hat, mußte sich vor einem halben Jahr einer schweren Darmoperation unterziehen u. ist noch immer nicht geheilt. Richard<note
+            n="3" place="foot" type="editorial">
+            <persName>
+Richard Haberlandt</persName> (1890-1963), vgl. <ref
+            target="https://haberlandt.info/der-kuenstler/biografie/">hier</ref>. </note>, der seit April Zeichenlehrer am Gymnasium in <placeName>
+
+Gera</placeName> ist, leidet noch an den Folgen des fürchterlich strapaziösen Rückzuges aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">Frankreich</placeName>; u. Heinrich, mein Jüngster unter den erwachsenen Kindern, hat eine Hilfslehrer-Stelle am Victoria-Institut (Privatgymnasium) in Falkenberg i. Mark gefunden; er bringt seinen Schülern <ref target="https://gams.uni-graz.at/o:hsa.languages#L.886">Latein</ref> u. Geschichte bei u. sie ihm die Kunst des Rodelns.</p>
+        <pb facs="#IMG.4" n="4"/>
+
+        <p>In der Fakultät ist es ungemütlich, die frühere Sachlichkeit der Debatten leidet unter den politischen Gegensätzen; Ed. Meyer<note
+            n="4" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2183">Eduard Meyer</persName> (1855-1930), Historiker; vgl. 
+
+HSA 07158.</note>, Roethe<note
+            n="5" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4957">
+Gustav Roethe</persName> (1859-1926), Germanist.</note>, Wilh. Schulze<note
+            n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2697">Wilhelm Schulze</persName> (1863-1935), Sprachwissenschaftler; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2697">HSA 1863-1935</ref>.</note>, Lüders<note n="7"
+            place="foot" type="editorial">
+            <persName>
+Heinrich Lüders</persName> (1869-1943), Indologe, zeitweise Rektor der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4296">Berliner Universität</ref>.</note> u. A. wollen nicht einsehen, daß eine solche Revolution, wie wir sie erlebt, ein irreversibler Prozeß ist. In der Akademie gab’s in letzter Zeit wiederholte fruchtlose Debatten, ob die Association der Akademie als aufgelöst betrachten ist oder nicht. Das sollte eine unserer letzten Sorgen sein. Wenn wir wissenschaftlich auf gleicher Höhe bleiben wie vor dem Kriege, kann uns weiter nichts passieren; dann ist es auch meines Erachtens gleichgültig, wie unsere Akademien sich nennen. „<hi
+            rend="unknown"
+            rendition="#none">Deutsche Akad. d. W. in Wien</hi>“ will mir nicht gefallen. Wenn man eine Selbstverständlichkeit betont könnten sich Leute finden, die behaupten, es sei <hi
+            rend="unknown" rendition="#none">
+nicht</hi> selbstverständlich. – </p>
+        <closer>
+          <salute>Mit besten Wünschen für Dein Wohlergehen u. herzlichen Grüßen </salute>
+          <lb/>
+          <salute>Dein treuer</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1683">
+GHaberlandt.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

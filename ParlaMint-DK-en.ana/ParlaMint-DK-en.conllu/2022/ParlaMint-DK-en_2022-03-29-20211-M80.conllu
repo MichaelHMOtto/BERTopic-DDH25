@@ -1,0 +1,195 @@
+# newdoc id = ParlaMint-DK_20220329130254
+# newpar id = ParlaMint-DK_20220329130254.seg1
+# lang = en
+# sent_id = ParlaMint-DK_20220329130254.seg1.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.826
+# text = The meeting is open.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	open	open	ADJ	A10p	Degree=Pos	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220329130304
+# newpar id = ParlaMint-DK_20220329130304.seg2
+# lang = en
+# sent_id = ParlaMint-DK_20220329130304.seg2.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.099
+# text = Today there are the following reviews: Minister for Business (Simon Kollerup): Bill no. L 150 (Proposal for a law on restrictions on transactions in cash and securities in Danish kroner to Russia and Belarus).
+1	Today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O
+3	are	be	VERB	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	following	follow	VERB	M1	VerbForm=Ger	0	_	_	NER=O
+6	reviews	review	NOUN	X2.4	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+7	:	:	PUNCT	Z9	_	0	_	_	NER=O
+8	Minister	Minister	PROPN	G1.1|S2	Number=Sing	0	_	_	NER=O
+9	for	for	ADP	Z5	_	0	_	_	NER=O
+10	Business	Business	PROPN	I2.1	Number=Sing	0	_	_	NER=O
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	Simon	Simon	PROPN	Z1	Number=Sing	0	_	_	NER=B-MISC
+13	Kollerup	Kollerup	PROPN	Z1	Number=Sing	0	_	_	NER=I-MISC|SpaceAfter=No
+14	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	:	:	PUNCT	Z9	_	0	_	_	NER=O
+16	Bill	Bill	PROPN	I1.3	Number=Sing	0	_	_	NER=B-MISC
+17	no	no	INTJ	Z4	_	0	_	_	NER=I-MISC|SpaceAfter=No
+18	.	.	PUNCT	Z9	_	0	_	_	NER=I-MISC
+19	L	L	PROPN	Z5	Number=Sing	0	_	_	NER=I-MISC
+20	150	150	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=I-MISC
+21	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+22	Proposal	proposal	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+23	for	for	ADP	T1.3	_	0	_	_	NER=O
+24	a	a	DET	T1.3	Definite=Ind|PronType=Art	0	_	_	NER=O
+25	law	law	NOUN	T1.3	Number=Sing	0	_	_	NER=O
+26	on	on	ADP	Z5	_	0	_	_	NER=O
+27	restrictions	restriction	NOUN	A1.7p	Number=Plur	0	_	_	NER=O
+28	on	on	ADP	Z5	_	0	_	_	NER=O
+29	transactions	transaction	NOUN	I2.2	Number=Plur	0	_	_	NER=O
+30	in	in	ADP	Z5	_	0	_	_	NER=O
+31	cash	cash	NOUN	T1.3	Number=Sing	0	_	_	NER=O
+32	and	and	CCONJ	T1.3	_	0	_	_	NER=O
+33	securities	security	NOUN	T1.3	Number=Plur	0	_	_	NER=O
+34	in	in	ADP	Z5	_	0	_	_	NER=O
+35	Danish	Danish	ADJ	Z2	Degree=Pos	0	_	_	NER=B-MISC
+36	kroner	kroner	NOUN	Z99	Number=Sing	0	_	_	NER=O
+37	to	to	ADP	Z5	_	0	_	_	NER=O
+38	Russia	Russia	PROPN	Z2	Number=Sing	0	_	_	NER=B-LOC
+39	and	and	CCONJ	Z5	_	0	_	_	NER=O
+40	Belarus	Belarus	PROPN	Z1	Number=Sing	0	_	_	NER=B-LOC|SpaceAfter=No
+41	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+42	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220329130304.seg2.2
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.466
+# text = The title of the notified case will appear in www.folketingstidende.dk (cf. above).
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	title	title	NOUN	Q4	Number=Sing	0	_	_	NER=O
+3	of	of	ADP	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	notified	notify	VERB	Q2.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O
+7	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+8	appear	appear	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+9	in	in	ADP	Z5	_	0	_	_	NER=O
+10	www.folketingstidende.dk	www.folketingstidende.dk	PROPN	Z99	Number=Sing	0	_	_	NER=O
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	cf.	cf.	NOUN	Z5|A6	Number=Sing	0	_	_	NER=O
+13	above	above	ADV	M6	_	0	_	_	NER=O|SpaceAfter=No
+14	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220329130304.seg2.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.633
+# text = On 23 March the Committee on the Environment, Public Health and Food Safety presented a report on the follow-up by the Ministry of the Environment to the Report of the National Auditors and the National Audit Office. 7/2019 on the protection of groundwater against pesticides.
+1	On	on	ADP	Z5	_	0	_	_	NER=O
+2	23	23	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+3	March	March	PROPN	T1.3	Number=Sing	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	Committee	Committee	PROPN	S7.1p|S5p	Number=Sing	0	_	_	NER=B-ORG
+6	on	on	ADP	Z5	_	0	_	_	NER=I-ORG
+7	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+8	Environment	environment	PROPN	W5	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+9	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+10	Public	Public	ADJ	Z1	Degree=Pos	0	_	_	NER=I-ORG
+11	Health	Health	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+12	and	and	CCONJ	Z5	_	0	_	_	NER=I-ORG
+13	Food	food	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+14	Safety	Safety	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+15	presented	present	VERB	A9n	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	_	_	NER=O
+16	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+17	report	report	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+18	on	on	ADP	Z5	_	0	_	_	NER=O
+19	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+20	follow	follow	NOUN	M1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+21	-	-	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+22	up	up	NOUN	N5p|A2.1	Number=Sing	0	_	_	NER=O
+23	by	by	ADP	Z5	_	0	_	_	NER=O
+24	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+25	Ministry	Ministry	PROPN	G1.1	Number=Sing	0	_	_	NER=B-ORG
+26	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+27	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+28	Environment	environment	PROPN	W5	Number=Sing	0	_	_	NER=I-ORG
+29	to	to	ADP	Z5	_	0	_	_	NER=I-ORG
+30	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+31	Report	report	PROPN	Q2.2	Number=Sing	0	_	_	NER=I-ORG
+32	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+33	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+34	National	National	ADJ	Z1	Degree=Pos	0	_	_	NER=I-ORG
+35	Auditors	Auditor	PROPN	Z1	Number=Plur	0	_	_	NER=I-ORG
+36	and	and	CCONJ	Z5	_	0	_	_	NER=I-ORG
+37	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+38	National	National	ADJ	Z1	Degree=Pos	0	_	_	NER=I-ORG
+39	Audit	audit	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+40	Office	Office	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+41	.	.	PUNCT	Z9	_	0	_	_	NER=O
+42	7/2019	7/2019	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+43	on	on	ADP	Z5	_	0	_	_	NER=O
+44	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+45	protection	protection	NOUN	S8p|A15p	Number=Sing	0	_	_	NER=O
+46	of	of	ADP	Z5	_	0	_	_	NER=O
+47	groundwater	groundwater	NOUN	Z99	Number=Sing	0	_	_	NER=O
+48	against	against	ADP	Z5	_	0	_	_	NER=O
+49	pesticides	pesticide	NOUN	O1	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+50	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220329130304.seg2.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.002
+# text = 14).
+1	14	14	NUM	N1	_	0	_	_	NER=O|SpaceAfter=No
+2	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+3	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220329130304.seg2.5
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.688
+# text = The report will appear in www.folktingstidende.dk.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	report	report	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+3	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+4	appear	appear	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+5	in	in	ADP	Z5	_	0	_	_	NER=O
+6	www.folktingstidende.dk.	www.folktingstidende.dk.	X	Z99	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220329130326
+# newpar id = ParlaMint-DK_20220329130326.seg3
+# lang = en
+# sent_id = ParlaMint-DK_20220329130326.seg3.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.409
+# text = Then there is no more to be done in this meeting, but a new meeting starts at 1 p.m. 13.15 votes.
+1	Then	then	ADV	N4	PronType=Dem	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O
+3	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	no	no	DET	Z6	_	0	_	_	NER=O
+5	more	more	ADJ	A13.3	Degree=Cmp	0	_	_	NER=O
+6	to	to	PART	Z5	_	0	_	_	NER=O
+7	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+8	done	do	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+9	in	in	ADP	Z5	_	0	_	_	NER=O
+10	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+11	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+12	,	,	PUNCT	Z9	_	0	_	_	NER=O
+13	but	but	CCONJ	Z5	_	0	_	_	NER=O
+14	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+15	new	new	ADJ	T3n	Degree=Pos	0	_	_	NER=O
+16	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+17	starts	start	VERB	T2p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+18	at	at	ADP	Z5	_	0	_	_	NER=O
+19	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+20	p.m.	p.m.	NOUN	Z99	Number=Sing	0	_	_	NER=O
+21	13.15	13.15	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+22	votes	vote	NOUN	G1.2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+23	.	.	PUNCT	Z9	_	0	_	_	NER=O
+

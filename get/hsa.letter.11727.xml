@@ -1,0 +1,470 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (20-08568)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11727" type="PID">o:hsa.letter.11727</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">20-08568</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">08568</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" ref="http://sws.geonames.org/2988507">Paris</origPlace>
+              <origDate ana="dcterms:created" when="1874-04-17">1874-04-17</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11727">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" key="#GID.1" ref="http://sws.geonames.org/2988507">Paris</placeName>
+          <date when="1874-04-17">1874-04-17</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Paris</settlement>
+                <name ref="http://geonames.org/2988507" type="fcode:PPLC">Paris</name>
+                <location>
+                  <geo>2.3488,48.85341</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3125" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literarisches Centralblatt für Deutschland</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.566" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Ritornell</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3208" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Zeitschrift für vergleichende Sprachforschung (Kuhns Zeitschrift)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11727" xml:id="IMG.1">
+        <desc>
+                  
+Die von Hugo Schuchardt an Gaston Paris verschickten Briefe befinden sich in der <ref
+            target="https://www.bnf.fr/fr">Bibliothèque nationale de France</ref> unter den Signaturen BnF, NAF 24456 und BnF, NAF 24457. Die betreffenden Digitalisate werden mittels <ref
+            target="https://iiif.io/">IIIF</ref> über <ref
+            target="https://gallica.bnf.fr">Gallica</ref> dargestellt und sind unter <ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">https://gallica.bnf.fr/ark:/12148/btv1b52517227s</ref> und <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">https://gallica.bnf.fr/ark:/12148/btv1b52514429d</ref> abrufbar.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11727" xml:id="IMG.2">
+        <desc>
+                  
+Die von Hugo Schuchardt an Gaston Paris verschickten Briefe befinden sich in der <ref
+            target="https://www.bnf.fr/fr">Bibliothèque nationale de France</ref> unter den Signaturen BnF, NAF 24456 und BnF, NAF 24457. Die betreffenden Digitalisate werden mittels <ref
+            target="https://iiif.io/">IIIF</ref> über <ref
+            target="https://gallica.bnf.fr">Gallica</ref> dargestellt und sind unter <ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">https://gallica.bnf.fr/ark:/12148/btv1b52517227s</ref> und <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">https://gallica.bnf.fr/ark:/12148/btv1b52514429d</ref> abrufbar.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11727" xml:id="IMG.3">
+        <desc>
+                  
+Die von Hugo Schuchardt an Gaston Paris verschickten Briefe befinden sich in der <ref
+            target="https://www.bnf.fr/fr">Bibliothèque nationale de France</ref> unter den Signaturen BnF, NAF 24456 und BnF, NAF 24457. Die betreffenden Digitalisate werden mittels <ref
+            target="https://iiif.io/">IIIF</ref> über <ref
+            target="https://gallica.bnf.fr">Gallica</ref> dargestellt und sind unter <ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">https://gallica.bnf.fr/ark:/12148/btv1b52517227s</ref> und <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d">https://gallica.bnf.fr/ark:/12148/btv1b52514429d</ref> abrufbar.
+             </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7441" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Halle, 17.4.74.<note n="1" place="foot" type="editorial">Lettre manuscrite de Hugo Schuchardt, Halle, le 17 avril 1874. G. Paris avait annoté la missive avant de la renvoyer à Schuchardt, c’est pourquoi elle est conservée à Graz.</note>
+        </dateline>
+        <opener>Mon cher ami!</opener>
+        <p>Si j’avais su votre retour, je ne vous aurai pas épargné une visite renouvelée; je n’ai quitté <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName> que l’après midi du 13., emportant une foule d’impressions agréables et fécondes. </p>
+        <p>Voici l’errata en esquisse<note n="2" place="foot" type="editorial">L’<hi
+              rendition="#i">errata</hi> à «Phonétique comparée» sera publié dans la <hi rendition="#i">Romania</hi> 3/10 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6755">Schuchardt 1874a</ref>
+
+            </bibl>), mais sous forme tronquée: si les coquilles typographiques et les fautes de transcription phonétique sont bien indiquées, les problèmes de traduction soulevés par Schuchardt ne sont pas relevés.</note>; je vous serais très obligé si vous vouliez remarquer que «malheureusement beaucoup d’erreurs se sont glissées dans le texte, dont on ne notera que les principales»<note
+            n="3" place="foot" type="editorial">L’<hi
+            rendition="#i">errata</hi> précise cela sous cette forme: «Dans l’article de M. Schuchardt publié dans notre dernier numéro, outre quelques inexactitudes de traduction, il s’est glissé un grand nombre d’erreurs typographiques. Nous ne relevons ici que les plus importantes» (Schuchardt 1874a, 320).</note>. Le placard, je l’ai revu avec <hi rendition="#u">tous le soin possible</hi>
+          <note n="4" place="foot"
+            type="editorial"> Ajout de Gaston Paris, au-dessus du texte: «(?)»</note>; mais pas toutes mes corrections<note
+            n="5" place="foot"
+            type="editorial">Négation ajoutée après coup. La correction est-elle de la main de Gaston Paris?</note> n’ont été exécutées, et il paraît même<note
+            n="6" place="foot"
+            type="editorial">Ajout de Gaston Paris, au-dessus du texte: «(??)»</note>, que de nouvelles fautes se sont introduites<note
+            n="7" place="foot" type="editorial">Ajout de Gaston Paris, au-dessous le texte: «(???)»</note>. </p>
+        <p>
+          <hi rendition="#u">3</hi>, <hi rendition="#u">31</hi>
+          <hi
+            rendition="#u">5</hi>. «mais il équivaut souvent à la position forte même quand etc» ne rend pas parfaitement mon idée; <hi
+            rendition="#u">souvent</hi> doit se rapporter immédiatement à <hi
+            rendition="#u">même quand</hi> [auch dann oft]. Qu’il équivaut à la position forte si celle-ci présente la consonne originaire, c’est naturel<note
+            n="8" place="foot"
+              type="editorial">Réponse de Gaston Paris sous le texte de Schuchardt: «On ne pourrait guère exprimer cela en fr. qu’en supprimant la virgule après <hi rendition="#i">souvent;</hi> ce n’est pas la peine».</note>. </p>
+        <p>
+          <hi rendition="#u">4</hi>, <hi rendition="#u">6</hi>. <hi
+            rendition="#u">Seulement</hi> en français est-il adressatif? Car ce n’est pas une exception qu’il indique en ce lieu, <hi
+            rendition="#u">l’explosive sourde</hi> n’étant pas comprise parmi<note n="9" place="foot"
+              type="editorial">«<hi rendition="#i">mi</hi>» ajouté par GP?</note>
+          <hi rendition="#u">Les moyennes et m.</hi>
+          <note n="10" place="foot"
+              type="editorial">Réponse de Gaston Paris sous le texte de Schuchardt: «Si, c’est un peu une exception en ce sens que <hi
+              rendition="#i">toutes</hi> les modifications de l’<hi rendition="#i">irl</hi> n’ont pas lieu dans ces langues».</note>
+        </p>
+        <p>
+          <hi rendition="#s">4, 19 15. <hi rendition="#u">De même</hi> – <hi
+              rendition="#u">de même</hi>. J’avais déjà remarqué que<note n="11" place="foot"
+                type="editorial">Ajout, semble-t-il, de Schuchardt, au-dessus du texte: «<hi
+              rendition="#s">sur le placard</hi>».</note> dans en allemand <hi
+              rendition="#u">wie-so</hi> n’identifie pas, mais indique deux phénomènes, […] l’un est <hi rendition="#u">l’inverse</hi> de l’autre</hi>
+          <note n="12" place="foot" type="editorial">Nous n’avons pas pu identifier si la rature est de la main de Schuchardt ou de celle de Paris.</note>. </p>
+        <p>5, 18. <hi
+            rendition="#u">Ainsi produite</hi>’ ne donne pas de sens.; je ne sais ce que j’ai dans le manuscrit; peut-être: <hi rendition="#u">après avoir produit ces changements</hi>
+          <note n="13" place="foot"
+              type="editorial">Réponse de Gaston Paris sous le texte de Schuchardt: «Puisque c’est «l’initiale qui a disparu plutôt que la finale», l’<hi
+              rendition="#i">n</hi> ainsi produit a un sens: arn doras, arn noras, et l’<hi
+              rendition="#i">n</hi> ainsi produit disparaît: <hi rendition="#i">arn oras</hi>.»</note>. </p>
+        <p>
+          <hi rendition="#u">6</hi>, <hi rendition="#u">19</hi>. <hi rendition="#u">Mais l’</hi>
+          <hi rendition="#uu">l</hi>
+          <hi rendition="#u"> et l’n etc</hi>: Lisez: Mais <hi rendition="#u">ici</hi> l’l et l’n <hi
+            rendition="#u">sourdes</hi> sont <hi
+            rendition="#u">fréquentes surtout</hi> à côté de certaines ténues (ou: sont <hi rendition="#uu">surtout</hi>
+          <hi rendition="#u"> fréquentes à c. d. c. f.)</hi>
+          <note n="14" place="foot"
+              type="editorial">Réponse de Gaston Paris sous le texte de Schuchardt: «Il faut comme j’ai mis pour rendre les nuances de votre pensée.» Cette modification figure dans l’<hi rendition="#i">errata</hi>.</note>
+        </p>
+        <p>
+          <hi rendition="#u">6</hi>, <hi rendition="#u">20</hi> Au lieu de <hi rendition="#u">l</hi> lisez <hi
+            rendition="#u">λ</hi> (autrement la parenthèse mise après cette phrase n’aurait pas de sens<note n="15"
+            place="foot" type="editorial">Cette modification figure dans l’<hi rendition="#i">errata</hi>.</note>) </p>
+        <p>
+          <hi rendition="#u">6</hi>, <hi rendition="#u">23 s.</hi> J’avais déjà fait observer que <hi
+            rendition="#u">appeler</hi> signifie toute autre chose que ce que j’ai voulu dire: dans le système phonétique il y a ce même rapport, la même proposition entre <hi
+            rendition="#u">t</hi> lat. et <hi rendition="#u">λ</hi>, <hi rendition="#u">d</hi> lat. et <hi
+            rendition="#u">l</hi>, qu’entre <hi rendition="#u">t</hi> ord. et <hi rendition="#u">s</hi>, <hi
+            rendition="#u">d</hi> ord. et <hi rendition="#u">z</hi>
+          <note n="16" place="foot" type="editorial">Commentaire de Gaston Paris, à gauche du texte de Schuchardt: «On peut changer, mais je trouve qu’appeler, comme il s’agit de groupes, dit à peu près la même chose».</note>. </p>
+        <p>
+          <hi rendition="#u">6</hi>, <hi rendition="#u">34</hi>. De même j’avais corrigé: <hi
+            rendition="#u">l’absorption dans le son dental du t.</hi> En allemand j’ai, je crois: Affizirung durch ……. C’est-à-dire la modification (le changement en <hi
+            rendition="#u">l</hi> sourde) par le son dental du <hi
+            rendition="#u">t</hi>. Ne pourrait-on pas dire: d’être entaché ou entiché par le <hi
+            rendition="#u">t.?</hi> La ténue gutturale ne peut pas avoir d’influence sur la dentale <hi rendition="#u">l</hi>, mais bien la tenue dentale. </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p>
+          <hi rendition="#u">9</hi>,<hi rendition="#u">23</hi>. L’insertion de <hi
+            rendition="#u">l’accent</hi> = Einsetzen des <hi rendition="#u">Stimmtons</hi>. J’avais déjà noté que <hi
+            rendition="#u">accent</hi> dit en ce lieu presque le contraire du mot allemand, que je ne saurai pas bien rendre en français, <hi
+            rendition="#u">Vibrations de la glotte</hi> est un peu long; <hi
+            rendition="#u">timbre</hi> encore est autre chose. Le mieux serait peut-être d’employer <hi
+            rendition="#u">sonorité</hi>, parce qu’on parle de <hi
+            rendition="#u">sonores</hi> en les opposant aux sourdes. (<hi
+            rendition="#u">t</hi> est sourde, ǯ est sonore; la sonorité ne commence qu’après l’ouverture de la clôture dentale, si elle commençait avant, nous aurions <hi
+            rendition="#u">dǯ</hi>)<note n="17" place="foot"
+              type="editorial">Commentaire de Gaston Paris au-dessus et à gauche du texte de Schuchardt: «Je sais bien que <hi
+              rendition="#i">Stimmton</hi> ne veut pas dire accent, mais ne sachant comment le rendre, j’avais cru pouvoir employer <hi rendition="#u">accent</hi> au sens où vs l’employez; au reste, je n’ai pas très-bien compris ce passage; je ne le comprends pas encore très-bien; voyez la traduction que vous adopterez».</note>. </p>
+        <p>10, 41. <hi rendition="#u">Sas ghiannas (pour ghi) sa janna</hi> est à biffer; ça se trouve déjà l. 35 <hi rendition="#u">aggiunghere – maj</hi>
+          <hi rendition="#u">a</hi> appartient à la l. 35<note n="18" place="foot"
+              type="editorial">Cette correction figure dans l’<hi rendition="#i">errata</hi>.</note>
+        </p>
+        <p>15, 30.<hi
+            rendition="#u">andrò;</hi> lisez: andrṑ. Dans ces lignes il y a un peu de confusion entre ´et `<note n="19"
+            place="foot" type="editorial">Cette correction figure dans l’<hi rendition="#i">errata</hi>.</note>. </p>
+        <p>15<note n="20" place="foot" type="editorial">G. Paris biffe 15 et ajoute «l. 16»</note>, 38 <hi
+            rendition="#u">Nè rre;</hi> lisez: <hi rendition="#u">ne rre</hi> (inutile?) </p>
+        <p> 18, 5. <hi rendition="#u">pé</hi>; lisez: <hi rendition="#u">pe’</hi>
+          <note n="21" place="foot" type="editorial"> Cette correction figure dans l’<hi rendition="#i">errata</hi>. </note>. </p>
+        <p> 19, 7. <hi rendition="#u">préposition</hi>; lisez: <hi rendition="#u">conjonction</hi> ou <hi rendition="#u">particule</hi>. </p>
+        <p> (19, 6. agniduñ est curieux)<note n="22" place="foot"
+              type="editorial">Les deux corrections apportées à la ligne 19 figurent dans l’<hi rendition="#i">errata</hi>.</note>
+        </p>
+        <p> 20, 6 <hi rendition="#u">oltra cchè</hi>, lisez <hi rendition="#u">oltracchè</hi> / dans un seul mot<note
+            n="23" place="foot" type="editorial">Un trait vertical indique que cette remarque vaut également pour la correction suivante.</note>
+        </p>
+        <p> , 7 <hi rendition="#u">oltra cciò</hi>; lisez <hi rendition="#u">oltracciò</hi>
+        </p>
+        <p> , 13 <hi rendition="#u">Domemeddio</hi>; lisez <hi rendition="#u">domereddio</hi>
+          <note n="24" place="foot" type="editorial"> Les trois corrections apportées à la ligne 20 figurent dans l’<hi rendition="#i">errata</hi>. </note>
+        </p>
+        <p> 21, 38 <hi rendition="#u">gateriniano</hi>; lisez <hi rendition="#u">cateriniano</hi>
+          <note n="25" place="foot" type="editorial"> Cette correction figure dans l’<hi rendition="#i">errata</hi>. </note>
+        </p>
+        <p> 22, 30 <hi rendition="#u">ital. g – j;</hi> lisez <hi rendition="#u">ital. g = lat. j.</hi>
+          <note n="26" place="foot" type="editorial"> Cette correction figure dans l’<hi rendition="#i">errata</hi>. </note>
+        </p>
+        <p> 23, 24 <hi rendition="#u">po eni;</hi> lisez <hi rendition="#u">po enì</hi>
+          <note n="27" place="foot" type="editorial"> Cette correction figure dans l’<hi rendition="#i">errata</hi>. </note>
+        </p>
+        <p> 24,1 <hi rendition="#u">In bbusila</hi>; lisez <hi rendition="#u">in buscia</hi>
+          <note n="28" place="foot"
+              type="editorial"> Ajout de Gaston Paris «(bbuscia?)». Les deux corrections apportées à la ligne 24 figurent dans l’<hi rendition="#i">errata</hi>. </note>
+        </p>
+        <p> 24, 3 <hi rendition="#u">già;</hi> lisez <hi rendition="#u">Ggià</hi>
+        </p>
+        <p> 25, 40. <hi rendition="#u">a ll’ha;</hi> lisez <hi rendition="#u">a</hi>
+          <hi rendition="#u">ll’a</hi> (le second <hi rendition="#u">a</hi> cursif!)<note n="29" place="foot"
+              type="editorial">Cette correction figure dans l’<hi rendition="#i">errata</hi>.</note>
+        </p>
+        <p> 27, 6 <hi rendition="#u">ppà</hi>; lisez <hi rendition="#u">ppe’</hi>. – <hi
+            rendition="#u">cce</hi>’; lisez <hi rendition="#u">ccà</hi>. </p>
+        <p> ‘ 12. <hi rendition="#u">la’ità;</hi> lisez <hi rendition="#u">la’ita.</hi>
+        </p>
+        <p> ‘ 13. <hi rendition="#u">vuo</hi>; lisez <hi rendition="#u">vuoi</hi>
+        </p>
+        <p> ‘ 15 <hi rendition="#u">vueri</hi>; lisez <hi rendition="#u">vuei</hi>. </p>
+        <p> ‘ 29 <hi rendition="#u">ueò;</hi> lisez <hi rendition="#u">uei</hi>. – Biffez: <hi rendition="#u">dò jersi</hi>. </p>
+        <p> 32 <hi rendition="#u">bausaò</hi>; lisez <hi rendition="#u">bausau</hi>. </p>
+        <p> ‘ 39. <hi rendition="#u">n’nno;</hi> lisez <hi rendition="#u">n’anno</hi>
+          <note n="30" place="foot" type="editorial"> Les sept corrections apportées à la ligne 27 figurent dans l’<hi rendition="#i">errata</hi>.. </note>. </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p> 28, 40 <hi rendition="#u">ensi</hi> lisez <hi rendition="#u">eusi</hi>. – <hi
+            rendition="#u">sperghieura</hi>; <hi rendition="#u">sperhiura</hi>
+          <note n="31" place="foot" type="editorial"> Cette correction figure dans l’<hi rendition="#i">errata</hi>. </note>. </p>
+        <p> 30, 9 s. on trouve <hi rendition="#u">o boquier</hi> – à côté de <hi rendition="#u">o ochien</hi> etc. </p>
+        <p> 10. <hi rendition="#u">(II, L, etc.).</hi> lisez (II, L) etc.<note n="32" place="foot"
+              type="editorial">Commentaire de Gaston Paris à droite du texte de Schuchardt: «(que veut dire alors cet <hi
+              rendition="#u">etc?</hi>» Les deux corrections apportées à la ligne 30 figurent dans l’<hi rendition="#i">errata</hi>.</note>
+        </p>
+
+        <p> Il est très-difficile de faire des corrections irréprochables, quand il faut prêter attention à une foule de trivialité. P. ex. dans mes observations à sur la phon. fr.<note
+            n="33" place="foot" type="editorial">Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.583">1874c</ref>
+            </bibl>), alors en cours de publication.</note> au lieu de = on a toujours mis –; au lieu de <hi
+            rendition="#u">ć</hi> toujours <hi
+            rendition="#u">c</hi>. Pourquoi mes notes n’ont-elles pas été traduites? je ne voudrais pas y renoncer.<note
+            n="34" place="foot" type="editorial">Les notes ont finalement été traduites.</note>
+        </p>
+        <p>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1720">Hasdeu</persName>
+          <note n="35" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1720">Bogdan Petriceicu Hasdeu</persName> (1838-1907), fervent défenseur de l’indépendance roumaine. Il est l’auteur d’une <hi rendition="#i">Istoria critica a romaniloru</hi> publiée en 2 vols. (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7418">1873</ref>
+
+            </bibl> et 1875), qui cherche à faire remonter l’origine du peuple roumain avant la conquête romaine. </note> m’a envoyé le premier volume de son Istoria critica [?]<note
+            n="36" place="foot"
+            type="editorial">Crochets de la main de Schuchardt.</note> a Romaniloru, j’ai l’intention d’en faire une critique pour la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>
+          <note n="37" place="foot" type="editorial"> La recension de Schuchardt paraîtra dans le <hi rendition="#i">
+              <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3125">Literarisches Zentralblatt</ref>
+            </hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.196">Schuchardt 1875b</ref>
+            </bibl>). On ne trouve pas de compte rendu du livre de Hasdeu dans la <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">
+              <hi rendition="#i">Romania</hi>
+            </ref>. </note>. </p>
+        <p> J’accompagne cette lettre de la première feuille de mon travail sur le ritournelle<note n="38" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.566">
+              <hi rendition="#i">Ritornell und Terzine</hi>
+            </ref>, étude publiée à l’occasion du 60<hi
+              rendition="#sup">e</hi> anniversaire de l’obtention du doctorat de <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3028">Karl Witte</persName> (1800-1883), professeur à Halle et spécialiste de Dante (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.612">Schuchardt 1874d</ref>
+            </bibl>).</note>; je n’ai pas idée, quand le tout sera imprimé, </p>
+        <p> Vous me feriez un grand plaisir si vous mentionniez mon dernier article dans <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3208">Kuhn’s Zeitschrift</ref> sur la déclinaison romane<note
+            n="39" place="foot" type="editorial">Article intitulé «Zur romanischen Sprachwissenschaft. Lateinische und romanische Deklination» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.786">Schuchardt 1874e</ref>
+            </bibl>), stimulé par la publication simultanée, en 1872, des livres suivants: Arbois de Jubainville, <hi
+              rendition="#i">La déclinaison latine en Gaule à l’époque mérovingienne</hi>, F. d’Ovidio, <hi
+              rendition="#i">Sull’origine dell’unica forma flessionale del nome italiano</hi>, et O. Sievers, <hi
+              rendition="#i">Quaestiones onomatologicae</hi>. G. Paris ne rend pas compte de cet article dans la <hi rendition="#i">Romania.</hi>
+          </note>. </p>
+        <closer> Mille amitiés <lb/> Le vôtre </closer>
+        <lb/>
+        <salute> Schuchardt </salute>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

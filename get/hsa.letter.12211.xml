@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Pipping an Hugo Schuchardt (05-08853)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2413">
+            <forename>Hugo</forename>
+            <surname>Pipping</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12211" type="PID">o:hsa.letter.12211</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-08853</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08853</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2413">
+                <forename>Hugo</forename>
+                <surname>Pipping</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6089" ref="http://sws.geonames.org/2666199">Uppsala</origPlace>
+              <origDate ana="dcterms:created" when="1900-01-31">1900-01-31</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Hugo Pipping und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2413"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12211">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2413" ref="https://viaf.org/viaf/45179776">
+            <forename>Hugo</forename>
+            <surname>Pipping</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6089" key="#GID.1" ref="http://sws.geonames.org/2666199">Uppsala</placeName>
+          <date when="1900-01-31">1900-01-31</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Sweden</country>
+                <settlement>Uppsala</settlement>
+                <name ref="http://geonames.org/2666199" type="fcode:PPLA">Uppsala</name>
+                <location>
+                  <geo>17.63889,59.85882</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2413" type="context">
+                        Korrespondenz Hugo Pipping - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12211" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12211" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Upsala den 31 Jan 1900</dateline>
+        <opener> Hochgeehrter Herr Professor!</opener>
+        <p> Ich bitte sehr um Entschuldigung, dass ich erst jetzt dazu komme, Ihre freundliche Karte zu beantworten. </p>
+        <p>Verner<note n="1" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Karl Verner</persName> (1846-1896), bedeutender dänischer Linguist. (Keine Korr. mit <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName>). Vgl. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10021">Karl Verner, <hi rend="unknown" rendition="#none">Afhandlinger og Breve udgivne af Selskab for germansk Filologi. Med en Biografi ved Marius Vibæk</hi>, Kopenhagen: J. Frimodt, 1903.</ref>
+            </bibl>
+          </note> hat dem „Videnskapsselskab“ in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.47">
+Kopenhagen</placeName> über seine Versuche mit dem Phonographen einen Bericht erstattet, ob derselbe gedruckt <pb
+            facs="#IMG.2" n="2"/> worden ist, ich weiß nicht. Ich kenne Verners Versuche und Apparate, weil ich ihm [sic] in Kopenhagen besucht habe, und weil er die Liebenswürdigkeit hatte, mir in seinen Briefen seine Arbeitsmethode ausführlich auseinander zusetzen. Vielleicht werde ich eines Tages diese Briefe veröffentlichen. Ueber verschiedene Methoden Phonographenkurven zu projicieren finden Sie Auskunft bei </p>
+        <p>
+          <hi rend="unknown" rendition="#none">M. Mayer</hi> Nature 17. p, 496 1878</p>
+        <p> (nicht eingesehen, wahrscheinlich sehr primitiv)</p>
+        <pb facs="#IMG.3" n="3"/>
+        <p>
+          <hi rend="unknown" rendition="#none">J. Lahr</hi> Annalen der Physik und Chemie Bd. 27. 1866 pp 94-99 (Nicht zu empfehlen) </p>
+        <p>
+          <hi rend="unknown" rendition="#none">Jenking und Ewing</hi> Transactions of the Royal Society Edinburgh Bd 28 (Gewissenhafte Experimentatoren, aber rohe Kurven, weil noch der alte Phonograph) </p>
+        <p>
+          <hi rend="unknown" rendition="#none">L. Herrmann / J. D. Boeke</hi> } Pflügers Archiv Jahrg. 1889 u. ff. </p>
+        <p>
+          <hi rend="unknown" rendition="#none">J. D. Boeke / John Mc Kendrick</hi> } Proceedings of the royal Society of Edinburgh Dec 7. 1896 Febr. 7. 1898 </p>
+        <p>
+          <hi rend="unknown" rendition="#none">Mc Kendrick</hi> Trans. Roy. Soc. Edinb. XXXVIII Part IV N° 22 </p>
+        <pb facs="#IMG.4" n="4"/>
+
+        <p>Verners Methode ist mit der Herrmann’schen verwandt. Wie H. (und wohl früher als H, sicher unabhängig von ihm) lässt V. einen mit dem freien Ende an der Phonographenmembran befestigter, um eine Achse drehbarer (Vielleicht wird bei V. die Drehung nur durch die Durchbiegung der Membran zustande gebracht, indem der Rand der Membran so zu sagen als Achse fungiert. Ich habe diese Details vergessen.) Spiegel einen Lichtstrahl zurückwerfen. Bei den Rotationen des mit Kurven versehenen Cylinders macht der Lichtstrahl, welcher als winkelförmiger Hebel fungiert recht ausgiebige Bewegungen, welche<pb
+            facs="#IMG.5" n="5"/>Hermann photographisch aufnimmt, während Verner dieselben an einer Skala mittels eines Fernrohrs abliest. Um einen hinreichend langen Hebel zu bekommen, hat er nämlich die Skala in ziemlicher Entfernung vom Phonographen aufgestellt. </p>
+
+        <p>Die Methode Verners erfordert keine Vorübungen im Photographieren und ist weit weniger kostspielig als die Hermann’sche, dürfte aber auf die Dauer mehr zeitraubend sein. Am bequemsten ist wohl die Methode Boeke’s, über ihre <pb
+            facs="#IMG.6" n="6"/> Zuverlässigkeit will ich noch kein bestimmtes Urteil abgeben, da Boeke ein grösseres Werk vorbereitet, das meine Meinung noch sehr wird beeinflussen können. </p>
+        <closer>
+          <salute>Mit vorzüglicher Hochachtung</salute>
+          <lb/>
+          <salute> Ihr ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2413">Hugo Pipping</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

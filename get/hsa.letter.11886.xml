@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (152-08635)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11886" type="PID">o:hsa.letter.11886</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">152-08635</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08635</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6422" ref="http://sws.geonames.org/3027867">Cerisy-la-Salle</origPlace>
+              <origDate ana="dcterms:created" when="1899-09-19">1899-09-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11886">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6422" key="#GID.1" ref="http://sws.geonames.org/3027867">Cerisy-la-Salle</placeName>
+          <date when="1899-09-19">1899-09-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Cerisy-la-Salle</settlement>
+                <name ref="http://geonames.org/3027867" type="fcode:PPL">Cerisy-la-Salle</name>
+                <location>
+                  <geo>-1.28283,49.02622</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11886" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11886" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11886" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11886" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7572" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Cerisy-la-Salle (Manche), 19 septembre</dateline>
+        <opener>Mon cher ami,</opener>
+        <p> Je reçois seulement aujourd’hui votre lettre du 11 septembre<note n="1" place="foot"
+              type="editorial">Voir l. du [11 septembre 1899] (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11885">HS 151-24457</ref>). </note>. Elle me fait de la peine. Elle est doublement injuste, envers la France d’abord, puis envers moi. Envers la <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">France</placeName>: un autre de mes amis m’écrivait à la même occasion que jamais en <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">Allemagne</placeName> on n’aurait trouvé une résistance pareille à une volonté arrêtée de l’Etat-major, et peut-être, sans partager cette opinion, auriez-vous pu tenir compte de la lutte soutenue pendant deux ans avec une obstination qui n’a pas cédé. Songez que la Chambre des députés, nommés presque <pb
+            facs="#IMG.2"
+            n="2"/> tout entière sur un programme antirevisionniste (à cause de l’ignorance des électeurs, uniquement renseignés par le <hi rendition="#u">Petit Journal</hi>
+          <note n="2" place="foot" type="editorial">Le <hi
+              rendition="#i">Petit Journal</hi> (1863-1944) est le quotidien au plus fort tirage dans la France de la fin du XIX<hi rendition="#sup">e</hi> siècle. Sa ligne est nationaliste et antidreyfusarde (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7901">Ponty 1977</ref>
+
+            </bibl>).</note>), n’en est pas moins devenue en grande majorité revisionniste. Le Ministère actuel a trop cru à l’évidence de la vérité et a mis son point d’honneur à ne donner aucune indication aux juges et à laisser <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6573">Mercier</persName>
+          <note n="3" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6573">Auguste Mercier</persName> (1833-1921), ministre de la Guerre (1893-1895), membre du Conseil Supérieur de Guerre en 1898, convaincu de la culpabilité de Dreyfus et chef de file des antidreyfusards au procès de Rennes.</note> endurcir son abominable campagne. Il le regrette bien maintenant et va faire son possible: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6568">Dreyfus</persName> sera gracié demain et certainement réhabilité plus tard<note
+            n="4" place="foot" type="editorial">À la suite du second procès, à Rennes, le 9 septembre 1899, Dreyfus est à nouveau reconnu coupable, mais avec des «circonstances atténuantes» cruellement sarcastiques. Il est gracié 10 jours plus tard par le président Loubet (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7890">Oriol 2014</ref>
+
+            </bibl>, 899‑906).</note>. Enfin notez que son acquittement n’a tenu qu’à une voix, que les cinq juges qui l’ont condamné l’ont acquitté moralement en abaissant sa peine (ce qui <pb
+            facs="#IMG.3"
+            n="3"/> autrement n’aurait aucun sens), et que leur tort est, étant des officiers inférieurs, de n’avoir pas eu le courage de résister à des généraux, à d’anciens ministres. Je ne trouve pas qu’à cause de cela la <placeName>France</placeName> soit sensiblement plus coupable qu’elle ne l’était la veille, et je trouve excessif de la maudire tout entière tandis qu’on la porterait aux nues si un troisième des juges avait voté avec les deux de la minorité<note
+            n="5" place="foot" type="editorial">Voir une lettre de G. Paris à P. Meyer, du 11 septembre 1899: «Deux déclarations d’innocence, cinq admissions de circonstances atténuantes qui équivalent à cinq aveux de doute, c’est un pas immense de fait» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6777">Ridoux 2020</ref>
+            </bibl>, 714).</note>. </p>
+        <p> Vous êtes injuste envers moi. Je n’ai jamais pu vous écrire que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6568">Dr.</persName> avait été <hi
+            rendition="#u">légalement et justement</hi> condamné<note n="6" place="foot"
+              type="editorial">Voir l. du [11 septembre 1899] (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11885">HS 151-24457</ref>).</note>. <hi
+            rendition="#u">Légalement</hi>, j’ai pu le croire jusqu’au jour où j’ai su la vérité; <hi
+            rendition="#u">justement</hi>, j’en ai <pb facs="#IMG.4"
+            n="4"/> douté dès l’abord et notre opinion sur l’écriture du bordereau aurait suffi pour m’en faire douter. Bientôt après les doutes ont disparu. J’ai exprimé mon opinion publiquement, malgré les très grandes difficultés de ma situation, dans différents articles du <hi
+            rendition="#u">Temps</hi>, des <hi rendition="#u">Débats</hi> et du <hi rendition="#u">Figaro</hi>
+          <note n="7" place="foot" type="editorial">Voir, pour l’ensemble des interventions de G. Paris dans l’Affaire Drefyus, Bähler (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7248">1999</ref>
+            </bibl>).</note>; je suis prêt à le faire encore au besoin, et dans les circonstances actuelles, après la grande déception que m’a causé l’arrêt de l’autre jour, j’attendrais de mes amis des marques de sympathie plutôt que d’indignation. Mais «les battus paient l’amende». </p>
+        <p> J’espère, mon cher ami, que tout cela se dissipera, et que nous aurons la joie de nous féliciter du triomphe définitif de la justice. Ce qui ne se dissipera pas, c’est notre vieille et fidèle amitié. Je vous serre très cordialement la main. </p>
+        <closer>
+          <signed>GParis</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

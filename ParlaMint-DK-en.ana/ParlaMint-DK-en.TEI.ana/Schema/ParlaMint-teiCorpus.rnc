@@ -1,0 +1,98 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace xi = "http://www.w3.org/2001/XInclude"
+
+a:documentation [
+  "RelaxNG XML schema for ParlaMint corpora: schema\x{a}" ~
+  '  for "plain-text" root corpus file.'
+]
+include "ParlaMint-TEI.rnc" {
+  
+  ## Root element of a ParlaMint corpus root file.
+  start =
+    element teiCorpus {
+      id.att >> a:documentation [ "Obligatory @xml:lang." ],
+      attribute xml:lang { lang.val }
+      >> a:documentation [ "Optional @corresp for MTed corpora." ],
+      corresp.att,
+      teiHeader,
+      XInclude+
+    }
+  
+  ## Metadata of the "plain-text" corpus.
+  teiHeader =
+    element teiHeader {
+      global.atts, fileDesc, encodingDesc, profileDesc, revisionDesc?
+    }
+  
+  ## The title statement.
+  titleStmt =
+    element titleStmt { title-header+, meeting*, respStmt+, funder+ }
+  
+  ## Encoding description for a linguistically annotated corpus.
+  encodingDesc =
+    element encodingDesc {
+      global.atts,
+      element projectDesc { paras }+,
+      editorialDecl,
+      tagsDecl,
+      element classDecl { (taxonomy | XInclude)+ },
+      element listPrefixDef { prefixDef+ }?,
+      element appInfo { application+ }?
+    }
+  
+  ## The profile description.
+  profileDesc =
+    element profileDesc {
+      global.atts, settingDesc, textClass?, particDesc, langUsage
+    }
+}
+
+## The editorial declaration.
+editorialDecl =
+  element editorialDecl {
+    element correction { paras },
+    element normalization { paras },
+    element hyphenation { paras },
+    element quotation { paras },
+    element segmentation { paras }
+  }
+
+## The text class.
+textClass =
+  element textClass {
+    element catRef {
+      attribute scheme { xsd:anyURI }?,
+      attribute target { anyURIs }
+    }+
+  }
+
+## Metadata on the organisations (esp. political parties) and speakers.
+##     There can be only one list of organisations and one of speakers, and they can be
+##     XIncluded.
+particDesc =
+  element particDesc { (listOrg | XInclude), (listPerson | XInclude) }
+
+## Used languages.
+langUsage =
+  element langUsage {
+    element language {
+      lang.att,
+      attribute ident { lang.val },
+      attribute usage { xsd:nonNegativeInteger }?,
+      normalized-space.string
+    }+
+  }
+
+## Description of an applications used to annotate the corpus.
+application =
+  element application {
+    attribute version {
+      xsd:token {
+        pattern = "[\d]+[a-z]*[\d]*(\.[\d]+[a-z]*[\d]*){0,3}"
+      }
+    },
+    attribute ident { xsd:Name },
+    element label { normalized-space.string },
+    element desc { lang.att, annotated.text }+
+  }

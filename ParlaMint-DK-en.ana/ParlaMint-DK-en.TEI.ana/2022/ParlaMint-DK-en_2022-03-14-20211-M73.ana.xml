@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xml:id="ParlaMint-DK-en_2022-03-14-20211-M73.ana" ana="#parla.sitting #covid #war" corresp="../../ParlaMint-DK.TEI.ana/2022/ParlaMint-DK_2022-03-14-20211-M73.ana.xml">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="en">The Danish parliamentary corpus ParlaMint-DK-en, Session 20211, Sitting M73 [ParlaMint-en.ana]</title>
+            <title type="main" xml:lang="da">Det danske korpus ParlaMint-DK-en, folketingsåret 20211, møde M73 [ParlaMint-en.ana]</title>
+            <title type="sub" xml:lang="en">Hansard of the session of the Danish Parliament (Folketinget), 20211, M73 (2022-03-14), preliminary version</title>
+            <title type="sub" xml:lang="da">Referat fra folketingssalen, folketingsåret 20211, møde M73 (2022-03-14), foreløbig version</title>
+            <meeting n="2019-2022" corresp="#FT" ana="#parla.term #FT.19">Regeringen Mette Frederiksen</meeting>
+            <meeting ana="#parla.uni #parla.session">20211</meeting>
+            <meeting ana="#parla.uni #parla.meeting">M73</meeting>
+            <respStmt>
+               <persName>Bart Jongejan</persName>
+               <persName>Dorte Haltrup Hansen</persName>
+               <persName>Costanza Navarretta</persName>
+               <resp xml:lang="en">Data retrieval, linguistic annotation, and conversion to TEI</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-7436-9896">Taja Kuzman</persName>
+               <persName ref="https://orcid.org/0000-0001-7169-9152">Nikola Ljubešić</persName>
+               <resp xml:lang="en">Machine translation to English and linguistic analysis of the translation</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-1257-2191">Paul Rayson</persName>
+               <persName ref="https://orcid.org/0000-0002-9279-931X">Matthew Coole</persName>
+               <persName ref="https://orcid.org/0000-0003-3442-6862">John Vidler</persName>
+               <resp xml:lang="en">Annotating MTed corpora with USAS semantic tags</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-7436-9896">Taja Kuzman</persName>
+               <resp xml:lang="en">Compute utterance topics</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-7169-9152">Nikola Ljubešić</persName>
+               <resp xml:lang="en">Compute sentence level sentiment</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-0464-9240">Katja Meden</persName>
+               <resp xml:lang="en">Compute utterance level sentiment</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+            </funder>
+            <funder>
+               <orgName xml:lang="en">OSCARS (Open Science Clusters' Action for Research &amp; Society)</orgName>
+               <ref target="https://oscars-project.eu/projects/parlacap-comparing-agenda-settings-across-parliaments-parlamint-dataset">ParlaCap project</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="en">European Commission</orgName>
+            </funder>
+            <funder>
+               <orgName xml:lang="en">Department of Nordic Studies and Linguistics (NorS), University of Copenhagen</orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>5.0</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="3" xml:lang="en">3 speeches</measure>
+            <measure unit="words" quantity="120" xml:lang="en">120 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="en">The CLARIN research infrastructure</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/2006</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>.</p>
+            </availability>
+            <date when="2025-07-01">2025-07-01</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="en">Hansards of the Danish Parliament</title>
+               <publisher>The Danish Parliament</publisher>
+               <idno type="URI" subtype="parliament">https://www.ft.dk/</idno>
+               <date when="2022-03-14">2022-03-14</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+         </projectDesc>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="1"/>
+               <tagUsage gi="div" occurs="3"/>
+               <tagUsage gi="head" occurs="3"/>
+               <tagUsage gi="measure" occurs="6"/>
+               <tagUsage gi="name" occurs="17"/>
+               <tagUsage gi="note" occurs="3"/>
+               <tagUsage gi="pc" occurs="38"/>
+               <tagUsage gi="phr" occurs="6"/>
+               <tagUsage gi="s" occurs="6"/>
+               <tagUsage gi="seg" occurs="3"/>
+               <tagUsage gi="text" occurs="1"/>
+               <tagUsage gi="u" occurs="3"/>
+               <tagUsage gi="w" occurs="120"/>
+            </namespace>
+         </tagsDecl>
+         <listPrefixDef>
+            <prefixDef ident="mt-src" matchPattern="(.+)" replacementPattern="../../ParlaMint-DK.TEI.ana/2022/ParlaMint-DK_2022-03-14-20211-M73.ana.xml#$1">
+               <p>Private URIs with this prefix point to aligned source elements of the MTed corpus.</p>
+            </prefixDef>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="address">Folketinget, Christiansborg</name>
+               <name type="city">1240 København K</name>
+               <name type="country" key="DK">Denmark</name>
+               <date ana="#parla.sitting" when="2022-03-14">2022-03-14</date>
+            </setting>
+         </settingDesc>
+      </profileDesc>
+      <revisionDesc xml:lang="en">
+         <change when="2025-07-01">
+            <name>Tomaž Erjavec</name>: Include topic and sentiment related information.</change>
+         <change when="2024-05-16">
+            <name>Tomaž Erjavec</name>: Generate TEI version of MTed corpus.</change>
+         <change when="2022-10-31">
+            <name>Dorte Haltrup Hansen</name>Generated corpus in ParlaMint.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="da" ana="#covid #war">
+      <body>
+         <div type="debateSection" xml:lang="en">
+            <head xml:id="ParlaMint-DK_2022-03-14-20211-M73.head1" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.head1">Punkt 0</head>
+            <note type="agendaItem" xml:id="ParlaMint-DK_2022-03-14-20211-M73.note1" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.note1">2022-03-14-0</note>
+            <u who="#EllemannKaren" xml:id="ParlaMint-DK_20220314130001" ana="#chair #DK-domain.other topic:other" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130001">
+               <seg xml:id="ParlaMint-DK_20220314130001.seg1" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130001.seg1">
+                  <s xml:id="ParlaMint-DK_20220314130001.seg1.1" n="1" corresp="mt-src:ParlaMint-DK_20220314130001.seg1.1">
+                     <measure type="sentiment" quantity="3.826" ana="senti:mixpos" corresp="#ParlaMint-DK_20220314130001.seg1.1"/>
+<w xml:id="ParlaMint-DK_20220314130001.seg1.1.t1" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">The</w>
+<w xml:id="ParlaMint-DK_20220314130001.seg1.1.t2" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="meeting" function="S1.1.3+,S3.1,K5.1,S9,A1.1.1,X9.2+,A6.1+" ana="sem:S1.1.3p">meeting</w>
+<w xml:id="ParlaMint-DK_20220314130001.seg1.1.t3" pos="VBZ" msd="UPosTag=AUX|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin" lemma="be" function="A3+,Z5" ana="sem:A3p">is</w>
+<w xml:id="ParlaMint-DK_20220314130001.seg1.1.t4" pos="JJ" msd="UPosTag=ADJ|Degree=Pos" lemma="open" function="A10+,S1.2.1+,X6-,X5.2+,A7+" ana="sem:A10p" join="right">open</w>
+<pc xml:id="ParlaMint-DK_20220314130001.seg1.1.t5" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+               </seg>
+            </u>
+         </div>
+         <div type="debateSection" xml:lang="en">
+            <head xml:id="ParlaMint-DK_2022-03-14-20211-M73.head2" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.head2">Meddelelser fra formanden.</head>
+            <note type="agendaItem" xml:id="ParlaMint-DK_2022-03-14-20211-M73.note2" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.note2">2022-03-14-1</note>
+            <u who="#EllemannKaren" xml:id="ParlaMint-DK_20220314130004" ana="#chair #DK-domain.other topic:immig" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130004">
+               <seg xml:id="ParlaMint-DK_20220314130004.seg2" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130004.seg2">
+                  <s xml:id="ParlaMint-DK_20220314130004.seg2.1" n="1" corresp="mt-src:ParlaMint-DK_20220314130004.seg2.1">
+                     <measure type="sentiment" quantity="2.408" ana="senti:neuneg" corresp="#ParlaMint-DK_20220314130004.seg2.1"/>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t1" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="today" function="T1.1.2" ana="sem:T1.1.2">Today</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t2" pos="EX" msd="UPosTag=PRON" lemma="there" function="Z5" ana="sem:Z5">there</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t3" pos="VBP" msd="UPosTag=VERB|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin" lemma="be" function="A3+,Z5" ana="sem:A3p">are</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t4" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">the</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t5" pos="VBG" msd="UPosTag=VERB|VerbForm=Ger" lemma="follow" function="M1,N4,S7.1-,X2.4,X2.5+,A6.1+,A1.1.1,A2.2,K5.1,X3.4" ana="sem:M1">following</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t6" pos="NNS" msd="UPosTag=NOUN|Number=Plur" lemma="review" function="X2.4,Q4" ana="sem:X2.4" join="right">reviews</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t7" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">:</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t8" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Minister" function="G1.1/S2mf,S9/S2mf" ana="sem:G1.1 sem:S2">Minister</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t9" pos="IN" msd="UPosTag=ADP" lemma="for" function="Z5" ana="sem:Z5">for</w>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t10" pos="NNP" msd="UPosTag=ADJ|Degree=Pos" lemma="foreign" function="Z1mf,Z3c" ana="sem:Z1">Foreign</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t11" pos="NNPS" msd="UPosTag=PROPN|Number=Plur" lemma="affair" function="Z1mf,Z3c" ana="sem:Z1">Affairs</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t12" pos="CC" msd="UPosTag=CCONJ" lemma="and" function="Z5" ana="sem:Z5">and</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t13" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Integration" function="A1.8+,S5+,A2.2,N2%" ana="sem:A1.8p">Integration</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t14" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t15" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Mattia" function="Z1mf,Z3c" ana="sem:Z1">Mattia</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t16" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Tesfaye" function="Z1mf,Z3c" ana="sem:Z1" join="right">Tesfaye</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t17" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t18" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">:</pc>
+                     <name type="MISC">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t19" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Bill" function="I1.3,G1.1,Q1.2,L2" ana="sem:I1.3">Bill</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t20" pos="UH" msd="UPosTag=INTJ" lemma="no" function="Z4" ana="sem:Z4" join="right">no</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t21" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t22" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="L" function="Z5" ana="sem:Z5">L</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t23" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="145" function="N1" ana="sem:N1">145</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t24" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t25" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="proposal" function="Q2.2,X7+,S3.2/Q2.2" ana="sem:Q2.2">Proposal</w>
+                     <phr type="sem" function="T1.3" ana="sem:T1.3">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t26" pos="IN" msd="UPosTag=ADP" lemma="for" function="T1.3" ana="sem:T1.3">for</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t27" pos="DT" msd="UPosTag=DET|Definite=Ind|PronType=Art" lemma="a" function="T1.3" ana="sem:T1.3">a</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t28" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="law" function="T1.3" ana="sem:T1.3">law</w>
+                     </phr>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t29" pos="IN" msd="UPosTag=ADP" lemma="on" function="Z5" ana="sem:Z5">on</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t30" pos="JJ" msd="UPosTag=ADJ|Degree=Pos" lemma="temporary" function="T1.3" ana="sem:T1.3">temporary</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t31" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="residence" function="H1,H4" ana="sem:H1">residence</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t32" pos="NNS" msd="UPosTag=NOUN|Number=Plur" lemma="permit" function="S7.4+" ana="sem:S7.4p">permits</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t33" pos="IN" msd="UPosTag=ADP" lemma="for" function="Z5" ana="sem:Z5">for</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t34" pos="VBN" msd="UPosTag=VERB|Tense=Past|VerbForm=Part" lemma="displace" function="A2.1+,M2" ana="sem:A2.1p">displaced</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t35" pos="NNS" msd="UPosTag=NOUN|Number=Plur" lemma="person" function="S2mfc" ana="sem:S2">persons</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t36" pos="IN" msd="UPosTag=ADP" lemma="from" function="Z5" ana="sem:Z5">from</w>
+                     <name type="LOC">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.1.t37" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Ukraine" function="Z2,Z3c" ana="sem:Z2" join="right">Ukraine</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t38" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.1.t39" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+                  <s xml:id="ParlaMint-DK_20220314130004.seg2.2" n="2" corresp="mt-src:ParlaMint-DK_20220314130004.seg2.2">
+                     <measure type="sentiment" quantity="2.568" ana="senti:neupos" corresp="#ParlaMint-DK_20220314130004.seg2.2"/>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t1" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Marie" function="Z1mf,Z3c" ana="sem:Z1">Marie</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t2" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Krarup" function="Z1mf,Z3c" ana="sem:Z1">Krarup</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t3" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t4" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t5" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t6" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t7" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Karina" function="Z1mf,Z3c" ana="sem:Z1">Karina</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t8" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Adsbøl" function="Z1mf,Z3c" ana="sem:Z1">Adsbøl</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t9" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t10" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t11" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t12" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t13" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Lise" function="Z1mf,Z3c" ana="sem:Z1">Lise</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t14" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Bech" function="Z1mf,Z3c" ana="sem:Z1">Bech</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t15" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t16" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t17" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t18" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t19" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Liselott" function="Z1mf,Z3c" ana="sem:Z1">Liselott</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t20" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Blixt" function="Z1mf,Z3c" ana="sem:Z1">Blixt</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t21" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t22" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t23" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t24" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t25" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Bent" function="Z1mf,Z3c" ana="sem:Z1">Bent</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t26" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Bøgsted" function="Z1mf,Z3c" ana="sem:Z1">Bøgsted</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t27" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t28" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t29" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">)</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t30" pos="CC" msd="UPosTag=CCONJ" lemma="and" function="Z5" ana="sem:Z5">and</w>
+                     <name type="PER">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t31" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Hans" function="Z1mf,Z3c" ana="sem:Z1">Hans</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t32" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Kristian" function="Z1mf,Z3c" ana="sem:Z1">Kristian</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t33" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Skibby" function="Z1mf,Z3c" ana="sem:Z1">Skibby</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t34" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+                     <name type="ORG">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t35" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="UFG" function="Z99" ana="sem:Z99" join="right">UFG</w>
+                     </name>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t36" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t37" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">:</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t38" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="motion" function="M1,Q1.1" ana="sem:M1">Motion</w>
+                     <phr type="sem" function="T1.3" ana="sem:T1.3">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t39" pos="IN" msd="UPosTag=ADP" lemma="for" function="T1.3" ana="sem:T1.3">for</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t40" pos="DT" msd="UPosTag=DET|Definite=Ind|PronType=Art" lemma="a" function="T1.3" ana="sem:T1.3">a</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t41" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="resolution" function="T1.3" ana="sem:T1.3">resolution</w>
+                     </phr>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t42" pos="NN" msd="UPosTag=NOUN|Abbr=Yes|Number=Sing" lemma="no." function="Z99" ana="sem:Z99">No.</w>
+                     <phr type="sem" function="Z2,Z1mf,T1.3" ana="sem:Z2">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t43" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="b" function="Z2,Z1mf,T1.3" ana="sem:Z2">B</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t44" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="188" function="Z2,Z1mf,T1.3" ana="sem:Z2">188</w>
+                     </phr>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t45" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t46" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="proposal" function="Q2.2,X7+,S3.2/Q2.2" ana="sem:Q2.2">Proposal</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t47" pos="IN" msd="UPosTag=ADP" lemma="for" function="Z5" ana="sem:Z5">for</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t48" pos="DT" msd="UPosTag=DET|Definite=Ind|PronType=Art" lemma="a" function="Z5" ana="sem:Z5">a</w>
+                     <phr type="sem" function="T1.3" ana="sem:T1.3">
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t49" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="parliament" function="T1.3" ana="sem:T1.3">Parliament</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t50" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="resolution" function="T1.3" ana="sem:T1.3">resolution</w>
+                     </phr>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t51" pos="IN" msd="UPosTag=ADP" lemma="on" function="Z5" ana="sem:Z5">on</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t52" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">the</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t53" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="extension" function="H1,T1.3+/A2.1,N3.2+/A2.1,N5+/A2.1,Q1.3,B4" ana="sem:H1">extension</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t54" pos="IN" msd="UPosTag=ADP" lemma="of" function="Z5" ana="sem:Z5">of</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t55" pos="JJ" msd="UPosTag=ADJ|Degree=Pos" lemma="local" function="M7" ana="sem:M7">local</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t56" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="self" function="S5-" ana="sem:S5n" join="right">self</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t57" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">-</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t58" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="government" function="G1.1c" ana="sem:G1.1">government</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t59" pos="IN" msd="UPosTag=ADP" lemma="in" function="Z5" ana="sem:Z5">in</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t60" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">the</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t61" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="field" function="F4,W3,M7,K5.1/M7,G3@,A4.1" ana="sem:F4">field</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t62" pos="IN" msd="UPosTag=ADP" lemma="of" function="Z5" ana="sem:Z5">of</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.2.t63" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="asylum" function="G1.1,B3/H1c" ana="sem:G1.1" join="right">asylum</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t64" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.2.t65" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+                  <s xml:id="ParlaMint-DK_20220314130004.seg2.3" n="3" corresp="mt-src:ParlaMint-DK_20220314130004.seg2.3">
+                     <measure type="sentiment" quantity="2.460" ana="senti:neuneg" corresp="#ParlaMint-DK_20220314130004.seg2.3"/>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t1" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">The</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t2" pos="NNS" msd="UPosTag=NOUN|Number=Plur" lemma="title" function="Q4,S7.1+,A9+,Q2.2" ana="sem:Q4">titles</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t3" pos="IN" msd="UPosTag=ADP" lemma="of" function="Z5" ana="sem:Z5">of</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t4" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">the</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t5" pos="VBN" msd="UPosTag=VERB|Tense=Past|VerbForm=Part" lemma="notify" function="Q2.2" ana="sem:Q2.2">notified</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t6" pos="NNS" msd="UPosTag=NOUN|Number=Plur" lemma="case" function="A4.1,O2,G2.1,B3,X4.1,Q3" ana="sem:A4.1">cases</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t7" pos="MD" msd="UPosTag=AUX|VerbForm=Fin" lemma="will" function="T1.1.3" ana="sem:T1.1.3">will</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t8" pos="VB" msd="UPosTag=VERB|VerbForm=Inf" lemma="appear" function="A8,A10+,A3+,G2.1,K4,Q4" ana="sem:A8">appear</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t9" pos="IN" msd="UPosTag=ADP" lemma="in" function="Z5" ana="sem:Z5">in</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t10" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="www.folketingstidende.dk" function="Z99" ana="sem:Z99">www.folketingstidende.dk</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.3.t11" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">(</pc>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t12" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="cf." function="Z5/A6" ana="sem:Z5 sem:A6">cf.</w>
+<w xml:id="ParlaMint-DK_20220314130004.seg2.3.t13" pos="RB" msd="UPosTag=ADV" lemma="above" function="M6,A5.1++" ana="sem:M6" join="right">above</w>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.3.t14" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9" join="right">)</pc>
+<pc xml:id="ParlaMint-DK_20220314130004.seg2.3.t15" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+               </seg>
+            </u>
+         </div>
+         <div type="debateSection" xml:lang="en">
+            <head xml:id="ParlaMint-DK_2022-03-14-20211-M73.head3" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.head3">Punkt 0</head>
+            <note type="agendaItem" xml:id="ParlaMint-DK_2022-03-14-20211-M73.note3" xml:lang="en" corresp="mt-src:ParlaMint-DK_2022-03-14-20211-M73.note3">2022-03-14-0</note>
+            <u who="#EllemannKaren" xml:id="ParlaMint-DK_20220314130035" ana="#chair #DK-domain.other topic:other" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130035">
+               <seg xml:id="ParlaMint-DK_20220314130035.seg3" xml:lang="en" corresp="mt-src:ParlaMint-DK_20220314130035.seg3">
+                  <s xml:id="ParlaMint-DK_20220314130035.seg3.1" n="1" corresp="mt-src:ParlaMint-DK_20220314130035.seg3.1">
+                     <measure type="sentiment" quantity="2.339" ana="senti:neuneg" corresp="#ParlaMint-DK_20220314130035.seg3.1"/>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t1" pos="EX" msd="UPosTag=PRON" lemma="there" function="Z5" ana="sem:Z5">There</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t2" pos="VBZ" msd="UPosTag=VERB|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin" lemma="be" function="A3+,Z5" ana="sem:A3p">is</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t3" pos="NN" msd="UPosTag=PRON|Number=Sing" lemma="nothing" function="Z6/Z8" ana="sem:Z6 sem:Z8">nothing</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t4" pos="JJR" msd="UPosTag=ADJ|Degree=Cmp" lemma="more" function="A13.3,N6++" ana="sem:A13.3">more</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t5" pos="TO" msd="UPosTag=PART" lemma="to" function="Z5" ana="sem:Z5">to</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t6" pos="VB" msd="UPosTag=AUX|VerbForm=Inf" lemma="be" function="A3+,Z5" ana="sem:A3p">be</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t7" pos="VBN" msd="UPosTag=VERB|Tense=Past|VerbForm=Part|Voice=Pass" lemma="do" function="A1.1.1,G2.2-,X9.2+,E3-,G2.1%,Z5" ana="sem:A1.1.1">done</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t8" pos="IN" msd="UPosTag=ADP" lemma="in" function="Z5" ana="sem:Z5">in</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t9" pos="DT" msd="UPosTag=DET|Number=Sing|PronType=Dem" lemma="this" function="M6,Z5,Z8" ana="sem:M6">this</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.1.t10" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="meeting" function="S1.1.3+,S3.1,K5.1,S9,A1.1.1,X9.2+,A6.1+" ana="sem:S1.1.3p" join="right">meeting</w>
+<pc xml:id="ParlaMint-DK_20220314130035.seg3.1.t11" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+                  <s xml:id="ParlaMint-DK_20220314130035.seg3.2" n="2" corresp="mt-src:ParlaMint-DK_20220314130035.seg3.2">
+                     <measure type="sentiment" quantity="2.603" ana="senti:neupos" corresp="#ParlaMint-DK_20220314130035.seg3.2"/>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t1" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">The</w>
+                     <phr type="sem" function="T1.1.3" ana="sem:T1.1.3">
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t2" pos="JJ" msd="UPosTag=ADJ|Degree=Pos" lemma="next" function="T1.1.3" ana="sem:T1.1.3">next</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t3" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="meeting" function="T1.1.3" ana="sem:T1.1.3">meeting</w>
+                     </phr>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t4" pos="IN" msd="UPosTag=ADP" lemma="of" function="Z5" ana="sem:Z5">of</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t5" pos="DT" msd="UPosTag=DET|Definite=Def|PronType=Art" lemma="the" function="Z5" ana="sem:Z5">the</w>
+                     <name type="MISC">
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t6" pos="JJ" msd="UPosTag=ADJ|Degree=Pos" lemma="Danish" function="Z1mf,Z3c" ana="sem:Z1">Danish</w>
+                     </name>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t7" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Parliament" function="Z1mf,Z3c" ana="sem:Z1">Parliament</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t8" pos="MD" msd="UPosTag=AUX|VerbForm=Fin" lemma="will" function="T1.1.3" ana="sem:T1.1.3">will</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t9" pos="VB" msd="UPosTag=AUX|VerbForm=Inf" lemma="be" function="A3+,Z5" ana="sem:A3p">be</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t10" pos="VBN" msd="UPosTag=VERB|Tense=Past|VerbForm=Part|Voice=Pass" lemma="hold" function="M2,A1.1.1,A9+,X2.1,S7.1+/A1.7+" ana="sem:M2">held</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t11" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="tomorrow" function="T1.1.3" ana="sem:T1.1.3" join="right">tomorrow</w>
+<pc xml:id="ParlaMint-DK_20220314130035.seg3.2.t12" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t13" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="Tuesday" function="T1.3" ana="sem:T1.3" join="right">Tuesday</w>
+<pc xml:id="ParlaMint-DK_20220314130035.seg3.2.t14" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t15" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="15" function="N1" ana="sem:N1">15</w>
+                     <phr type="sem" function="Z2,Z1mf,T1.3" ana="sem:Z2">
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t16" pos="NNP" msd="UPosTag=PROPN|Number=Sing" lemma="March" function="Z2,Z1mf,T1.3" ana="sem:Z2">March</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t17" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="2022" function="Z2,Z1mf,T1.3" ana="sem:Z2" join="right">2022</w>
+                     </phr>
+<pc xml:id="ParlaMint-DK_20220314130035.seg3.2.t18" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">,</pc>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t19" pos="IN" msd="UPosTag=ADP" lemma="at" function="Z5" ana="sem:Z5">at</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t20" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="12.00" function="N1" ana="sem:N1">12.00</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t21" pos="NN" msd="UPosTag=NOUN|Number=Sing" lemma="p.m." function="Z99" ana="sem:Z99">p.m.</w>
+<w xml:id="ParlaMint-DK_20220314130035.seg3.2.t22" pos="CD" msd="UPosTag=NUM|NumForm=Digit|NumType=Card" lemma="13.00" function="N1" ana="sem:N1" join="right">13.00</w>
+<pc xml:id="ParlaMint-DK_20220314130035.seg3.2.t23" pos="Z" msd="UPosTag=PUNCT" function="Z9" ana="sem:Z9">.</pc>
+                  </s>
+               </seg>
+            </u>
+         </div>
+      </body>
+   </text>
+</TEI>
+

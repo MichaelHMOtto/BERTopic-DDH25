@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Edmond-François Guierry an Hugo Schuchardt (01-04218)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1665">
+            <forename>Edmond-François</forename>
+            <surname>Guierry</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11549" type="PID">o:hsa.letter.11549</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-04218</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04218</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1665">
+                <forename>Edmond-François</forename>
+                <surname>Guierry</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6445" ref="http://sws.geonames.org/1799397">Ningbo</origPlace>
+              <origDate ana="dcterms:created" when="1882-04-22">1882-04-22</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2022">2022</date>
+          <title>Die Korrespondenz zwischen Edmond-François Guierry und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1665"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11549">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1665">
+            <forename>Edmond-François</forename>
+            <surname>Guierry</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6445" key="#GID.1" ref="http://sws.geonames.org/1799397">Ningbo</placeName>
+          <date when="1882-04-22">1882-04-22</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>China</country>
+                <settlement>Ningbo</settlement>
+                <name ref="http://geonames.org/1799397" type="fcode:PPLA2">Ningbo</name>
+                <location>
+                  <geo>121.54945,29.87819</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1665" type="context">
+                        Korrespondenz Edmond-François Guierry - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.661" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Sprachen in China</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.555" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Pidgins (Englisch)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11549" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11549" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11549" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Ning-Po, le 22 Avril 1882.</dateline>
+        <opener>Monsieur le Docteur,<note n="1" place="foot"
+              type="editorial"> Am unteren Rand von S. 1: à Monsieur le D<hi rendition="#sup">r</hi> Hugo Schuchardt, Professeur à l’Université de Graz, Autriche.</note>
+        </opener>
+        <p>J’étais en tournée pastorale, dans l’intérieur de cette Province, lorsque votre honorée lettre du 30 Janvier m’est parvenue. C’est ce qui vous explique le retard que j’ai mis à y répondre.</p>
+        <p>Comme vous le dites très bien, il y a dans les parts de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5946">Chine</placeName> le <ref target="https://gams.uni-graz.at/o:hsa.languages#L.555">
+            <hi rend="unknown" rendition="#none">Pidgin English</hi>
+          </ref>, même imprimé, paraît-il. Mais pour du Portugais et du Français <hi rend="unknown"
+            rendition="#none">Pidgin</hi>, il n’y en a point dans le <hi rend="unknown" rendition="#none">Tché-Kiang</hi>
+          <note n="2" place="foot"
+            type="editorial">Zhejiang ist eine ostchinesische Provinz mit einem ländlich geprägten Landesinneren und städtischen Zentren am Ostchinesischen Meer.</note>. Quant 1856, il y avait sur le littoral une espèce de <hi
+            rend="unknown" rendition="#none">Pidgin</hi> Portugais, parce que les Macaïstes y avaient un assez grand commerce, mais il tomba entièrement à cette époque, et depuis lors ce Portugais corrompu a entièrement disparu.</p>
+        <p>Quant au <hi rend="unknown"
+            rendition="#none">Pidgin</hi> français, il n’y a jamais existé d’une manière proprement <pb facs="#IMG.2"
+            n="2"/> dite, parce que les Français n’y ont point de commerce. On y rencontre bien de temps à autre quelques Chinois de la basse classe qui écorchent quelques mots de français, pour gagner de l’argent; mais un langage <hi
+            rend="unknown"
+            rendition="#none">Pidgin</hi> proprement dit, il n’y en a point. D’ailleurs, à part les Missionnaires qui <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.661">parlent</ref> chinois avec les Chinois, il n’y a ordinairement ici que quelques rares Français employés aux Douanes impériales; or ces Messieurs parlent tous l’Anglais qui est la langue des Européens dans cet Extrême-Orient.</p>
+        <p>Je souhaite, Monsieur, que ces quelques renseignements puissent vous être utiles et agréables.</p>
+        <closer>
+          <salute>Veuillez agréer ma bien sincère gratitude pour les bon souhaits que vous faites à la Mission dont je suis chargé et vous prie de me croire</salute>
+          <lb/>
+          <salute>Monsieur le Docteur,</salute>
+          <lb/>
+          <salute>Votre bien dévoué serviteur.</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1665">E. F. Guierry</persName>
+            <lb/>Ev. de Dan. Vic. Ap. de Tché-Kiang. </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

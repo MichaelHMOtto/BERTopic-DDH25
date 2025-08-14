@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Wilhelm Haas an Hugo Schuchardt (02-04257)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1681">
+            <forename>Wilhelm</forename>
+            <surname>Haas</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11499" type="PID">o:hsa.letter.11499</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-04257</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04257</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1681">
+                <forename>Wilhelm</forename>
+                <surname>Haas</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1902-04-19">1902-04-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Wilhelm Haas und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1681"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11499">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1681" ref="https://viaf.org/viaf/80530724">
+            <forename>Wilhelm</forename>
+            <surname>Haas</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1902-04-19">1902-04-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1681" type="context">
+                        Korrespondenz Wilhelm Haas - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4726" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Archiv für celtische Lexikographie</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4230" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Max Niemeyer Verlag</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.202" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Keltische Sprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11499" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11499" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11499" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11499" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11499" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz den 19. April 1902.</dateline>
+        <opener>
+          <hi rend="unknown" rendition="#none">Euer Hochwohlgeboren!</hi>
+        </opener>
+        <p>Auf die werthen Schreiben vom 13. und 18. d. M. beehre ich mich Euer Hochwolgeboren in folgender Weise zu erwiedern:</p>
+        <p>Zunächst muß ich Herrn Hofrath daran erinnern, daß Sie bereits vor zwei Jahren die Anschaffung des „<ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4726">
+            <hi rend="unknown" rendition="#none">Archiv f. celt. Lexicographie</hi>
+          </ref>“ anregten<note n="1" place="foot" type="editorial">Von 1900-1907 bei <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4230">Max Niemeyer</ref>, Halle erschienen</note> und daß ich damals in das <hi
+            rend="unknown"
+            rendition="#none">Wünschebuch</hi> einschrieb, die Anschaffung sei unmöglich, so lange nicht eine Erhöhung der Dotation stattfindet, da für <ref target="https://gams.uni-graz.at/o:hsa.languages#L.202">
+            <hi rend="unknown" rendition="#none">Keltisch</hi>
+          </ref> bereits zwei Zeitschriften hier vorhanden sind, dagegen für andere Fächer gar keine.</p>
+        <p>Weiter muß ich betonen, daß die <hi rend="unknown"
+            rendition="#none">Bibliothek</hi> bereits solche Menge Zeitschriften besitzt, daß die <hi rend="unknown" rendition="#none">Dotation</hi>
+          <pb facs="#IMG.2"
+            n="2"/> überlastet ist und es ganz unmöglich ist, daß noch neue Zeitschriften dazu abonniert werden können. Ich schrieb das im Vorjahr ins <hi
+            rend="unknown" rendition="#none">Wünschebuch</hi> und war bereits in die traurige Lage versetzt die Anschaffung von neuen Zeitschriften in 16 Fällen ablehnen zu müssen.</p>
+
+        <p>Wenn Herr Hofrath sich darauf berufen, daß Sie so selten Wünsche äußern und daher darauf rechnen, daß wenn dies geschieht, um so eher darauf eingegangen [werden] soll, so kann ich Ihnen im ersten Falle nicht wiedersprechen, im zweiten Falle muß ich jedoch erwähnen, daß ich immer bereit bin auf alle Wünsche einzugehen, aber … <hi
+            rend="unknown"
+            rendition="#none">ad impossibile nemo tenetur</hi>! Wenn ferner Herr Hofrath glauben, daß Ihr Fach bei der Anschaffung zu kurz gekommen ist, so sind Sie im Irrthum. Ich trachte daß alle Fächer gleichmäßig bedacht werden! Was Herr Hofrath bezüglich der rumän. Bücher sagen, daß Sie dieselben der Bibliothek zu so billigem Preise <pb
+            facs="#IMG.3"
+            n="3"/> überlassen haben, so ist das ja ganz richtig, damit können aber Herr Hofrath doch nicht verlangen, daß ich dafür zum Lügner werde. Wenn ich öffentlich behaupte, daß die Anschaffung neuer Zeitschriften nicht möglich ist, so lange eine Erhöhung der <hi
+            rend="unknown" rendition="#none">
+Dotation</hi> nicht stattfindet, so kann ich doch nicht davon abgehen, ohne mich selbst Lügen zu strafen.</p>
+        <p>Aber Herr Hofrath sehen die Sache als eine <hi rend="unknown" rendition="#none">
+persönliche</hi> an, worin Sie aber Unrecht haben. Ich schätze Herrn Hofrath – ganz abgesehen von den großen wissenschaftlichen Leistungen – so hoch, daß ich nicht nur zu schönen Worten – wie Sie sagen – sondern zu Thaten gern bereit bin.</p>
+        <p>Da ich nämlich dieses „<hi rend="unknown" rendition="#none">Archiv</hi>“ aus der <hi rend="unknown"
+            rendition="#none">Dotation</hi> für die Bibliothek nicht anschaffen kann, werde ich es für mich bestellen und so lange der <hi
+            rend="unknown"
+            rendition="#none">Bibliothek</hi> schenken, bis dieselbe infolge erhöhter Dotation in die Lage kommt dasselbe kaufen zu können. Ich thue das gern, da ich meinem Gönner der Bibliothek nicht Anlaß geben will, <pb
+            facs="#IMG.4" n="4"/> derselben sein Wolwollen zu schmälern oder gar zu entziehen.</p>
+
+        <p>Zuletzt muß ich noch um Entschuldigung bitten, daß meine Antwort dringender Arbeiten wegen nicht sofort erfolgen konnte und so hoffe ich, daß Sie weder der <hi
+            rend="unknown" rendition="#none">Bibliothek</hi> noch mir zürnen werden, weshalb ich die <hi rend="unknown"
+            rendition="#none">Bibliothek</hi> und mich <hi rend="unknown" rendition="#none">Herrn Hofrath</hi> bestens empfehle, wornach ich mit dem Ausdruck vorzüglichster Hochachtung verharre als</p>
+        <closer>
+          <salute>Ihr</salute>
+          <lb/>
+          <salute>ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1681">D<hi rendition="#sup">r</hi> Haas</persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Das Heft behalte ich gleich!</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

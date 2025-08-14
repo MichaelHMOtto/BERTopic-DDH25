@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Octavio Hermann  Schroeder an Hugo Schuchardt (08-10254)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2678">
+            <forename>Octavio Hermann </forename>
+            <surname>Schroeder</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12326" type="PID">o:hsa.letter.12326</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">08-10254</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10254</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2678">
+                <forename>Octavio Hermann </forename>
+                <surname>Schroeder</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6738" ref="http://sws.geonames.org/2888907">Klein Flottbek</origPlace>
+              <origDate ana="dcterms:created">Unbekannt</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Octavio Hermann  Schroeder und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2678"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12326">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2678" ref="https://viaf.org/viaf/269012171">
+            <forename>Octavio Hermann </forename>
+            <surname>Schroeder</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6738" key="#GID.1" ref="http://sws.geonames.org/2888907">Klein Flottbek</placeName>
+          <date>Unbekannt</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Klein Flottbek</settlement>
+                <name ref="http://geonames.org/2888907" type="fcode:PPLX">Klein Flottbek</name>
+                <location>
+                  <geo>9.86368,53.55294</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2678" type="context">
+                        Korrespondenz Octavio Hermann  Schroeder - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12326" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12326" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12326" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12326" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12326" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Kl. Flottbeck 2 Juli </dateline>
+        <opener>Mein verehrter Herr Professor,</opener>
+        <p> Nachdem jetzt, so weit menschliches Ermessen reicht, feststeht, wann wir reisen und wie wir unsere Route einrichten wollen, will ich nicht verfehlen Sie von unsren Plänen zu unterrichten und daran die Hoffnung zu dämpfen, daß die so lange in Aussicht genommene Begegnung sich endlich verwirklichen werde. </p>
+        <p>Wir reisen am 13<hi rendition="#sup">ten.</hi> dss. Mts. <pb facs="#IMG.2"
+            n="2"/> und zwar wird unsere Reisegesellschaft aus 6 Personen bestehen nämlich Frau, zweien Töchtern, einem Sohn (Wilhelm) Frl. Probst<note
+            n="1" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2450">Anita Probst</persName> (1858-1914); vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2450">HSA 09034-09036</ref>.</note> und ihrem ergebenen Diener. Wohnung in Tavary im Curhaus ist bestellt und zugesagt im II. Stock: Salon und drei Schlafzimmer. Da die Arlberger Bahn wie mir auf neuerliche Anfrage von Tavary aus bestätigt in diesen Tagen eröffnet wird, vielleicht in diesem Augenblick schon eröffnet ist, so ziehe ich vor von Osten her in den <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6001">Engadin</placeName> einzudringen. Wir wollen am 19<hi
+            rendition="#sup">ten.</hi> um 2 Uhr von hier aufbrechen, um <pb facs="#IMG.3"
+            n="3"/> zunächst einen Restnachmittag zwischen <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName> und <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.42">München</placeName> zu halten, etwa in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.218"> Nürnberg</placeName>. Die nächste Station würden wir dann in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.134">Innsbruck</placeName> machen, wo ich im vorigen Sommer in dem Hôtel de l’Europe ein vortreffliches Hôtel kennen lernte, dann mit der neuen Arlberger Bahn nach Laudert und von da aus per Wagen – Landauer oder Extrapost – nach Taresberg (??), eine bequeme Tagestour von 8 bis 9 Stunden. </p>
+        <p>Da haben Sie den ganzen Plan so weit er bis jetzt hat fixirt werden können. Am 23sten wollen <pb
+            facs="#IMG.4" n="4"/> wir in Jarasy (??) gelandet sind und dort etwa vier Wochen verweilen. Das Weitere wird sich finden. </p>
+        <p>Und nun? Wie stimmt das mit Ihren Projecten? Läßt sich die Familie Schroeder mal hineinfügen? Es würde das uns Alle und speziell mich ganz besonders erfreuen. </p>
+        <p>Nehmen Sie mit diesen meinigen Worten für heute vorlieb. <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.265">Hamburg</placeName> mit seinem Kriegerfest, seiner landwirtschaftlichen Ausstellung<note
+            n="2" place="foot" type="editorial">Sie fand vom 17-21. Juni 1897 statt.</note> steht auf dem Kopfe und ich bin mitten in diesem Trouble, dem ich nicht ganz aus dem Wege gehen kann. Dabei die formidable Hitze! Ich habe ein ungeheures Sehnen nach der frischen Alpenluft. </p>
+        <closer>
+          <salute>Ihr sehr ergebener</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2678">Schroeder</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

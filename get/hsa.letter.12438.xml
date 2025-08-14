@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leonard Gotthilf  Masing an Hugo Schuchardt (01-06886)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2142">
+            <forename>Leonard Gotthilf </forename>
+            <surname>Masing</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12438" type="PID">o:hsa.letter.12438</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-06886</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06886</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2142">
+                <forename>Leonard Gotthilf </forename>
+                <surname>Masing</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="9" unit="pages">9 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.158" ref="http://sws.geonames.org/588335">Dorpat</origPlace>
+              <origDate ana="dcterms:created" when="1897-12-17">1897-12-17</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Leonard Gotthilf  Masing und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2142"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12438">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2142">
+            <forename>Leonard Gotthilf </forename>
+            <surname>Masing</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.158" key="#GID.1" ref="http://sws.geonames.org/588335">Dorpat</placeName>
+          <date when="1897-12-17">1897-12-17</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Estonia</country>
+                <settlement>Tartu</settlement>
+                <name ref="http://geonames.org/588335" type="fcode:PPLA">Tartu</name>
+                <location>
+                  <geo>26.72509,58.38062</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2142" type="context">
+                        Korrespondenz Leonard Gotthilf  Masing - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.639" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Russisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.6688" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Schwedisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.3402" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Litauisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.860" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Italienisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.886" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Latein</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.722" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Abchasisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12438" xml:id="IMG.9">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12438" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>
+          <hi rend="unknown" rendition="#none">Dorpat</hi> d. 5(17) Dec. 1897<lb/> Rigasche Str. 105.</dateline>
+        <opener> Hochgeehrter Herr Kollege,</opener>
+        <p> „Schallstock“ ist, soviel ich selbst weiß und flüchtig habe ermitteln können, <hi rend="unknown"
+            rendition="#none">kein</hi> in ein livländisches Idiotikon gehöriges Wort. Ich vermute, der Ausdruck ist von Nikolitsch &amp;amp; Admuß, den Bearbeitern der 2. Aufl. des Pawlowskiy’schen russ.-deutschen Wörterbuchs<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10101">
+PAVLOVSKIJ, Ivan Jakovlevič, 1856. <hi
+                  rend="unknown" rendition="#none">
+Vollständiges deutsch-russisches Wörterbuch</hi>, 2. Riga: Kymmel.</ref>
+            </bibl>
+          </note> – woraus die von Ihnen angeführte Stelle des Booch-Frey-Messer’schen Wörterbuchs<note n="2"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2811">
+                <hi rend="unknown" rendition="#none">Hand-Wörterbuch der russischen und deutschen Sprache</hi>, von Friedrich Booch-Arkossy u. Adam Frey, Leipzig: Haessel, 1871ff.</ref>
+            </bibl>
+          </note>
+          <hi rend="unknown"
+            rendition="#none">wörtlich</hi> entnommen ist – neugebildet worden, um das russische Wort<note n="3"
+            place="foot" type="editorial">Sollte <foreign
+            xml:lang="ru">трость</foreign> gemeint sein? </note> zu verdeutlichen. Zu derartigen Neu- oder Umbildungen (vielleicht liegt dem ,Schallstock‘ ein nicht mehr verstandenes „-*Schaltstock“- zum Grunde, von „schalten“ in seiner alten Bedeutung „stoßen, fortstoßen, schieben, in Bewegung setzen, vertreiben&gt;?) war auch Nikolitsch vollkommen befähigt, da <hi
+            rend="unknown" rendition="#none">er</hi> langjähriger Lehrer des <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.639"> Russischen</ref> bei uns, das <ref target="https://gams.uni-graz.at/o:hsa.languages#L.667">Deutsche</ref> gut kannte. </p>
+        <p>Was nun den <foreign
+            xml:lang="ru">болтъ</foreign> betrifft, so kann ich die von unserem Universitätsbiblio- <pb facs="#IMG.2"
+            n="2"/> thekar H. Schultz, der als Knabe öfter im Pleskauschen Gouvernement Fischjagden beigewohnt hat, mir gemachte Beschreibung des Gegenstandes und der Art seiner Anwendung mitteilen. Der <foreign
+            xml:lang="ru">болтъ</foreign> ist eine reichlich 10 Fuß lange hölzerne Stange mit einer kugelförmigen, etwa kopfgroßen Verdickung an dem einen Ende; in diese gleichfalls hölzerne Kugel wird noch Blei gegossen, um ihr Gewicht zu vergrößern. Während nun <hi
+            rend="unknown"
+            rendition="#none">ein</hi> Fischer die Netze stellt und regiert, hebt ein anderer die Stange, mit der Kugel nach unten, senkrecht, so weit er kann, in die Höhe und läßt sie dann mit möglichst starkem Schwunge gegen die Wasserfläche hinabsausen, bei deren Berührung ein gewaltiger Knall hörbar wird. Der <foreign
+            xml:lang="ru">болтъ</foreign> dringt ins Wasser hinein, aber bevor in demselben ganz verschwunden ist, ergreift der Fischer noch im letzten Augenblick die dünne Spitze oben und zieht die Stange wieder <pb
+            facs="#IMG.3"
+            n="3"/> heraus, worauf das Manöver von neuem beginnt. Bei der Seichtigkeit der Gewässer des Peipus<note
+            n="4" place="foot"
+              type="editorial">Der Peipussee ist ein zwischen <placeName> Estland</placeName> und <placeName> Russland</placeName> gelegenes Binnengewässer. Mit 3555 km² ist er ungefähr siebenmal so groß wie der Bodensee und steht unter den größten Seen Europas an fünfter Stelle“ (<ref target="https://de.wikipedia.org/wiki/Peipussee">wikipedia</ref>).</note> und der Flüsse des Pleskauschen Gouvernements genügt dieses Verfahren, um die Fische zu beunruhigen und in die Netzen zu treiben. </p>
+        <p>Die Übersetzung „Schallstock“ entspricht also richtig einer Wirkung, die bei dem Hantieren mit diesem Stock sich ergiebt; es fragt sich aber, ob diese Schallwirkung eine absichtliche, erstrebte sei oder nicht vielmehr ein zufällig begleitender und an sich unwichtiger Nebenumstand. Mir scheint – bis zu gegenteiliger Belehrung von ichthyologischer und halieutisch erfahrener Seite –, daß der Knall Nebensache, das Vordringen des Geschosses aber in die Nähe der Fische oder mitten unter sie die Hauptsache ist. </p>
+        <p>Der (russische) <hi rend="unknown"
+            rendition="#none">Name</hi> stimmt passend überein mit dem für jenen automatischen <pb facs="#IMG.4"
+            n="4"/> Bolzen (<foreign
+            xml:lang="ru">болтъ самострѣльный</foreign>) früherer Zeiten – bei der Jagd auf Großwild gebraucht –, einen kurzen Pfeil, der an der Spitze statt der üblichen Doppelschneide eine kleine Kugel hatte (<foreign
+            xml:lang="ru">стрѣла короткая, у которой вмѣсто острея шарикъ</foreign>; Wörterb. d. Akad. d. Wiss., Heft 1 [1891], unter <foreign xml:lang="ru">болтъ</foreign> N° 4, δ). </p>
+
+        <p>Nikolitsch &amp;amp; Asmuß haben die besprochene Bedeutung von болтъ wohl aus eigener Kenntnis aufgenommen; bei Dahl<note
+            n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7981">Владимир Иванович Даль, <hi
+                  rend="unknown" rendition="#none">Толковый словарь живого великорусского языка</hi>
+              </ref>
+
+            </bibl> (sog. Dal-Wörterbuch; verschiedene Aufl.).</note> wenigstens, von dem alten akadem. Wörterb. gar nicht zu reden* (*Auch in der gegenwärtig erscheinenden Neubearbeitung des Wörterb. der Akad. fehlt diese Bedeutung) findet sie sich nicht. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6536">Dahl</persName> hat freilich aus dem Gouvernement Kursk ein <foreign
+            xml:lang="ru">болтъ</foreign> im Sinne des allgemeinrussischen <foreign
+            xml:lang="ru">болтень</foreign>, zunächst als Quirl zum Umrühren von Flüssigkeiten, dann auch – bei der näheren Angabe: „vorn mit einem Querbrettchen versehen“ (<foreign
+            xml:lang="ru">съ наложеною поперекъ дощечкой</foreign>) – speziell zum Zweck des Aufscheuchens der Fische. Aber dieses <foreign
+            xml:lang="ru">болтъ</foreign> trennt er von dem <pb facs="#IMG.5"
+            n="5"/> gleichlautendem Worte mit der allgemeinen Bedeutung „Bolzen“ und stellt es unter <foreign
+            xml:lang="ru">болтать</foreign> „quirlen“ „schütteln“ u.s.w. Diese letztere Zusammenstellung ist nun zwar richtig, unrichtig dagegen jene Trennung, denn offenbar gehören <hi
+            rend="unknown"
+            rendition="#none">alle</hi> diese Worte zusammen. Daß nun Dahl jene Trennung statuiert, zeigt unter anderem, daß er das plaskausche Fischereigerät nicht kannte, denn das gehört doch klärlich zu <foreign
+            xml:lang="ru"> болтъ</foreign> „Bolzen“ – ein Zusammenhang, der dem Verf. des „Erklärenden Wörterbuchs“ hätte mehr als wahrscheinlich machen müssen, daß ein genau demselben Zweck dienendes und durch dasselbe Mittel (des Aufschreckens) zu wirken bestimmtes Fischereigerät <hi
+            rend="unknown" rendition="#none">desselben</hi> Namens, das an einer anderen Stelle des gleichen Sprachgebiets gebraucht wird, doch auch nur zu demselben болтъ „Bolzen“ gehören könne. </p>
+        <p>Unter <foreign xml:lang="ru">бóтáло</foreign> (Artikel <foreign
+            xml:lang="ru"> бóтáть</foreign>) bemerkt Dahl nach einer der bei <foreign
+            xml:lang="ru"> болтень</foreign> gegebenen <pb facs="#IMG.6"
+            n="6"/> gleichkommenden Beschreibung – mit der Hinzufügung, daß statt des Querbrettchens auch ein hölzerner Becher (<foreign
+            xml:lang="ru">деревянны стаканъ</foreign>) an der Stange angebracht sein kann – daß beim <hi rend="unknown"
+            rendition="#none">Wels</hi>fange mit diesem Instrument ein bestimmter Ton (<foreign
+            xml:lang="ru">клоктъ</foreign>, ein Glucksen) hervorgebracht werde, der den Fisch anlocken soll. Das beim Walfange gebrauchte Instrument erhält den speziellen Namen <foreign
+            xml:lang="ru">клоктъ</foreign> oder <foreign xml:lang="ru">клыкъ</foreign> und wird (sub voce <foreign
+            xml:lang="ru"> клыкъ</foreign>) genauer beschrieben als hölzernes Rohr (<foreign
+            xml:lang="ru"> деревяная дудка</foreign>) oder als Schale (<foreign
+            xml:lang="ru"> чашка</foreign>) die an einer kleinen Stange (<foreign
+            xml:lang="ru">на шестикѣ</foreign>) angebracht ist, oder als Schöpfkelle (<foreign
+            xml:lang="ru"> ковшъ</foreign>). Mit einem derartigen Instrument schlägt der Fischer von Zeit zu Zeit aufs Wasser (<foreign
+            xml:lang="ru">бьетъ по водѣ</foreign>), um einen Ton hervorzurufen, der dem Glucksen ähnlich ist (<foreign
+            xml:lang="ru">подрожая бульканью</foreign>), das dieser Fisch mit dem Wasser verursacht (... <foreign
+            xml:lang="ru">громко булькая водою</foreign> heißt es <pb facs="#IMG.7"
+            n="7"/> von diesem Fische), wenn er bei heiterem Wetter an der Oberfläche spielend seinen Rachen aufsperrt und zuklappt (<foreign
+            xml:lang="ru">хлопаетъ настью</foreign>). Die Ähnlichkeit des durch den <foreign
+            xml:lang="ru">клoкъ</foreign> hervorgebrachten Tons mit dem, den der Fisch selbst zu verursachen pflegt, lockt den letzteren in die Nähe der bereitgehaltenen, mit dem Köder versehenen Angel (Dahls Wörterb., Artikel <foreign
+            xml:lang="ru">бóтáть: бóтáло</foreign>; Art. <foreign xml:lang="ru"> клокъ: клочить</foreign>; Art. <foreign xml:lang="ru">клыкъ</foreign>). </p>
+
+        <p>Das auf die anlockende Geräuschwirkung berechnete Werkzeug beim Welsfang ist also ganz verschieden von dem pleskauschen (und gewiß aus kurskischen) <foreign
+            xml:lang="ru">болтъ</foreign>, der als feindliches Geschoß auf die Tiere eindringt und sie aufschreckt, und bei dem der Geräuschwirkung höchstens eine sekundäre Bedeutung einzuräumen sein dürfte, – also ganz wie Sie in Ihrem Briefe den Unterschied zweier Arten dieser von den Fischern gebrauchten Geräte <pb
+            facs="#IMG.8" n="8"/> charakterisieren. </p>
+        <p>Es wäre interessant festzustellen, wie das Verhältnis von<foreign
+            xml:lang="ru"> болтъ (: болтать)</foreign>=<ref target="https://gams.uni-graz.at/o:hsa.languages#L.6688">schwed.</ref>
+          <foreign
+            xml:lang="sv">bult</foreign> (: bulta*) [am Ende der Seite dazu: „Im normalen Verschiebungsverhältnis stünde <ref target="https://gams.uni-graz.at/o:hsa.languages#L.3402">lit.</ref>
+          <foreign xml:lang="lt">bildéti</foreign> ‹ poltern ›, <foreign
+            xml:lang="lt"> bìldinti</foreign> ‹hohl dröhnend klopfen ›. Wäre das der Ausgangspunkt, d. h. bh(i)ld – in reduciert. Wurzelform? Es sieht ganz so aus“.]; <ref target="https://gams.uni-graz.at/o:hsa.languages#L.860">ital.</ref>
+          <foreign
+            xml:lang="it">bolzone</foreign> u.s.w., zu dem türk.-tatar. balta, dem ,schmalen, asiatischen Beil›. (Dahl unter блатá) zu denken ist. Aber andererseits <ref target="https://gams.uni-graz.at/o:hsa.languages#L.886">lat.</ref>
+          <foreign xml:lang="la">pultãre</foreign> ‹ stoßen, schlagen, klopfen›! Und daneben pulsare ‹ stoßen, <hi
+            rend="unknown" rendition="#none">treiben</hi>, <hi rend="unknown" rendition="#none">heftig bewegen</hi>, <hi
+            rend="unknown"
+            rendition="#none">beunruhigen</hi> ›, doch wohl das direkte lateinische Urbild für die Reflexe im Schwedischen: <foreign
+            xml:lang="sv">pulsa</foreign> ‹<hi rend="unknown"
+            rendition="#none">mit der Störstange</hi> Fische ins Netz jagen› und puls ‹<hi rend="unknown"
+            rendition="#none">Störstange</hi>›. Aus dem Schwed. ins Estnische gedrungen puls Subst., pulsima Verb, in denselben Bedeutungen (von Wiedemann<note
+            n="6" place="foot" type="editorial">
+            <persName> Ferdinand Johann Wiedemann</persName> (1805-1887), estn. Linguist, zuletzt in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.239">St. Petersburg</placeName> tätig.</note> aus Dagö<note
+            n="7" place="foot" type="editorial">Der historische deutsche und schwedische Name der estnischen Insel Hiiumaa. </note> angeführt, wo noch in der ersten Hälfte dieses Jahrhunderts das Schwedische lebendig war). </p>
+        <p>Wie wohl dieser Knäuel, in den noch manche anderen Fäden verschlungen sind oder so scheinen, zu entwirren sein mag? </p>
+        <pb facs="#IMG.9" n="9"/>
+
+        <p>Was meine kaukasischen Materialien betrifft, so bin ich mit der Ausarbeitung leider noch sehr im Rückstande. Sobald ich etwas werde fertig haben – was sich aber zunächst nur auf die Lautlehre beziehen wird, von der ich hoffe, daß sie jetzt zum Teil (ich denke namentlich an das <ref target="https://gams.uni-graz.at/o:hsa.languages#L.722"> Abchasische</ref> und das Tschetschenische) in geläuterterer Form wird erscheinen können, als wie wir sie aus Uslar kennen - , so werde ich nicht ermangeln, es Ihrer wohlwollenden Kenntnisnahme zu unterbreiten. An dieser Stelle gestatten Sie mir noch, hochgeehrter Herr Kollege, Ihnen meinen verbindlichsten Dank auszudrücken für die Zusendung zweier Ihrer neuanbauenden Publikationen über diese für gewöhnliche europäische Begriffe in der That wunderbaren Spracherscheinungen. </p>
+        <closer>
+          <salute>Zu etwaigen weiteren Auskünften, soweit sie ein mir zugängliches Gebiet betreffen, gern bereit, verbleibe ich </salute>
+          <lb/>
+          <salute> Ihr hochachtungsvoll ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2142">L. Masing</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

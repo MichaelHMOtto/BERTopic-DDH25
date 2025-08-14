@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (30-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11737" type="PID">o:hsa.letter.11737</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">30-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 447-448</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1877-04-04">1877-04-04</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11737">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1877-04-04">1877-04-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.321" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Diezstiftung</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4579" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Die Gegenwart</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f898" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f899" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f900" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f901" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7451" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz 4.4.77.</dateline>
+        <opener> Ne faites pas attention aux fautes de grammaire et de style; j’écris en hâte. <lb/> Cher ami </opener>
+
+        <p> Bien que je me sentisse très mal hier je vous écrivis pour prévenir, si c’était encore possible, quelque mauvais effet de ma lettre précédente que M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">P. Meyer</persName> me fit craindre<note n="1"
+            place="foot" type="editorial">Voir la l. du 3 avril 1877 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11736">HS 29-24456</ref>).</note>. Aujourd’hui j’ajoute quelques observations à mes lignes rapides d’hier. Si vous avez eu l’intention de parler à l’Académie de la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.321">Diezstiftung</ref>, ce n’était pas dans un but purement <hi
+            rendition="#u">académique</hi>, mais dans un but <hi
+            rendition="#u">pratique</hi>; vous alliez faire des propositions à l’illustre société. Eh bien: j’aurais cru que mon plan qui se trouve «in nuce» déjà dans mon <pb
+            facs="#IMG.2"
+            n="2"/> article, vous eût facilité la besogne au lieu de la rendre telle de vous faire préférer le silence à son égard. Au fond, qu’est-ce que je veux? Que non-seulement MM. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2867">Tobler</persName> etc., mais aussi MM. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">G. Paris</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">P. Meyer</persName> (qui n’en a pas envie)<note n="2"
+            place="foot"
+              type="editorial">P. Meyer écrit en effet à Schuchardt le 31 mars 1877: «Moi je ne veux pas du tout me mêler de cette affaire en aucun sens. Tobler est déjà assez mal disposé pour moi» (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.5096">HSA 06-07206</ref>).</note>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1056">Ascoli</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2264">Mussafia</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2467">Rajna</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> (qui en a grande envie) etc.<note
+            n="3" place="foot"
+              type="editorial">Ce sont ainsi, notamment, Mussafia (lettre à Schuchardt du 19 février 1877, Lichem et Würdinger 2013, <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.2345">HSA 22-07644</ref>), Hasdeu (lettre au même du 4 mars 1877, Mazzoni 2016, <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.4463">HSA 06-04431</ref>), Ascoli (lettre au même du 27 mars 1877, Lichem et Würdinger 2013, HSA <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.881">023-00217</ref>), puis, plus tard, Rajna (lettre au même du 23 avril 1877, Melchior 2012, <ref
+            target="https://gams.uni-graz.at/o:hsa.letter.802">HSA 3-9095</ref>) qui adhèrent au projet de Schuchardt.</note> en disent leur opinion et qu’on fasse à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.38">Berlin</placeName> cas de leurs voix, selon ce que chacune pèse. Si vous jugerez bon que la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.321">Diezstiftung</ref> se trouve tout entière dans les mains de l’Académie de Berlin, je m’en réjouirai; seulement que votre opinion soit déclarée ouvertement et de manière formelle, quelle soit autre chose qu’une condescendance due à des égards tout-à-fait extérieurs. Au moins que la base de l’entreprise soit internationale, si le résultat ne l’en est pas. Pour ma part, je caresse l’idée d’une <hi
+            rendition="#u">Diezstiftung</hi> internationale parce que – mettant de côté les intérêts humanitaires – la république de la science demande le <hi
+            rendition="#u">fédéralisme</hi> et non pas <hi rendition="#u">l’unitarisme</hi>
+          <note n="4" place="foot" type="editorial"> Dès sa première prise de position dans l’affaire de la <hi
+              rendition="#i">Diezstiftung</hi> Schuchardt s’exprime dans ce sens: «Ein Denkmal welches dem wissenschaftlichen und dem persönlichen Charakter des Meisters in würdiger Weise entprechen soll, hat gleichmässig auf den Schultern Deutschlands, Frankreichs und Italiens zu ruhen; die Romanen müssen nicht zugelassen oder gelegentlich herangezogen werden, sondern von allem Anfang dabei betheiligt sein» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.603">Schuchardt 1877c</ref>
+            </bibl>, 298).</note>. Surtout l’<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">Allemagne</placeName> a bien raison de craindre l’unitarisme dans les matières scientifiques. Déjà nous <pb
+            facs="#IMG.3" n="3"/> adorons trop la <hi
+            rendition="#u">routine</hi> et combien de jeunes gens prenant d’emblée les chaires les mieux dotées – seulement sur la recommandation de leurs maîtres dont ils ont été toujours les disciples les plus sages et les plus obéissants. Je trouverai l’occasion de traiter ce sujet à mon aise. Qu’on m’accuse d’être un visionnaire, je le supporterai, bien qu’il y ait des personnes douées d’un sens éminemment pratique qui approuvent mes visions. Mais au moins qu’on ne doute pas de la pureté de mes intentions. J’aspire à établir l’harmonie la plus parfaite que possible, dussé-je aussi passer par des petites disharmonies avec mes confrères. C’est principalement la <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">France</placeName> que j’ai eu en vue dont je désire la coopération si ardemment que je voudrais éloigner tout ce qui pourrait mettre obstacle, tout ce qui pourrait reveiller des susceptibilités. À coup sûr, ce ne sera pas vous qui m’en blamerez. Je m’imagine bien pourquoi M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2730">Sickel</persName> – s’il n’y a pas un peu d’exagération de la part de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">M. Meyer</persName> – a été furieux de mon article<note
+            n="5" place="foot" type="editorial">Voir la l. du 3 avril 1877 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11736">HS 29-24456</ref>).</note>. Moi au lieu d’être chauviniste, je combats le chauvinisme allemand partout où je le trouve sur ma <pb
+            facs="#IMG.4"
+            n="4"/> route; il est bien naturel que ceux-là vomissent feu et flamme contre moi dont la tête est trop étroite pour que le patriotisme et le chauvinisme y entrent comme deux choses différentes. – Je confesse que je ne mesure pas toujours la portée de mes expressions – je suis un homme trop nerveux et passioné – aussi, je regrette de m’être exprimé sur M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2867">Tobler</persName> d’une manière un peu trop vive. Je viens de lui écrire<note
+            n="6" place="foot"
+            type="editorial">La correspondance entre A. Tobler et Schuchardt s’interrompt jusqu’en 1890.</note>, je lui ai soumis notre plan et j’espère qu’il ne s’y opposera pas, autant moins qu’il n’a pas le droit de s’y opposer. En <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italie</placeName> l’affaire marche, demain je partirai pour <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Vienne</placeName> pour en parler avec <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2264">Mussafia</persName> qui en est déjà instruit<note n="7"
+            place="foot"
+              type="editorial">Mussafia est l’un des premiers philologues à qui Schuchardt présente son point de vue sur l’affaire de la <hi
+              rendition="#i">Diezstiftung</hi>, dans une lettre datée du 15 février 1877 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.2343">HSA 21-SM12</ref>).</note>. Aussi de l’<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6083">Angleterre</placeName> j’espère quelquechose j’y ai écrit<note
+            n="8" place="foot"
+            type="editorial">Nous ne connaissons pas ces lettres.</note>. Un désaveu qui viendrait de Paris pourrait facilement exercer une influence défavorable sur l’<placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5969">Italie</placeName>. Je vous conjure de faire votre discours à l’Académie et de vous associer à mes idées; je vous donnerai des nouvelles de ce qu’on fera en Italie (et en <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5913">Autriche</placeName>) et vous enverrai un article qui apparaîtra le 6 Avril<note
+            n="9" place="foot" type="editorial">L’article intitulé «Die Diezstiftung» paraît finalement dans <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.4579">Die Gegenwart</ref> le 7 avril 1877 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.316">Schuchardt 1877b</ref>
+            </bibl>).</note>. </p>
+        <closer>
+          <salute>À l’ouvrage, bon courage! <lb/> Les amis sont toujours prêts <lb/> Le vôtre de cœur</salute>
+          <lb/>
+          <signed>H. Schuchardt</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

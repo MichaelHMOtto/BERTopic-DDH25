@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (156-08637)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11890" type="PID">o:hsa.letter.11890</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">156-08637</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08637</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Karte (Postkarte)</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" ref="http://sws.geonames.org/2988507">Paris</origPlace>
+              <origDate ana="dcterms:created" when="1900-03-13">1900-03-13</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11890">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" key="#GID.1" ref="http://sws.geonames.org/2988507">Paris</placeName>
+          <date when="1900-03-13">1900-03-13</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Paris</settlement>
+                <name ref="http://geonames.org/2988507" type="fcode:PPLC">Paris</name>
+                <location>
+                  <geo>2.3488,48.85341</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5511" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Académie des inscriptions et belles-lettres</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11890" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11890" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7577" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <pb facs="#IMG.2" n="2"/>
+        <dateline>Collège de France, 13. III. 00<note n="1" place="foot" type="editorial">La carte postale est envoyée de R. Danton, Paris 25 et arrive à Graz le 15 mars 1900.</note>
+        </dateline>
+
+        <p>Mon cher ami, j’ai une si longue lettre à vous écrire, si pleine de choses qui tous les jours augmentent, que je ne sais vraiment quand je trouverai les heures nécessaires. Je veux au moins vous dire avec quel plaisir j’ai lu votre note si spirituelle et si sensée sur l’absurde question du siècle<note
+            n="2" place="foot" type="editorial">
+Référence au billet «Was bedeutet die Jahreszahl?» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.645">Schuchardt 1900j</ref>
+            </bibl>). Ce billet poursuit un questionnement autour de la date à laquelle devrait débuter le XX<hi
+              rendition="#sup">e</hi> siècle, 1900 ou 1901? Entamé dans «Zur ‘Streitfrage’», également publié dans la <hi rendition="#i">
+Grazer Tagespost</hi>, le 23 décembre 1899 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.521">Schuchardt 1899b</ref>
+            </bibl>) et poursuivi dans <hi rendition="#i">Beilage zur Allgemeinen Zeitung</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.269">Schuchardt 1900c</ref>
+            </bibl>) le linguiste de Graz, qui défend la thèse de 1900, publie un dernier article sur ce sujet dans le même journal, le 6 janvier 1900, «(1900 oder 1901?)» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.605">Schuchardt 1900a</ref>
+            </bibl>). </note> et aussi votre épigramme<note n="3" place="foot" type="editorial">En 1900, la <hi rendition="#i">Grazer Tagespost</hi> publie deux poèmes de Schuchardt: «Rule Britannia» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.223">Schuchardt 1900f</ref>
+            </bibl>) et «Britischer Humor» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.397">Schuchardt 1900b</ref>
+
+            </bibl>).</note> (quoique je sois plutôt un peu Anglais), et quel éblouissement m’a donné votre 2e dissertation étymologique (ce n’est pas vrai qu’elle sera la dernière?)<note
+            n="4" place="foot" type="editorial">«Romanische Etymologieen II» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.28">Schuchardt 1899a</ref>
+
+            </bibl>).</note>, et enfin vous remercier de votre bonne poignée de main à propos de ce fâcheux incendie<note
+            n="6" place="foot"
+            type="editorial">Il s’agit de l’incendie du Théâtre de la Comédie française, le 8 mars 1900. Il nous manque la lettre dans laquelle cet événement est évoqué par Schuchardt.</note>, qui a été pourtant moins désastreux qu’on ne l’avait cru. Je n’ai pas une minute à moi. Je pars vendredi pour <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.38">Berlin</placeName>, où je vais féliciter l’Académie<note
+            n="7" place="foot"
+              type="editorial">G. Paris assistera au bicentenaire de l’Académie des sciences de Berlin, le 19 mars 1900. Il est délégué par l’<ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.5511">Académie des Inscriptions et Belles-Lettres</ref>, en compagnie de l’indianiste <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6582">Émile Sénart</persName> (1847-1928), qui donnera un compte rendu de cette journée à son retour (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7807">Sénart 1900</ref>
+            </bibl>).</note>. Je compte être à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6622">Prague</placeName> (avec <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6601">ma femme</persName>) les 25 et 26 mars<note n="8"
+            place="foot" type="editorial"> G. Paris y a notamment retrouvé <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1328">J. Cornu</persName>, comme nous l’apprend une lettre de celui-ci: «Cher ami, le plaisir de vous avoir à <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6622">Prague</placeName> a duré trop peu. C’était comme un beau rêve interrompu par un réveil subit. Ce qui nous a manqué c’est un temps plus favorable et pourtant le jour que vous avez passé à <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6622">
+Prague</placeName> a été un des plus beaux de ce printemps si tardif à venir» (Cornu à G. Paris, 14 avril 1900, <ref
+              target="https://gallica.bnf.fr/ark:/12148/btv1b525157755/f563.item.r=NAF%2024436">
+BnF, NAF 24436, f° 277</ref>). On sait également que G. Paris passera par Dresde, qu’il avait autrefois visité avec son père (en 1857), et d’où il dédie à ce dernier son volume des <hi rendition="#i">Poèmes et légendes du moyen âge</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7607">Paris 1900a</ref>
+            </bibl>, viii). </note>; quel dommage que ce soit encore si loin de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName>! (de là nous revenons par <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.218">Nürnberg</placeName>). </p>
+        <closer>
+          <dateline>A vous</dateline>
+          <dateline>GParis</dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

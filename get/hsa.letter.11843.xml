@@ -1,0 +1,349 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (109-08611)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11843" type="PID">o:hsa.letter.11843</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">109-08611</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08611</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6422" ref="http://sws.geonames.org/3027867">Cerisy-la-Salle</origPlace>
+              <origDate ana="dcterms:created" when="1892-09-27">1892-09-27</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11843">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6422" key="#GID.1" ref="http://sws.geonames.org/3027867">Cerisy-la-Salle</placeName>
+          <date when="1892-09-27">1892-09-27</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Cerisy-la-Salle</settlement>
+                <name ref="http://geonames.org/3027867" type="fcode:PPL">Cerisy-la-Salle</name>
+                <location>
+                  <geo>-1.28283,49.02622</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11843" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11843" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11843" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11843" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7530" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Cerisy-la-Salle, 27. IX. 92</dateline>
+        <opener>Mon cher ami,</opener>
+        <p> Voici ce que j’ai voulu dire en écrivant la phrase qui vous a choqué<note n="1" place="foot" type="editorial">«Ainsi le principal argument de M. Schuchardt se tourne contre lui» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7959">«Chronique» 1892</ref>
+            </bibl>, 472).</note>: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Sch.</persName> s’était appuyé sur la valeur mathématique de ﹤ or <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">Verner</persName> déclare qu’il l’a emprunté aux mathématiques précisément pour lui faire signifier le contraire de ce que veut Sch.; donc l’argument de Sch. se retourne contre lui. En fait, je crois que vous auriez tort de ne pas vous rendre. Cela n’a pas grande importance, mais ce qui en a, c’est qu’on s’entende, et vous entendez trop la bonne discipline scientifique pour créer exprès une difficulté à l’entente<note
+            n="2" place="foot"
+            type="editorial">Dans l’usage actuel, ce n’est pas la proposition de Schuchardt qui s’est imposée, mais celle exactement inverse, comme simple représentation iconique du mouvement de la flèche. Dans la linguistique actuelle, ce signe est également utilisé pour les changements de sons. Parallèlement, la typologie linguistique lui attribue aujourd’hui la signification d’implicature.</note>. Si vous aviez inventé le signe, je comprendrais votre persistance (et encore je cèderais par considération d’ordre), mais vous l’avez emprunté à <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6526">
+Verner</persName> ou à ses imitateurs<note n="3"
+            place="foot" type="editorial">
+Notamment <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2862">V. Thomsen</persName>, <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2319">K. Nyrop</persName> ou <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6324">L. Wimmers</persName>. Voir l. du 24 septembre 1892 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11842">HS 108-24457</ref>).</note>, et dès lors il n’y a pas de raison pour que vous l’employiez autrement que celui qui l’a introduit dans la linguistique (germanique ou romane, il n’importe). Ces deux signes sont commodes, il serait fâcheux, par une divergence d’emploi, de les rendre gênants. Voilà mon avis. </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p> J’ai lu avec beaucoup d’intérêt, comme vous pensez votre article <hi rendition="#u">
+pessimiste</hi>
+          <note n="4" place="foot" type="editorial"> Compte rendu fait par Schuchardt de la thèse de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.4483">Paul Passy</persName> (présentée cette même année à la Faculté des Lettres de Paris), <hi rendition="#i">Étude sur les changements phonétiques et leurs caractères généraux</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4779">Passy 1890</ref>
+            </bibl>). Schuchardt rappelle à cette occasion son mépris pour la notion d’infaillibilité des lois phonétiques, source de son pessimisme à l’égard de l’évolution de la linguistique romane (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.455">Schuchardt 1892b</ref>
+
+            </bibl>). </note>. Il ne m’a pas trop découragé, parce que je suis moins exigeant que vous. Je trouve que notre science est en train de faire tous les jours de grands progrès, et c’est un plaisir de voir tant de questions, qui étaient mal posées ou mal abordées traitées maintenant avec compétence et avec le sentiment de l’ensemble. La science étant infinie, si on était arrivé à atteindre ce que vous lui proposez comme but, elle en verrait devant elle un autre qui lui semblerait aussi éloigné. Votre répugnance pour la nécessité des lois phonétiques est à la fois cause et effet de votre misanthropie philologique actuelle. Au lieu que nous autres pauvres <hi
+            rendition="#u">mécanistes</hi> nous trouvons de petits bonheurs quotidiens à ramener à la règle les phénomènes qui semblaient s’y soustraire, vous éprouvez une satisfaction malicieuse, et qui ne saurait vous donner une joie pure, à recueillir tout ce qui est contraire aux lois et aux bonnes mœurs phonétiques. Vous êtes le Méphisto de la philologie romane, mais votre <hi
+            rendition="#u">besseres Ich</hi>, qui <pb facs="#IMG.3"
+            n="3"/> aspire à l’unité et à l’harmonie, souffre de la besogne que le démon qui est en vous accomplit avec un méchant contentement. En dehors de cela, j’aimerais causer avec vous de tout ce que vous agitez, le soir, au coin du feu, en fumant une pipe, ou le matin en nous promenant dans nos prairies. Il y a un point où je ne suis pas de votre avis, c’est sur l’importance prédominante de l’individualisme. En science, il n’y a d’individuel que l’erreur. En linguistique, l’individu n’est que le lieu où se rencontrent des faits généraux, et d’ailleurs nul n’a montré mieux que vous que toute langue soi-disant individuelle est une <hi rendition="#u">Mischsprache</hi>
+          <note n="5" place="foot" type="editorial"> En particulier dans l’ouvrage <hi rendition="#i">Slawo-deutsches und Slawo-italienisches</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.184">Schuchardt 1884a</ref>
+
+            </bibl>). </note>. Que les idées des savants leur soient souvent dictées par leur idiosyncrasie de leur éducation, c’est évident, mais elles ne sont acceptées par les autres qu’indépendamment de leur cause individuelle. L’effort de la science doit être de réduire le plus possible la part de ce qu’on appelle en astronomie l’équation personnelle. Quant au reproche que vous me faites de nier les dialectes pour les retrouver sous d’autres noms<note
+            n="6" place="foot" type="editorial">Écho à la recension de l’ouvrage de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.4483">Passy</persName>, dans laquelle Schuchardt interpelle G. Paris: «G. Paris nimmt in seinem Vortrag ‘Les parlers de France’ (<hi rendition="#i">Rev. des pat. gallo-r</hi>. II, 161-175) ganz denselben Standpunkt ein wie ich, der ich schon 1870, nur mündlich, dargethan hatte in welchem Grade der stetige Zusammenhang der romanischen Mundarten der genealogischen Klassifikation widerstrebt. Wenn er jedoch mit Nachdruck sagt: ‘wir sprechen Latein’, so konnte er ebenso gut sagen: ‘wir sprechen Spanisch’, ‘wir sprechen Italienisch’; ja ‘wir sprechen Arisch’. Was wäre hiermit, was ist mit Jenem gesagt? Indem G. Paris sich gegen die eine Form der individualisirenden Anschauung wendet, verfällt er in die andere; wo Manche mehrere Individuen sehen, Muttersprachen und Tochtersprachen, sieht er nur eines, er meint dass die Sprache durch alle Abänderungen hindurch den Kern ihres Wesens so wenig ändere wie ein Individuum» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.455">
+Schuchardt 1892b</ref>
+            </bibl>, 306).</note>, il ne me semble pas mérité. Le latin ne pouvait certaine- <pb facs="#IMG.4"
+            n="4"/> ment pas se délimiter strictement par rapport aux parlers circonvoisins; mais importé en <placeName>
+Gaule</placeName> il était très nettement différent des langues qu’on y parlait, et c’est lui et non ces langues qui se continue dans le français. J’ai dit expressément, je pense, que si nous possédions l’empreinte de tous les phonèmes émis par les descendants de la tribu où s’est formé le proto-aryen, nous ne pourrions dire où finit et où commence aucune langue. «On pourrait dire: nous parlons aryen»<note
+            n="7" place="foot" type="editorial">Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.455">1892b</ref>
+            </bibl>, 306)</note>? Oui, s’il s’agit d’établir que nous ne parlons pas chinois ou sémitique. Et que toutes les langues puissent et même doivent remonter à une seule, je suis très disposé à le croire. Et on pourrait encore discourir longtemps là-dessus. </p>
+        <p> J’achèverai à mon retour à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName> une note sur le <hi rendition="#u">c</hi>
+          <note n="8" place="foot" type="editorial">L’article «L’altération romane du <hi
+              rendition="#i">c</hi> latin» sera publié en 1893 dans les <hi rendition="#i">Annuaires de l’EPHE</hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4170">Paris 1893a</ref>
+
+            </bibl>).</note>, d’où il résulte, ce que vous aurez sûrement constaté vous-même depuis longtemps, que tous les exemples épigraphiques<note
+            n="9" place="foot"
+            type="editorial">G. Paris avait d’abord écrit «paléographique», puis corrigé en «épigraphique».</note> de <hi
+            rendition="#u">z</hi> ou <hi rendition="#u">s</hi> pour <hi rendition="#u">c</hi> sont faux<note n="10"
+            place="foot" type="editorial">G. Paris se montre plus précis dans son article «L’arrivée du <hi
+              rendition="#i">c</hi>, dans certains lieux et certains temps, à la valeur exprimée d’ordinaire par <hi
+              rendition="#i">z</hi> ou par <hi rendition="#i">s</hi> a donné lieu à des notations du <hi rendition="#i">c</hi> par ces lettres, qui sont précieuses pour l’histoire phonétique, mais qui n’appartiennent pas aux phases anciennes de l’évolution» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4170">Paris 1893a</ref>
+            </bibl>, 15).</note>. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5512">Seelmann</persName>
+          <note n="11" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.5512">Emil Paul Seelmann</persName> (1859-1915) officie comme bibliothécaire à Bonn, Breslau, Göttingen puis Halle, avant d’occuper une fonction de philologue à la bibliothèque universitaire de Bonn. Il a publié quelques travaux sur l’ancien français, ainsi que sur la prononciation du latin vulgaire (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8769">Seelmann 1885</ref>
+
+            </bibl>), dont parle ici G. Paris. </note> vous a copié en ayant l’air de faire un contrôle qu’il n’a pas fait<note
+            n="12" place="foot" type="editorial">G. Paris (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4170">1893a</ref>
+            </bibl>, notamment p. 23, n. 2) compare en effet les travaux de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.5512">Seelmann</persName> avec le <hi rendition="#i">Vokalismus</hi> de Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">1866a</ref>
+            </bibl>), pourtant rédigé 20 ans plus tôt, et s’y montre critique envers les apports de Seelmann (notamment <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4170">Paris 1893</ref>
+            </bibl>, 23, n. 2).</note>. </p>
+        <closer>
+          <salute>Croyez-moi toujours, mon cher ami, Votre bien dévoué</salute>
+          <lb/>
+          <signed>GParis</signed>
+        </closer>
+        <postscript>
+          <p> Merci de vos affectueuses félicitations; mes deux Marguerites<note n="13" place="foot" type="editorial">
+              <persName
+                ref="https://gams.uni-graz.at/o:hsa.persons#P.6601">Marguerite Savary</persName>, née Mahou, seconde épouse de G. Paris, et leur fille, <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2351">Marguerite 'Griette' Paris</persName>.</note> vont très bien. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

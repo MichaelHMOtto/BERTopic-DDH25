@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Eduard u. Ida Hahn an Hugo Schuchardt (05-04334)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1696">
+            <forename>Eduard u. Ida</forename>
+            <surname>Hahn</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger </forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12095" type="PID">o:hsa.letter.12095</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-04334</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04334</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1696">
+                <forename>Eduard u. Ida</forename>
+                <surname>Hahn</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="8" unit="pages">8 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" ref="http://sws.geonames.org/2950159">Berlin</origPlace>
+              <origDate ana="dcterms:created" when="1911-11-11">1911-11-11</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger </forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Eduard u. Ida Hahn und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1696"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12095">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1696" ref="https://viaf.org/viaf/8138031">
+            <forename>Eduard u. Ida</forename>
+            <surname>Hahn</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.38" key="#GID.1" ref="http://sws.geonames.org/2950159">Berlin</placeName>
+          <date when="1911-11-11">1911-11-11</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Berlin</settlement>
+                <name ref="http://geonames.org/2950159" type="fcode:PPLC">Berlin</name>
+                <location>
+                  <geo>13.41053,52.52437</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1696" type="context">
+                        Korrespondenz Eduard u. Ida Hahn - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12095" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12095" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Berlin W. 40 Noll Nollendorfstr. 31<lb/> d. 11<hi rendition="#sup">ten</hi> Nov 1911</dateline>
+        <opener>Sehr verehrter Herr Schuchardt!</opener>
+
+        <p> Unsere Gedanken haben sich in dieser Zeit wohl häufiger gekreuzt. Gab es doch so manchen Punkt auf dem sie zusammentreffen mußten. Mehrmals wenigstens haben wir den Wunsch gehabt Ihnen einige Worte zu schreiben. Erst als Wörter u. Sachen III ins Haus kam<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.358">Schuchardt, Hugo (1911). <hi
+                  rend="unknown" rendition="#none">Cose e parole</hi>. In: Primo congresso di etnografia italiana. Rassegna contemporana IV (Roma, 19-24 ottobre 1911), S. 3-10.</ref>
+            </bibl>
+          </note>, die mein Bruder besprechen soll. Denn als Ihr <pb facs="#IMG.2"
+            n="2"/> gedrucktes Schreiben eintraf, daß uns bewegte und dann als uns Freund Sieger<note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2732">Robert Sieger</persName> (1864-1926), österr. Geograph; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2732">HSA 10545-10559</ref>.</note> eine kurze aber befriedigende Notiz sandte (oder senden ließ, da er lungenleidend war) nach der die Angelegenheit doch beigelegt ist von Seite Hr. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2169">
+Mehringers</persName>
+          <note n="3" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.letter.5324">
+              <hi rend="unknown" rendition="#none">Rudolf Meringer an Hugo Schuchardt</hi> (21-07057). Graz, 28. 01. 1905. Hrsg. von Verena Schwägerl-Melchior (2017). In: Bernhard Hurch (Hrsg.): Hugo Schuchardt Archiv. Abgerufen am 24. 11. 2022.</ref>
+
+          </note>. Wir würden es Ihnen sehr wünschen, denn so wie wir Sie – zu unserer Freude kennen – lernten, liegt Ihnen ein Streit eigentlich so fern wie nur etwas.<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.289">Schuchardt, Hugo (1911).<hi
+                  rend="unknown" rendition="#none"> Gegen R. Meringer</hi>. Graz: Eigenverlag: Druckerei Leykam.</ref>
+            </bibl>
+          </note> Sie lieben es doch positiv zu schaffen und können das aus sich selbst heraus <pb facs="#IMG.3" n="3"/> besser, wie über einen andren hinweg. </p>
+
+        <p>Nun aber ist ja noch etwas anderes hinzu gekommen. Wir werden nicht mehr damit rechnen können Prof. <persName>
+Sering</persName>, der es doch einmal versuchte den Doctor an unseren gemeinschaftlichen Freund <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2508">Rhamm</persName> zu geben, mit dem großen Hausforscher zusammenzubringen. Unser und Ihr guter Freund ist uns wie so oft hier in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.38">
+Berlin</placeName> plötzlich verschwunden, nun aber um nicht wieder zu kommen. </p>
+        <pb facs="#IMG.4" n="4"/>
+        <p>Frau Andree<note n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1037">Marie Andree-Eysn</persName> (1847-1929), Frau des Ethnographen <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1038">Richard Andree</persName> (1835-1912); vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1038">
+HSA 00099-00107</ref>.</note> war noch recht besorgt um ihn und leidet darunter, daß Rhamm so wenig Pflege genoß. Auch wir hätten wohl oft recht gerne viel für den alten, so von Wissenschaft vollgepropften Herrn gethan, aber es war wohl gar nicht ganz leicht wirklich zu helfen. </p>
+        <p>Wir freuen uns jedenfalls, daß er uns mit Ihnen zusammen brachte – und daß er einmal in unserem Hause war. Leid thut es mir im besonderen immer noch daß ich damals um den Doctor nicht telegraphierte. </p>
+        <p>Nun darf ich aber vielleicht <pb facs="#IMG.5" n="5"/> noch die Gelegenheit benutzen Ihnen etwas von uns vorzuplaudern. </p>
+        <p>Den Sommer über hatten wir ja die Freude wieder recht viel mit Prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2706">Schweinfurth</persName> zusammen zu sein. Erst Ende October reiste er ab und nun haben wir von ihm Berichte aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.42">
+München</placeName>, wo er mit Andrées zusammen war und uns <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.335">Triest</placeName> (über Geheimrat Ascherson<note n="6"
+            place="foot" type="editorial">
+
+            <persName>
+
+Friedrich Paul Ascherson</persName> (1834-1919), deutscher Botaniker, Historiker, Ethnograph und Sprachforscher.</note>). Der alte Herr ist hier immer recht einsam eigentlich. Die alten Freunde sind fort und das junge Volk ist ja oft so mit sich selbst beschäftigt daß an ein Aufsuchen der Alten dann immer nicht mehr zu denken ist. <pb
+            facs="#IMG.6" n="6"/> So sind nun wir schon so Bindeglieder zu den alten Zeiten und auch den Jungen. Mein Bruder hat ja auch unendlich viel Berührungspunkte mit den großen Botanikern Schweinfurth und Ascherson und so ist es immer ein lebhaftes Herüber und Hinüber bei dem der Jüngste des Kleeblattes natürlich viel lernen kann. </p>
+        <p>Sonst geht es uns gut. Aus unserer diesjährigen Donaufahrt an der Hans Virchow<note n="7" place="foot" type="editorial">
+
+            <persName>
+Hans Virchow</persName> (1852-1940), Prof. d. Anatomie (zweiter Sohn des berühmten Pathologen <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3924">Rudolf V.</persName>).</note> und der Amerikanist Ehrenreich<note
+            n="8" place="foot" type="editorial">
+
+            <persName>
+Paul Ehrenreich</persName> (1855-1914), deutscher Anthropologe und Ethnologe.</note> teilnehmen wollten, wurde im letzten Augenblick nichts, da von unseren Schif- <pb
+            facs="#IMG.7" n="7"/> fern 3 krank wurden und längere Tage es blieben und da wir ja überhaupt nur mit sehr wenig gelernten Kräften rechnen können, wurde dann unsern Freunden die Zeit für die Fahrt zu spät. Dafür liegt nun ein sehr schönes Schiff für den Sommer 1912 in <placeName>
+Ulm</placeName> bereit und wie es scheint kommen diesmal die Teilnehmer (10 Personen) gut zusammen. </p>
+
+        <p>Von unserem Leben hier können wir eigentlich wenig berichten. Uns kommt es jetzt oft recht still vor in der Gleichmässigkeit der Arbeit und auch des Zusammen-<pb
+            facs="#IMG.8" n="8"/> seins mit Freunden und Mitstrebenden. Daß mein Bruder aber immer noch einer der jüngsten Privatdozenten ist, wissen Sie vielleicht. Die früher so gut unterrichtete 
+Vossische Ztg. machte ihn vor einem Jahr sogar zu einem „jugendlichen“ Gelehrten. </p>
+        <p>Wir hoffen recht sehr Sie sollen jetzt den Spätherbst, der uns hier noch so schöne Tage bringt recht genießen können. </p>
+        <closer>
+          <salute>Mit den besten Grüßen von uns Beiden</salute>
+          <lb/>
+          <salute>Ihre sehr ergebenen</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1696">Ida und Dr. Ed. Hahn</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

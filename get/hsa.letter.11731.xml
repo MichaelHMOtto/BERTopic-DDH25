@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (24-08573)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11731" type="PID">o:hsa.letter.11731</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">24-08573</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08573</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created" when="1875">1875</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11731">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date when="1875">1875</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11731" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11731" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11731" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7445" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>[s. l.] [s. d.]<note n="1" place="foot" type="editorial">
+Lettre manuscrite, [s. l.], [1875]. Cette lettre a été archivée de façon erronée à la date de 1877.</note>
+        </dateline>
+        <opener>Mon cher ami,</opener>
+
+        <p> Je suis si coupable envers vous que je ne sais que vous dire pour m’excuser, si ce n’est que mes torts ne sont pas spéciaux, mais – malheureusement! – généraux. Aujourd’hui encore je ne vous envoie qu’un mot, mais je n’ai pas voulu laisser partir vos épreuves sans y joindre au moins quelques lignes<note
+            n="2" place="foot" type="editorial">Il s’agit de l’article de Schuchardt, «Étymologies», publié dans la <hi rendition="#i">Romania</hi>, 4/14 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">Schuchardt 1875a</ref>
+            </bibl>).</note>. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2229">Morel-Fatio</persName>
+          <note n="3" place="foot" type="editorial"> Alfred Morel-Fatio (1850-1924) vient de sortir de l’Ecole des chartes en 1874, il avait appris l’allemand lors d’un séjour à Leipzig, où, adolescent, il avait été envoyé par son père dans le but d’apprendre la comptabilité. </note>, qui a traduit vos notes étymologiques, me dit qu’il n’est pas toujours bien sûr de sa version, et je ne retrouve plus l’original. Revoyez donc l’article avec soin, mais, je vous en prie, ne nous le faites pas attendre. </p>
+        <p> J’ai lu, il y a longtemps déjà, votre travail sur la Terzine<note n="4" place="foot"
+              type="editorial">Voir l. du 13 mars 1875 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11729">HS 22-24456</ref>).</note>. <pb facs="#IMG.2"
+            n="2"/> On devrait toujours écrire les comptes-rendus dès qu’on vient de lire un travail. A présent je n’ai plus qu’une idée générale du vôtre, et il me faudra le relire en entier pour pouvoir en rendre compte. Mais je sais que mon impression sur l’origine de la terza rima de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4219">Dante</persName> n’a pas été tout à fait conforme à vos conclusions<note
+            n="5" place="foot"
+              type="editorial"> Schuchardt défend l’idée d’une continuité entre poésie lyrique traditionnelle et poésie lyrique artistique, donnant ainsi à la <hi
+              rendition="#i">terza rima</hi> de Dante une trajectoire qui passe par le <hi
+              rendition="#i">ritornello</hi> puis le madrigal. Ceci le conduit à poser deux hypothèses: primo, Dante n’a pas créé la <hi rendition="#i">terza rima</hi>, qui existait avant lui (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.612">Schuchardt 1874d</ref>
+            </bibl>, 124); secundo, il a puisé son inspiration dans une forme de poésie populaire: «Und wenn Dante den Vorsatz aufgab, sein gewaltiges Gedicht in ein lateinisches Gewand zu hüllen, so that er es doch gewiss nur, um ihm eine grössere Verbreitung zu sichern. Er wählte die Sprache des Volkes; warum nicht auch seine Sangweise?» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.612">Schuchardt 1874d</ref>
+
+            </bibl>, 126). Dans son compte rendu, G. Paris s’écarte de ces deux hypothèses: «En l’absence de tout témoignage dans le passé, il est hardi d’admettre que le <hi rendition="#i">ritornello</hi>, qui, de l’avis même de l’auteur, est une forme dérivée, existât du temps de Dante, et il n’est guère admissible qu’un poète aussi attentif à la forme se soit borné à ramasser dans la rue le moule où il voulait jeter sa pensée, et qui semble lui convenir si admirablement» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1051">Paris 1875c</ref>
+            </bibl>, 491).</note>. Au reste, ce n’est là qu’un point secondaire dans un travail si important, et tout à fait neuf. </p>
+        <p> Dans les <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">étymologies</ref>
+
+          </bibl> ci-jointes, il y en a une qui m’a encore une fois enlevé le plaisir de la proposer le premier; c’est celle d’<hi
+            rendition="#u">aguinaldo</hi>. J’ai attaqué depuis bien longtemps ce problème très-curieux du côté d’<hi
+            rendition="#u">aguilaneuf</hi>, et j’étais arrivé au même résultat, ou plutôt à <hi
+            rendition="#u">calendarum</hi> (au m. â. le temps <hi rendition="#u">calendor</hi>) pour le français, <hi
+            rendition="#u">calenda</hi> ayant pris absolument le même sens dans le slave <hi
+            rendition="#u">kolende</hi>, etc., etc. J’ai trouvé des difficultés qui m’ont fait suspendre mes recherches sur ce point, <pb
+            facs="#IMG.3" n="3"/> comme sur tant d’autres. Maintenant vous avez défloré la question<note n="6"
+            place="foot" type="editorial">Schuchardt donne pour le terme espagnol <hi
+              rendition="#i">aguinaldo </hi>(= étrennes) et le terme français <hi
+              rendition="#i">aguilaneuf</hi> (littéralement «au gui l’an neuf») la même origine, soit le terme de <hi
+              rendition="#i">calendae</hi>, ou <hi
+              rendition="#i">chalendes</hi> dans les dialectes français, qui signifie <hi rendition="#i">Noël </hi> (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">Schuchardt 1875a, 253</ref>
+            </bibl>).</note>. </p>
+        <p> Après quelque hésitation nous nous sommes décidés à imprimer l’<bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7947">art</ref>
+          </bibl>. de <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2862">Thomsen</persName> sur <hi
+            rendition="#u">vide</hi> après le vôtre, en vous réservant, comme vous le verrez par la note<note n="7"
+            place="foot"
+              type="editorial"> Schuchardt et Thomsen s’accordent pour démontrer que, contrairement à ce qu’avait notamment affirmé Diez, <hi
+              rendition="#i">vide</hi> ne dérive pas du latin <hi rendition="#i">viduus</hi>, mais de <hi rendition="#i">vacuus</hi>. Paru dans le même numéro que l’article «Étymologies» de Schuchardt, l’article «Vide, Vider» de Thomsen porte la date de septembre 1874 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7947">V. Thomsen 1875b</ref>
+            </bibl>), contre janvier de la même année pour celui de Schuchardt (voir l. du 28 mars 1875, <ref target="https://gams.uni-graz.at/o:hsa.letter.11731">HS 24-24456</ref>). Une note de G. Paris insérée au début de l’article de ce dernier (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.678">Schuchardt 1875a</ref>
+            </bibl>, 257, n. 1), précise tant la commune opinion des deux chercheurs que la priorité qu’il convient d’accorder à Schuchardt pour cette étymologie. </note>, la priorité qui vous appartient de droit. L’art. de Thomsen est plus étendu. </p>
+        <p> Je ne sais pas encore ce que je ferai pendant les vacances. Je songe à un voyage en <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6102">Hollande</placeName>
+ ou dans <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">l’Allemagne du Sud</placeName>, mais rien n’est arrêté<note
+            n="8" place="foot" type="editorial">G. Paris voyagera finalement en Sicile en été 1875 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6777">Ridoux 2020</ref>
+            </bibl>, 227).</note>. En fait de projets, je ne me plais d’ailleurs qu’à ceux qui sont irréalisables. </p>
+        <p> Pardonnez-moi, mon cher ami, ma négligence sans pareille et ne m’en croyez pas moins </p>
+        <salute>Votre dévoué,</salute>
+        <signed>G. Paris</signed>
+        <postscript>
+          <p>Qu’y a-t-il de vrai dans le bruit relatif à <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1164">Böhmer</persName> que la <hi rendition="#i">
+              <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">
+                <hi rendition="#u">Romania</hi>
+              </ref>
+            </hi> a accueilli et que je ne vois pas confirmé<note n="9" place="foot"
+                type="editorial">La «Chronique» du numéro 4/13 de la <hi rendition="#i">Romania</hi> annonce la démission de Böhmer de son poste à Strasbourg (<bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7826">«Chronique» 1875a</ref>
+              </bibl>, 158). Cette information est corrigée dans la «Chronique» du numéro suivant (4/14): «Nous avons annoncé que M. Böhmer avait donné sa démission de professeur à l’Université de Strasbourg: le fait était exact, mais M. Böhmer est revenu sur sa décision» (<bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7827">«Chronique» 1875b</ref>
+              </bibl>, 301).</note>? </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

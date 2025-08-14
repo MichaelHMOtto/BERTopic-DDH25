@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Fritz Paudler an Hugo Schuchardt (01-08682)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">
+            <forename>Fritz</forename>
+            <surname>Paudler</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12159" type="PID">o:hsa.letter.12159</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-08682</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08682</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">
+                <forename>Fritz</forename>
+                <surname>Paudler</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6679" ref="http://sws.geonames.org/3071895">Königswald</origPlace>
+              <origDate ana="dcterms:created" when="1919-07-02">1919-07-02</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Fritz Paudler und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2357"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12159">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2357" ref="https://viaf.org/viaf/66837506">
+            <forename>Fritz</forename>
+            <surname>Paudler</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6679" key="#GID.1" ref="http://sws.geonames.org/3071895">Königswald</placeName>
+          <date when="1919-07-02">1919-07-02</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Czechia</country>
+                <settlement>Libouchec</settlement>
+                <name ref="http://geonames.org/3071895" type="fcode:PPL">Libouchec</name>
+                <location>
+                  <geo>14.04071,50.75854</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2357" type="context">
+                        Korrespondenz Fritz Paudler - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.509" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Sprachwissenschaft</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.653" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Finnisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12159" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12159" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12159" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12159" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12159" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>dz.<note n="1" place="foot"
+            type="editorial">Abk. für „derzeit“.</note> Königsgwald <lb/>a. d. Dux = Bod. Bahn<note n="2" place="foot" type="editorial">
+„Bodenbach-Bahn“.</note>
+          <lb/>(<placeName>
+
+Böhmen</placeName>), 2.VII.1919.</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+        <p> Für Ihre freundlichen Zeilen zu meinen „Cro-Magnon-Studien“<note n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9883">Fritz Paudler, <hi rend="unknown" rendition="#none">Cro-Magnon-Studien</hi>, Wien: Mechitaristen, 1918 (Anthropos 12-13, 1917-1918)</ref>
+            </bibl>.</note> dank ich vielmals. Daß ein solcher Meister auf seinem eignen Gebiet mancherlei auszustellen haben würde, durfte ich natürlich gar nicht anders erwarten, und ich wünschte nur, daß sich mir Gelegenheit böte, mich mündlich noch weiter belehren zu lassen, oder daß, da ich hierauf leider so gut wie keine Aussicht habe, Sie, hochgeehrter Herr Professor, doch schriftlich weiter darauf eingingen. </p>
+        <p>Zunächst bin ich sehr verbunden für den kritischen Hinweis auf Fita<note n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1491">Fidel Fita y Colomer</persName> (18451918), spanisch-katalanischer Archäologe und Historiker; vgl. <ref target="https://gams.uni-graz.at/o:hsa.letter.9412/sdef:TEI/get?context=context:hsa.letters.1491">
+HSA 03048</ref>.</note>, der in der Tat grade einen der schwächsten Punkte meiner Arbeit trifft. Ich bin nämlich – offen gesagt – nie dazu gekommen, eine Arbeit im Original einzusehen, habe darauf rein fide verschiedener Anführungen und rühmender Hinweise Bezug genommen.</p>
+        <p>Was den Aufsatz von <persName>
+Morris Jonas</persName> bzw. das Buch „The Welsh People“<note n="5"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9885">John Rhys and David Brynmor-Jones, <hi
+                  rend="unknown" rendition="#none">The Welsh People: chapters on their origin, history, laws, language, literature and characteristics</hi>. London: Fischer Unwin, 1906.</ref>
+            </bibl>
+          </note> betrifft, so stünde es Ihnen von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName> aus zur Verfügung; die Signatur habe ich zwar nicht zur Hand, auch kann ich keine genaue Angabe wegen der verschiedenen Auflagen machen und <pb
+            facs="#IMG.2" n="2"/> bezüglich der „Hofbibliothek“, die es m. E. gleichfalls hat, jedenfalls aber ist es in der Universitätsbibliothek in der von mir angeführten 4.(letztem?) Auflage vorhanden </p>
+        <p>In bezug auf die uraltaischen Bestandteile des <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">Baskischen</ref> und das Männerkindbett<note n="6"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.9884">Hugo Kunike, <hi rend="unknown" rendition="#none">Die Couvade oder das sogenannte Männerkindbett</hi>, Halle a. S.: Buchdruckerei von Heinrich John, 1912</ref>
+            </bibl>. Vgl. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.401">Schuchardt, (1912), Nr. 631, <hi
+                  rend="unknown" rendition="#none">La Couvade chez les Basques</hi>, in: RIEV 6: 284.</ref>
+            </bibl>
+
+          </note> bei den Basken kann ich mich nicht getroffen fühlen, da ich Ihren Widerspruch in beiden Punkten kenne und ihm auch Rechnung getragen habe. Nicht nur, daß eine wirkliche Verwandtschaft zwischen Baskisch und 
+Uraltaisch grade für mich schon wegen der Zuordnung zu weit verschiedenen Rassen einfach ein Unding ist und daß mir ebenso Gutmanns Herleitungen romanischer Wörter aus dem <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.653">Finnischen</ref> anthropologisch von vornherein höchst unwahrscheinlich sind – ich frage ja gerade, wie S. 658 unten angedeutet, die Vermutung, daß das, was im Ostseefinnischen oder dem einzelnen Suomischen usw. vielleicht wirklich an Übereinstimmungen mit dem Baskischen vorhanden ist, daß diese Aufsitzer eines Zusammenhangs zwischen Baskisch und Uralthaisch einer vorfinnischen, nichturaltaischen Unterschicht des Ostseefinnischen angehören, Sprachgut aus der Zeit sind, als – Jahrhunderte, wohl Jahrtausende vor den Finnen im Sinne der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.509">
+Sprachwissenschaft</ref> und der Anthropologie – die Küsten des finnischen Meerbusens von <placeName>
+Schweden</placeName> her durch Dal=Rasse<note
+            n="7" place="foot" type="editorial">
+            <ref
+            target="https://de.wikipedia.org/wiki/F%C3%A4lische_Rasse">„Fälische Rasse, auch Fälide, Dal-Rasse bzw. Dalische Rasse (nach der mittelschwedischen Landschaft Dalarna), Dalo-Nordide oder Dalo-Fälide genannt“</ref>.</note> besiedelt wurden (die gerade in Karelien noch heute ziemlich gut erhalten ist), und zwar eben, wie ich vermute, noch nicht mit nordischer <pb
+            facs="#IMG.3"
+            n="3"/> Rasse durchsetzte, noch nicht indogermanisch, germanisch, sondern noch „prägermanisch“ sprechende Dal=Rasse. So könnten sich dann auch etwaige wirkliche Gemeinsamkeiten zwischen (Ostsee=)Finnisch und Baskisch <hi
+            rend="unknown" rendition="#none">und</hi> Germanisch, vielleicht auch Baltische, sehr einfach erklären. </p>
+        <p>Was das Männerkindbett bei den Basken betrifft, so mag es unbeweisbar sein, nach dem ganzen ethnographischen Zusammenhang aber muß ich es höchst wahrscheinlich finden, doch habe ich daraus keine Voraussetzung gemacht und bedarf einer solchen auch nicht; für meinen Zusammenhang genügen ja die antiken Zeugnisse. </p>
+
+        <p>Ganz besonders interessiert hat es mich natürlich, aus einer Anspielung in Ihren Zeilen zu erfahren, daß Sie selber, hochgeehrter Herr Professor, Sich mit der Piktenfrage befaßt und doch wohl auch etwas darüber veröffentlicht haben; da ich in Ihrer Autobibliographie (wenn doch jeder eine solche machte!), wenigstens soweit ich sie bisher – nach rückwärts – durchsehen konnte, nichts dergleichen bemerkt habe, möchte ich hiermit höflichst bitten, mich den Titel jener Veröffentlichung auch ausdrücklich Ihre jetzige Meinung über die Piktenfrage – wissen zu lassen. <note
+            n="8" place="foot" type="editorial">Vgl. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> am 17.11.1898 an <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1402">
+Dodgson</persName>: „[J] ja ich glaube, ich habe meinen alten guten Freund <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2510">J Rhys</persName> in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.9">
+Oxford</placeName> vor einigen Jahren durch meine skeptische Beurtheilung seiner Studien über die Pikten im Zusammenhang mit den Iberern einigermassen verstimmt“ (Brief Schuchardt an Spencer <ref target="https://gams.uni-graz.at/o:hsa.letter.3765/sdef:TEI/get?context=context:hsa.letters.1402">
+HSA 237-69</ref>).</note>
+        </p>
+
+        <p>Zum Schluß darf ich wohl ausdrücklich darauf hinweisen, daß meine Argumentation in all den in meiner Arbeit behandelten Sprachverwandtschaftsfragen nicht auf bestimmte Autoritäten <pb
+            facs="#IMG.4"
+            n="4"/> gegründet und im wesentlichen überhaupt nicht linguistisch, sondern anthropologisch bzw. synthetisch, auf das biologische Postulat der ursprünglichen Zusammengehörigkeit ja einer Rasse, eines Sprachstammes und einer Kultur gegründet ist. Auch wo ich eine linguistische Einzelheit zur Sprache bringe, wie die Nachstellung des Artikels in Europa (S. 679-73 Anm.), bin ich gemüht, mich nicht von einer bestimmten linguistischen Hypothese abhängig zu machen, selbst wenn sie mir noch so gut in den Kram paßt, wie die albanisch-thrakische. Übrigens bin ich aber nicht, wie es wohl scheinen mag, von Haus aus Anthropologe und erst später auf die Sprachverwandtschaftsfrage gekommen, sondern bin umgekehrt von Haus aus Sprachwissenschaftler (hauptsächlich Schüler von Berneker<note
+            n="9" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1130">Erich Berneker</persName> (1874-1937), deutscher Philologe und Sprachwissenschaftler, Slawist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1130?locale=de">HSA 00936-00937</ref>.</note> und Winternitz<note
+            n="10" place="foot" type="editorial">
+
+            <persName>
+Moriz Winternitz</persName> (1863-1937), österreichischer Indologe und Ethnologe.</note>) und habe mich nur immer mehr der Rassenforschung zugewandt, die ich eben – abgesehen von allem andern – für das που αο<note
+            n="11" place="foot" type="editorial">Unklar, was gemeint ist - που αει?</note> halte. </p>
+        <closer>
+          <salute>Nun will ich aber mit nochmaligem herzlichsten Dank für die mir erteilten Winke und das aus Ihrer Karte sprechende Wohwollen und in Hoffnung freundlicher Antwort schließen</salute>
+          <lb/>
+          <salute>als</salute>
+          <lb/>
+          <salute>Ihr in größter Hochachtung</salute>
+          <lb/>
+          <salute>ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2357">Fritz Paudler.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

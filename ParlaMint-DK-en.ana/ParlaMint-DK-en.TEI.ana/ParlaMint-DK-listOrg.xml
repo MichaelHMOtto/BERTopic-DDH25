@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listOrg xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-DK-listOrg" xml:lang="da">
+   <org xml:id="ParlaMint-DK-GOV" role="government">
+      <orgName xml:lang="da" full="yes">Regeringen</orgName>
+      <orgName xml:lang="en" full="yes">The Danish Government</orgName>
+      <listEvent>
+         <head xml:lang="en">Legislative period</head>
+         <event xml:id="FT.14" from="2014-02-03" to="2015-06-28">
+            <label xml:lang="da">Regeringen Helle Thorning-Schmidt II</label>
+            <label xml:lang="en">Thorning-Schmidt II Cabinet</label>
+         </event>
+         <event xml:id="FT.15" from="2015-06-28" to="2016-11-28">
+            <label xml:lang="da">Regeringen Lars Løkke Rasmussen II</label>
+            <label xml:lang="en">Lars Løkke Rasmussen II Cabinet</label>
+         </event>
+         <event xml:id="FT.16" from="2016-11-28" to="2019-06-27">
+            <label xml:lang="da">Regeringen Lars Løkke Rasmussen III</label>
+            <label xml:lang="en">Lars Løkke Rasmussen III Cabinet</label>
+         </event>
+         <event xml:id="FT.19" from="2019-06-27">
+            <label xml:lang="da">Regeringen Mette Frederiksen</label>
+            <label xml:lang="en">Frederiksen Cabinet</label>
+         </event>
+      </listEvent>
+   </org>
+   <org xml:id="FT" role="parliament" ana="#parla.national #parla.uni">
+      <orgName full="yes" xml:lang="da">Folketinget</orgName>
+      <orgName full="yes" xml:lang="en">The Folketing, the Danish Parliament</orgName>
+      <event from="1849">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://da.wikipedia.org/wiki/Folketinget</idno>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Folketing</idno>
+      <listEvent>
+         <head xml:lang="en">Parliamentary year</head>
+         <event xml:id="FT.20141" from="2014-10-07" to="2015-05-27">
+            <label xml:lang="da">Session 20141</label>
+            <label xml:lang="en">Session 20141</label>
+         </event>
+         <event xml:id="FT.20142" from="2015-07-02" to="2015-08-26">
+            <label xml:lang="da">Session 20142</label>
+            <label xml:lang="en">Session 20142</label>
+         </event>
+         <event xml:id="FT.20151" from="2015-10-06" to="2016-09-06">
+            <label xml:lang="da">Session 20151</label>
+            <label xml:lang="en">Session 20151</label>
+         </event>
+         <event xml:id="FT.20161" from="2016-10-04" to="2017-09-07">
+            <label xml:lang="da">Session 20161</label>
+            <label xml:lang="en">Session 20161</label>
+         </event>
+         <event xml:id="FT.20171" from="2017-10-03" to="2018-09-06">
+            <label xml:lang="da">Session 20171</label>
+            <label xml:lang="en">Session 20171</label>
+         </event>
+         <event xml:id="FT.20181" from="2018-10-02" to="2019-05-07">
+            <label xml:lang="da">Session 20181</label>
+            <label xml:lang="en">Session 20181</label>
+         </event>
+         <event xml:id="FT.20182" from="2019-06-20" to="2019-09-12">
+            <label xml:lang="da">Session 20182</label>
+            <label xml:lang="en">Session 20182</label>
+         </event>
+         <event xml:id="FT.20191" from="2019-10-01" to="2020-09-29">
+            <label xml:lang="da">Session 20191</label>
+            <label xml:lang="en">Session 20191</label>
+         </event>
+         <event xml:id="FT.20201" from="2020-10-06" to="2021-09-09">
+            <label xml:lang="da">Session 20201</label>
+            <label xml:lang="en">Session 20201</label>
+         </event>
+         <event xml:id="FT.20211" from="2021-10-05" to="2022-06-07">
+            <label xml:lang="da">Session 20211</label>
+            <label xml:lang="en">Session 20211</label>
+         </event>
+      </listEvent>
+   </org>
+   <org xml:id="party.ALT" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Alternativet</orgName>
+      <orgName full="abb">ALT</orgName>
+      <event from="2013-11-27">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/The_Alternative_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/The_Alternative_(Denmark)" ana="#orientation.CCL"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="219" n="A" from="2019" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="2019" to="2019" n="219"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="2019" to="2019" n="A"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="2019" to="2019" n="2.5"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="2019" to="2019" n="3.2"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_blur">
+            <state type="value" from="2019" to="2019" n="4.2"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_dissent">
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_salience">
+            <state type="value" from="2019" to="2019" n="3.4"/>
+         </state>
+         <state type="variable" ana="#ches.anti_islam_rhetoric">
+            <state type="value" from="2019" to="2019" n="2.5"/>
+         </state>
+         <state type="variable" ana="#ches.antielite_salience">
+            <state type="value" from="2019" to="2019" n="4.9"/>
+         </state>
+         <state type="variable" ana="#ches.civlib_laworder">
+            <state type="value" from="2019" to="2019" n="2.5"/>
+         </state>
+         <state type="variable" ana="#ches.corrupt_salience">
+            <state type="value" from="2019" to="2019" n="1.8"/>
+         </state>
+         <state type="variable" ana="#ches.deregulation">
+            <state type="value" from="2019" to="2019" n="2.9"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.econ_interven">
+            <state type="value" from="2019" to="2019" n="3.4"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.enviro_salience">
+            <state type="value" from="2019" to="2019" n="9.6"/>
+         </state>
+         <state type="variable" ana="#ches.environment">
+            <state type="value" from="2019" to="2019" n="2.1"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="2019" to="2019" n="3.4"/>
+         </state>
+         <state type="variable" ana="#ches.ethnic_minorities">
+            <state type="value" from="2019" to="2019" n="2.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="2019" to="2019" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_blur">
+            <state type="value" from="2019" to="2019" n="3.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_budgets">
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="2019" to="2019" n="4.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="2019" to="2019" n="2.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="2019" to="2019" n="3.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_intmark">
+            <state type="value" from="2019" to="2019" n="4.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="2019" to="2019" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="2019" to="2019" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="2019" to="2019" n="7"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="2019" to="2019" n="0.9"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_blur">
+            <state type="value" from="2019" to="2019" n="0.8"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_dissent">
+            <state type="value" from="2019" to="2019" n="0.7"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_salience">
+            <state type="value" from="2019" to="2019" n="7.9"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_dissent">
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_policy">
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_salience">
+            <state type="value" from="2019" to="2019" n="5.6"/>
+         </state>
+         <state type="variable" ana="#ches.members_vs_leadership">
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.multicult_dissent">
+            <state type="value" from="2019" to="2019" n="2.2"/>
+         </state>
+         <state type="variable" ana="#ches.multicult_salience">
+            <state type="value" from="2019" to="2019" n="5.6"/>
+         </state>
+         <state type="variable" ana="#ches.multiculturalism">
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.nationalism">
+            <state type="value" from="2019" to="2019" n="1.5"/>
+         </state>
+         <state type="variable" ana="#ches.people_vs_elite">
+            <state type="value" from="2019" to="2019" n="6.5"/>
+         </state>
+         <state type="variable" ana="#ches.protectionism">
+            <state type="value" from="2019" to="2019" n="3.6"/>
+         </state>
+         <state type="variable" ana="#ches.redist_salience">
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.redistribution">
+            <state type="value" from="2019" to="2019" n="2.8"/>
+         </state>
+         <state type="variable" ana="#ches.regions">
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.religious_principles">
+            <state type="value" from="2019" to="2019" n="0.9"/>
+         </state>
+         <state type="variable" ana="#ches.russian_interference">
+            <state type="value" from="2019" to="2019" n="0.8"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="2019" to="2019" n="2.9"/>
+         </state>
+         <state type="variable" ana="#ches.sociallifestyle">
+            <state type="value" from="2019" to="2019" n="0.6"/>
+         </state>
+         <state type="variable" ana="#ches.spendvtax">
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.urban_rural">
+            <state type="value" from="2019" to="2019" n="2.6"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.DF" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Dansk Folkeparti</orgName>
+      <orgName full="abb">DF</orgName>
+      <event from="1995-10-06">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Danish_People%27s_Party</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Danish_People%27s_Party" ana="#orientation.R"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="215" n="DF" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="215"/>
+            <state type="value" from="2002" to="2005" n="215"/>
+            <state type="value" from="2006" to="2009" n="215"/>
+            <state type="value" from="2010" to="2013" n="215"/>
+            <state type="value" from="2014" to="2018" n="215"/>
+            <state type="value" from="2019" to="2019" n="215"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="DF"/>
+            <state type="value" from="2002" to="2005" n="DF"/>
+            <state type="value" from="2006" to="2009" n="DF"/>
+            <state type="value" from="2010" to="2013" n="DF"/>
+            <state type="value" from="2014" to="2018" n="DF"/>
+            <state type="value" from="2019" to="2019" n="DF"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="8.9"/>
+            <state type="value" from="2002" to="2005" n="8.8"/>
+            <state type="value" from="2006" to="2009" n="7.7"/>
+            <state type="value" from="2010" to="2013" n="7.8"/>
+            <state type="value" from="2014" to="2018" n="6.9"/>
+            <state type="value" from="2019" to="2019" n="6.9"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="7.3"/>
+            <state type="value" from="2002" to="2005" n="6.1"/>
+            <state type="value" from="2006" to="2009" n="4.8"/>
+            <state type="value" from="2010" to="2013" n="5.5"/>
+            <state type="value" from="2014" to="2018" n="4.5"/>
+            <state type="value" from="2019" to="2019" n="4.4"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13720"/>
+            <state type="value" from="2002" to="2005" n="13720"/>
+            <state type="value" from="2006" to="2009" n="13720"/>
+            <state type="value" from="2010" to="2013" n="13720"/>
+            <state type="value" from="2014" to="2018" n="13720"/>
+            <state type="value" from="2019" to="2019" n="13720"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="5.8"/>
+            <state type="value" from="2002" to="2005" n="5.8"/>
+            <state type="value" from="2006" to="2009" n="6.8"/>
+            <state type="value" from="2010" to="2013" n="15.3"/>
+            <state type="value" from="2014" to="2018" n="26.6"/>
+            <state type="value" from="2019" to="2019" n="10.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="1.3"/>
+            <state type="value" from="2002" to="2005" n="1.3"/>
+            <state type="value" from="2019" to="2019" n="1.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="1.4"/>
+            <state type="value" from="2002" to="2005" n="2"/>
+            <state type="value" from="2006" to="2009" n="2.7"/>
+            <state type="value" from="2010" to="2013" n="4.8"/>
+            <state type="value" from="2014" to="2018" n="2.8"/>
+            <state type="value" from="2019" to="2019" n="2.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="0"/>
+            <state type="value" from="2002" to="2005" n="1.6"/>
+            <state type="value" from="2006" to="2009" n="1.7"/>
+            <state type="value" from="2010" to="2013" n="0.9"/>
+            <state type="value" from="2014" to="2018" n="1.1"/>
+            <state type="value" from="2019" to="2019" n="1.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="1.7"/>
+            <state type="value" from="2002" to="2005" n="1.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="1.6"/>
+            <state type="value" from="2002" to="2005" n="3.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="1.6"/>
+            <state type="value" from="2002" to="2005" n="1.5"/>
+            <state type="value" from="2006" to="2009" n="2.2"/>
+            <state type="value" from="2010" to="2013" n="3"/>
+            <state type="value" from="2014" to="2018" n="3.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="1.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="1.3"/>
+            <state type="value" from="2002" to="2005" n="2.1"/>
+            <state type="value" from="2006" to="2009" n="2.3"/>
+            <state type="value" from="2010" to="2013" n="2.4"/>
+            <state type="value" from="2014" to="2018" n="1.9"/>
+            <state type="value" from="2019" to="2019" n="1.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="1.4"/>
+            <state type="value" from="2002" to="2005" n="1.6"/>
+            <state type="value" from="2006" to="2009" n="2.3"/>
+            <state type="value" from="2010" to="2013" n="2.4"/>
+            <state type="value" from="2014" to="2018" n="1.9"/>
+            <state type="value" from="2019" to="2019" n="2.0"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="6.4"/>
+            <state type="value" from="2002" to="2005" n="6.7"/>
+            <state type="value" from="2006" to="2009" n="5.2"/>
+            <state type="value" from="2010" to="2013" n="6.7"/>
+            <state type="value" from="2014" to="2018" n="7.3"/>
+            <state type="value" from="2019" to="2019" n="6.8"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="8"/>
+            <state type="value" from="2002" to="2005" n="8.9"/>
+            <state type="value" from="2006" to="2009" n="7.6"/>
+            <state type="value" from="2010" to="2013" n="9.4"/>
+            <state type="value" from="2014" to="2018" n="8.4"/>
+            <state type="value" from="2019" to="2019" n="8"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+            <state type="value" from="2002" to="2005" n="0.0"/>
+            <state type="value" from="2006" to="2009" n="0.0"/>
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="0.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="7.3"/>
+            <state type="value" from="2002" to="2005" n="12.3"/>
+            <state type="value" from="2006" to="2009" n="13.4"/>
+            <state type="value" from="2010" to="2013" n="14"/>
+            <state type="value" from="2014" to="2018" n="12.3"/>
+            <state type="value" from="2019" to="2019" n="9.1"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="7.4"/>
+            <state type="value" from="2002" to="2005" n="12.4"/>
+            <state type="value" from="2006" to="2009" n="13.2"/>
+            <state type="value" from="2010" to="2013" n="13.9"/>
+            <state type="value" from="2014" to="2018" n="12.2"/>
+            <state type="value" from="2019" to="2019" n="8.7"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.EL" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Enhedslisten</orgName>
+      <orgName full="abb">EL</orgName>
+      <event from="1989">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Red–Green_Alliance_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Red–Green_Alliance_(Denmark)" ana="#orientation.LLF"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="213" n="EL" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="213"/>
+            <state type="value" from="2006" to="2009" n="213"/>
+            <state type="value" from="2010" to="2013" n="213"/>
+            <state type="value" from="2014" to="2018" n="213"/>
+            <state type="value" from="2019" to="2019" n="213"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="EL"/>
+            <state type="value" from="2006" to="2009" n="EL"/>
+            <state type="value" from="2010" to="2013" n="EL"/>
+            <state type="value" from="2014" to="2018" n="EL"/>
+            <state type="value" from="2019" to="2019" n="EL"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="1.0"/>
+            <state type="value" from="2006" to="2009" n="1.0"/>
+            <state type="value" from="2010" to="2013" n="1.0"/>
+            <state type="value" from="2014" to="2018" n="1.2"/>
+            <state type="value" from="2019" to="2019" n="1.0"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="1.0"/>
+            <state type="value" from="2006" to="2009" n="1.1"/>
+            <state type="value" from="2010" to="2013" n="0.8"/>
+            <state type="value" from="2014" to="2018" n="1.0"/>
+            <state type="value" from="2019" to="2019" n="1.0"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13229"/>
+            <state type="value" from="2006" to="2009" n="13229"/>
+            <state type="value" from="2010" to="2013" n="13229"/>
+            <state type="value" from="2014" to="2018" n="13229"/>
+            <state type="value" from="2019" to="2019" n="13229"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="2.5"/>
+            <state type="value" from="2019" to="2019" n="3.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="1.8"/>
+            <state type="value" from="2006" to="2009" n="3.4"/>
+            <state type="value" from="2010" to="2013" n="4.2"/>
+            <state type="value" from="2014" to="2018" n="3"/>
+            <state type="value" from="2019" to="2019" n="3.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="0"/>
+            <state type="value" from="2006" to="2009" n="2.2"/>
+            <state type="value" from="2010" to="2013" n="1.5"/>
+            <state type="value" from="2014" to="2018" n="1.8"/>
+            <state type="value" from="2019" to="2019" n="4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="2.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="1.6"/>
+            <state type="value" from="2006" to="2009" n="2.4"/>
+            <state type="value" from="2010" to="2013" n="3.1"/>
+            <state type="value" from="2014" to="2018" n="3.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="1.1"/>
+            <state type="value" from="2006" to="2009" n="2.3"/>
+            <state type="value" from="2010" to="2013" n="2"/>
+            <state type="value" from="2014" to="2018" n="1.8"/>
+            <state type="value" from="2019" to="2019" n="1.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="1.1"/>
+            <state type="value" from="2006" to="2009" n="2.1"/>
+            <state type="value" from="2010" to="2013" n="1.7"/>
+            <state type="value" from="2014" to="2018" n="1.8"/>
+            <state type="value" from="2019" to="2019" n="2.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="6.8"/>
+            <state type="value" from="2006" to="2009" n="5.6"/>
+            <state type="value" from="2010" to="2013" n="5.5"/>
+            <state type="value" from="2014" to="2018" n="6.3"/>
+            <state type="value" from="2019" to="2019" n="5.8"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="6"/>
+            <state type="value" from="2006" to="2009" n="6"/>
+            <state type="value" from="2010" to="2013" n="6"/>
+            <state type="value" from="2014" to="2018" n="6"/>
+            <state type="value" from="2019" to="2019" n="6"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="2.3"/>
+            <state type="value" from="2006" to="2009" n="1.6"/>
+            <state type="value" from="2010" to="2013" n="1.7"/>
+            <state type="value" from="2014" to="2018" n="2.1"/>
+            <state type="value" from="2019" to="2019" n="1.1"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+            <state type="value" from="2006" to="2009" n="0.0"/>
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="0.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="2.8"/>
+            <state type="value" from="2006" to="2009" n="3.4"/>
+            <state type="value" from="2010" to="2013" n="2.2"/>
+            <state type="value" from="2014" to="2018" n="6.7"/>
+            <state type="value" from="2019" to="2019" n="7.4"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="2.7"/>
+            <state type="value" from="2006" to="2009" n="3.4"/>
+            <state type="value" from="2010" to="2013" n="2.2"/>
+            <state type="value" from="2014" to="2018" n="6.6"/>
+            <state type="value" from="2019" to="2019" n="6.9"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.FG" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Frie Grønne</orgName>
+      <orgName full="abb">FG</orgName>
+      <event from="2020-09-07">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Independent_Greens_(Denmark)" ana="#orientation.L"/>
+      </state>
+   </org>
+   <org xml:id="party.KD" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Kristendemokraterne</orgName>
+      <orgName full="abb">KD</orgName>
+      <event from="1970-04-13">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Christian_Democrats_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Christian_Democrats_(Denmark)" ana="#orientation.CCR">
+            <note xml:lang="en">This is basically the upper KRF party since it was founded id 1970 as as the Christian People's Party (Kristeligt Folkeparti)</note>
+         </state>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="210" n="KRF" from="1999" to="2001">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="210"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="KRF"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="5.7"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13520"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="5.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="3.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="10"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="2.2"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="2.4"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.IA" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Inuit Ataqatigiit</orgName>
+      <orgName full="abb">IA</orgName>
+      <event from="1976">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Inuit_Ataqatigiit</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Inuit_Ataqatigiit" ana="#orientation.L"/>
+      </state>
+   </org>
+   <org xml:id="party.JF" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Javnaðarflokkurin</orgName>
+      <orgName full="abb">JF</orgName>
+      <event from="1925-09-25">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Social_Democratic_Party_(Faroe_Islands)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Social_Democratic_Party_(Faroe_Islands)" ana="#orientation.CL">
+            <note xml:lang="en">a social-democratic political party on the Faroe Islands</note>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.KF" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Det Konservative Folkeparti</orgName>
+      <orgName full="abb">KF</orgName>
+      <event from="1915">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Conservative_People%27s_Party_(Denmark)" ana="#orientation.CR">
+            <note xml:lang="en">Also known as DKF</note>
+         </state>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="203" n="KF" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="203"/>
+            <state type="value" from="2002" to="2005" n="203"/>
+            <state type="value" from="2006" to="2009" n="203"/>
+            <state type="value" from="2010" to="2013" n="203"/>
+            <state type="value" from="2014" to="2018" n="203"/>
+            <state type="value" from="2019" to="2019" n="203"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="KF"/>
+            <state type="value" from="2002" to="2005" n="KF"/>
+            <state type="value" from="2006" to="2009" n="KF"/>
+            <state type="value" from="2010" to="2013" n="KF"/>
+            <state type="value" from="2014" to="2018" n="KF"/>
+            <state type="value" from="2019" to="2019" n="KF"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="7.1"/>
+            <state type="value" from="2002" to="2005" n="7.0"/>
+            <state type="value" from="2006" to="2009" n="7.1"/>
+            <state type="value" from="2010" to="2013" n="7.5"/>
+            <state type="value" from="2014" to="2018" n="7.0"/>
+            <state type="value" from="2019" to="2019" n="7.1"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="7.3"/>
+            <state type="value" from="2002" to="2005" n="6.8"/>
+            <state type="value" from="2006" to="2009" n="7.5"/>
+            <state type="value" from="2010" to="2013" n="7.8"/>
+            <state type="value" from="2014" to="2018" n="7.6"/>
+            <state type="value" from="2019" to="2019" n="7.6"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13620"/>
+            <state type="value" from="2002" to="2005" n="13620"/>
+            <state type="value" from="2006" to="2009" n="13620"/>
+            <state type="value" from="2010" to="2013" n="13620"/>
+            <state type="value" from="2014" to="2018" n="13620"/>
+            <state type="value" from="2019" to="2019" n="13620"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="8.5"/>
+            <state type="value" from="2002" to="2005" n="8.5"/>
+            <state type="value" from="2006" to="2009" n="11.3"/>
+            <state type="value" from="2010" to="2013" n="12.7"/>
+            <state type="value" from="2014" to="2018" n="9.1"/>
+            <state type="value" from="2019" to="2019" n="6.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="5.7"/>
+            <state type="value" from="2002" to="2005" n="4.8"/>
+            <state type="value" from="2019" to="2019" n="3.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="5.1"/>
+            <state type="value" from="2002" to="2005" n="4.3"/>
+            <state type="value" from="2006" to="2009" n="5"/>
+            <state type="value" from="2010" to="2013" n="5.2"/>
+            <state type="value" from="2014" to="2018" n="4.5"/>
+            <state type="value" from="2019" to="2019" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="2.9"/>
+            <state type="value" from="2002" to="2005" n="2.2"/>
+            <state type="value" from="2006" to="2009" n="1.7"/>
+            <state type="value" from="2010" to="2013" n="2.5"/>
+            <state type="value" from="2014" to="2018" n="3.9"/>
+            <state type="value" from="2019" to="2019" n="3.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="4.8"/>
+            <state type="value" from="2002" to="2005" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="6"/>
+            <state type="value" from="2002" to="2005" n="4.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="4.9"/>
+            <state type="value" from="2002" to="2005" n="4.5"/>
+            <state type="value" from="2006" to="2009" n="4.2"/>
+            <state type="value" from="2010" to="2013" n="5.6"/>
+            <state type="value" from="2014" to="2018" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="4.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="5.9"/>
+            <state type="value" from="2002" to="2005" n="5.5"/>
+            <state type="value" from="2006" to="2009" n="5.9"/>
+            <state type="value" from="2010" to="2013" n="4.9"/>
+            <state type="value" from="2014" to="2018" n="5.6"/>
+            <state type="value" from="2019" to="2019" n="4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="6.0"/>
+            <state type="value" from="2002" to="2005" n="5.5"/>
+            <state type="value" from="2006" to="2009" n="6.2"/>
+            <state type="value" from="2010" to="2013" n="5.9"/>
+            <state type="value" from="2014" to="2018" n="5.5"/>
+            <state type="value" from="2019" to="2019" n="5.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="5.4"/>
+            <state type="value" from="2002" to="2005" n="6.7"/>
+            <state type="value" from="2006" to="2009" n="4.4"/>
+            <state type="value" from="2010" to="2013" n="3.3"/>
+            <state type="value" from="2014" to="2018" n="4.1"/>
+            <state type="value" from="2019" to="2019" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="2"/>
+            <state type="value" from="2002" to="2005" n="2"/>
+            <state type="value" from="2006" to="2009" n="2"/>
+            <state type="value" from="2010" to="2013" n="2"/>
+            <state type="value" from="2014" to="2018" n="2"/>
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="6"/>
+            <state type="value" from="2002" to="2005" n="7.2"/>
+            <state type="value" from="2006" to="2009" n="6.8"/>
+            <state type="value" from="2010" to="2013" n="6.7"/>
+            <state type="value" from="2014" to="2018" n="7.2"/>
+            <state type="value" from="2019" to="2019" n="6.1"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+            <state type="value" from="2002" to="2005" n="1.0"/>
+            <state type="value" from="2006" to="2009" n="1.0"/>
+            <state type="value" from="2010" to="2013" n="1.0"/>
+            <state type="value" from="2014" to="2018" n="0.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="8.9"/>
+            <state type="value" from="2002" to="2005" n="8.9"/>
+            <state type="value" from="2006" to="2009" n="10.1"/>
+            <state type="value" from="2010" to="2013" n="10.1"/>
+            <state type="value" from="2014" to="2018" n="4.5"/>
+            <state type="value" from="2019" to="2019" n="6.9"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="8.9"/>
+            <state type="value" from="2002" to="2005" n="9.1"/>
+            <state type="value" from="2006" to="2009" n="10.3"/>
+            <state type="value" from="2010" to="2013" n="10.4"/>
+            <state type="value" from="2014" to="2018" n="4.9"/>
+            <state type="value" from="2019" to="2019" n="6.6"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.LA" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Liberal Alliance</orgName>
+      <orgName full="abb">LA</orgName>
+      <event from="2008-08-28">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Liberal_Alliance_(Denmark)" ana="#orientation.CRR"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="218" n="LA" from="2010" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="2010" to="2013" n="218"/>
+            <state type="value" from="2014" to="2018" n="218"/>
+            <state type="value" from="2019" to="2019" n="218"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="2010" to="2013" n="LA"/>
+            <state type="value" from="2014" to="2018" n="LA"/>
+            <state type="value" from="2019" to="2019" n="LA"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="2010" to="2013" n="8.2"/>
+            <state type="value" from="2014" to="2018" n="7.9"/>
+            <state type="value" from="2019" to="2019" n="8.0"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="2010" to="2013" n="9.2"/>
+            <state type="value" from="2014" to="2018" n="9.1"/>
+            <state type="value" from="2019" to="2019" n="8.7"/>
+         </state>
+         <state type="variable" ana="#ches.civlib_laworder">
+            <state type="value" from="2010" to="2013" n="3.7"/>
+            <state type="value" from="2014" to="2018" n="5.1"/>
+            <state type="value" from="2019" to="2019" n="4.4"/>
+         </state>
+         <state type="variable" ana="#ches.civlib_salience">
+            <state type="value" from="2010" to="2013" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="2010" to="2013" n="13001"/>
+            <state type="value" from="2014" to="2018" n="13001"/>
+            <state type="value" from="2019" to="2019" n="13001"/>
+         </state>
+         <state type="variable" ana="#ches.dereg_salience">
+            <state type="value" from="2010" to="2013" n="8"/>
+         </state>
+         <state type="variable" ana="#ches.deregulation">
+            <state type="value" from="2010" to="2013" n="9.1"/>
+            <state type="value" from="2014" to="2018" n="9.1"/>
+            <state type="value" from="2019" to="2019" n="8.5"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.enviro_salience">
+            <state type="value" from="2010" to="2013" n="3.1"/>
+            <state type="value" from="2019" to="2019" n="2.4"/>
+         </state>
+         <state type="variable" ana="#ches.environment">
+            <state type="value" from="2010" to="2013" n="7"/>
+            <state type="value" from="2014" to="2018" n="7.8"/>
+            <state type="value" from="2019" to="2019" n="6.8"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="2010" to="2013" n="0.6"/>
+            <state type="value" from="2014" to="2018" n="2.9"/>
+            <state type="value" from="2019" to="2019" n="2.2"/>
+         </state>
+         <state type="variable" ana="#ches.ethnic_minorities">
+            <state type="value" from="2010" to="2013" n="3.9"/>
+            <state type="value" from="2014" to="2018" n="5.1"/>
+            <state type="value" from="2019" to="2019" n="5.3"/>
+         </state>
+         <state type="variable" ana="#ches.ethnic_salience">
+            <state type="value" from="2010" to="2013" n="4.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_benefit">
+            <state type="value" from="2010" to="2013" n="1.8"/>
+            <state type="value" from="2014" to="2018" n="1.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="2010" to="2013" n="4.3"/>
+            <state type="value" from="2014" to="2018" n="3.6"/>
+            <state type="value" from="2019" to="2019" n="2.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="2010" to="2013" n="1.8"/>
+            <state type="value" from="2014" to="2018" n="1.9"/>
+            <state type="value" from="2019" to="2019" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="2010" to="2013" n="5.5"/>
+            <state type="value" from="2014" to="2018" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="2010" to="2013" n="4.8"/>
+            <state type="value" from="2014" to="2018" n="3.7"/>
+            <state type="value" from="2019" to="2019" n="2.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_intmark">
+            <state type="value" from="2010" to="2013" n="6.9"/>
+            <state type="value" from="2014" to="2018" n="6.1"/>
+            <state type="value" from="2019" to="2019" n="5.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="2010" to="2013" n="6.1"/>
+            <state type="value" from="2014" to="2018" n="3.8"/>
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="2010" to="2013" n="3.8"/>
+            <state type="value" from="2014" to="2018" n="4.3"/>
+            <state type="value" from="2019" to="2019" n="3.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_turkey">
+            <state type="value" from="2010" to="2013" n="5"/>
+            <state type="value" from="2014" to="2018" n="3.5"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="2010" to="2013" n="3"/>
+            <state type="value" from="2014" to="2018" n="3"/>
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="2010" to="2013" n="3.1"/>
+            <state type="value" from="2014" to="2018" n="2.6"/>
+            <state type="value" from="2019" to="2019" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="0.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_policy">
+            <state type="value" from="2010" to="2013" n="4"/>
+            <state type="value" from="2014" to="2018" n="4.1"/>
+            <state type="value" from="2019" to="2019" n="6.3"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_salience">
+            <state type="value" from="2010" to="2013" n="5.2"/>
+            <state type="value" from="2019" to="2019" n="4.6"/>
+         </state>
+         <state type="variable" ana="#ches.international_salience">
+            <state type="value" from="2010" to="2013" n="3.8"/>
+         </state>
+         <state type="variable" ana="#ches.international_security">
+            <state type="value" from="2010" to="2013" n="3.8"/>
+            <state type="value" from="2014" to="2018" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.multicult_salience">
+            <state type="value" from="2010" to="2013" n="5.9"/>
+            <state type="value" from="2019" to="2019" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.multiculturalism">
+            <state type="value" from="2010" to="2013" n="3.6"/>
+            <state type="value" from="2014" to="2018" n="4.9"/>
+            <state type="value" from="2019" to="2019" n="5.7"/>
+         </state>
+         <state type="variable" ana="#ches.redist_salience">
+            <state type="value" from="2010" to="2013" n="6.7"/>
+            <state type="value" from="2019" to="2019" n="7.9"/>
+         </state>
+         <state type="variable" ana="#ches.redistribution">
+            <state type="value" from="2010" to="2013" n="7.6"/>
+            <state type="value" from="2014" to="2018" n="8.2"/>
+            <state type="value" from="2019" to="2019" n="9.1"/>
+         </state>
+         <state type="variable" ana="#ches.region_salience">
+            <state type="value" from="2010" to="2013" n="3.4"/>
+         </state>
+         <state type="variable" ana="#ches.regions">
+            <state type="value" from="2010" to="2013" n="5.1"/>
+            <state type="value" from="2014" to="2018" n="3"/>
+            <state type="value" from="2019" to="2019" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.relig_salience">
+            <state type="value" from="2010" to="2013" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.religious_principles">
+            <state type="value" from="2010" to="2013" n="2.3"/>
+            <state type="value" from="2014" to="2018" n="1.2"/>
+            <state type="value" from="2019" to="2019" n="1.5"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="2010" to="2013" n="2.8"/>
+            <state type="value" from="2014" to="2018" n="5"/>
+            <state type="value" from="2019" to="2019" n="2.3"/>
+         </state>
+         <state type="variable" ana="#ches.social_salience">
+            <state type="value" from="2010" to="2013" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.sociallifestyle">
+            <state type="value" from="2010" to="2013" n="2.1"/>
+            <state type="value" from="2014" to="2018" n="1.5"/>
+            <state type="value" from="2019" to="2019" n="2.6"/>
+         </state>
+         <state type="variable" ana="#ches.spendvtax">
+            <state type="value" from="2010" to="2013" n="9.4"/>
+            <state type="value" from="2014" to="2018" n="9.3"/>
+            <state type="value" from="2019" to="2019" n="9.4"/>
+         </state>
+         <state type="variable" ana="#ches.spendvtax_salience">
+            <state type="value" from="2010" to="2013" n="9"/>
+         </state>
+         <state type="variable" ana="#ches.urban_rural">
+            <state type="value" from="2010" to="2013" n="2.8"/>
+            <state type="value" from="2014" to="2018" n="2.6"/>
+            <state type="value" from="2019" to="2019" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.urban_salience">
+            <state type="value" from="2010" to="2013" n="2.7"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="2010" to="2013" n="2.8"/>
+            <state type="value" from="2014" to="2018" n="4.9"/>
+            <state type="value" from="2019" to="2019" n="2.3"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.NB" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Nye Borgerlige</orgName>
+      <orgName full="abb">NB</orgName>
+      <event from="2015-10-19">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/New_Right_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/New_Right_(Denmark)" ana="#orientation.RRF"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="220" n="NB" from="2019" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="2019" to="2019" n="220"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="2019" to="2019" n="NB"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="2019" to="2019" n="9.0"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="2019" to="2019" n="8.6"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_blur">
+            <state type="value" from="2019" to="2019" n="2.9"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_dissent">
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon_salience">
+            <state type="value" from="2019" to="2019" n="5.7"/>
+         </state>
+         <state type="variable" ana="#ches.anti_islam_rhetoric">
+            <state type="value" from="2019" to="2019" n="8.8"/>
+         </state>
+         <state type="variable" ana="#ches.antielite_salience">
+            <state type="value" from="2019" to="2019" n="6.4"/>
+         </state>
+         <state type="variable" ana="#ches.civlib_laworder">
+            <state type="value" from="2019" to="2019" n="8.8"/>
+         </state>
+         <state type="variable" ana="#ches.corrupt_salience">
+            <state type="value" from="2019" to="2019" n="1.7"/>
+         </state>
+         <state type="variable" ana="#ches.deregulation">
+            <state type="value" from="2019" to="2019" n="8.2"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.econ_interven">
+            <state type="value" from="2019" to="2019" n="8.2"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.enviro_salience">
+            <state type="value" from="2019" to="2019" n="1.9"/>
+         </state>
+         <state type="variable" ana="#ches.environment">
+            <state type="value" from="2019" to="2019" n="6.8"/>
+         </state>
+         <state type="variable" ana="#ches.ethnic_minorities">
+            <state type="value" from="2019" to="2019" n="9.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="2019" to="2019" n="1.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_blur">
+            <state type="value" from="2019" to="2019" n="1.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_budgets">
+            <state type="value" from="2019" to="2019" n="1.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="2019" to="2019" n="2.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="2019" to="2019" n="2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="2019" to="2019" n="1.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_intmark">
+            <state type="value" from="2019" to="2019" n="3.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="2019" to="2019" n="1.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="2019" to="2019" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="2019" to="2019" n="8.3"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_blur">
+            <state type="value" from="2019" to="2019" n="2.4"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_dissent">
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.galtan_salience">
+            <state type="value" from="2019" to="2019" n="7.6"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_dissent">
+            <state type="value" from="2019" to="2019" n="0.6"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_policy">
+            <state type="value" from="2019" to="2019" n="9.6"/>
+         </state>
+         <state type="variable" ana="#ches.immigrate_salience">
+            <state type="value" from="2019" to="2019" n="9.8"/>
+         </state>
+         <state type="variable" ana="#ches.members_vs_leadership">
+            <state type="value" from="2019" to="2019" n="9.2"/>
+         </state>
+         <state type="variable" ana="#ches.multicult_dissent">
+            <state type="value" from="2019" to="2019" n="0.8"/>
+         </state>
+         <state type="variable" ana="#ches.multicult_salience">
+            <state type="value" from="2019" to="2019" n="8.8"/>
+         </state>
+         <state type="variable" ana="#ches.multiculturalism">
+            <state type="value" from="2019" to="2019" n="9.7"/>
+         </state>
+         <state type="variable" ana="#ches.nationalism">
+            <state type="value" from="2019" to="2019" n="9.2"/>
+         </state>
+         <state type="variable" ana="#ches.people_vs_elite">
+            <state type="value" from="2019" to="2019" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.protectionism">
+            <state type="value" from="2019" to="2019" n="3.4"/>
+         </state>
+         <state type="variable" ana="#ches.redist_salience">
+            <state type="value" from="2019" to="2019" n="6.5"/>
+         </state>
+         <state type="variable" ana="#ches.redistribution">
+            <state type="value" from="2019" to="2019" n="8.8"/>
+         </state>
+         <state type="variable" ana="#ches.regions">
+            <state type="value" from="2019" to="2019" n="4.5"/>
+         </state>
+         <state type="variable" ana="#ches.religious_principles">
+            <state type="value" from="2019" to="2019" n="4.8"/>
+         </state>
+         <state type="variable" ana="#ches.russian_interference">
+            <state type="value" from="2019" to="2019" n="0.8"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="2019" to="2019" n="2.3"/>
+         </state>
+         <state type="variable" ana="#ches.sociallifestyle">
+            <state type="value" from="2019" to="2019" n="6.2"/>
+         </state>
+         <state type="variable" ana="#ches.spendvtax">
+            <state type="value" from="2019" to="2019" n="9"/>
+         </state>
+         <state type="variable" ana="#ches.urban_rural">
+            <state type="value" from="2019" to="2019" n="5.3"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="2019" to="2019" n="2.4"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.NQ" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Nunatta Qitornai</orgName>
+      <orgName full="abb">NQ</orgName>
+      <event from="2017-09-01">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Nunatta_Qitornai</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Nunatta_Qitornai" ana="#orientation.L"/>
+      </state>
+   </org>
+   <org xml:id="party.RV" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Radikale Venstre</orgName>
+      <orgName full="abb">RV</orgName>
+      <event from="1905-05-21">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Danish_Social_Liberal_Party" ana="#orientation.CCL"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="202" n="RV" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="202"/>
+            <state type="value" from="2002" to="2005" n="202"/>
+            <state type="value" from="2006" to="2009" n="202"/>
+            <state type="value" from="2010" to="2013" n="202"/>
+            <state type="value" from="2014" to="2018" n="202"/>
+            <state type="value" from="2019" to="2019" n="202"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="RV"/>
+            <state type="value" from="2002" to="2005" n="RV"/>
+            <state type="value" from="2006" to="2009" n="RV"/>
+            <state type="value" from="2010" to="2013" n="RV"/>
+            <state type="value" from="2014" to="2018" n="RV"/>
+            <state type="value" from="2019" to="2019" n="RV"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="5.0"/>
+            <state type="value" from="2002" to="2005" n="5.1"/>
+            <state type="value" from="2006" to="2009" n="4.8"/>
+            <state type="value" from="2010" to="2013" n="5.2"/>
+            <state type="value" from="2014" to="2018" n="5.7"/>
+            <state type="value" from="2019" to="2019" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="5.3"/>
+            <state type="value" from="2002" to="2005" n="5.3"/>
+            <state type="value" from="2006" to="2009" n="5.8"/>
+            <state type="value" from="2010" to="2013" n="6.4"/>
+            <state type="value" from="2014" to="2018" n="6.5"/>
+            <state type="value" from="2019" to="2019" n="5.6"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13410"/>
+            <state type="value" from="2002" to="2005" n="13410"/>
+            <state type="value" from="2006" to="2009" n="13410"/>
+            <state type="value" from="2010" to="2013" n="13410"/>
+            <state type="value" from="2014" to="2018" n="13410"/>
+            <state type="value" from="2019" to="2019" n="13410"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="9.1"/>
+            <state type="value" from="2002" to="2005" n="9.1"/>
+            <state type="value" from="2006" to="2009" n="6.4"/>
+            <state type="value" from="2010" to="2013" n="4.3"/>
+            <state type="value" from="2014" to="2018" n="6.5"/>
+            <state type="value" from="2019" to="2019" n="10.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="5.5"/>
+            <state type="value" from="2002" to="2005" n="5.8"/>
+            <state type="value" from="2019" to="2019" n="6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="5.3"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="5.3"/>
+            <state type="value" from="2010" to="2013" n="5.5"/>
+            <state type="value" from="2014" to="2018" n="5.2"/>
+            <state type="value" from="2019" to="2019" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="2.9"/>
+            <state type="value" from="2002" to="2005" n="2.8"/>
+            <state type="value" from="2006" to="2009" n="1.4"/>
+            <state type="value" from="2010" to="2013" n="1.1"/>
+            <state type="value" from="2014" to="2018" n="1.1"/>
+            <state type="value" from="2019" to="2019" n="1.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="5.7"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="6.6"/>
+            <state type="value" from="2002" to="2005" n="6.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="4.7"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="4.8"/>
+            <state type="value" from="2010" to="2013" n="6.1"/>
+            <state type="value" from="2014" to="2018" n="6.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="5.1"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="5.9"/>
+            <state type="value" from="2010" to="2013" n="5.4"/>
+            <state type="value" from="2014" to="2018" n="6.4"/>
+            <state type="value" from="2019" to="2019" n="5.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="5.6"/>
+            <state type="value" from="2002" to="2005" n="5.8"/>
+            <state type="value" from="2006" to="2009" n="6.7"/>
+            <state type="value" from="2010" to="2013" n="6.8"/>
+            <state type="value" from="2014" to="2018" n="7.0"/>
+            <state type="value" from="2019" to="2019" n="6.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="5"/>
+            <state type="value" from="2002" to="2005" n="7.4"/>
+            <state type="value" from="2006" to="2009" n="5.2"/>
+            <state type="value" from="2010" to="2013" n="7.0"/>
+            <state type="value" from="2014" to="2018" n="6.3"/>
+            <state type="value" from="2019" to="2019" n="7.1"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="3"/>
+            <state type="value" from="2002" to="2005" n="3"/>
+            <state type="value" from="2006" to="2009" n="3"/>
+            <state type="value" from="2010" to="2013" n="3"/>
+            <state type="value" from="2014" to="2018" n="3"/>
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="3.4"/>
+            <state type="value" from="2002" to="2005" n="2.5"/>
+            <state type="value" from="2006" to="2009" n="2"/>
+            <state type="value" from="2010" to="2013" n="1.5"/>
+            <state type="value" from="2014" to="2018" n="1.9"/>
+            <state type="value" from="2019" to="2019" n="1.4"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="1.0"/>
+            <state type="value" from="2002" to="2005" n="0.0"/>
+            <state type="value" from="2006" to="2009" n="0.0"/>
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="1.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="3.9"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="9.5"/>
+            <state type="value" from="2010" to="2013" n="5"/>
+            <state type="value" from="2014" to="2018" n="9.5"/>
+            <state type="value" from="2019" to="2019" n="9.1"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="3.9"/>
+            <state type="value" from="2002" to="2005" n="5.2"/>
+            <state type="value" from="2006" to="2009" n="9.2"/>
+            <state type="value" from="2010" to="2013" n="5.1"/>
+            <state type="value" from="2014" to="2018" n="9.4"/>
+            <state type="value" from="2019" to="2019" n="8.6"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.S" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Socialdemokratiet</orgName>
+      <orgName full="abb">S</orgName>
+      <event from="1871">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Social_Democrats_(Denmark)" ana="#orientation.CL"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="201" n="SD" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="201"/>
+            <state type="value" from="2002" to="2005" n="201"/>
+            <state type="value" from="2006" to="2009" n="201"/>
+            <state type="value" from="2010" to="2013" n="201"/>
+            <state type="value" from="2014" to="2018" n="201"/>
+            <state type="value" from="2019" to="2019" n="201"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="SD"/>
+            <state type="value" from="2002" to="2005" n="SD"/>
+            <state type="value" from="2006" to="2009" n="SD"/>
+            <state type="value" from="2010" to="2013" n="SD"/>
+            <state type="value" from="2014" to="2018" n="SD"/>
+            <state type="value" from="2019" to="2019" n="SD"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="3.9"/>
+            <state type="value" from="2002" to="2005" n="4.0"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="4.2"/>
+            <state type="value" from="2014" to="2018" n="4.4"/>
+            <state type="value" from="2019" to="2019" n="4.0"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="3.4"/>
+            <state type="value" from="2002" to="2005" n="3.7"/>
+            <state type="value" from="2006" to="2009" n="3.6"/>
+            <state type="value" from="2010" to="2013" n="3.8"/>
+            <state type="value" from="2014" to="2018" n="3.9"/>
+            <state type="value" from="2019" to="2019" n="3.7"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13320"/>
+            <state type="value" from="2002" to="2005" n="13320"/>
+            <state type="value" from="2006" to="2009" n="13320"/>
+            <state type="value" from="2010" to="2013" n="13320"/>
+            <state type="value" from="2014" to="2018" n="13320"/>
+            <state type="value" from="2019" to="2019" n="13320"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="16.5"/>
+            <state type="value" from="2002" to="2005" n="16.5"/>
+            <state type="value" from="2006" to="2009" n="32.6"/>
+            <state type="value" from="2010" to="2013" n="21.5"/>
+            <state type="value" from="2014" to="2018" n="19.1"/>
+            <state type="value" from="2019" to="2019" n="21.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="5.3"/>
+            <state type="value" from="2002" to="2005" n="5.2"/>
+            <state type="value" from="2019" to="2019" n="3.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="5.1"/>
+            <state type="value" from="2002" to="2005" n="5.3"/>
+            <state type="value" from="2006" to="2009" n="5.1"/>
+            <state type="value" from="2010" to="2013" n="5.2"/>
+            <state type="value" from="2014" to="2018" n="4.8"/>
+            <state type="value" from="2019" to="2019" n="4.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="5"/>
+            <state type="value" from="2002" to="2005" n="5.0"/>
+            <state type="value" from="2006" to="2009" n="3"/>
+            <state type="value" from="2010" to="2013" n="3.2"/>
+            <state type="value" from="2014" to="2018" n="3.7"/>
+            <state type="value" from="2019" to="2019" n="3.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="6.4"/>
+            <state type="value" from="2002" to="2005" n="6.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="6.6"/>
+            <state type="value" from="2002" to="2005" n="6.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="4"/>
+            <state type="value" from="2002" to="2005" n="4.5"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="5.7"/>
+            <state type="value" from="2014" to="2018" n="5.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="3.7"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="5.1"/>
+            <state type="value" from="2002" to="2005" n="5.5"/>
+            <state type="value" from="2006" to="2009" n="5.8"/>
+            <state type="value" from="2010" to="2013" n="5.6"/>
+            <state type="value" from="2014" to="2018" n="5.8"/>
+            <state type="value" from="2019" to="2019" n="3.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="5.1"/>
+            <state type="value" from="2002" to="2005" n="5.8"/>
+            <state type="value" from="2006" to="2009" n="5.8"/>
+            <state type="value" from="2010" to="2013" n="5.9"/>
+            <state type="value" from="2014" to="2018" n="6.0"/>
+            <state type="value" from="2019" to="2019" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="4.6"/>
+            <state type="value" from="2002" to="2005" n="7.2"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="4.2"/>
+            <state type="value" from="2014" to="2018" n="4.5"/>
+            <state type="value" from="2019" to="2019" n="4.7"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="5"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="5"/>
+            <state type="value" from="2010" to="2013" n="5"/>
+            <state type="value" from="2014" to="2018" n="5"/>
+            <state type="value" from="2019" to="2019" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="5"/>
+            <state type="value" from="2002" to="2005" n="4.4"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="5"/>
+            <state type="value" from="2014" to="2018" n="5.2"/>
+            <state type="value" from="2019" to="2019" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="1.0"/>
+            <state type="value" from="2002" to="2005" n="0.0"/>
+            <state type="value" from="2006" to="2009" n="0.0"/>
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="1.0"/>
+            <state type="value" from="2019" to="2019" n="1.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="35.2"/>
+            <state type="value" from="2002" to="2005" n="29.1"/>
+            <state type="value" from="2006" to="2009" n="26.3"/>
+            <state type="value" from="2010" to="2013" n="25.1"/>
+            <state type="value" from="2014" to="2018" n="24.6"/>
+            <state type="value" from="2019" to="2019" n="27.4"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="35.9"/>
+            <state type="value" from="2002" to="2005" n="29.1"/>
+            <state type="value" from="2006" to="2009" n="25.8"/>
+            <state type="value" from="2010" to="2013" n="25.5"/>
+            <state type="value" from="2014" to="2018" n="24.5"/>
+            <state type="value" from="2019" to="2019" n="25.9"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.SF" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Socialistisk Folkeparti</orgName>
+      <orgName full="abb">SF</orgName>
+      <event from="1959-02-15">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Green_Left_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Green_Left_(Denmark)" ana="#orientation.CLL"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="206" n="SF" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="206"/>
+            <state type="value" from="2002" to="2005" n="206"/>
+            <state type="value" from="2006" to="2009" n="206"/>
+            <state type="value" from="2010" to="2013" n="206"/>
+            <state type="value" from="2014" to="2018" n="206"/>
+            <state type="value" from="2019" to="2019" n="206"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="SF"/>
+            <state type="value" from="2002" to="2005" n="SF"/>
+            <state type="value" from="2006" to="2009" n="SF"/>
+            <state type="value" from="2010" to="2013" n="SF"/>
+            <state type="value" from="2014" to="2018" n="SF"/>
+            <state type="value" from="2019" to="2019" n="SF"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="2.3"/>
+            <state type="value" from="2002" to="2005" n="2.3"/>
+            <state type="value" from="2006" to="2009" n="2.3"/>
+            <state type="value" from="2010" to="2013" n="2.8"/>
+            <state type="value" from="2014" to="2018" n="2.9"/>
+            <state type="value" from="2019" to="2019" n="2.6"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="2.1"/>
+            <state type="value" from="2002" to="2005" n="2.0"/>
+            <state type="value" from="2006" to="2009" n="2.2"/>
+            <state type="value" from="2010" to="2013" n="2.3"/>
+            <state type="value" from="2014" to="2018" n="2.3"/>
+            <state type="value" from="2019" to="2019" n="2.5"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13230"/>
+            <state type="value" from="2002" to="2005" n="13230"/>
+            <state type="value" from="2006" to="2009" n="13230"/>
+            <state type="value" from="2010" to="2013" n="13230"/>
+            <state type="value" from="2014" to="2018" n="13230"/>
+            <state type="value" from="2019" to="2019" n="13230"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="7.1"/>
+            <state type="value" from="2002" to="2005" n="7.1"/>
+            <state type="value" from="2006" to="2009" n="7.9"/>
+            <state type="value" from="2010" to="2013" n="15.9"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="13.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="3.7"/>
+            <state type="value" from="2002" to="2005" n="5.3"/>
+            <state type="value" from="2019" to="2019" n="4.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="3.7"/>
+            <state type="value" from="2002" to="2005" n="4.2"/>
+            <state type="value" from="2006" to="2009" n="4.3"/>
+            <state type="value" from="2010" to="2013" n="5"/>
+            <state type="value" from="2014" to="2018" n="3.8"/>
+            <state type="value" from="2019" to="2019" n="4.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="4.6"/>
+            <state type="value" from="2002" to="2005" n="4.7"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="5.7"/>
+            <state type="value" from="2014" to="2018" n="5"/>
+            <state type="value" from="2019" to="2019" n="3.9"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="4.2"/>
+            <state type="value" from="2002" to="2005" n="3.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="5.4"/>
+            <state type="value" from="2002" to="2005" n="6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="2.4"/>
+            <state type="value" from="2002" to="2005" n="3.1"/>
+            <state type="value" from="2006" to="2009" n="3.9"/>
+            <state type="value" from="2010" to="2013" n="5.4"/>
+            <state type="value" from="2014" to="2018" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="2.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="2.6"/>
+            <state type="value" from="2002" to="2005" n="2.7"/>
+            <state type="value" from="2006" to="2009" n="3.7"/>
+            <state type="value" from="2010" to="2013" n="3.5"/>
+            <state type="value" from="2014" to="2018" n="3.6"/>
+            <state type="value" from="2019" to="2019" n="3.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="2.6"/>
+            <state type="value" from="2002" to="2005" n="2.9"/>
+            <state type="value" from="2006" to="2009" n="3.8"/>
+            <state type="value" from="2010" to="2013" n="4.5"/>
+            <state type="value" from="2014" to="2018" n="4.6"/>
+            <state type="value" from="2019" to="2019" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="6.1"/>
+            <state type="value" from="2002" to="2005" n="6.9"/>
+            <state type="value" from="2006" to="2009" n="4.4"/>
+            <state type="value" from="2010" to="2013" n="3.6"/>
+            <state type="value" from="2014" to="2018" n="4.4"/>
+            <state type="value" from="2019" to="2019" n="4.6"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="6"/>
+            <state type="value" from="2002" to="2005" n="6"/>
+            <state type="value" from="2006" to="2009" n="6"/>
+            <state type="value" from="2010" to="2013" n="6"/>
+            <state type="value" from="2014" to="2018" n="6"/>
+            <state type="value" from="2019" to="2019" n="7"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="2.6"/>
+            <state type="value" from="2002" to="2005" n="2.1"/>
+            <state type="value" from="2006" to="2009" n="2.1"/>
+            <state type="value" from="2010" to="2013" n="2.4"/>
+            <state type="value" from="2014" to="2018" n="3.1"/>
+            <state type="value" from="2019" to="2019" n="2.6"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+            <state type="value" from="2002" to="2005" n="0.0"/>
+            <state type="value" from="2006" to="2009" n="0.0"/>
+            <state type="value" from="2010" to="2013" n="0.0"/>
+            <state type="value" from="2014" to="2018" n="0.5"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="7.3"/>
+            <state type="value" from="2002" to="2005" n="6.7"/>
+            <state type="value" from="2006" to="2009" n="6.1"/>
+            <state type="value" from="2010" to="2013" n="12.8"/>
+            <state type="value" from="2014" to="2018" n="8.9"/>
+            <state type="value" from="2019" to="2019" n="8"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="7.6"/>
+            <state type="value" from="2002" to="2005" n="6.4"/>
+            <state type="value" from="2006" to="2009" n="6"/>
+            <state type="value" from="2010" to="2013" n="13"/>
+            <state type="value" from="2014" to="2018" n="9.1"/>
+            <state type="value" from="2019" to="2019" n="7.7"/>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.SIU" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Siumut</orgName>
+      <orgName full="abb">SIU</orgName>
+      <event from="1977-07-29">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Siumut</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Siumut" ana="#orientation.CL">
+            <note xml:lang="en">This is is a political party in Greenland in the social democratic tradition. Party members have been elected to both the parliament of Greenland and the parliament of Denmark.</note>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.SP" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Sambandsflokkurin</orgName>
+      <orgName full="abb">SP</orgName>
+      <event from="1906">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Union_Party_(Faroe_Islands)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Union_Party_(Faroe_Islands)" ana="#orientation.CR">
+            <note xml:lang="en">A conservative-liberal, agrarian political party on the Faroe Islands</note>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.T" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Tjóðveldi</orgName>
+      <orgName full="abb">T</orgName>
+      <event from="2007-09-14">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Republic_(Faroe_Islands)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Republic_(Faroe_Islands)" ana="#orientation.L">
+            <note xml:lang="en">a left-wing political party on the Faroe Islands committed to Faroese independence</note>
+         </state>
+      </state>
+   </org>
+   <org xml:id="party.UFG" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Uden for folketingsgrupperne</orgName>
+      <orgName full="abb">UFG</orgName>
+      <event from="1849">
+         <label xml:lang="en">existence</label>
+      </event>
+   </org>
+   <org xml:id="party.V" role="parliamentaryGroup">
+      <orgName full="yes" xml:lang="da">Venstre</orgName>
+      <orgName full="abb">V</orgName>
+      <event from="1910">
+         <label xml:lang="en">existence</label>
+      </event>
+      <idno type="URI" subtype="wikimedia">https://en.wikipedia.org/wiki/Venstre_(Denmark)</idno>
+      <state type="politicalOrientation">
+         <state type="Wikipedia" source="https://en.wikipedia.org/wiki/Venstre_(Denmark)" ana="#orientation.CR"/>
+      </state>
+      <state type="CHES" source="https://www.chesdata.eu/s/1999-2019_CHES_dataset_meansv3.csv" key="211" n="V v" from="1999" to="2019">
+         <state type="variable" ana="#ches.party_id">
+            <state type="value" from="1999" to="2001" n="211"/>
+            <state type="value" from="2002" to="2005" n="211"/>
+            <state type="value" from="2006" to="2009" n="211"/>
+            <state type="value" from="2010" to="2013" n="211"/>
+            <state type="value" from="2014" to="2018" n="211"/>
+            <state type="value" from="2019" to="2019" n="211"/>
+         </state>
+         <state type="variable" ana="#ches.party">
+            <state type="value" from="1999" to="2001" n="V"/>
+            <state type="value" from="2002" to="2005" n="V"/>
+            <state type="value" from="2006" to="2009" n="V"/>
+            <state type="value" from="2010" to="2013" n="V"/>
+            <state type="value" from="2014" to="2018" n="V"/>
+            <state type="value" from="2019" to="2019" n="v"/>
+         </state>
+         <state type="variable" ana="#ches.lrgen">
+            <state type="value" from="1999" to="2001" n="7.1"/>
+            <state type="value" from="2002" to="2005" n="7.4"/>
+            <state type="value" from="2006" to="2009" n="7.2"/>
+            <state type="value" from="2010" to="2013" n="7.0"/>
+            <state type="value" from="2014" to="2018" n="7.0"/>
+            <state type="value" from="2019" to="2019" n="6.6"/>
+         </state>
+         <state type="variable" ana="#ches.lrecon">
+            <state type="value" from="1999" to="2001" n="7.7"/>
+            <state type="value" from="2002" to="2005" n="7.8"/>
+            <state type="value" from="2006" to="2009" n="6.6"/>
+            <state type="value" from="2010" to="2013" n="7.1"/>
+            <state type="value" from="2014" to="2018" n="7.3"/>
+            <state type="value" from="2019" to="2019" n="6.9"/>
+         </state>
+         <state type="variable" ana="#ches.cmp_id">
+            <state type="value" from="1999" to="2001" n="13420"/>
+            <state type="value" from="2002" to="2005" n="13420"/>
+            <state type="value" from="2006" to="2009" n="13420"/>
+            <state type="value" from="2010" to="2013" n="13420"/>
+            <state type="value" from="2014" to="2018" n="13420"/>
+            <state type="value" from="2019" to="2019" n="13420"/>
+         </state>
+         <state type="variable" ana="#ches.eastwest">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.electionyear">
+            <state type="value" from="1999" to="2001" n="1998"/>
+            <state type="value" from="2002" to="2005" n="2001"/>
+            <state type="value" from="2006" to="2009" n="2005"/>
+            <state type="value" from="2010" to="2013" n="2007"/>
+            <state type="value" from="2014" to="2018" n="2011"/>
+            <state type="value" from="2019" to="2019" n="2019"/>
+         </state>
+         <state type="variable" ana="#ches.epvote">
+            <state type="value" from="1999" to="2001" n="23.4"/>
+            <state type="value" from="2002" to="2005" n="23.4"/>
+            <state type="value" from="2006" to="2009" n="19.4"/>
+            <state type="value" from="2010" to="2013" n="20.2"/>
+            <state type="value" from="2014" to="2018" n="16.7"/>
+            <state type="value" from="2019" to="2019" n="23.5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_asylum">
+            <state type="value" from="1999" to="2001" n="5.8"/>
+            <state type="value" from="2002" to="2005" n="5.2"/>
+            <state type="value" from="2019" to="2019" n="3.2"/>
+         </state>
+         <state type="variable" ana="#ches.eu_cohesion">
+            <state type="value" from="1999" to="2001" n="5.6"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="5.3"/>
+            <state type="value" from="2010" to="2013" n="6"/>
+            <state type="value" from="2014" to="2018" n="5.4"/>
+            <state type="value" from="2019" to="2019" n="5"/>
+         </state>
+         <state type="variable" ana="#ches.eu_dissent">
+            <state type="value" from="1999" to="2001" n="1.4"/>
+            <state type="value" from="2002" to="2005" n="2.2"/>
+            <state type="value" from="2006" to="2009" n="1.7"/>
+            <state type="value" from="2010" to="2013" n="2.4"/>
+            <state type="value" from="2014" to="2018" n="3.1"/>
+            <state type="value" from="2019" to="2019" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_employ">
+            <state type="value" from="1999" to="2001" n="4.8"/>
+            <state type="value" from="2002" to="2005" n="4.6"/>
+         </state>
+         <state type="variable" ana="#ches.eu_environ">
+            <state type="value" from="1999" to="2001" n="6.1"/>
+            <state type="value" from="2002" to="2005" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_ep">
+            <state type="value" from="1999" to="2001" n="6.1"/>
+            <state type="value" from="2002" to="2005" n="5"/>
+            <state type="value" from="2006" to="2009" n="4.1"/>
+            <state type="value" from="2010" to="2013" n="5.4"/>
+            <state type="value" from="2014" to="2018" n="5.1"/>
+         </state>
+         <state type="variable" ana="#ches.eu_fiscal">
+            <state type="value" from="1999" to="2001" n="5.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_foreign">
+            <state type="value" from="1999" to="2001" n="6.4"/>
+            <state type="value" from="2002" to="2005" n="6.2"/>
+            <state type="value" from="2006" to="2009" n="5.4"/>
+            <state type="value" from="2010" to="2013" n="5.6"/>
+            <state type="value" from="2014" to="2018" n="5.9"/>
+            <state type="value" from="2019" to="2019" n="4.3"/>
+         </state>
+         <state type="variable" ana="#ches.eu_position">
+            <state type="value" from="1999" to="2001" n="7.0"/>
+            <state type="value" from="2002" to="2005" n="6.6"/>
+            <state type="value" from="2006" to="2009" n="6.1"/>
+            <state type="value" from="2010" to="2013" n="6.1"/>
+            <state type="value" from="2014" to="2018" n="5.8"/>
+            <state type="value" from="2019" to="2019" n="5.8"/>
+         </state>
+         <state type="variable" ana="#ches.eu_salience">
+            <state type="value" from="1999" to="2001" n="7.1"/>
+            <state type="value" from="2002" to="2005" n="9.2"/>
+            <state type="value" from="2006" to="2009" n="4.4"/>
+            <state type="value" from="2010" to="2013" n="3.6"/>
+            <state type="value" from="2014" to="2018" n="5.1"/>
+            <state type="value" from="2019" to="2019" n="5.2"/>
+         </state>
+         <state type="variable" ana="#ches.eumember">
+            <state type="value" from="1999" to="2001" n="1"/>
+            <state type="value" from="2002" to="2005" n="1"/>
+            <state type="value" from="2006" to="2009" n="1"/>
+            <state type="value" from="2010" to="2013" n="1"/>
+            <state type="value" from="2014" to="2018" n="1"/>
+            <state type="value" from="2019" to="2019" n="1"/>
+         </state>
+         <state type="variable" ana="#ches.expert">
+            <state type="value" from="1999" to="2001" n="7"/>
+            <state type="value" from="2002" to="2005" n="13"/>
+            <state type="value" from="2006" to="2009" n="9"/>
+            <state type="value" from="2010" to="2013" n="11"/>
+            <state type="value" from="2014" to="2018" n="11"/>
+            <state type="value" from="2019" to="2019" n="14"/>
+         </state>
+         <state type="variable" ana="#ches.family">
+            <state type="value" from="1999" to="2001" n="3"/>
+            <state type="value" from="2002" to="2005" n="3"/>
+            <state type="value" from="2006" to="2009" n="3"/>
+            <state type="value" from="2010" to="2013" n="3"/>
+            <state type="value" from="2014" to="2018" n="3"/>
+            <state type="value" from="2019" to="2019" n="3"/>
+         </state>
+         <state type="variable" ana="#ches.galtan">
+            <state type="value" from="1999" to="2001" n="5.6"/>
+            <state type="value" from="2002" to="2005" n="4.8"/>
+            <state type="value" from="2006" to="2009" n="4.9"/>
+            <state type="value" from="2010" to="2013" n="5.9"/>
+            <state type="value" from="2014" to="2018" n="5.7"/>
+            <state type="value" from="2019" to="2019" n="5.4"/>
+         </state>
+         <state type="variable" ana="#ches.govt">
+            <state type="value" from="1999" to="2001" n="0.0"/>
+            <state type="value" from="2002" to="2005" n="1.0"/>
+            <state type="value" from="2006" to="2009" n="1.0"/>
+            <state type="value" from="2010" to="2013" n="1.0"/>
+            <state type="value" from="2014" to="2018" n="0.0"/>
+            <state type="value" from="2019" to="2019" n="0.0"/>
+         </state>
+         <state type="variable" ana="#ches.seat">
+            <state type="value" from="1999" to="2001" n="23.5"/>
+            <state type="value" from="2002" to="2005" n="31.2"/>
+            <state type="value" from="2006" to="2009" n="29.1"/>
+            <state type="value" from="2010" to="2013" n="25.7"/>
+            <state type="value" from="2014" to="2018" n="26.3"/>
+            <state type="value" from="2019" to="2019" n="24.6"/>
+         </state>
+         <state type="variable" ana="#ches.vote">
+            <state type="value" from="1999" to="2001" n="24"/>
+            <state type="value" from="2002" to="2005" n="31.3"/>
+            <state type="value" from="2006" to="2009" n="29"/>
+            <state type="value" from="2010" to="2013" n="26.2"/>
+            <state type="value" from="2014" to="2018" n="26.4"/>
+            <state type="value" from="2019" to="2019" n="23.4"/>
+         </state>
+      </state>
+   </org>
+   <listRelation>
+      <relation name="coalition" mutual="#party.S #party.RV" from="2014-02-03" to="2015-06-27" ana="#FT.14"/>
+      <relation name="coalition" mutual="#party.V" from="2015-06-28" to="2016-11-27" ana="#FT.15"/>
+      <relation name="coalition" mutual="#party.V #party.KF #party.LA" from="2016-11-28" to="2019-06-26" ana="#FT.16"/>
+      <relation name="coalition" mutual="#party.S" from="2019-06-27" ana="#FT.19"/>
+      <relation name="opposition" active="#party.V #party.KF #party.LA #party.DF" passive="#FT.14" from="2014-02-03" to="2015-06-27"/>
+      <relation name="opposition" active="#party.S #party.RV #party.SF #party.EL #party.ALT" passive="#FT.15" from="2015-06-28" to="2016-11-27"/>
+      <relation name="opposition" active="#party.S #party.RV #party.SF #party.EL #party.ALT" passive="#FT.16" from="2016-11-28" to="2019-06-26"/>
+      <relation name="opposition" active="#party.V #party.KF #party.LA #party.DF #party.NB" passive="#FT.19" from="2019-06-27"/>
+   </listRelation>
+</listOrg>
+

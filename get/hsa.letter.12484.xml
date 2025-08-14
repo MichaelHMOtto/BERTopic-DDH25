@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gabriel Mitterstiller an Hugo Schuchardt (03-07401)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2211">
+            <forename>Gabriel</forename>
+            <surname>Mitterstiller</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12484" type="PID">o:hsa.letter.12484</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">03-07401</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07401</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2211">
+                <forename>Gabriel</forename>
+                <surname>Mitterstiller</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1885-02-20">1885-02-20</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Gabriel Mitterstiller und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2211"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12484">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2211">
+            <forename>Gabriel</forename>
+            <surname>Mitterstiller</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1885-02-20">1885-02-20</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2211" type="context">
+                        Korrespondenz Gabriel Mitterstiller - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.4325" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Aymarasprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.3241" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Quechua</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12484" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12484" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12484" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12484" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12484" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <opener>Hochgeehrter Herr Hofrat!</opener>
+        <p> Sache und Person trenne ich bis zum Exces und wiederholt rühmte man mir seltene <hi rend="unknown"
+            rendition="#none">Gerechtigkeit</hi> nach und was ich von mir selber zu sagen weiß ist unter Anderm die Thatsache, daß mich beispielsweise ein Schüler nur zu beleidigen braucht, um sicher zu sein, daß ich sagen wir bei der Matura für ihn spreche und durch meine Stimme durchbringe, denn es war Alles schon da. Aus eben diesem Grund ist es mir nun leid, daß ich durch ein Misverständnis einen Mann vom Namen Schuchardt <hi
+            rend="unknown"
+            rendition="#none">un</hi>recht gethan. Sagen kann ich Herrn Professor auch das, daß wir unerbittliche Selbstkritik an uns übten als wären wir Jeder für sich ein anderer Augustinus, denn ihm gehören meines Entsinnens die Worte; hier senge, hier schneide, <pb
+            facs="#IMG.2" n="2"/> dort verschone!<note n="1" place="foot"
+            type="editorial">Augustinus, „Domine hic ure, hic seca, ut in aeternum. parcas“ [„Hierr brenne, hier schneide, o Herr, damit Du in der Ewigkeit Schonung gewähren kannst“].</note> das „dort“ war uns die kritische Schere der Gelehrten-Welt sine ira et studio. Wenn sich Tschudi<note
+            n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2892">Johann Jacob von Tschudi</persName> (1818-1889), Schweizer Anthropologe; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2892">HSA 11898</ref>. – Er lebte 1848 auf seiner Besitzung Jakobshof in Lichtenegg/Niederösterreich.</note> wenig darum kümmert, so geschieht es nicht aus Furcht vor der Wahrheit – wir ersehnen sie beide – sondern wie mich dünkt aus einer Art Bescheidenheit. „Das Werk ist gewiß schon“, schreibt er mir 16/1 85, „sehr viel besprochen worden, die Kritiken mir aber nicht zu Gesicht gekommen; was ja in meiner Einsamkeit sehr natürlich ist“. Ich weiß noch weniger, denn in Tirol lebte ich in der stillen Clause meiner lieben Heimat mit seiner stolz ragenden Sabiena<note
+            n="3" place="foot"
+            type="editorial">Was ist gemeint? (Anspielung nicht identifiziert).</note> und hier diene ich Theken-verblödet meinen Gehalt ab. Früher erfuhr ich übrigens mehr. Die ersten Stimmen kamen aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5905">Frankreich</placeName>. 9. Aug. 84 erwähnt Tsch.[udi] „einen sehr schmeichelhaften Brief“ von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1017">Lucien Adam</persName> (Präsidenten des Appelhofes in Rennes)<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">Wolf, <hi rend="unknown" rendition="#none">Nachlaß</hi>
+              </ref>
+
+            </bibl>, 1, bez. ihn als „Bibliothekar, Sprachwissenschaftler“, was auch zutrifft.</note>, 28. Juli 84 ein Schreiben von Henry<note
+            n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1744">Victor Henry</persName> (1850-1907), franz. Sanskritist und Allg. Sprachwissenschaftler; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1744?locale=de">HSA 04564-04609</ref>.</note>, ein Prachtstück einer Recension allgemeiner Eindrücke (Henry sagt von sich vient d’être honoré du prix Volney par l’Institut de France). In <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.38"> Berlin</placeName>, so erzählt mir v. Tschudi 16./11 84 <pb
+            facs="#IMG.3" n="3"/> (ich nehme gerade her was mir unterkommt), soll Bastian<note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1092"> Adolf Bastian</persName> (1826-1905), deutscher Arzt und Ethnologe; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1092">HSA 00570-00571</ref>.</note> „mit hoechster Bewunderung“ vom Organismus gesprochen haben. Aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6628"> Washington</placeName> fand Gatschet <note n="7"
+            place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1555">Albert Samuel Gatschet</persName> (1832-1907), Schweizer Ethnologe u. Sprachwissenschaftler; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1555">HSA 03574-03591</ref>.</note>„viel des Neuen und Interessanten“ (14. Sept. 84), in aller Eile, da er „im Begriffe stehe im Auftrage der Regierung eine ethnogr.-linguistische Reise nach Indian Territory, Texas und Louisiana zu machen. Einem Claviatur-Brief aus Media, Penna.<note
+            n="8" place="foot"
+            type="editorial"> Siedlung und zugleich Verwaltungssitz im Delaware County im US-Bundesstaat Pennsylvania.</note>, sept. 7.1884, der adressiert ist Prof. J. J. von Tschudi, entnehme ich folgende Stelle: I should esteem it a great favor if you would mention the names of such scholars in Germany as pay attention to American Languages und aus Science IV N° 82 (ebenfalls Amerika), die Erwähnung thut of the remarkably valuable treatise by the venerable traveller J. J. von Tschudi, mit Übergehung aller Schmeicheleien, den wichtigsten Passus: he denies any affinity between the <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.4325">Aymara</ref> and <ref target="https://gams.uni-graz.at/o:hsa.languages#L.3241">Kichua</ref> languages. </p>
+        <p> Die Science-Voranzeige hat mich entzückt wie sonst nur die gewichtige Stimme aus <pb facs="#IMG.4" n="4"/>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.97">Wien</placeName>; letztere nannte Tschudi‘s Werk, wenn ich mich recht entsinne, großartig, ganz gewiß monumental. </p>
+
+        <p> Indem ich vergnügt ein bloßes Mißverständnis annehme habe ich nur noch das Eine zu sagen, daß mir das Buch weder zu „breit“ noch zu theuer scheint, zu breit schon gar nicht, im Gegenteil taciteisch kurz, wenn es noch verständlich sein soll. Was die Theuerung anlangt, so steht s. Excellenz auf Ihrer Seite, er fand es sofort viel zu theuer! Hätte ich’s selber geschrieben so käme mir’s vielleicht auch so vor; so aber denke ich blos an Falb’s herrlich ausgestattetes Buch<note
+            n="9" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10133">Rudolf Falb, <hi rend="unknown" rendition="#none">Das Land der Inka in seiner Bedeutung für die Urgeschichte der Sprache und Schrift</hi>, Leipzig: Weber, 1883.</ref>
+            </bibl> – Seine sprach- und naturwissenschaftlichen Publikationen stießen in Fachkreisen auf starke Ablehnung.</note> und fand nicht einmal das zu theuer, obwohl mir sein innerer Wert sofort klar war, es bedurfte keines Americanisten, ihn in richtige Beleuchtung zu stellen, damals aber erfuhr ich zum ersten Male was Gelehrten-Hochmut heißt und schloß mich nur um so herzlicher an den unzünftigen Tschudi an. </p>
+        <closer>
+          <salute>Mit der Bitte mich zu nehmen wie ich bin ergebenst</salute>
+          <signed>Gymnasiallehrer <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2211">
+ Mitterstiller.</persName>
+          </signed>
+        </closer>
+        <dateline> Graz 20/2 85</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

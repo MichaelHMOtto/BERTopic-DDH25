@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Julius Jung an Hugo Schuchardt (01-05239)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1862">
+            <forename>Julius</forename>
+            <surname>Jung</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11584" type="PID">o:hsa.letter.11584</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-05239</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05239</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1862">
+                <forename>Julius</forename>
+                <surname>Jung</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.134" ref="http://sws.geonames.org/2775220">Innsbruck</origPlace>
+              <origDate ana="dcterms:created" when="1876-10-30">1876-10-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2022">2022</date>
+          <title>Die Korrespondenz zwischen Julius Jung und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1862"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11584">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1862" ref="https://viaf.org/viaf/3243291">
+            <forename>Julius</forename>
+            <surname>Jung</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.134" key="#GID.1" ref="http://sws.geonames.org/2775220">Innsbruck</placeName>
+          <date when="1876-10-30">1876-10-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Innsbruck</settlement>
+                <name ref="http://geonames.org/2775220" type="fcode:PPLA">Innsbruck</name>
+                <location>
+                  <geo>11.39454,47.26266</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1862" type="context">
+                        Korrespondenz Julius Jung - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3125" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literarisches Centralblatt für Deutschland</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11584" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11584" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11584" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11584" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11584" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Innsbruck, den 30. Okt. 76.</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+        <p>Das Gerücht, wonach ich <hi rend="unknown" rendition="#none">nächstens</hi> eine „<hi rend="unknown"
+            rendition="#none">Geschichte der Romanen in den Alpen</hi>“ veröffentlichen würde, ist nicht ganz den Thatsachen entsprechend. Es erscheint von mir bis Weihnachten – wenn mein etwas langsamer Verleger mit dem Druck bis dahin fertig wird – eine Arbeit über „Roemer u. Romanen in den Donauländern“. Darin wird die Eroberung dieser Gegenden, deren Verwaltung, der Einfluß des Militärwesens auf die Romanisierung, das Roemische Städtewesen u. die Fortschritte des Romanismus, dann die Verkehrs u. Religions= wie auch die socialen Ver- <pb
+            facs="#IMG.2"
+            n="2"/> hätlnisse der Donau=Romanen, die Zeiten der Völkerwanderung geschildert werden. Ein Schlußkapitel wird die <hi
+            rend="unknown" rendition="#none">Raeto-Romanen</hi> u. die <hi rend="unknown"
+            rendition="#none">Romanen</hi> im Mittelalter behandeln, in derselben Weise, wie meine „Anfänge der Romaenen“.<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5768">Jung, „Die Anfänge der Romaenen, kritisch-ethnographische Studie“, <hi
+                  rend="unknown" rendition="#none">Zeitschrift für die österreichischen Gymnasien</hi> 27, 1876, 1-19, 81-111 u. 321.342.</ref>
+            </bibl>
+          </note>
+        </p>
+
+        <p>Sprachliche Untersuchungen anzustellen bin ich nicht in der Lage, da ich nicht die hiezu nöthige Vorbildung besitze; diese reducirt sich darauf, am Gymnasium <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2657">
+            <hi rend="unknown" rendition="#none">Ch. Schneller</hi>
+          </persName>
+          <note n="2" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2657">Christian Schneller</persName> (1831-1908), österr. Folklorist und Lehrer; vgl. HSA 10138-10140.</note> zum Lehrer gehabt zu haben, der uns Dante und Tasso auch linguistisch zu erläutern pflegte. Vielmehr wird es von Allen, die sich für Ladiner u. Walachen interessiren, mit größter Begierde aufgenommen werden, wenn die Romanisten die Versuche der Historiker u. Ethnographen wie A. <hi
+            rend="unknown" rendition="#none">Ficker</hi>,<note n="3" place="foot" type="editorial">
+            <persName>Adolf Ficker</persName> (1816-1880), österr. Historiker u. Statistiker.</note>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1143">
+            <hi rend="unknown" rendition="#none">H. I. Bidermann</hi>
+          </persName>
+          <note n="4" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1143">
+Hermann Ignaz Bidermann</persName> (1831-1892), österr. Jurist u. Ethnologe; vgl. HSA 01015.</note> u.s.w., <pb
+            facs="#IMG.3"
+            n="3"/> deren Anfänge zu erforschen, ihrerseits kräftigst unterstützen. Es scheint ja von der ganzen <hi
+            rend="unknown" rendition="#none">Roesler’schen</hi>
+          <note n="5" place="foot" type="editorial">
+            <persName>Robert (Eduard) Roesler</persName> (1836-1874), österreichischer Historiker und Geograph; vgl. M. D. Peyfuss, ÖBL 1815-1950, 204-205.</note> These nichts mehr an Argumenten übrig zu sein, als was die Entscheidung von Seite der Philologen erheischt. Wichtig wäre es zugleich, wenn A. Ficker die Andeutungen, die er über die altromanischen Ortsnamen im Nordwesten Siebenbürgens einmal geäußert hat, weiter ausführen würde.</p>
+
+        <p>Ich bin Ihnen, hochgeehrter Herr Professor, auch sehr dankbar für die Auseinandersetzung über Hirschfelds Malu-de-sus u. Malu-de-jus; die Ansicht ist mir auch nie plausibel erschienen, ich führte dieselbe nur der Vollständigkeit halber an.<note
+            n="6" place="foot" type="editorial">Vgl. HSA <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1771">Otto Hirschfeld</persName> an Hugo Schuchardt (<ref target="https://gams.uni-graz.at/o:hsa.letter.7718">
+01-04751</ref>) u. ö</note>
+        </p>
+        <p>Auch hat es mich sehr gefreut, den Verfasser <pb facs="#IMG.4" n="4"/> der Artikel über <hi rend="unknown"
+            rendition="#none">Roesler</hi> in der Allg. Zeitung u. über <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1720">
+            <hi rend="unknown" rendition="#none">Hasdeu</hi>
+          </persName> im <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3125">Centralbl.</ref> kennen zu lernen<note n="7"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.196">Schuchardt, Hugo (1875). <hi
+                  rend="unknown" rendition="#none">[Rez. von:] Hasdeŭ, B. P., Istoria critică a Românilorŭ, Bd. I u. II; Principie de filologia comparativă ario-europeă cu aplicaţiuni la istoria limbeĭ române, Bd. I.; Columna luĭ Traianu; T. Maiorescu, Critice</hi>. In: Literarisches Zentralblatt für Deutschland H. 26, S. 380-382.</ref>
+            </bibl>
+          </note>. Durch ersten bin ich zuerst auf <hi rend="unknown"
+            rendition="#none">Roesler’s</hi> Thesis aufmerksam gemacht worden – ich beschäftigte mich damals mit ganz anderen Dingen –; letzterer hat meinen Entschluß, <hi
+            rend="unknown" rendition="#none">Roeslern‘</hi> zu erwidern, zur Reife gebracht.</p>
+
+        <p>Ich habe so beiläufig im Sinne, die Schicksale unserer Ladinischen Landestheile einmal historisch zu verfolgen; seit dem 14. 15. Jahrhundert ist Material dazu vorhanden, um das Verhältnis des deutschen Adels zu seinen Romanischen Bauern zB. in Eneberg zu verfolgen.<note
+            n="8" place="foot" type="editorial">Vgl. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5771">Julius Jung, <hi rend="unknown" rendition="#none">Roemer und Romanen in den Donaulaendern</hi>, Innsbruck: Wagner, 1877; XLIV, 315 S.</ref>
+            </bibl>
+
+          </note> Mit dem 16. Jahrhundert, dem Zeitalter der Reformation, sind die Acten des hiesigen Statthaltereiarchivs zu benutzen u.s.w. Noch für das 18. Jahrhundert hat ja <hi
+            rend="unknown" rendition="#none">H. J. Bidermann</hi> aus den Theresianischen Steuerbüchern über den <hi
+            rend="unknown" rendition="#none">
+Romanismus</hi> des Pusterthales neues beigesteuert.<note n="9"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8597">Hermann Ignaz Bidermann, <hi
+                  rend="unknown" rendition="#none">Die Italiener im tirolischen Provincial-Verbande</hi>, Innsbruck: Wagner, 1874.</ref>
+            </bibl>
+          </note> In dieser Richtung bewegen sich die Studien</p>
+        <closer>
+          <salute>Ihres ergebensten</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1862">Julius Jung(ius)</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

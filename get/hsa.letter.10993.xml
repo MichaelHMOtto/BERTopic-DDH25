@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (04-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/10993" type="PID">o:hsa.letter.10993</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">04-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 422-423</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.302" ref="http://sws.geonames.org/8629315">Gohlis</origPlace>
+              <origDate ana="dcterms:created" when="1872-05-28">1872-05-28</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.10993">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.302" ref="http://sws.geonames.org/8629315">Gohlis</placeName>
+          <date when="1872-05-28">1872-05-28</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list/>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3138" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Revue critique d'histoire et de littérature</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3095" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romania (Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3208" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Zeitschrift für vergleichende Sprachforschung (Kuhns Zeitschrift)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4171" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">28. Versammlung deutscher Schulmänner und Philologen (Philologentag) in Leipzig (Mai 1872)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f848" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f849" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f850" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f851" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7425" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Gohlis bei Leipzig 28.5.72.</dateline>
+        <opener>Verehrter Herr und Freund!</opener>
+
+        <p>Werden Sie mich entschuldigen dass ich so spät auf Ihren liebenswürdigen Brief antworte? Von Ostern 1871-Ostern 1872 hatte ich, Gesundheits halber, Urlaub von <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName> genommen. 5 Monate habe ich im Kaltwasserbad zu <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.298">Ilmenau</placeName> zugebracht, um meine Nerven einigermassen zu stärken. Dort bekam ich Ihren Brief, kurz darauf reiste ich nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.81">Gotha</placeName>
+          <note n="1" place="foot"
+            type="editorial">Ville natale de Schuchardt, qui s’y rend chaque année à Pâques, pour y retrouver ses parents.</note> und dort setzte ich am 24 Febr. einen französischen Brief an Sie auf, den ich aber dann nicht abschickte. Wenn ich Ihnen nun <hi
+            rendition="#u">deutsch</hi> schreibe, so glauben Sie ja nicht, dass dies aus irgend einem chauvinistischen Beweggrund geschieht; ich thue es nur aus Bequemlichkeit. Nach dem 4. Mai, an welchem die <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3138">Revue critique</ref> ein «Corrigé de thèmes» bringt, vielleicht auch aus Besorgniss, meine Germanismen einer zu scharfen Kritik unterworfen zu sehen<note
+            n="2" place="foot" type="editorial">Il s’agit d’un texte de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2188">P. Meyer</persName> (1872) rédigé en réaction à la participation de Bartsch dans l’«affaire Kutschke» (voir <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7242">Bähler 2015, xxxi-xxxiv</ref>
+            </bibl>).</note>. </p>
+        <p>Ich begrüsse das Erscheinen der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3095">Romania</ref>, von welcher nun schon zwei Hefte vorliegen, mit rückhaltlosester Freude. Besonders erfreut mich der reiche linguistische und kritische Inhalt. Ich werde in <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3208">Kuhn’s Zeitschrift</ref>
+          <note n="3" place="foot" type="editorial"> Die <hi
+              rendition="#i">Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen</hi> (mieux connu sous le nom de <hi
+              rendition="#i">Kuhns Zeitschrift</hi>) contient au n° 21 un compte rendu de Schuchardt qui présente entre autres le premier numéro de la <hi
+              rendition="#i">Romania</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.202">Schuchardt 1873c, 456-61</ref>
+            </bibl>).</note> die Romania anzeigen und hoffe mich selbst unter ihre Mitarbeiter einführen zu können.<pb
+            facs="#IMG.2" n="2"/> Würden Ihnen Arbeiten über italienische Mundarten willkommen sein?</p>
+        <p>
+          <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1430">Ebert</persName> hat mir, nach Anfrage bei Ihnen<note
+            n="4" place="foot"
+              type="editorial"> Dans une lettre du 5 mai 1872 qu’il adresse à G. Paris, Ebert annonce avoir reçu deux exemplaires de la <hi
+              rendition="#i">Vie de Saint Alexis</hi>, éditée par G. Paris et Léopold Pannier en 1872, et se propose de faire suivre un de ces volumes à un collègue allemand (<ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b52515016g/f112.item.r=BnF,%20NAF%2024439">BnF, NAF 24439, f° 51r</ref>). </note>, eines von den beiden ihm zugeschickten Exemplaren des Alexiusliedes übermittelt und ich danke Ihnen dafür herzlichst. Ich bin noch nicht dazu gekommen, an das Studium dieses umfangreichen Buches zu gehen; aber auf den sprachlichen Theil Ihrer Einleitung bin ich ordentlich lüstern. Ich habe schon mit <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1430">Ebert</persName> über einige Punkte, von denen er mir Mittheilung machte, diskurrirt und ganz im Allgemeinen Ihre Partie genommen. Nun sagt mir aber Ebert, dass Sie selbst brieflich Ihre Ansichten über manche Dinge entweder geändert oder als zweifelhaft bezeichnet hätten<note
+            n="5" place="foot"
+            type="editorial">Nous n’avons pas retrouvé cette lettre.</note>; ich möchte wohl wissen, worauf sich das bezöge, damit ich nicht, bei einer etwaigen Anzeige<note
+            n="6" place="foot" type="editorial"> Schuchardt n’a pas rendu compte de l’édition de la <hi rendition="#i">Vie de saint Alexis.</hi>
+          </note> des Buches das vertheidigte, was Sie selbst wieder aufgegeben haben.</p>
+        <p>Es wird Sie interessiren, etwas über die <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4171">Philologenversammlung</ref>
+          <note n="7" place="foot" type="editorial"> La <hi
+              rendition="#i">28. Versammlung Deutscher Philologen und Schulmänner 1872</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6326">1873</ref>
+
+            </bibl>), la première après la guerre franco-prussienne, s’est tenue à Leipzig du 22 au 25 mai 1872.</note> zu hören, die hier vom Dienstag-Sonnabend in der Pfingstwoche getagt hat. Romanisten waren wenige zugegen; von ordentlichen Professoren ausser <hi
+            rendition="#u">Ebert</hi> nur <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1090">Bartsch</persName>. In der germanistischen Sektion, die sich von nun ab <hi
+            rendition="#u">deutsch-romanische Abtheilung</hi> nennt<note n="8" place="foot"
+              type="editorial"> Voir à ce sujet <hi
+              rendition="#i">Versammlung Deutscher Philologen und Schulmänner</hi> 1872 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6326">1873</ref>
+            </bibl>, 209).</note>, wurden nur zwei romanist. Vorträge gehalten von Prof. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1649">Gröber</persName> aus Zürich: über eine bisher un <pb
+            facs="#IMG.3" n="3"/> bekannte Branche der Chanson de geste <bibl status="draft">
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7035">Fierabras</ref>
+
+          </bibl> und von mir: über die syntaktischen Modifikationen anlautender Konsonanten im Mittel- und Süditalienischen<note
+            n="9" place="foot"
+              type="editorial">Les conférences tenues lors de ce congrès ont été tantôt reportées, tantôt résumées dans les actes. Schuchardt publiera la sienne l’année suivante, en français, dans la <hi
+              rendition="#i">Romania</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.278">Schuchardt 1874b</ref>
+            </bibl>).</note>. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1164">Böhmer</persName> aus Halle, welcher über die Echtheit der Chronik <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6333">Dino Compagni</persName>’s<note n="10" place="foot"
+              type="editorial">Il s’agit d’une chronique qui retrace l’histoire des événements survenus à Florence entre 1279 et 1312. Elle aurait été écrite par un certain <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6333">Dino Compagni</persName> (1255-1324), ce que conteste Böhmer dans une publication parue dans les <hi
+              rendition="#i">Romanische Studien</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7438">Böhmer 1878</ref>
+            </bibl>; voir aussi <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6846">Paris 1878b</ref>
+
+            </bibl>, 471). Aujourd’hui la question semble close, du moins si l’on en croit l’avant-propos rédigé par l’éditeur et traducteur Patrick Mula dans son édition du texte publiée en 2002 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7130">Compagni 2002, 7‑21</ref>
+
+            </bibl>).</note> hatte sprechen wollen, kam nicht. Von der germanistischen Sektion hat sich dieses Mal eine neue Sektion <hi
+            rendition="#u">für neuere Sprachen</hi> abgelöst*. (<persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5117">Mätzner</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.3349">Herrig</persName>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5475">Mahn</persName> u.s.w.) und zwar auf eine ziemlich schroffe und gesetzwidrige Weise. Von den Vorträgen, die daselbst gehalten wurden, habe ich keinen gehört; <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5475">Mahn</persName> sprach «über das iberisch-baskische Element in den romanischen Sprachen»<note
+            n="11" place="foot"
+              type="editorial"> Cette conférence reprend un titre déjà annoncé comme étant en cours d’impression sur la quatrième de couverture d’un précédent ouvrage de Mahn (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6931">Mahn 1853</ref>
+            </bibl>; <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6326">
+                <hi rendition="#i">Versammlung Deutscher Philologen und Schulmänner 1872</hi> 1873</ref>
+
+            </bibl>, 233)</note>. Doch passt ein solcher Vortrag gewiss am Wenigsten in jene Sektion, die mehr die Zwecke der Schule im Auge hat. Ich werde Ihnen unter Kreuzband das Programm <hi
+            rendition="#u">der Akademie für moderne Philologie</hi> (deren Entstehen mit der Bildung der genannten Sektion auf’s Innigste zusammenhängt) zukommen lassen. <note
+            n="12" place="foot"
+              type="editorial"> Schuchardt parle ici de la liste des enseignements de philologie donnés à Berlin pour l’année 1872-1873 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8741">[o. A.] 1872a</ref>
+
+            </bibl>). L’Académie en question, résultat d’une initiative privée et dont Mahn est l’un des fondateurs en 1872, a cessé ses activités en 1880.</note> Es ist sehr reichhaltig; beim Lehren kommt es aber nicht bloss auf das Was?, sondern – und zwar noch mehr – auf das Wie? an. Die Philologenversammlung selbst war die zahlreichst besuchte bisher (gegen 900 Theilnehmer), auch verschiedene Ausländer waren zugegen. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6323">Lidforrs</persName>
+ aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5828">Lund</placeName>, <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2467">Pio</persName>
+          <note n="13" place="foot"
+            type="editorial">Pio Rajna (1847-1930). C’est sans doute par inadvertance que Schuchardt l’évoque ici par son prénom.</note>, <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6324">Wimmer</persName> aus <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.47">Kopenhagen</placeName>, einige Engländer. <pb
+            facs="#IMG.4" n="4"/>
+        </p>
+        <p>In unserer Sektion wurden zwei Begrüssungsschriften vorgelegt<note n="14" place="foot"
+              type="editorial">Une troisième conférence inaugurale figure au programme: <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6589">Dr. Bobertag</persName>, «Über Wieland’s Romane» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6326">
+                <hi rendition="#i">Versammlung Deutscher Philologen und Schulmänner 1872</hi> 1873, 180</ref>
+            </bibl>). </note>: von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6334">Möbius</persName> über altnordische Sprache und von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6325">Bergmann</persName> «Zu welcher Wortsippe gehört die lateinische Vorsetzpartikel Re-?»<note
+            n="15" place="foot" type="editorial"> L’article a été publié dans la 4<hi
+              rendition="#sup">e</hi> série des <hi rendition="#i">Sprachliche Studien</hi> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7196">Bergmann 1872</ref>
+
+            </bibl>).</note>, das Wunderbarste, was mir je vorgekommen ist. – Ihr Verzeichnis der Vorlesungen auf romanischem Gebiete ist sehr unvollständig<note
+            n="16" place="foot" type="editorial">Schuchardt parle de la liste publiée dans la <hi
+              rendition="#i">Romania</hi> où sont énumérés les cours de romanistique donnés dans les universités allemandes et autrichiennes (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7715">«Chronique» 1872, 272</ref>
+            </bibl>).</note>. So fehlt</p>
+        <p>
+          <hi rendition="#uu">Innsbruck</hi>
+          <hi rendition="#i">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1380">De-Mattio</persName>
+          </hi> Dante’s <hi rendition="#i">Div. Commedia</hi>
+        </p>
+        <p>
+          <hi rendition="#uu">Zürich</hi>: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1649">Gröber</persName> Prof. extraord. Provenzal. Gramm.; Dante’s <hi
+            rendition="#i">Inferno</hi>; roman. Gesellsch<note n="17" place="foot"
+              type="editorial">La «Romanische Gesellschaft», enseignement créé par Gröber dans lequel il annonçait les futurs séminaires (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7448">Fryba-Reber 2009</ref>
+            </bibl>, 38).</note>
+        </p>
+        <p>
+          <hi rendition="#uu">Bern</hi>: <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6327">Schaffter</persName>: Prof. extr. Histoire de la littér. franç. au moyen âge; Molière et la comédie franç.</p>
+        <p>
+          <hi rendition="#uu">Breslau</hi>: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4098">Mall</persName> Pr.-doc. Rom. Uebungen; Dante’s <hi rendition="#i">göttl Kom.</hi> (Gesch. des engl. Drama’s bis Shakespeare.)</p>
+        <p>
+          <hi rendition="#uu">Dorpat</hi>: <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6328">Masing</persName> Pr.-doc. Italienisch</p>
+        <p>
+          <hi rendition="#uu">Freiburg</hi>: <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2136">Martin</persName> Pr. extr. Hist. Gramm. der franz. Sprache</p>
+        <p>
+          <hi rendition="#uu">Heidelberg</hi>: <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1090">Bartsch</persName> Pr. ord.</p>
+        <p>
+          <hi rendition="#uu">Marburg</hi>: <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2845">ten Brink</persName> Pr. ord. franz. Syntax;. Ueb. der engl.-rom. Ges.</p>
+        <p>
+          <hi rendition="#uu">Tübingen</hi>: <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6330">Holland</persName> Pr. extr. Dante’s <hi
+            rendition="#i">Div. comm.</hi>; Romanzen des <hi rendition="#i">Cid</hi>; Gesch. der span. Poesie.</p>
+        <p>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6331">Peschier</persName> Pr. extr. Gesch. der franz. Literatur; franz. Uebungen.</p>
+
+        <p>Ich empfehle Ihnen für solche Nachrichten den semesterweise zu Berlin erscheinenden deutschen Universitätskalender von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6332">Ascherson</persName> (20 gl.)<note n="18" place="foot"
+              type="editorial">Ferdinand Ascherson (1832-1904) publie chaque semestre le <hi
+            rendition="#i">Deutsche Universitäts-Kalender</hi>.</note>. Grüssen Sie <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1046">Arbois de Jubainville</persName> von mir: ich hoffe die Unterbrechung meines Briefwechsels mit ihm hat keinen <hi
+            rendition="#u">besonderen</hi> Grund. Er wird Ihnen sagen, dass ich mich bei ihm nach Ihnen erkundigt habe und in der That habe ich während des Krieges mich oft derjenigen Franzosen, mit denen ich persönlich befreundet war oder mit denen ich auf gleichem Wissenschaftspfade wandelte in <hi rendition="#u">freundschaftlicher</hi> Weise erinnert.</p>
+        <p>Lassen Sie auch einmal wieder von sich hören.</p>
+        <closer>
+          <salute>Ganz der Ihrige</salute>
+          <signed>Hugo Schuchardt</signed>
+          <lb/> Gohlis <lb/> Lange Strasse 28. </closer>
+        <postscript>
+          <p> *«auch aus dem Schosse der orientalistischen Sektion haben sich die <hi rendition="#u">Indogermanisten</hi> als eigene Sektion ausgeschieden. </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Charles N. Michel an Hugo Schuchardt (02-07355)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2196">
+            <forename>Charles N.</forename>
+            <surname>Michel</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12476" type="PID">o:hsa.letter.12476</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-07355</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07355</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2196">
+                <forename>Charles N.</forename>
+                <surname>Michel</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6752" ref="http://sws.geonames.org/2797656">Gent</origPlace>
+              <origDate ana="dcterms:created" when="1887-02-19">1887-02-19</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Charles N. Michel und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2196"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12476">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2196" ref="https://viaf.org/viaf/19754725">
+            <forename>Charles N.</forename>
+            <surname>Michel</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6752" key="#GID.1" ref="http://sws.geonames.org/2797656">Gent</placeName>
+          <date when="1887-02-19">1887-02-19</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Belgium</country>
+                <settlement>Ghent</settlement>
+                <name ref="http://geonames.org/2797656" type="fcode:PPL">Ghent</name>
+                <location>
+                  <geo>3.71667,51.05</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2196" type="context">
+                        Korrespondenz Charles N. Michel - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.226" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.667" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Deutsch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.380" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Wallonisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12476" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12476" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12476" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12476" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12476" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Gand, 19 Février, 1887.</dateline>
+        <opener>Cher Monsieur,</opener>
+        <p> Je suis bien aise d’avoir pu vous intéresser par mes quelques notes sur le Marollien; depuis ma dernière lettre, un de mes amis m’a signalé un texte marollien assez ancien, dans un livre où on ne songerait pas d’abord à le chercher. L’ouvrage est intitulé: <bibl>
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.10130">
+Van de Schelde tot de Weichsel [de l’Escaut à la Vistule] – Nederdeutsche dialecten in dicht en ondicht, uitgekosen en ogenelderd door G. A., en L. Leopold, Groningen 1882, 2 vol. </ref>
+          </bibl>
+        </p>
+        <p>
+          <hi rend="unknown"
+            rendition="#none">A titre de curiosité</hi>, les auteurs donnent (I, p. 40) un dialogue intitulé: Un‘ conversanse dans un gaus = une conversation dans une ruelle. Gaus<note
+            n="1" place="foot"
+            type="editorial">Vgl. dt. „Gasse“.</note> = fl. gaugske petite allee. Conversause est la prononciation marollienne de <hi
+            rend="unknown" rendition="#none">Conversatie</hi> tiré du <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.226">français</ref>. En relisant ce texte je me suis rappelé une particularité que j’avais oublié de vous signaler. Le marollien mêle constamment la 2<hi
+            rendition="#sup">de</hi> personne du sing. avec la 2<hi
+            rendition="#sup">de</hi> p. du plur. et ne parvient presque jamais à la dinstinguer. Il dira, à quelqu’un à qui il doit le respect; Vous peux faire cela, tu ne devez pas te geneie (=gêner). Cela provient de ce que le 
+
+flamand moderne a <hi
+            rend="unknown" rendition="#none">complètement</hi> perdu la 2<hi
+            rendition="#sup">de</hi> pers. du singulier, et <pb facs="#IMG.2" n="2"/> qu’il emploie <hi rend="unknown"
+            rendition="#none">toujours</hi> la 2<hi rendition="#sup">de</hi> pers. du pluriel, en parlant à sont enfant, comme quand il parle à son maître. </p>
+        <p>A propos de lire <hi rend="unknown"
+            rendition="#none">sur</hi> le journal, on dit bien en flamand op de gazette lezen, mais votre observation m’a rappelé qu’on dit aussi, en wallon, lire <hi
+            rend="unknown" rendition="#none">sur</hi> le journal et puis qu’on ne se sert pas de cette tournure en <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.667">allemand</ref>, il se pourrait qu’elle provînt en flamand de l’influence du <ref target="https://gams.uni-graz.at/o:hsa.languages#L.380">wallon</ref>. </p>
+
+        <p>Je compte suivre votre conseil et me remettre à une petite étude sur le marollien; je vais tâcher de me procure une collection de la <hi
+            rend="unknown" rendition="#none">
+Casserole</hi>, et j’espère rentrer bientôt en possession de mes notes. </p>
+
+        <p>– Je crois qu’il faudrait chercher longtemps pour trouver un exemplaire de l’Almanach que j’ai payé jadis très cher. Mais si vous désirez voir ce que c’est, je pourrais vous envoyer mon exemplaire que vous pourriez garder aussi longtemps <pb
+            facs="#IMG.3" n="3"/> que vous ce auriez lesoin.</p>
+        <closer>
+          <salute>Ne vous croyez pas obligé de me répondre si vous êtes trop occupé, et recevez, je vous prie, mon cher Collègue, l’expression de mes sentiments de considération distinguée et de haute estime,</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2196">Charles Michel</persName>
+          </signed>
+        </closer>
+        <pb facs="#IMG.4" n="4"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

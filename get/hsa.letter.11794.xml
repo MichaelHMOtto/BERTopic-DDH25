@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (87-08600)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11794" type="PID">o:hsa.letter.11794</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">87-08600</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08600</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6284" ref="http://sws.geonames.org/3002534">Le Pouliguen</origPlace>
+              <origDate ana="dcterms:created" when="1889-08-29">1889-08-29</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11794">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6284" key="#GID.1" ref="http://sws.geonames.org/3002534">Le Pouliguen</placeName>
+          <date when="1889-08-29">1889-08-29</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Le Pouliguen</settlement>
+                <name ref="http://geonames.org/3002534" type="fcode:PPL">Le Pouliguen</name>
+                <location>
+                  <geo>-2.43319,47.27187</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11794" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11794" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11794" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7508" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline> Ce 29 août 1889 <lb/> Villa Bormettes <lb/>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6284">Le Pouliguen</placeName>
+          <lb/> Loire-Inférieure</dateline>
+        <opener>Mon cher ami,</opener>
+
+        <p> Merci bien, cher ami, de vos félicitations aussi affectueuses que spirituelles. Ces bons Suédois m’ont fait une charmante surprise<note
+            n="1" place="foot" type="editorial">
+            <ref
+              target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7885">Henderson, Euren, Geijer et al. 1889</ref>, voir l. du 22 août 1889 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11793">HS 86-24457</ref>).</note>, et voilà de fleurs la date fatale qui n’en reparaît pas moins chaque jour plus nette à mesure que les fleurs se fanent. On est si émerveillé de voir un Français qui s’intéresse à l’histoire de son pays qu’on ne sait comment lui exprimer sa reconnaissance. Je dois à ma patrie, et par ce qu’elle a fait et par ce qu’elle a négligé, tous les hommages qu’on m’adresse. Le beau mérite de savoir à peu près autant d’ancien français qu’un bon élève de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2782">Stengel</persName>! Des gens comme vous, comme <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2867">Tobler</persName>, comme d’autres, qui nous apprennent l’histoire et le sens de notre langue et de notre littérature, devraient recevoir de la France de bien autres <pb
+            facs="#IMG.2"
+            n="2"/> honneurs, mais elle ignore même leurs noms et ne se pique pas de comprendre leurs travaux. Je les leur indique parfois; puis je me dis que l’ignorance des Français est sans doute une de leur force, et qu’au moyen âge c’était la même chose, dans un autre genre. Enfin le meilleur dans tout cela c’est la bonne amitié dont je reçois tant de preuves. J’ai ici, à ma grande joie, mon vieil ami <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2867">Tobler</persName>; j’ai été plus heureux avec lui qu’avec vous<note
+            n="2" place="foot" type="editorial">Voir les l. du 11 mars 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11776">GP 69-08591</ref>), du 27 mars [1887] (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11777">GP 70-08655</ref>), du début avril 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11778">GP 71-08657</ref>), du 5 avril 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11779">HS 72-24457</ref>), du 11 avril 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11780">GP 73-08592</ref>), du 11 avril 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11781">HS 74-24457</ref>) et du 12 avril 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11782">GP 75-08593</ref>), à propos de la rencontre ratée à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6271">La Cheylane</placeName> en 1888.</note>, et j’ai pu l’amener jusque chez moi, sur le bord de <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6284">l’Océan celtique</placeName>
+          <note n="3" place="foot" type="editorial"> Au <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6284">Pouliguen</placeName>, donc, d’où part cette lettre et d’où est originaire la famille de Marie Paris née Talbot. </note>. Il va me quitter ces jours-ci, me laissant le souvenir de bien belles heures passées ensemble, à parler de toutes choses, même de syntaxe, quoique je n’y sois pas grand clerc. Si je vous tiens un jour comme cela, nous parlerons <hi rendition="#u">d’andare</hi>
+          <note n="4" place="foot"
+              type="editorial"> Pour les débats sur l’étymologie d’aller, voir les l. du 3 juin 1882 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11754">HS 47-24457</ref>), du 8 mars 1888 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1843">HS 81-24457</ref>), du 18 juillet 1888 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11792">GP 85-08599</ref>), du 22 août 1889 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11793">HS 86-24457</ref>), du 6 août 1890 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11801">HS 94-24457</ref>), du 11 septembre 1890 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11803">GP 95-08602</ref>) et du 23 août 1898 (<ref target="https://gams.uni-graz.at/o:hsa.letter.11880">HS 146-24457</ref>). </note>; c’est un sujet tellement délicat qu’on ne peut écrire tout ce qu’on en peut dire à un ami sûr, qui vous promet de ne pas l’imprimer. J’ai peur de mourir sans avoir vu la délivrance de ce Prométhée que tant de vautours dévorent. </p>
+        <pb facs="#IMG.3" n="3"/>
+
+        <p> Soignez vos nerfs, mon cher ami; je comprends que vous leur ayez épargné l’épreuve de la grande foire parisienne. Si vous étiez venu <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6284">ici</placeName> les étendre sur notre sable fin, ils seraient assurément calmés pour quelque temps et aussi fortifiés. J’ai quelques idées d’aller à Pâques aux fêtes de <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.222">Montpellier</placeName>
+          <note n="5" place="foot"
+              type="editorial"> Le congrès du Félibrige a lieu à Montpellier, du 24 au 26 mai 1890. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1195">Bréal</persName>, président du comité de ces festivités, demande également à Schuchardt, dans une lettre du 10 mai 1890, s’il compte s’y rendre (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.7006">HSA 06-01326</ref>). Ni G. Paris ni Schuchardt ne seront présents à Montpellier. </note>. Vous devriez y apporter des chansons languedociennes, faire de la phonétique avec <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2209">Mistral</persName>, et finir le tout par quelques jours dans cette pauvre <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6271">Cheÿlane</placeName> qui n’a fait que vous apercevoir. </p>
+        <p> Aimez-moi toujours et ne me vénérez pas. </p>
+        <closer>
+          <salute>Votre tout dévoué</salute>
+          <lb/>
+          <signed>GParis</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

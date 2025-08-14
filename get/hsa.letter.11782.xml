@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (75-08593)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11782" type="PID">o:hsa.letter.11782</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">75-08593</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08593</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" ref="http://sws.geonames.org/2988507">Paris</origPlace>
+              <origDate ana="dcterms:created" when="1887-04-12">1887-04-12</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11782">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.666" key="#GID.1" ref="http://sws.geonames.org/2988507">Paris</placeName>
+          <date when="1887-04-12">1887-04-12</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Paris</settlement>
+                <name ref="http://geonames.org/2988507" type="fcode:PPLC">Paris</name>
+                <location>
+                  <geo>2.3488,48.85341</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.6269" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Chateau de la Cheylane</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11782" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11782" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11782" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11782" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7496" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Paris, ce 12 avril 1887</dateline>
+        <opener>Mon cher ami,</opener>
+        <p> Ce n’est pas de ma faute si vous avez fait à la <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.6269">Cheÿlane</ref>
+ cette lamentable arrivée. Je vous ai écrit deux plis à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName> en mettant <hi rendition="#u">faire suivre</hi>
+          <note n="1" place="foot" type="editorial"> Il s’agit des l. du 27 mars 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11777">GP 70-08655</ref>) et du 1 avril 1887 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11778">GP 71-08657</ref>). </note>; j’ai écrit à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.125">Milan</placeName> à <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1056">Ascoli</persName>
+          <note n="2" place="foot"
+            type="editorial">Nous n’avons pas retrouvé la lettre de G. Paris à Ascoli.</note> de vous prévenir, mais vous étiez parti; je me suis informé à <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2185">G. Meyer</persName>, qui ne savait pas votre adresse; je vous ai écrit, aussitôt votre lettre reçue, à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.385">Nice</placeName>; j’ai écrit au chef de gare des <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6276">Salins</placeName> de prévenir de l’événement un monsieur qui attendrait vainement une voiture de chez nous… Tout cela en vain, grâce à votre vagabondage anonyme. Je suis désolé de manquer cette visite, dont je me promettais tant de plaisir, et ma femme regrette bien de ne pas faire votre connaissance. </p>
+        <pb facs="#IMG.2" n="2"/>
+
+        <p> Je veux vous envoyer cette lettre par le courrier d’aujourd’hui, et je n’ai que le temps de la finir et d’y joindre un mot pour <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2209">Mistral</persName>
+          <note n="3" place="foot" type="editorial">Voici cette lettre de recommandation: «Je n’ai certainement pas besoin de vous dire que M. Hugo Schuchardt, professeur à Graz, en Autriche, qui vous remettra ce mot, est un des premiers savants de l’Allemagne […] mais ce que je tiens surtout à vous dire, c’est que c’est mon ami, un fort aimable et galant homme et qu’en vous le présentant, je vous demande pour lui votre accueil le plus cordial. Il veut connaître la Provence vivante, après avoir juste étudié la Provence morte, et il va droit à vous, comme il est juste et naturel» (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.2855">Boutière 1978</ref>
+            </bibl>, 198‑99).</note>. <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6382">Maillane</placeName>, où il habite, est à une dizaine de kilomètres de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6273">Tarascon, </placeName> tout près de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6277">Saint-Remi</placeName> et de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6278">Baux</placeName>, que vous voudrez certainement visiter. Je joins une carte pour <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2042">M. Lieutaud</persName>, à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6005">Marseille,</placeName> assez drôle de personnage, ancien abbé aujourd’hui marié, bibliothécaire dégommé (je crois), qui a écrit sur les troubadours, et félibre et amusant. Je n’ai pas de relations avec lui depuis longtemps, mais il se fera une fête de vous recevoir. Je n’ai personne d’autre à vous indiquer à Marseille, mon ami le <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1181">dr. Bos</persName>
+          <note n="4" place="foot" type="editorial"> Voir <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11745">GP 38-08650</ref>, l. du 12 février 1882 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11747">GP 40-08577</ref>), <ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11748">GP 41-08578</ref>.</note> n’y étant pas. Je m’étonne beaucoup du silence de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.222">Montpellier</placeName>; ce ne peut être qu’une perte de lettre<note
+            n="5" place="foot" type="editorial"> Voir l. du 4 mars 1887 (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.11775">GP 68-08654</ref>). Tant <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1289">Chabaneau</persName> (<ref
+              target=" https://gams.uni-graz.at/o:hsa.letter.1805">HSA 01-01603</ref>) qu’<persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1829">Itier</persName> (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.1843">HSA 2-4934</ref>) se sont excusés, auprès de Schuchardt du retard de leur réponse.</note>; je vous réponds que <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1289">Chabaneau</persName> sera enchanté de vous recevoir. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">Thomas</persName>, qui est présentement ici, espère ardemment vous voir à <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.227">Toulouse</placeName>
+          <note n="6" place="foot" type="editorial"> Schuchardt était entré en contact avec <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2858">A. Thomas</persName> dès le mois de mars 1887. C’est ce que montre la première lettre d’A. Thomas à Schuchardt, datée du 15 mars 1887 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.5898">Swiggers 1991</ref>
+            </bibl>, 288; <ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11777">HSA 01-11658</ref>). </note>. Tous jouiront de votre voyage, excepté moi! <hi rendition="#u">Sventurato</hi> ! </p>
+        <pb facs="#IMG.3" n="3"/>
+        <p> Les lettres à vous adressées m’ont été retournées du Bureau des ports de <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6271">La Londe</placeName>; je vous les renvoie. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6533">Notre petit blessé</persName> va très bien, et dans trois semaines, suivant toute vraisemblance, il n’y paraîtra plus. Je vous serre la main en très grande hâte. Bien à vous </p>
+        <p>GParis</p>
+        <pb facs="#IMG.4" n="4"/>
+        <p> Gaston Paris<note n="7" place="foot" type="editorial">Carte de visite [Paris, 12 avril 1887].</note>
+        </p>
+        <p>Membre de l’Institut</p>
+        <p> présente à <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2042">M. Lieutaud</persName> son ami <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.109">M. H. Schuchardt,</persName> l’illustre romaniste, professeur à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName>, qui veut connaître la <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6048">Provence</placeName> et les Provençaux, et le recommande à son bon accueil.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

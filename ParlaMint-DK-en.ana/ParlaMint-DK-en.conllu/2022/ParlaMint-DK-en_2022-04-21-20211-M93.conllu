@@ -1,0 +1,531 @@
+# newdoc id = ParlaMint-DK_20220421100001
+# newpar id = ParlaMint-DK_20220421100001.seg1
+# lang = en
+# sent_id = ParlaMint-DK_20220421100001.seg1.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.826
+# text = The meeting is open.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	open	open	ADJ	A10p	Degree=Pos	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.837
+# text = From a member of the Folketing of Tanja Larsson (S), who is on leave, I have been informed that from 25 April 2022 onwards she can again meet in the Parliament.
+1	From	from	ADP	Z5	_	0	_	_	NER=O
+2	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+3	member	member	NOUN	A5.1p	Number=Sing	0	_	_	NER=O
+4	of	of	ADP	A5.1p	_	0	_	_	NER=O
+5	the	the	DET	A5.1p	Definite=Def|PronType=Art	0	_	_	NER=O
+6	Folketing	Folketing	PROPN	A5.1p	Number=Sing	0	_	_	NER=B-MISC
+7	of	of	ADP	Z5	_	0	_	_	NER=O
+8	Tanja	Tanja	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+9	Larsson	Larsson	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+10	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+11	S	S	PROPN	Z5	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+12	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+13	,	,	PUNCT	Z9	_	0	_	_	NER=O
+14	who	who	PRON	Z8	PronType=Rel	0	_	_	NER=O
+15	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+16	on	on	ADP	Z5	_	0	_	_	NER=O
+17	leave	leave	NOUN	K1|T1.3	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+18	,	,	PUNCT	Z9	_	0	_	_	NER=O
+19	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+20	have	have	AUX	A9p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+21	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+22	informed	inform	VERB	X2.2p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+23	that	that	SCONJ	Z5	_	0	_	_	NER=O
+24	from	from	ADP	Z5	_	0	_	_	NER=O
+25	25	25	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+26	April	April	PROPN	Z2	Number=Sing	0	_	_	NER=O
+27	2022	2022	NUM	Z2	NumForm=Digit|NumType=Card	0	_	_	NER=O
+28	onwards	onwards	ADV	M6	_	0	_	_	NER=O
+29	she	she	PRON	Z8	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+30	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+31	again	again	ADV	N6p	_	0	_	_	NER=O
+32	meet	meet	VERB	S3.1	VerbForm=Inf	0	_	_	NER=O
+33	in	in	ADP	Z5	_	0	_	_	NER=O
+34	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+35	Parliament	Parliament	PROPN	G1.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+36	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.039
+# text = The office of temporary member of the Folketing of Thei Chicken Hommeltofts (S) shall cease to be valid from that date.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	office	office	NOUN	I2.1|H1	Number=Sing	0	_	_	NER=O
+3	of	of	ADP	Z5	_	0	_	_	NER=O
+4	temporary	temporary	ADJ	T1.3	Degree=Pos	0	_	_	NER=O
+5	member	member	NOUN	A5.1p	Number=Sing	0	_	_	NER=O
+6	of	of	ADP	A5.1p	_	0	_	_	NER=O
+7	the	the	DET	A5.1p	Definite=Def|PronType=Art	0	_	_	NER=O
+8	Folketing	Folketing	PROPN	A5.1p	Number=Sing	0	_	_	NER=B-ORG
+9	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+10	Thei	Thei	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+11	Chicken	Chicken	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+12	Hommeltofts	Hommeltofts	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+13	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+14	S	S	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+15	)	)	PUNCT	Z9	_	0	_	_	NER=O
+16	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+17	cease	cease	VERB	T2n	VerbForm=Inf	0	_	_	NER=O
+18	to	to	PART	Z5	_	0	_	_	NER=O
+19	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+20	valid	valid	ADJ	A5.2p	Degree=Pos	0	_	_	NER=O
+21	from	from	ADP	Z5	_	0	_	_	NER=O
+22	that	that	DET	Z5	Number=Sing|PronType=Dem	0	_	_	NER=O
+23	date	date	NOUN	T1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+24	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.4
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.065
+# text = Today there are the following reviews: Christian Rabjerg Madsen (S), Sophie Løh (V), Pia Olsen Dyhr (SF), Sofie Carsten Nielsen (RV), Mai Villadsen (EL), Søren Pape Poulsen (KF), Morten Messerschmidt (DF), Pernille Vermund (NB), Alex Vanopslagh (LA), Susanne Zimmer (FG), Torsten Gejl (ALT), Jens Rohde (KD), Aaja Chemnitz Larsen (IA), Aki-Matilda Høegh-Dam-Dam (SIU), Edmund Joensen (SP), Sjúrður Skaale (Løkke), Karina Adsbøl (UFG), Simon Emil Ammitzbøll-Bille-Orla SkibbyUFGØsterby, Liselott Blixt (UFG), Lise Bech (UFG), Bøgsted (UFG), Nase Khader (UFG), Marie Krarup (UFGoldLars, L. F 54 (What can the Prime Minister say about the domestic and foreign policy situation?).
+1	Today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O
+3	are	be	VERB	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	following	follow	VERB	M1	VerbForm=Ger	0	_	_	NER=O
+6	reviews	review	NOUN	X2.4	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+7	:	:	PUNCT	Z9	_	0	_	_	NER=O
+8	Christian	Christian	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+9	Rabjerg	Rabjerg	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+10	Madsen	Madsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	S	S	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+13	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+14	,	,	PUNCT	Z9	_	0	_	_	NER=O
+15	Sophie	Sophie	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+16	Løh	Løh	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+17	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+18	V	V	PROPN	Z5	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+19	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+20	,	,	PUNCT	Z9	_	0	_	_	NER=O
+21	Pia	Pia	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+22	Olsen	Olsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+23	Dyhr	Dyhr	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+24	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+25	SF	SF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+26	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+27	,	,	PUNCT	Z9	_	0	_	_	NER=O
+28	Sofie	Sofie	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+29	Carsten	Carsten	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+30	Nielsen	Nielsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+31	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+32	RV	RV	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+33	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+34	,	,	PUNCT	Z9	_	0	_	_	NER=O
+35	Mai	Mai	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+36	Villadsen	Villadsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+37	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+38	EL	EL	PROPN	M5	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+39	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+40	,	,	PUNCT	Z9	_	0	_	_	NER=O
+41	Søren	Søren	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+42	Pape	Pape	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+43	Poulsen	Poulsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+44	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+45	KF	KF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+46	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+47	,	,	PUNCT	Z9	_	0	_	_	NER=O
+48	Morten	Morten	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+49	Messerschmidt	Messerschmidt	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+50	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+51	DF	DF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+52	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+53	,	,	PUNCT	Z9	_	0	_	_	NER=O
+54	Pernille	Pernille	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+55	Vermund	Vermund	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+56	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+57	NB	NB	PROPN	Z5	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+58	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+59	,	,	PUNCT	Z9	_	0	_	_	NER=O
+60	Alex	Alex	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+61	Vanopslagh	Vanopslagh	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+62	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+63	LA	LA	PROPN	Z2	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+64	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+65	,	,	PUNCT	Z9	_	0	_	_	NER=O
+66	Susanne	Susanne	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+67	Zimmer	Zimmer	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+68	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+69	FG	FG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+70	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+71	,	,	PUNCT	Z9	_	0	_	_	NER=O
+72	Torsten	Torsten	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+73	Gejl	Gejl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+74	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+75	ALT	ALT	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+76	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+77	,	,	PUNCT	Z9	_	0	_	_	NER=O
+78	Jens	Jens	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+79	Rohde	Rohde	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+80	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+81	KD	KD	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+82	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+83	,	,	PUNCT	Z9	_	0	_	_	NER=O
+84	Aaja	Aaja	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+85	Chemnitz	Chemnitz	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+86	Larsen	Larsen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+87	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+88	IA	IA	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+89	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+90	,	,	PUNCT	Z9	_	0	_	_	NER=O
+91	Aki-Matilda	Aki-Matilda	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+92	Høegh-Dam	Høegh-Dam	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER|SpaceAfter=No
+93	-	-	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+94	Dam	Dam	PROPN	Z3	Number=Sing	0	_	_	NER=B-PER
+95	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+96	SIU	SIU	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+97	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+98	,	,	PUNCT	Z9	_	0	_	_	NER=O
+99	Edmund	Edmund	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+100	Joensen	Joensen	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+101	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+102	SP	SP	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+103	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+104	,	,	PUNCT	Z9	_	0	_	_	NER=O
+105	Sjúrður	Sjúrður	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+106	Skaale	Skaale	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+107	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+108	Løkke	Løkke	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+109	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+110	,	,	PUNCT	Z9	_	0	_	_	NER=O
+111	Karina	Karina	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+112	Adsbøl	Adsbøl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+113	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+114	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+115	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+116	,	,	PUNCT	Z9	_	0	_	_	NER=O
+117	Simon	Simon	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+118	Emil	Emil	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+119	Ammitzbøll-Bille	Ammitzbøll-Bille	PROPN	Z99	Number=Sing	0	_	_	NER=I-PER|SpaceAfter=No
+120	-	-	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+121	Orla	Orla	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+122	Skibby	Skibby	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+123	UFG	UFG	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+124	Østerby	Østerby	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+125	,	,	PUNCT	Z9	_	0	_	_	NER=O
+126	Liselott	Liselott	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+127	Blixt	Blixt	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+128	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+129	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+130	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+131	,	,	PUNCT	Z9	_	0	_	_	NER=O
+132	Lise	Lise	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+133	Bech	Bech	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+134	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+135	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+136	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+137	,	,	PUNCT	Z9	_	0	_	_	NER=O
+138	Bøgsted	Bøgsted	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG
+139	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+140	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+141	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+142	,	,	PUNCT	Z9	_	0	_	_	NER=O
+143	Nase	Nase	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+144	Khader	Khader	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+145	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+146	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+147	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+148	,	,	PUNCT	Z9	_	0	_	_	NER=O
+149	Marie	Marie	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+150	Krarup	Krarup	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+151	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+152	UFGold	UFGold	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+153	Lars	Lars	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+154	,	,	PUNCT	Z9	_	0	_	_	NER=O
+155	L.	L.	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+156	F	F	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+157	54	54	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+158	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+159	What	what	PRON	Z8	PronType=Int	0	_	_	NER=O
+160	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+161	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+162	Prime	Prime	ADJ	Z1	Degree=Pos	0	_	_	NER=O
+163	Minister	Minister	PROPN	Z1	Number=Sing	0	_	_	NER=O
+164	say	say	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O
+165	about	about	ADP	Z5	_	0	_	_	NER=O
+166	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+167	domestic	domestic	ADJ	H4	Degree=Pos	0	_	_	NER=O
+168	and	and	CCONJ	Z5	_	0	_	_	NER=O
+169	foreign	foreign	ADJ	M7	Degree=Pos	0	_	_	NER=O
+170	policy	policy	NOUN	Z9	Number=Sing	0	_	_	NER=O
+171	situation	situation	NOUN	Z9	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+172	?	?	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+173	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+174	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.5
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.466
+# text = The title of the notified case will appear in www.folketingstidende.dk (cf. above).
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	title	title	NOUN	Q4	Number=Sing	0	_	_	NER=O
+3	of	of	ADP	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	notified	notify	VERB	Q2.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O
+7	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+8	appear	appear	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+9	in	in	ADP	Z5	_	0	_	_	NER=O
+10	www.folketingstidende.dk	www.folketingstidende.dk	PROPN	Z99	Number=Sing	0	_	_	NER=O
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	cf.	cf.	NOUN	Z5|A6	Number=Sing	0	_	_	NER=O
+13	above	above	ADV	M6	_	0	_	_	NER=O|SpaceAfter=No
+14	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.6
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.657
+# text = The Minister for Development Cooperation (Flemming Møller Mortensen) has informed me that he wishes to do so in accordance with paragraph 19 of the Rules of Procedure. 4 to provide Parliament with a written statement on the development of development cooperation.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	Minister	Minister	PROPN	G1.1|S2	Number=Sing	0	_	_	NER=B-ORG
+3	for	for	ADP	Z5	_	0	_	_	NER=I-ORG
+4	Development	Development	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+5	Cooperation	Cooperation	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+6	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+7	Flemming	Flemming	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+8	Møller	Møller	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+9	Mortensen	Mortensen	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+10	)	)	PUNCT	Z9	_	0	_	_	NER=O
+11	has	have	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+12	informed	inform	VERB	A5.4p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+13	me	I	PRON	A5.4p	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+14	that	that	SCONJ	Z5	_	0	_	_	NER=O
+15	he	he	PRON	Z8	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+16	wishes	wish	VERB	X7p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+17	to	to	PART	Z5	_	0	_	_	NER=O
+18	do	do	VERB	S1.1.3p	VerbForm=Inf	0	_	_	NER=O
+19	so	so	ADV	Z5	_	0	_	_	NER=O
+20	in	in	ADP	Z5	_	0	_	_	NER=O
+21	accordance	accordance	NOUN	S7.1n	Number=Sing	0	_	_	NER=O
+22	with	with	ADP	Z5	_	0	_	_	NER=O
+23	paragraph	paragraph	NOUN	Q3	Number=Sing	0	_	_	NER=O
+24	19	19	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+25	of	of	ADP	Z5	_	0	_	_	NER=O
+26	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+27	Rules	rule	NOUN	G2.1	Number=Plur	0	_	_	NER=B-ORG
+28	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+29	Procedure	procedure	NOUN	X4.2	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+30	.	.	PUNCT	Z9	_	0	_	_	NER=O
+31	4	4	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+32	to	to	PART	Z5	_	0	_	_	NER=O
+33	provide	provide	VERB	A9n	VerbForm=Inf	0	_	_	NER=O
+34	Parliament	Parliament	PROPN	G1.1	Number=Sing	0	_	_	NER=O
+35	with	with	ADP	Z5	_	0	_	_	NER=O
+36	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+37	written	write	VERB	Q1.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+38	statement	statement	NOUN	Q2.1	Number=Sing	0	_	_	NER=O
+39	on	on	ADP	Z5	_	0	_	_	NER=O
+40	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+41	development	development	NOUN	A2.1p	Number=Sing	0	_	_	NER=O
+42	of	of	ADP	Z5	_	0	_	_	NER=O
+43	development	development	NOUN	A2.1p	Number=Sing	0	_	_	NER=O
+44	cooperation	cooperation	NOUN	S8p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+45	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.7
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.051
+# text = R 16).
+1	R	R	NOUN	Z5	Number=Sing	0	_	_	NER=O
+2	16	16	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+3	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100001.seg1.8
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.764
+# text = Copies will be distributed and the statement will appear in www.folkingstidende.dk. May 2022.
+1	Copies	copy	NOUN	A5.4n	Number=Plur	0	_	_	NER=O
+2	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+3	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+4	distributed	distribute	VERB	A9n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+5	and	and	CCONJ	Z5	_	0	_	_	NER=O
+6	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+7	statement	statement	NOUN	Q2.1	Number=Sing	0	_	_	NER=O
+8	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+9	appear	appear	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+10	in	in	ADP	Z5	_	0	_	_	NER=O
+11	www.folkingstidende.dk.	www.folkingstidende.dk.	X	Z9	_	0	_	_	NER=O
+12	May	May	PROPN	Z2	Number=Sing	0	_	_	NER=O
+13	2022	2022	NUM	Z2	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220421100118
+# newpar id = ParlaMint-DK_20220421100118.seg2
+# lang = en
+# sent_id = ParlaMint-DK_20220421100118.seg2.1
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.533
+# text = No amendments have been tabled.
+1	No	no	DET	Z6	_	0	_	_	NER=O
+2	amendments	amendment	NOUN	A2.1p	Number=Plur	0	_	_	NER=O
+3	have	have	AUX	A9p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+5	tabled	tab	VERB	Q1.2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+6	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100118.seg2.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.672
+# text = Does anyone wish to speak?
+1	Does	do	AUX	S1.1.3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	anyone	anyone	PRON	Z8	Number=Sing	0	_	_	NER=O
+3	wish	wish	VERB	X7p	VerbForm=Inf	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	speak	speak	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+6	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100118.seg2.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.288
+# text = As this is not the case, the debate is closed.
+1	As	as	SCONJ	Z5	_	0	_	_	NER=O
+2	this	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	not	not	PART	Z6	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z9	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+10	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+11	closed	close	VERB	A10n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+12	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100118.seg2.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.774
+# text = I propose that the bill should go directly to the third reading without referral back to committee.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	propose	propose	VERB	Q2.2|X7p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	that	that	SCONJ	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	bill	bill	NOUN	I1.3	Number=Sing	0	_	_	NER=O
+6	should	should	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+7	go	go	VERB	M1	VerbForm=Inf	0	_	_	NER=O
+8	directly	directly	ADV	M6	_	0	_	_	NER=O
+9	to	to	ADP	Z5	_	0	_	_	NER=O
+10	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+11	third	third	ADJ	G1.1	Degree=Pos|NumType=Ord	0	_	_	NER=O
+12	reading	reading	NOUN	G1.1	Number=Sing	0	_	_	NER=O
+13	without	without	ADP	Z5	_	0	_	_	NER=O
+14	referral	referral	NOUN	Q2.2|S2	Number=Sing	0	_	_	NER=O
+15	back	back	ADV	M6	_	0	_	_	NER=O
+16	to	to	ADP	Z5	_	0	_	_	NER=O
+17	committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+18	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100118.seg2.5
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.320
+# text = Are there any comments?
+1	Are	be	VERB	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O
+3	any	any	DET	N5.1p	_	0	_	_	NER=O
+4	comments	comment	NOUN	Q2.1	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+5	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100118.seg2.6
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.075
+# text = It's agreed.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+2	's	be	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	agreed	agree	VERB	A6.1p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220421100141
+# newpar id = ParlaMint-DK_20220421100141.seg3
+# lang = en
+# sent_id = ParlaMint-DK_20220421100141.seg3.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.339
+# text = There is nothing more to be done in this meeting.
+1	There	there	PRON	Z5	_	0	_	_	NER=O
+2	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	nothing	nothing	PRON	Z6|Z8	Number=Sing	0	_	_	NER=O
+4	more	more	ADJ	A13.3	Degree=Cmp	0	_	_	NER=O
+5	to	to	PART	Z5	_	0	_	_	NER=O
+6	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+7	done	do	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+8	in	in	ADP	Z5	_	0	_	_	NER=O
+9	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+10	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100141.seg3.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.608
+# text = The next meeting of the Danish Parliament will be held today, Friday 21 April 2022, at 12.00 p.m. 10.15 where there will be votes.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+3	meeting	meeting	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+4	of	of	ADP	Z5	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	Danish	Danish	ADJ	Z1	Degree=Pos	0	_	_	NER=B-MISC
+7	Parliament	Parliament	PROPN	Z1	Number=Sing	0	_	_	NER=O
+8	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+9	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+10	held	hold	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+11	today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+12	,	,	PUNCT	Z9	_	0	_	_	NER=O
+13	Friday	Friday	PROPN	Z2	Number=Sing	0	_	_	NER=O
+14	21	21	NUM	Z2	NumForm=Digit|NumType=Card	0	_	_	NER=O
+15	April	April	PROPN	Z2	Number=Sing	0	_	_	NER=O
+16	2022	2022	NUM	Z2	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+17	,	,	PUNCT	Z9	_	0	_	_	NER=O
+18	at	at	ADP	Z5	_	0	_	_	NER=O
+19	12.00	12.00	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+20	p.m.	p.m.	NOUN	Z99	Number=Sing	0	_	_	NER=O
+21	10.15	10.15	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+22	where	where	SCONJ	M6	PronType=Rel	0	_	_	NER=O
+23	there	there	PRON	Z5	_	0	_	_	NER=O
+24	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+25	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+26	votes	vote	NOUN	G1.2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+27	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220421100141.seg3.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.825
+# text = I refer to the agenda set out in the Danish Parliament's website.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	refer	refer	VERB	Q2.2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	to	to	ADP	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	agenda	agenda	NOUN	Q1.2|X7p	Number=Sing	0	_	_	NER=O
+6	set	set	VERB	M2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+7	out	out	ADP	Z5	_	0	_	_	NER=O
+8	in	in	ADP	Z5	_	0	_	_	NER=O
+9	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+10	Danish	Danish	ADJ	Z1	Degree=Pos	0	_	_	NER=B-MISC
+11	Parliament	Parliament	PROPN	Z1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+12	's	's	PART	Z5	_	0	_	_	NER=O
+13	website	website	NOUN	Y2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+

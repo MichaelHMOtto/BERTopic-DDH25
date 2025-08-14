@@ -1,0 +1,498 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Peter Reinhold Grundemann an Hugo Schuchardt (01-04170)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1654">
+            <forename>Peter Reinhold</forename>
+            <surname>Grundemann</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11488" type="PID">o:hsa.letter.11488</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-04170</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">04170</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1654">
+                <forename>Peter Reinhold</forename>
+                <surname>Grundemann</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="9" unit="pages">9 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6438" ref="http://sws.geonames.org/2869126">Mörz</origPlace>
+              <origDate ana="dcterms:created" when="1882-03-06">1882-03-06</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2022">2022</date>
+          <title>Die Korrespondenz zwischen Peter Reinhold Grundemann und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1654"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11488">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1654" ref="https://viaf.org/viaf/137145857834923020029">
+            <forename>Peter Reinhold</forename>
+            <surname>Grundemann</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6438" key="#GID.1" ref="http://sws.geonames.org/2869126">Mörz</placeName>
+          <date when="1882-03-06">1882-03-06</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Mörz</settlement>
+                <name ref="http://geonames.org/2869126" type="fcode:PPL">Mörz</name>
+                <location>
+                  <geo>12.68652,52.12064</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1654" type="context">
+                        Korrespondenz Peter Reinhold Grundemann - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4178" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Missionarslinguistik</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.717" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Bonn</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4688" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Missionary Society London</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.885" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Sprachen in Surinam</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4738" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">British Museum (London)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4141" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Prix Volney</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.536" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Niederländisch (Südafrika)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.575" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Niger-Kongo-Sprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.813" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englischbasierte Kreolsprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11488" xml:id="IMG.9">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11488" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>6.3.82<lb/>
+        </dateline>
+        <opener>Sehr geehrter Herr Professor!</opener>
+
+        <p>Sie haben in der That eine interessante Specialität gewählt. Ich wünsche Ihnen für Ihre mühsamen Arbeiten den besten Erfolg. Hätte ich von denselben früher Kunde gehabt, so würde ich Ihnen vielleicht nicht wenig Material haben sammeln können. Ich muß gestehen, es war mir bisher noch nicht der Gedanke gekommen, daß das Negerenglisch zu einem besonderen Studium gemacht werden könnte. Ich habe den vielen, allerdings sehr zerstreuten Brocken dieser Mundart, die mir vorkamen, daher keine sonder- <pb
+            facs="#IMG.2" n="2"/> liche Aufmerksamkeit gewidmet und auch die Quellen der von mir angeführten Proben kann ich mit Sicherheit nicht mehr angeben. Die in I 3 vorkommenden aber sind wahrscheinlich meistens aus</p>
+        <p>
+          <hi rend="unknown" rendition="#none">Carmichael, <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8570">Domestic Manners and Social Condition of the White, Coloured and Negro Population in the West Indies</ref>
+            </bibl> 2 Vol. London 1833</hi>
+        </p>
+        <p>und demnächst <hi rend="unknown" rendition="#none">Madden, R. R., a Twelve Months Residence in the West Indies 2 Vol. Lond. 1885</hi>
+        </p>
+        <p>oder <hi rend="unknown" rendition="#none">Day, Five Years Residence in the W. I. Lond. 1852</hi>
+        </p>
+        <p>entnommen. Die Citate in II.1 werden wahrscheinlich aus <hi rend="unknown"
+            rendition="#none">Hutchinson, Th. J., Ten Years Wandrings among the Ethiopians Lond. 1861</hi> sein. Die ausführlicheren <hi
+            rend="unknown"
+            rendition="#none">
+Citate</hi> sind aus der ersten Auflage herübergenommen u. stammen jedenfalls aus dem Basler <pb
+            facs="#IMG.3" n="3"/> Missionsmagazin, in das sie aus den älteren <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4178">englischen Missionsblättern</ref> der <hi
+            rend="unknown" rendition="#none">Church. Miss. Society</hi> übergegangen sein werden.</p>
+
+        <p>Ich würde Ihnen jedoch nicht rathen sich mit dem Aufsuchen wenigstens der letzteren Quellen zu bemühen. (Das Buch von Carmichael<note
+            n="1" place="foot" type="editorial">
+Mrs. A. C. Carmichael, <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8570">
+                <hi rend="unknown" rendition="#none">Domestic manners and social condition of the white, coloured, and negro population of the West Indies</hi>
+              </ref>
+
+            </bibl>, 1: in two volumes, London: Whittaker, Treacher, 1833.</note> dürfte noch immer empfehlenswerth sein). Viel erfolgreicher glaube ich würde es sein, wenn Sie sich direkt Quellen verschaffen, indem Sie an Ort und Stelle lebende Männer für Ihre Studien interessirten. Ich glaube, daß Ihnen mancher Missionar hilfreich die Hand bieten würde. Leider habe ich selber jetzt fast gar keine Korrespondenz mit den auswärtigen Missionaren u. kann Ihnen die Adressen nicht angeben, möchte Ihnen jedoch gern behilflich sein, solche zu erlangen. Versuchen Sie es also zunächst und wenden Sich an die Vorstände der betr. Missionen, mit der Bitte um Adressen <pb
+            facs="#IMG.4" n="4"/> solcher Missionare, welche Ihnen in der betr. Sache Informationen geben u. Quellen nachweisen könnten.</p>
+        <p>Ich nenne Ihnen</p>
+        <p>
+          <hi rend="unknown"
+            rendition="#none">Das Missions-Departement der Ältesten-Conferenz zu Berthelsdorf bei Herrnhut</hi> in <hi
+            rend="unknown" rendition="#none">
+Sachsen</hi>
+        </p>
+        <p>für <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5898">
+Westindien</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5865">Surinam</placeName>, Moskitoküste Herr Missionsinspektor Schott<note
+            n="2" place="foot" type="editorial">
+Keine Korrespondenz in HSA.</note>
+          <placeName>
+            <hi rend="unknown" rendition="#none">
+Basel</hi>
+          </placeName>
+        </p>
+        <p>für die Goldküste Herr Missionsinspektor <hi rend="unknown" rendition="#none">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3047">Zahn</persName> Bremen, Ellhornstr 26.</hi>
+          <note n="3" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.3047">Franz Michael Zahn</persName> (1833-1900), Erster Inspektor die Leitung der Norddeutschen Missionsgesellschaft; vgl. HSA 
+
+12941.</note>
+        </p>
+        <p>für die Sklavenküste Herr Missionsinspektor <hi rend="unknown" rendition="#none">
+            <persName>
+Dr. Fabri</persName> Barmen</hi>
+          <note n="4" place="foot" type="editorial">
+
+            <persName>
+
+Friedrich Gotthart Karl Ernst Fabri</persName> (1824-1891) war ein deutscher evangelischer Theologe und Publizist. Neben und nach seiner Tätigkeit als Leitender Inspektor der Rheinischen Mission war er maßgeblich am Entstehen der deutschen Kolonialbewegung beteiligt. Fabri war zudem Honorarprofessor der <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.717">
+Universität Bonn</ref>. Es gibt keine Korrespondenz mit Schuchardt.</note>
+        </p>
+        <p>für Südafrika – besonders das Holländisch im westl. <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5991">Südafrika</placeName>.<note n="5" place="foot" type="editorial">Hier ist keine Bezugsperson angegeben.</note>
+        </p>
+        <p>Bezüglich des <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.536">
+Griqua-Holländisch</ref> müßten Sie sich an den <hi
+            rend="unknown" rendition="#none">Secretary of the <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4688">(London) Missionary Society</ref>
+          </hi> wenden</p>
+        <p>
+          <hi rend="unknown" rendition="#none">
+            <placeName>
+
+London</placeName> E. C. Mission House Blomfield Street, London Wall</hi>,</p>
+        <p>mit <pb facs="#IMG.5"
+            n="5"/> Bitte um Angabe der Adresse eines der Missionare der Gesellschaft, der Ihnen über die <hi
+            rend="unknown"
+            rendition="#none">
+Griqa</hi>-Sprache Informationen zu geben imstande wäre. Ich kann mich aber nicht besinnen, wie der Herr hieß, der den nach <hi
+            rend="unknown" rendition="#none">
+Nomansland</hi> gezogenen <hi rend="unknown"
+            rendition="#none">Griqas</hi> nach Berg <foreign xml:lang="nl">
+            <hi rend="unknown" rendition="#none">
+Vijftig</hi>
+
+          </foreign> gefolgt war, u. meine Zeit gestattet nicht jetzt danach zu suchen – auch wäre es fraglich ob er jetzt noch am Leben ist. Jedenfalls führt die Anfrage in <hi
+            rend="unknown"
+            rendition="#none">London</hi> schneller zum Ziele. In Ihren Schreiben können Sie sich auf meinen Namen berufen; ich bin den meisten der Herren persönlich bekannt. Sollten diese Anfragen noch nicht den gewünschten Erfolg haben, so bin ich gerne bereit Ihnen weiter behilflich zu sein, damit Sie direkt mit den betr. Gebieten Verbindung erlangen. Ich weiß, wie wichtig es war bei Bearbeitung meines Missionsblattes die genausten Angaben direkt aus dem Auslande beziehen zu <pb
+            facs="#IMG.6" n="6"/> können.</p>
+
+        <p>Daß die britische Bibelgesellschaft die Bibel in mehreren (wenn ich nicht irre) Negerdialekten herausgegeben hat wird Ihnen bekannt sein.<note
+            n="6" place="foot" type="editorial">Vgl. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8574">
+                <hi rend="unknown" rendition="#none">The Gospel in many tongues</hi>
+              </ref>
+
+            </bibl>: [St. John 3. 16] ; [Brit. &amp;amp; Foreign Bible Society's Specimens of languages]: Centenary ed., London: Brit. &amp;amp; Foreign Bible Soc., 1904.</note> Sollten Sie diese Uebersetzungen noch nicht besitzen, so würde ich Ihnen rathen, sie direkt von der <hi
+            rend="unknown" rendition="#none">
+British Foreign Bibel Society</hi> kommen zu lassen. Im <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.885">Suriname=Dialekt</ref>, weiß ich bestimmt, da existirt solche Übersetzung.</p>
+
+        <p>Die Berliner Bibliothek ist in Geographicis ziemlich reichhaltig, aber etwas ungleichmäßig. Es kommt oft vor, daß man Werke, die in bestimmter Beziehung wichtig sind, vergeblich sucht. Mit dem <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.4738">Brit. Museum</ref> kann sie sich auch in diesen Stücken nicht messen.</p>
+        <p>Nehmen Sie diesmal hiermit fürlieb. Es würde mir eine Freude <pb facs="#IMG.7" n="7"/> sein, wenn ich Ihnen später weiter dienen könnte.</p>
+
+        <p>Während Ihr Brief auf meinem Tische lag stießen mir in dem Journal einer Missionsreise [nach] dem <placeName>
+
+Congo</placeName> [auf] einige Phrasen des mitgenommenen <hi
+            rend="unknown" rendition="#none">Kroo-Boys</hi>
+          <note n="7" place="foot" type="editorial">
+
+Klao oder Kru ist eine Kru-Sprache der <ref
+              target="https://gams.uni-graz.at/o:hsa.languages#L.575">
+Niger-Kongo-Sprachfamilie</ref>, die hauptsächlich in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.5885">Liberia</placeName> gesprochen wird. Einige Sprecher sprechen auch in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5911">Sierra Leone</placeName>.</note> auf, die ich sofort für Sie excerpirte. Ich füge das Zettelchen hier bei.</p>
+        <p>Als ich vor 25 Jahren auf der Durchreise nach <placeName>
+
+Griechenland</placeName> einige Stunden in dem lieblich gelegenen Graz verweilte, ahnte ich nicht, daß ich jemals dorthin einen Brief senden würde. Ihr Brief hat mir eine lebendige Erinnerung an das schöne Steiermark wachgerufen.</p>
+        <closer>
+          <salute>Mit Hochachtung Ihr Ergebenster</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1654">R. Grundemann</persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>
+            <pb facs="#IMG.8" n="8"/>[in HSA folgt auf S. 7 eine weitere Seite [8], die aus einem anderen Brief stammen muss:</p>
+
+          <p>Ihre Untersuchungen dienen zur Lösung eines Problems, das bis jetzt, wie es scheint, noch nicht viel beachtet worden ist. Es ist höchst interessant den Begriff des „<hi
+              rend="unknown" rendition="#none">Sprachfehlers</hi>“ zu erörtern <hi rend="unknown"
+              rendition="#none">resp</hi>. ihn in die nötigen Schranken zu verweisen. Ich bin in der Linguistik ein Laie. Mir ist aber vielfach die Beobachtung interessant gewesen, daß Sprachfehler nur bei den Kulturvölkern vorkommen u. bei diesen wieder nur bei dem gebildeten Theil der Bevölkerung. Man wird auch von den Negern nicht sagen dürfen, daß sie falsch sprechen. Selbst das entstellte <ref
+              target="https://gams.uni-graz.at/o:hsa.languages#L.891">
+Englisch</ref>, das sie sprechen, ist ein nach festen Gesetzen gewachsener Organismus. – Können Sie mir vielleicht angeben, ob dieses Gebiet der Sprach-Physiologie <hi
+              rend="unknown" rendition="#none">resp</hi>. Pathologie bereits eingehender behandelt ist?</p>
+
+          <p>Als Basis für Ihre Forschungen werden Ihnen natürlich die westafrikanischen Sprachen dienen. Ich brauche Sie nicht auf die Arbeiten des Missionars <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1298">
+              <hi rend="unknown" rendition="#none">Christaller</hi>
+            </persName>
+            <note n="8" place="foot" type="editorial">
+              <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1298">Johann Gottlieb Christaller</persName> (1827-1895), deutscher evangelischer Missionar; vgl. HSA 01617-01621.</note> aufmerksam zu machen, da dieselben von der Pariser Akademie gekrönt wurden.<note
+              n="9" place="foot" type="editorial">
+              <persName
+                ref="https://gams.uni-graz.at/o:hsa.persons#P.1298">Christaller</persName> erhielt den renommierten <ref
+              target="https://gams.uni-graz.at/o:hsa.subjects#S.4141">Prix Volney</ref> (1876, 1882) für die Erforschung des 
+
+Twi.</note> Vielleicht wäre es Ihnen erwünscht mit dem bescheidenen, freundlichen schwäbischen Linguisten zu correspondiren.<note
+              n="10" place="foot" type="editorial">Vgl. HSA 01617-01621.</note> Er lebt in <hi rend="unknown"
+              rendition="#none">Schorndorf, Württemberg</hi>; Sie können sich mit einem Gruße von mir bei ihm einführen. Zimmermanns Arbeiten über die 
+
+<hi
+              rend="unknown" rendition="#none">Gâ</hi>-Sprache
+<note n="11" place="foot" type="editorial">
+              <persName>
+Johannes Zimmermann (1825-1876)</persName>, aus Gerlingen stammender Missionar; im HSA ist eigenartigerweise keine Korrespondenz mit ihm erhalten.</note> und <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8573">
+                <hi rend="unknown" rendition="#none">Hornbergers</hi> über <hi rend="unknown" rendition="#none">Ewe</hi>
+              </ref>
+            </bibl>
+            <note n="12" place="foot" type="editorial">Christian Hornberger, „<bibl>
+                <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8573">Das Ewe-Gebiet an der Sklavenküste von West-Afrika</ref>
+              </bibl>“, <hi rend="unknown" rendition="#none">Mittheilungen aus Justus Perthes' Geographischer Anstalt über wichtige neue Erforschungen auf dem Gesammtgebiete der Geographie</hi>. 13, 1867, S. 48ff.</note> werden Ihnen bekannt sein.</p>
+          <p>
+            <pb facs="#IMG.9" n="9"/>[auf S. 9 folgen Proben, die von späterer Hand als „<ref target="https://gams.uni-graz.at/o:hsa.languages#L.813">Kreol (engl)</ref> Zentralafrika“ charakterisiert werden:]</p>
+          <p>- <foreign xml:lang="en">if we shot anything „big, we fit sit down two three day for chop (eat) ‘em“</foreign>.</p>
+          <p>- <foreign xml:lang="en">the place the whites „lived for</foreign>“ <hi rend="unknown" rendition="#none">Zielpunkt der Reise</hi>
+          </p>
+          <p>„<foreign xml:lang="en">Them Congo boy live for run away</foreign>“ – sagten die Kroo Boys als die <hi
+              rend="unknown" rendition="#none">Kongo</hi>-Träger davon liefen.</p>
+          <p>Es ist eine interessante Erscheinung, daß der Neger für „sein“ – „leben“ sagt.</p>
+          <p>In Westindien, soviel mir erinnerlich wird „lib“ gesprochen.</p>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1654">
+Grundemann</persName>
+          </signed>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

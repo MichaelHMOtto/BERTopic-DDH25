@@ -1,0 +1,267 @@
+# newdoc id = ParlaMint-DK_20220602100008
+# newpar id = ParlaMint-DK_20220602100008.seg1
+# lang = en
+# sent_id = ParlaMint-DK_20220602100008.seg1.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.826
+# text = The meeting is open.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	open	open	ADJ	A10p	Degree=Pos	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220602100014
+# newpar id = ParlaMint-DK_20220602100014.seg2
+# lang = en
+# sent_id = ParlaMint-DK_20220602100014.seg2.1
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.757
+# text = Amendments have been tabled.
+1	Amendments	amendment	NOUN	A2.1p	Number=Plur	0	_	_	NER=O
+2	have	have	AUX	A9p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	been	be	AUX	A3p	Tense=Past|VerbForm=Part	0	_	_	NER=O
+4	tabled	tab	VERB	Q1.2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100014.seg2.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.672
+# text = Does anyone wish to speak?
+1	Does	do	AUX	S1.1.3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	anyone	anyone	PRON	Z8	Number=Sing	0	_	_	NER=O
+3	wish	wish	VERB	X7p	VerbForm=Inf	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	speak	speak	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O|SpaceAfter=No
+6	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100014.seg2.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.361
+# text = As this is not the case, the debate is closed and we shall proceed to the vote.
+1	As	as	SCONJ	Z5	_	0	_	_	NER=O
+2	this	this	PRON	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	not	not	PART	Z6	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+7	,	,	PUNCT	Z9	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+10	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+11	closed	close	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+12	and	and	CCONJ	Z5	_	0	_	_	NER=O
+13	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+14	shall	shall	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+15	proceed	proceed	VERB	A1.1.1	VerbForm=Inf	0	_	_	NER=O
+16	to	to	ADP	Z5	_	0	_	_	NER=O
+17	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+18	vote	vote	NOUN	G1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+19	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220602100033
+# newpar id = ParlaMint-DK_20220602100033.seg3
+# lang = en
+# sent_id = ParlaMint-DK_20220602100033.seg3.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 1.853
+# text = PRESIDENT. - The next item is the joint debate on the following motions for resolutions: 1 and 2 of a minority (V), joined by a minority (SF, RV, EL, KF, NB, FG, IA, Simon Emil Ammitzbøll-Ammitzbøll-Bille (UFG) and Karina Adsbøl (UFG)), which together constitute a majority, or on Amendment No 1. 3, to be elected by a majority (the committee with the exception of the FG)?
+1	PRESIDENT	president	NOUN	G1.1|S7.1p|S2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+2	.	.	PUNCT	Z9	_	0	_	_	NER=O
+3	-	-	PUNCT	Z9	_	0	_	_	NER=O
+4	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+6	item	item	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+7	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	joint	joint	ADJ	S5p	Degree=Pos	0	_	_	NER=O
+10	debate	debate	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+11	on	on	ADP	Z5	_	0	_	_	NER=O
+12	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+13	following	follow	VERB	M1	VerbForm=Ger	0	_	_	NER=O
+14	motions	motion	NOUN	M1	Number=Plur	0	_	_	NER=O
+15	for	for	ADP	Z5	_	0	_	_	NER=O
+16	resolutions	resolution	NOUN	X6p	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+17	:	:	PUNCT	Z9	_	0	_	_	NER=O
+18	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+19	and	and	CCONJ	Z5	_	0	_	_	NER=O
+20	2	2	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+21	of	of	ADP	N6p	_	0	_	_	NER=O
+22	a	a	DET	N6p	Definite=Ind|PronType=Art	0	_	_	NER=O
+23	minority	minority	NOUN	N6p	Number=Sing	0	_	_	NER=O
+24	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+25	V	V	NUM	Z5	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+26	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+27	,	,	PUNCT	Z9	_	0	_	_	NER=O
+28	joined	join	VERB	A2.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+29	by	by	ADP	Z5	_	0	_	_	NER=O
+30	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+31	minority	minority	NOUN	N5n	Number=Sing	0	_	_	NER=O
+32	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+33	SF	SF	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+34	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+35	RV	RV	PROPN	Z99	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+36	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+37	EL	EL	PROPN	M5	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+38	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+39	KF	KF	PROPN	Z99	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+40	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+41	NB	NB	PROPN	Z5	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+42	,	,	PUNCT	Z9	_	0	_	_	NER=I-ORG
+43	FG	FG	PROPN	Z99	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+44	,	,	PUNCT	Z9	_	0	_	_	NER=O
+45	IA	IA	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+46	,	,	PUNCT	Z9	_	0	_	_	NER=O
+47	Simon	Simon	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+48	Emil	Emil	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+49	Ammitzbøll	Ammitzbøll	PROPN	Z99	Number=Sing	0	_	_	NER=I-PER|SpaceAfter=No
+50	-	-	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+51	Ammitzbøll-Bille	Ammitzbøll-Bille	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG
+52	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+53	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+54	)	)	PUNCT	Z9	_	0	_	_	NER=O
+55	and	and	CCONJ	Z5	_	0	_	_	NER=O
+56	Karina	Karina	PROPN	Z1	Number=Sing	0	_	_	NER=B-PER
+57	Adsbøl	Adsbøl	PROPN	Z1	Number=Sing	0	_	_	NER=I-PER
+58	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+59	UFG	UFG	PROPN	Z99	Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+60	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+61	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+62	,	,	PUNCT	Z9	_	0	_	_	NER=O
+63	which	which	PRON	Z5	PronType=Rel	0	_	_	NER=O
+64	together	together	ADV	S5p	_	0	_	_	NER=O
+65	constitute	constitute	VERB	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+66	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+67	majority	majority	NOUN	N5p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+68	,	,	PUNCT	Z9	_	0	_	_	NER=O
+69	or	or	CCONJ	Z5	_	0	_	_	NER=O
+70	on	on	ADP	Z5	_	0	_	_	NER=O
+71	Amendment	amendment	NOUN	Z1	Number=Sing	0	_	_	NER=B-MISC
+72	No	no	ADV	Z1	_	0	_	_	NER=I-MISC
+73	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=I-MISC|SpaceAfter=No
+74	.	.	PUNCT	Z99	_	0	_	_	NER=O
+75	3	3	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+76	,	,	PUNCT	Z9	_	0	_	_	NER=O
+77	to	to	PART	Z5	_	0	_	_	NER=O
+78	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+79	elected	elect	VERB	G1.2|X7p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+80	by	by	ADP	Z5	_	0	_	_	NER=O
+81	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+82	majority	majority	NOUN	N5p	Number=Sing	0	_	_	NER=O
+83	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+84	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+85	committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=O
+86	with	with	ADP	Z5	_	0	_	_	NER=O
+87	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+88	exception	exception	NOUN	A6.1n	Number=Sing	0	_	_	NER=O
+89	of	of	ADP	Z5	_	0	_	_	NER=O
+90	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+91	FG	FG	PROPN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+92	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+93	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100033.seg3.2
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.119
+# text = They are adopted.
+1	They	they	PRON	Z8	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	_	_	NER=O
+2	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	adopted	adopt	VERB	A9p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100033.seg3.3
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.774
+# text = I propose that the bill should go directly to the third reading without referral back to committee.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	propose	propose	VERB	Q2.2|X7p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	that	that	SCONJ	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	bill	bill	NOUN	I1.3	Number=Sing	0	_	_	NER=O
+6	should	should	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+7	go	go	VERB	M1	VerbForm=Inf	0	_	_	NER=O
+8	directly	directly	ADV	M6	_	0	_	_	NER=O
+9	to	to	ADP	Z5	_	0	_	_	NER=O
+10	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+11	third	third	ADJ	G1.1	Degree=Pos|NumType=Ord	0	_	_	NER=O
+12	reading	reading	NOUN	G1.1	Number=Sing	0	_	_	NER=O
+13	without	without	ADP	Z5	_	0	_	_	NER=O
+14	referral	referral	NOUN	Q2.2|S2	Number=Sing	0	_	_	NER=O
+15	back	back	ADV	M6	_	0	_	_	NER=O
+16	to	to	ADP	Z5	_	0	_	_	NER=O
+17	committee	committee	NOUN	S7.1p|S5p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+18	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100033.seg3.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.126
+# text = Are there any comments?
+1	Are	be	VERB	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+2	there	there	PRON	Z5	_	0	_	_	NER=O
+3	any	any	DET	N5.1p	_	0	_	_	NER=O
+4	comments	comment	NOUN	Q2.1	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+5	?	?	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100033.seg3.5
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 4.075
+# text = It's agreed.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+2	's	be	AUX	A9p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	agreed	agree	VERB	A6.1p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+4	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220602100054
+# newpar id = ParlaMint-DK_20220602100054.seg4
+# lang = en
+# sent_id = ParlaMint-DK_20220602100054.seg4.1
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.339
+# text = There is nothing more to be done in this meeting.
+1	There	there	PRON	Z5	_	0	_	_	NER=O
+2	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	nothing	nothing	PRON	Z6|Z8	Number=Sing	0	_	_	NER=O
+4	more	more	ADJ	A13.3	Degree=Cmp	0	_	_	NER=O
+5	to	to	PART	Z5	_	0	_	_	NER=O
+6	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+7	done	do	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+8	in	in	ADP	Z5	_	0	_	_	NER=O
+9	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+10	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220602100054.seg4.2
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.455
+# text = The next meeting of the Danish Parliament will be held today at 2 p.m. 10.15, with votes.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+3	meeting	meeting	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+4	of	of	ADP	Z5	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	Danish	Danish	ADJ	Z1	Degree=Pos	0	_	_	NER=B-MISC
+7	Parliament	Parliament	PROPN	Z1	Number=Sing	0	_	_	NER=O
+8	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+9	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+10	held	hold	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+11	today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O
+12	at	at	ADP	Z5	_	0	_	_	NER=O
+13	2	2	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+14	p.m.	p.m.	NOUN	Z99	Number=Sing	0	_	_	NER=O
+15	10.15	10.15	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+16	,	,	PUNCT	Z9	_	0	_	_	NER=O
+17	with	with	ADP	Z5	_	0	_	_	NER=O
+18	votes	vote	NOUN	G1.2	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+19	.	.	PUNCT	Z9	_	0	_	_	NER=O
+

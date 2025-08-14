@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Jozsef von Kőrösy an Hugo Schuchardt (01-05736)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1943">
+            <forename>Jozsef von</forename>
+            <surname>Kőrösy</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11937" type="PID">o:hsa.letter.11937</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-05736</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05736</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1943">
+                <forename>Jozsef von</forename>
+                <surname>Kőrösy</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.431" ref="http://sws.geonames.org/3054643">Budapest</origPlace>
+              <origDate ana="dcterms:created" when="1898-11-13">1898-11-13</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Jozsef von Kőrösy und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1943"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11937">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1943" ref="https://viaf.org/viaf/35236645">
+            <forename>Jozsef von</forename>
+            <surname>Kőrösy</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.431" key="#GID.1" ref="http://sws.geonames.org/3054643">Budapest</placeName>
+          <date when="1898-11-13">1898-11-13</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Hungary</country>
+                <settlement>Budapest</settlement>
+                <name ref="http://geonames.org/3054643" type="fcode:PPLC">Budapest</name>
+                <location>
+                  <geo>19.04045,47.49835</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1943" type="context">
+                        Korrespondenz Jozsef von Kőrösy - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11937" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11937" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11937" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>BUDAPEST SZÉKES FÖVÁROS<lb/> STATISZTIKAI HIVATALA<lb/> Budapest, 13. November 1898.</dateline>
+        <opener>Hochgeehrter Herr Professor!</opener>
+
+        <p> Indem ich Ihnen meinen besten Dank für die gütige Zusendung Ihres Artikels über die Sprachenkämpfe abstatte, kann ich nicht umhin, auch jener besonderen Befriedigung Ausdruck zu verleihen, welche Ihre auf so schönem Niveau stehende Einleitung in mir hervorgerufen hat. Man findet heute im Zeitalter der Nationalitätenidee, selten so objective Auffassungen. Wollen Sie bei dem einseitigen Parteistandpunkte, zu dem ich mich bekenne, keinen Widerspruch darin finden, wenn ich sage, daß ich Ihre Auffassung für vollkommen richtig halte. Von dem abstracten Standpunkte des Historikers oder des Philosophen ist es unleugbar, daß auf dem Gebiete der Nationalitätenkämpfe Vergewaltigungen und Ungerechtigkeiten geschehen. – Hüben und drüben. – Der deutsche Schulverein klagt über die Unterdrückung des Deutschthumes in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5936">Ungarn</placeName>: ich habe aber vor 14 Tagen in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6051">
+Elsass</placeName> an Ort und Stelle Daten gesammelt, mit wie ungleich schärferen Mitteln und ungleich systematischerem Vorgehen die mächtigere deutsche Nazion eine fremde Sprache erdrückt. Aber in einer Generation dürfte Elsass, in zweien <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.499"> Straßburg</placeName> germanisirt sein. Ist eine solche Stärkung der Nation nicht einiger Ungerechtigkeit werth? Ist es nicht eine natürliche Folge des Selbsterhaltungstriebes, feindliche Elemente zu schwächen oder gar, wenn möglich, zu gleichfühlenden umzuwandeln? Ich glaube, daß auf diese practische Frage kein deutscher Patriot, und sei er sonst noch so weise und gerecht, <pb
+            facs="#IMG.2" n="2"/> mit Nein antworten werde. </p>
+
+        <p>Nun, ich für mein Theil bin ungarischer Patriot, erblicke also in dem Fortschreiten des Panslavismus eine so ernste Lebensgefahr für unsern Staat, die mich mit Angst erfüllt, im Erstarken und Fortschreiten des Magyarismus – des neben dem deutschen einzigen Stammes der nicht auf den Zerfall des ungarischen Staates speculirt, Befriedigung und Beruhigung. Mein Buch über die Fortschritte des Slavismus entspringt rein diesen patriotischen <hi
+            rend="unknown"
+            rendition="#none">Gefühlen</hi>. Wenn dasselbe auch wissenschaftlichen Werth hat, so lag dies nicht in meiner Absicht. Ich wollte weder die historisch, noch die ethnographische, ja nicht einmal die statistische Litteratur mit einem wissenschaflichen Werke bereichern, sondern den matten Selbsterhaltungstrieb der Nation aufrütteln helfen.<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8708">Joszef Koeroesy de Szanto, <hi
+                  rend="unknown" rendition="#none">Resultate der am 15. November 1896 durchgeführten Conscription der Bevölkerung Budapests</hi>, Berlin 1898.</ref>
+            </bibl>
+
+          </note> Die sämtlichen, zu veröffentlichenden zehn Comitatsmonographien, an denen ich seit achtzehn Jahren arbeite, bilden blos die Vorbereitung und die Belegstücke des Schlusswerkes, eines Appelles für eine zielbewußte und aufrichtig eingestandene, auf dem Selbsterhaltungstrieb beruhende, magyarische Nationalitätenpolitik, die an Stelle der gegenwärtigen lauen und furchtsamen, sich mehr an Äußerlichkeiten, als an den Kern der Sache haltend an Behandlung dieser Lebensfragen treten soll. Ich habe im Dienste dieser Idee selbst Stiftungen gemacht, Andere zu Stiftungen veranlaßt, Wandervorträge gehalten, kurz agitatorische Thätigkeit entfaltet, und gedenke es auch weiterhin zu thun, so lange meine Kräfte reichen. Das Buch ist also ein Ausfluß eines von theoretischem Standpunkte vielleicht mitleidig beurtheilbaren, von dem ungar. patriotischen Gesichtspunkte aus aber berechtigten und durchaus nicht vereinzelt dastehenden Gefühlen. Wenn Sie also, hochgeehrter Herr Professor, in Ihrer Besprechung hervorheben, daß das Buch zahlreiche, für die wissenschaftliche Auffassung fremdartige Gefühlsmomente aufweise, so haben Sie hiermit vollkommen das Richtige getroffen, werden mir aber doch gestatten, hierin keinen Vorwurf, sondern eine Anerkennung zu finden, für welche ich Ihnen nur Dank wissen kann. <note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.761">Schuchardt (1898)</ref>
+
+            </bibl> hatte sich mit Körösy in seiner Veröffentlichung über “Sprachenkämpfe” kritisch auseinandergesetzt und erwähnt dieses, sowie auch die Erklärungen des vorliegenden Briefs ausführlich in anderen Korrespondenzen, so z.B. mit <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1097">Baudouin de Courtenay</persName> (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1885/sdef:TEI/get?context=context:hsa.letters.1097&amp;amp;locale=de">
+HSA 58-356</ref>), mit <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1541">Henri Gaidoz</persName> (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.5253/sdef:TEI/get?context=context:hsa.letters.1541&amp;amp;locale=de">
+HSA 093-SG21</ref>), <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1888">Lajos Katona</persName> (<ref target="https://gams.uni-graz.at/o:hsa.letter.10442/sdef:TEI/get?context=context:hsa.letters.1888&amp;amp;locale=de">
+HSA 254-05067_361</ref>).</note>
+        </p>
+        <p> Ich hoffe, Ihnen binnen Kurzem das zweite Heft Komitate Hont und Bars, zusenden zu können.<note n="3"
+            place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8709">Kőrösy, <hi rend="unknown" rendition="#none">A feldvidék eltósodása: nemzetiségi tanulmányok; Posony, Nyitra, Bars, Hont, Nóvgrád, Pest, Gömör, Abauj, Zemplén es Ung. Mgeyek területéröl</hi>, Budapest: Grill, 1898.</ref>
+            </bibl>
+          </note>
+        </p>
+        <closer>
+          <salute>Ihr in besonderer Hochachtung ergebener</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1943">Kőrösy</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

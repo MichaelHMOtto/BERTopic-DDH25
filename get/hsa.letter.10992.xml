@@ -1,0 +1,386 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Gaston Paris (01-24456)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/10992" type="PID">o:hsa.letter.10992</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-24456</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc status="draft">
+          <msIdentifier>
+            <country>France</country>
+            <settlement>Paris</settlement>
+            <repository ref="https://www.bnf.fr/fr">Bibliothèque nationale de France</repository>
+            <idno type="shelfmark">BnF, NAF 24456, fol. 420-421</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.86" ref="http://sws.geonames.org/3169070">Rom</origPlace>
+              <origDate ana="dcterms:created" when="1869-02-05">1869-02-05</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl status="draft" type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Gaston Paris</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.10992">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.86" key="#GID.1" ref="http://sws.geonames.org/3169070">Rom</placeName>
+          <date when="1869-02-05">1869-02-05</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Italy</country>
+                <settlement>Rome</settlement>
+                <name ref="http://geonames.org/3169070" type="fcode:PPLC">Rome</name>
+                <location>
+                  <geo>12.51133,41.89193</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Hugo Schuchardt - Gaston Paris
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5057" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Bibliothèque Nationale de France</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4505" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">B. G. Teubner Verlag</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f844" xml:id="IMG.1">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f845" xml:id="IMG.2">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f846" xml:id="IMG.3">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="https://gallica.bnf.fr/ark:/12148/btv1b52517227s/f847" xml:id="IMG.4">
+        <desc>
+          <ref target="https://gallica.bnf.fr/ark:/12148/btv1b52517227s">gallica.bnf.fr/Bibliothèque nationale de
+                                France</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7422" xml:lang="fr">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Rome le 5 Févr. 1869</dateline>
+        <opener>Très-cher Monsieur!</opener>
+
+        <p>Je vous prie de fouiller un peu dans vos souvenirs, pour y retrouver le portrait d’un jeune homme qui eut, il y a aprésent quelquechose comme un an et demi, l’honneur de se promener quelques heures avec vous aux bords du lac de <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.89">Genève</placeName>
+          <note n="1" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">Schuchardt</persName> est resté à <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.89">
+Genève</placeName>, la «Rome protestante», de mai à décembre 1867, avant de partir pour <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.86">
+Rome</placeName> (Schuchardt à <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1394">Diez</persName>: <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1393">HSA 08-t00862923_4</ref>), mais c’est dans le canton de Vaud qu’il rencontre <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">G. Paris</persName> pour la première fois (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.7075">Fryba-Reber 2018, 158‑60</ref>
+            </bibl>). Invité par <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2230">Charles Morel</persName>, Schuchardt prend en effet un bateau pour <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.362">Vevey</placeName> le lundi 9 septembre 1867. Morel l’attend au débarcadère, accompagné de Paris. Voir la lettre de Morel à Schuchardt (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1848">HSA 3-7486</ref>), ainsi que celle de Schuchardt à Reinhold Köhler, datée de Genève, 13 septembre 1867 (Hausmann 2019, HSA – (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.6670">
+021-S.47-50</ref>)). Tant G. Paris que Schuchardt évoqueront par la suite leur rencontre en Suisse en la plaçant à Genève. Schuchardt parle une fois de Nyon aussi, à une distance de 20 ans (l. du 5 avril 1887 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.11779">HS 72-24457</ref>)).</note>. Ce jeune homme, selon vous criblé de préjugés, quitta à Noël la <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.86">
+Rome</placeName> protestante pour voir la Rome catholique, y remplit consciencieusement ses devoirs de touriste, puis mena vie de <foreign
+            xml:lang="it">
+villeggiature</foreign> en vrai Romain<note n="2" place="foot"
+            type="editorial">
+Entre janvier 1868 et avril 1869, Schuchardt séjourne en Italie, principalement à Rome et dans ses environs.</note> (trinquant cependant avec les paysans en vrai Allemand), puis se fit dévaliser à <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.103">Naples</placeName>
+          <note n="3" place="foot"
+              type="editorial">Le fonds des manuscrits de Schuchardt contient un cahier de 138 pages avec des notes récoltées pendant son séjour, parmi lesquels figure un projet de lettre à la police de Naples concernant le vol ici mentionné (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">
+Wolf 1993, 566, 2.2.7</ref>
+
+            </bibl>).</note>, comme fait tout voyageur honnête, passa, par conséquent, un mois très-paisible, très-économique et très-ennuyeux a <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.442">
+Pompéi</placeName>, pour y étudier les antiquités<note
+            n="4" place="foot"
+              type="editorial">Les observations faites durant ce séjour aboutiront, en 1872, à un vaste article intitulé «Pompei und seine Wandinschriften» (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.362">Schuchardt 1872</ref>
+            </bibl>), qui entretient un dialogue avec les travaux de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3048">Zangemeister</persName> (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.6660">
+1871</ref>
+            </bibl>).</note>, et retourna </p>
+        <pb facs="#IMG.2" n="2"/>
+
+        <p>enfin à Rome, où il demeure très-près du Ghetto, de l’île Tévèrine, de l’arc d’Octavie et de Saint-Ange-de-pêcherie, c’est-a-dire, dans la région la plus sâle et la plus historique de Rome, scène avant tout des rodomontades du fameux <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6316">Cola Rienzi</persName>
+          <note n="5" place="foot"
+            type="editorial">Nicolas Gabrini, dit Cola di Rienzo ou Rienzi (1313-1354), homme d’État issu des classes populaires. </note>. Après avoir pris en considération que le latin vulgaire est une chose belle et bonne mais pas suffisante pour nourrir son homme, je me suis résolu de me vouer entièrement à l’étude des langues néolatines. Je m’occupe, dans ce moment, d’un travail assez détaillé sur le dialecte romain<note
+            n="6" place="foot" type="editorial">Voir aussi sa lettre à Diez du 20 juillet 1868: <ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1393">HSA 08-t00862923_4</ref>). Si Schuchardt (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.181">
+1864</ref>
+
+            </bibl>) avait déjà consacré sa thèse de doctorat au latin vulgaire, c’est à partir du séjour à Rome que ses intérêts scientifiques s’ouvrent véritablement aux langues romanes vivantes.</note>, sur le moderne non moins que sur celui du moyen âge, et c’est à ce propos que j’ose vous demander une faveur. Pourriez-vous me dire si a la bibliothèque impériale<note
+            n="7" place="foot" type="editorial">Bibliothèque impériale depuis 1849, elle adopte son nom actuel de <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.5057">Bibliothèque nationale de France</ref> en 1871.</note> se trouvent des manuscrits (et de quelle époque sont-ils?) de</p>
+        <p>
+          <lb/>1.) la Vita di <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6316">
+Cola Rienzo</persName> (di <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6317">Fortifiocca</persName>)<note n="8" place="foot" type="editorial">
+            <hi rendition="#i">La Vita di Cola Rienzi</hi> est attribuée à un certain <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6317">Tommaso Fortifiocca</persName>, sans doute à tort, si l’on en croit les recherches de Jacques-François Aldonze de Sade publiées au XVIII<hi
+              rendition="#sup">e</hi> s. déjà. Schuchardt a travaillé ce texte à partir de la version de 1631. Il a découpé et inséré chaque page dans un cahier de 236 pages dont il a commenté chaque ligne. Ce document est conservé à la Bibliothèque de l’université de Graz (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1600">Wolf 1993, 566</ref>
+            </bibl>).</note>
+          <lb/>2.) li Annali di <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6318">
+Lodovico Monaldesco</persName>
+          <lb/> 3) il Diario di <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6319">
+Cola Coleine</persName>
+          <note n="9" place="foot" type="editorial">Cola Coleine (1521-1561), auteur d’un journal qui relate les événements qui ont marqué la ville de Rome de 1321 à 1561.</note>
+          <lb/> 4) il Diario di <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6320">
+Paolo Mastro</persName>
+          <note n="10" place="foot" type="editorial"> Paolo dello Mastro (141?-1490?), auteur d’un <hi rendition="#i">Memoriale di Paolo di Benedettodi Cola dello Mastro dello Rione de Ponte</hi> édité en 1875. Sa chronique est consacrée aux années 1422-1484.</note>
+          <lb/> 5) il Diario di <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6321">Stefano Infessura</persName>
+          <note n="11" place="foot" type="editorial">Stefano Infessura, juriste romain du XV<hi
+              rendition="#sup">e</hi> s., auteur d’un <hi rendition="#i">
+Diario della città di Roma</hi> en langue vulgaire et en latin.</note>
+          <lb/> 6) il Diario (intitolato la Mesticanza) di <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6322">Paolo Petronii Lelio</persName>
+          <note n="12" place="foot" type="editorial">Paolo di Lello Petrone (1388?-1447?), notaire romain du XV<hi
+              rendition="#sup">e</hi> s., auteur d’une chronique intitulée <hi rendition="#i">La Mesticanza</hi>.</note>
+          <lb/> 7) la storia delle famiglie della Regola di <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.6512">Castallo (Castaldo) Metallino</persName>?<note n="13"
+            place="foot" type="editorial">Notice manuscrite annotée en marge et consacrée aux familles du Rione Regola. </note>
+        </p>
+        <pb facs="#IMG.3" n="3"/>
+
+        <p>Je vous en serai infiniement obligé et je suis toujours prêt a vous rendre des pareils services. – Malheureusement, je n’ai pas pu vous faire parvenir <bibl status="draft">
+            <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.730">mon ouvrage</ref>
+          </bibl>, n’en possédant qu’un seul exemplaire et n’ayant, depuis longtemps, plus de rélations avec <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4505">mon libraire-éditeur</ref>. – Encore peu de semaines et je dirai un adieu douloureux à la ville éternelle. Me pliant à la volonté paternelle, j’entrerai dans la carrière académique (probablement comme <ref
+            target="https://gams.uni-graz.at/archive/objects/context:hsa/methods/sdef:Context/get?mode=hs-vita">
+«Privatdozent» à Leipzig</ref>)<note
+            n="14" place="foot"
+              type="editorial"> Schuchardt s’était écarté de la «volonté paternelle» lorsqu’après avoir commencé des études de droit à Iéna, en 1859, il se tourna vers la philologie en 1860. Il s’y plie cette fois-ci, comme il l’écrit également à Diez, le 20 juillet 1868: «da ich mich aber schließlich doch dem Willen meines Vaters nicht widersetzen darf, so ersuche ich Ew. Hochwohlgeboren, mich bei der Wahl einer Universität, die ja nicht im letzten Augenblick erfolgen kann, mit gütigem Rathe zu unterstützen» (<ref
+              target="https://gams.uni-graz.at/o:hsa.letter.1393">HSA 08-t00862923_4</ref>). Il soumettra sa thèse d’habilitation et prononcera sa leçon probatoire à Leipzig en 1870 (<bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.278">
+Schuchardt 1870</ref>
+            </bibl>, resp. <bibl status="draft">
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.309">1900</ref>
+            </bibl>). Voir aussi sa lettre à Diez du 1<hi rendition="#sup">er</hi> décembre 1869 (<ref
+            target="https://gams.uni-graz.at/o:hsa.letter.1394">HSA 10-t00862923_5</ref>), dans laquelle il annonce cette décision.</note>. Comme ce sera embêtant cette vie de professeur d’université! Je regrette beaucoup de ne pas pouvoir passer quelque temps à <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.666">
+Paris</placeName>; je connais mes goûts et je suis persuadé que je m’y plairais à merveille. N’y serait-il pas quelque petit emploi pour moi? – </p>
+
+        <p>De grace, ne vous scandalisez pas de mon français; c’est si longtemps que j’ai perdu l’habitude de me servir de la langue française. Savez vous pourquoi? À peine arrivé à Rome, j’inter- <pb
+            facs="#IMG.4"
+            n="4"/>rogerai un Romain sur la route à prendre pour arriver a Saint-Louis-des-Français; il me dit d’entrer dans la douzième rue à droite. Ne connaissant pas encore la manière romaine de prononcer <hi
+            rendition="#u">ou</hi> au lieu de <hi rendition="#u">eu</hi>, je cherchai la <hi
+            rendition="#u">
+douzième</hi> rue, non pas la <hi
+            rendition="#u">deuxième</hi>, et je finis par m’égarer complètement. Ce fut à minuit; et alors j’élevai mes yeux au ciel étoilé et prêtai un serment solennel de ne jamais parler français avec un Romain. J’ai été fidèle à ce serment; car je n’ai parlé français qu’avec des Romaines<note
+            n="15" place="foot" type="editorial">Clin d’œil, notamment, à sa professeure d’italien, <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2346">Virginia Palombi-Mastrozzi</persName>, qui lui a écrit quelques (très longues) lettres en français (HSA 08502-08547).</note> et encore rarement. Donc, je vous prie de m’absoudre pour toutes les mostruosités, pour tous les germanismes ou italianismes que vous trouverez dans ces lignes, et de me considérer comme</p>
+        <closer>
+          <salute>votre ami très-dévoué</salute>
+          <lb/>
+          <signed>Hugo Schuchardt</signed>
+          <lb/> Via della Pescaria <lb/> N. 39 lett. F. </closer>
+        <postscript>
+          <p>Tanti saluti à M. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2230">
+Ch. Morel</persName>! </p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

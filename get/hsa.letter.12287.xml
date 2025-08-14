@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Joseph Schrijnen an Hugo Schuchardt (03-10200)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2671">
+            <forename>Joseph</forename>
+            <surname>Schrijnen</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12287" type="PID">o:hsa.letter.12287</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">03-10200</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10200</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2671">
+                <forename>Joseph</forename>
+                <surname>Schrijnen</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.426" ref="http://sws.geonames.org/2750053">Nijmegen</origPlace>
+              <origDate ana="dcterms:created" when="1927-02-25">1927-02-25</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Joseph Schrijnen und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2671"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12287">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2671" ref="https://viaf.org/viaf/88027275">
+            <forename>Joseph</forename>
+            <surname>Schrijnen</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.426" key="#GID.1" ref="http://sws.geonames.org/2750053">Nijmegen</placeName>
+          <date when="1927-02-25">1927-02-25</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>The Netherlands</country>
+                <settlement>Nijmegen</settlement>
+                <name ref="http://geonames.org/2750053" type="fcode:PPL">Nijmegen</name>
+                <location>
+                  <geo>5.85278,51.8425</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2671" type="context">
+                        Korrespondenz Joseph Schrijnen - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.509" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Sprachwissenschaft</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12287" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12287" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12287" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Kaiser Karl Universität <lb/> zu<lb/> NIJMEGEN<lb/> Philosophisch-Philologische<lb/> Fakultät.<lb/>Nijmegen 25 Februar 1927.</dateline>
+        <opener>Hochverehrter Herr Kollege,</opener>
+        <p> Vertreter der sprachwissenschaftlichen Forschung haben mich bereits wiederholt gefragt, ob Holland<note
+            n="1" place="foot" type="editorial">Holland ist ursprünglich nur eine Provinz der <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6102">Niederlande</placeName>, doch wurde (und wird) der Name häufig für das ganze Land verwendet.</note> nicht die ersten Vorbereitungen treffen wolle und könne zur Organisation eines Allgemeinen Linguistenkongresses.<note
+            n="2" place="foot" type="editorial">Der Plan wurde verwirklicht mit dem „First International Congress of Linguists in The Hague, 1928“.</note>
+        </p>
+        <p>Das Bedürfnis nach einem solchen Kongress steht ausser Frage. Philologen, Orientalisten, Amerikanisten u. a. haben bereits seit langem ihre internationalen Zusammenkünfte, die ihnen Gelegenheit bieten zu einem angeregten Austausch ihrer Ideen und Meinungen. Doch den Linguisten fehlte bisher solch ein gemeinsamer Treffpunkt. </p>
+        <p>Linguistische Fragen von allgemeiner Bedeutung sind höchstens als beiläufig und nebensächlich bisher auf philologischen Versammlungen angeschnitten worden. Aber zu allseitigem Meinungsaustausch haben sie den hervorragendsten linguistischen Forschern bislang keine Gelegenheit geboten; deswegen ist das Bedürfnis nach einer solchen für die Linguisten geeigneten Gelegenheit zum Meinungsaustausch in den letzten Jahren stets stärker hervorgetreten. </p>
+        <p>Die allgemeine <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.509"> Sprachwissenschaft</ref> hat sich ein solch weites Forschungsfeld erobert, dass internationale Zusammenarbeit nicht länger entbehrt werden kann. </p>
+        <p>Eine Reihe von Fragen kann nur durch internationale Vereinbarung gelöst werden. Erwähnt sei z. B. nur ein methodisches Problem wie die Durchführung einer einheitlichen sprachwissenschaftlichen Terminologie, Schaffung einer ständigen internationalen Organisation uam. </p>
+        <p>Die jüngste Entwicklung in der Geschichte Europas hat gezeigt, dass internationale Zusammenarbeit, wie sehr sie auch durch den unerbittlichen Krieg gestört worden war, doch wieder möglich ist und im Interesse aller Völker und Weltkultur liegt. Es besteht für uns kein einziger Grund, weshalb wir sprachwissenschaftliche Forscher uns selbst die Vorteile und Segnungen internationaler Fühlungnahme und Aussprache über die Probleme unseres Forschungsgebietes vorenthalten wollten. Persönliche Fühlungnahme und Aussprache wirkt bei weitem intensiver als die Verbreitung langer gelehrter Druckschriften. </p>
+
+        <p> Dank seiner geographischen Lage dürfte Holland am besten in der Lage sein einen ersten internationalen Linguistenkongress zu beherbergen. Die skandinavischen Länder (vor allem <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5959"> Dänemark</placeName>) und die <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6003">Schweiz</placeName> könnten für eine der folgenden Zusammenkünfte ins Auge gefasst werden. Hollands zentrale Lage bietet die beste Gewähr, dass unser erster Kongress wirklich ein internationaler Treffpunkt werden wird.<note
+            n="3" place="foot"
+              type="editorial">Der International Congress of Linguists (ICL) findet alle fünf Jahre unter der Leitung des Permanent International Committee of Linguists (PICL) / Comité International Permanent des Linguistes (CIPL) statt. – Die ICL wurde im April 1928 in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.963">Den Haag</placeName> gegründet.</note>
+        </p>
+
+        <p> Unsere Landesresidenz, der Haag, ist eine ideale Stätte für Kongresse. Die Seeküste mit Scheveningen liegt im Weichbilde der Stadt, die Universitätsstädte <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.94">Leiden</placeName>, <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.262">Amsterdam</placeName> und <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.211">Utrecht</placeName> sind von hier aus leicht zu erreichen, ebenso der Welthafen <placeName> Rotterdam</placeName> und die Blumenstadt Haarlem. </p>
+        <p> Der Friedenspalast im Haag würde der gegebene Mittelpunkt für internationale Zusammenkünfte sein. Es besteht kein Zweifel, dass auch die holländische Regierung und die Behörden alles aufbieten werden, um Reise und Verbleib in unserem Lande den fremden Gästen so angenehm und preiswert wie nur möglich zu gestalten. </p>
+        <pb facs="#IMG.2" n="2"/>
+        <p>Sehr geehrter Herr, </p>
+        <p>Nachdem ich diese Pläne wiederholt mit meinen holländischen Kollegen besprochen habe, die ohne Ausnahme diesen Vorschlag begeistert begrüssen, gebe ich mir die Ehre auch Sie ergebenst zu fragen, ob Sie uns durch Ihre Teilnahme und Mitwirkung unterstützen wollen und ob Sie weitere Vorschläge unterbreiten können, die zu einer allseitig befriedigenden Durchführung unseres Planes beitragen dürften. </p>
+        <closer>
+          <salute>Mit vorzüglicher Hochachtung,</salute>
+          <lb/>
+          <salute>Ihr sehr ergebener</salute>
+          <lb/>
+          <signed>Prof. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2671">J. H. Schrÿnen</persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>Mit besten Grüssen der Kollegen Uhlenbeck<note n="4" place="foot" type="editorial">
+              <persName
+                ref="https://gams.uni-graz.at/o:hsa.persons#P.2898">Christianus Cornelius Uhlenbeck</persName> (1867-1951), niederländischer Linguist und Anthropologe; vgl. <ref
+              target="https://gams.uni-graz.at/context:hsa.letters.2898">HSA 11908-11987</ref>.</note> und v. Ginneken<note
+              n="5" place="foot" type="editorial">
+              <persName
+                ref="https://gams.uni-graz.at/o:hsa.persons#P.1586">Jacques van Ginneken</persName> (1877-1945), niederländischer Sprachwissenschafler; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1586?locale=de"> HSA 03768-03780</ref>.</note>.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

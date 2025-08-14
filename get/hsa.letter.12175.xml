@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Johann Peisker an Hugo Schuchardt (06-08739)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2371">
+            <forename>Johann</forename>
+            <surname>Peisker</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12175" type="PID">o:hsa.letter.12175</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">06-08739</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08739</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2371">
+                <forename>Johann</forename>
+                <surname>Peisker</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.343" ref="http://sws.geonames.org/3067696">Prag</origPlace>
+              <origDate ana="dcterms:created" when="1920-11-11">1920-11-11</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Johann Peisker und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2371"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12175">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2371" ref="https://viaf.org/viaf/248110534">
+            <forename>Johann</forename>
+            <surname>Peisker</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.343" key="#GID.1" ref="http://sws.geonames.org/3067696">Prag</placeName>
+          <date when="1920-11-11">1920-11-11</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Czechia</country>
+                <settlement>Prague</settlement>
+                <name ref="http://geonames.org/3067696" type="fcode:PPLC">Prague</name>
+                <location>
+                  <geo>14.42076,50.08804</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2371" type="context">
+                        Korrespondenz Johann Peisker - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12175" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12175" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12175" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Prag II-524,<lb/> den 11. Nvbr. 1920. </dateline>
+        <opener> Hochverehrter Herr Hofrat, mein innigst geliebter Gönner, </opener>
+        <p> glücklich, Ihnen vorläufig mit einer Auskunft dienen zu können, liess ich mich von einem befreundeten Mitglied des Verwaltungsgerichtshofes über den Fall belehren. Er sagte: „Die mitgeteilten Species facti sind nicht derart deutlich, um ein halbwegs richtiges Urteil zu gestatten. Der Betreffende ist entweder ein städtischer oder ein staatlicher Beamter. Ist er städtisch, dann unterliegt er seiner nationaldeutschen autonomen Stadtbehörde. Von ihrer Entscheidung steht ihm ein Rekurs an die ebenfalls nationaldeutsche autonome Bezirksbehörde offen, von dieser an den Landesausschuss und von diesem an den Verwaltungsgerichtshof. Ist er dagegen ein staatlicher Beamter, dann hätte er nur von der Prager Statthalterei entlassen werden können, von welcher der Rekurs an das Ministerium des Innern und von diesem an den Verfassungsgerichtshof geht. Stand jedoch die Entscheidung einer Leitmeritzer Behörde zu, dann kann es unmöglich eine Polizeibehörde sein, sondern das Kreisgericht als Strafgericht, welchem aber Disziplinarangelegenheiten durchaus nicht unterstehen.“ </p>
+        <p>Der Beamte möge also eine Abschrift seiner wichtigsten Akten mir (Peisker) einsenden, und ich werde dann von neuem bei meinem Freunde vorsprechen, welcher versichert, dass dem Beamten Unrecht keinesfalls widerfahren könne.- </p>
+
+        <p>In Ihrem werten Schreiben vermisse ich eine Nachricht über Ihr persönliches Befinden und hoffe von ganzem Herzen, dass es nichts zu wünschen übrig lasse. Was mich betrifft, bin ich bei 70 Jahren leistungsfähiger denn je, arbeite more solito wie ein Ross Tag u. Nacht, <pb
+            facs="#IMG.2"
+            n="2"/> den Tod stets vor den Augen, daher bestrebt, keinen Augenblick zu verlieren und nicht allzu viel von meinem schwer erworbenen Wissen mit ins Grab nehmen zu müssen. Schlafen gehe ich erst, wenn der normale Mensch aufzustehen pflegt. Die Arbeit geht mir flott von der Feder und begeistert mich bis zum Fanatismus, ganz gleich, ob sie populär wirkt oder nicht […]<note
+            n="1" place="foot" type="editorial">Die zweite Briefseite ist von der Lasche des Briefumschlag verdeckt und deshalb an einzelnen Stellen nicht lesbar.</note> amicus mihi Plato… </p>
+
+        <p>Bei meinen hiesigen engsten Berufsgenossen, den Historikern u. Linguisten, bin ich recht schwarz angekreidet, dafür finde ich aber den progressiv wachsenden Einklang bei den – Naturforschern, weil sie zumeist einen Geschichtler vor sich sehen, welcher Mensch u. Volk genauso auffasst […], wie sie Pflanze u. Flora, Tier u. Fauna. Sie erklärten mich also zu meiner [...] Verblüffung kurzweg für einen Naturforscher, u. ich fühle mich in ihrer […] seelig. – <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName> ist eine herrliche Stad, ebenso <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6622">
+Prag</placeName>, freilich anders geartet. Den ansonsten wildromantischen Platz nehmen die botanischen Gärten beider universitäten ein, u. dort halte ich - wie einst in der Ragnitz- in Gottes freier Natur meine Vorlesungen über die slawo-germanische Altertumskunde ab. Historiker und Linguisten meiden mich fast gänzlich, meine Hörer, darunter der Ordinarius der Pflanzenphysiologie, sind zumeist Botaniker u. ergänzen bei der Debatte, welche jeder Vorlesung folgt, mit ihrem mir fehlenden Wissen meine eigenen Erkenntnisse. Daher wünsche ich u. hoffe auch, dass ich für das nächste – u. letzte! – Sommersemester an die naturwissenschaftliche Fakultät versetzt werde, um noch rechtzeitig einen gediegenen jungen Naturforscher historisch einzuüben u. als meinen Nachfolger habilieren zu können, überzeugt, dass nur ein solcher befähigt ist, die so arg verfahrene slawogermanische Vorzeit in das richtige Gleis einzurenken. </p>
+        <p>Blind geboren, bin ich erst mit 27 Jahren sehend geworden. Nun erwartet mich binnen eines Jahres eine neuerliche Erblindung, ein weiterer Ansporn zum gesteigerten Fleiss, so lange ich noch arbeiten kann. Bis mein ketzerisches Buch über den slawischen Volkscharakter fertig ist, komme ich zu meiner Frau nach Graz, um auszuruhen. Hier fand ich noch immer keine Wohnung – denn auch der Staatspräsident muss sich mit drei Zimmern bescheiden -, ein Freund räumte mir ein Zimmerchen ein, u. so führe ich ein recht armseliges Garçonleben, während mein Ragnitzer Tusculum arme deutsche Studenten einnehmen. So verstehe ich nämlich ein friedliches Nebeneinander der Nationen inmitten des tosenden Völkerhasses. </p>
+        <p>Nur <hi rend="unknown" rendition="#none">einen</hi> Menschen hasse ich, dafür aber von der ganzen Seele: den herostratischen Vernichter der einst so wunderbaren 
+Prager Universitätsbibliothek, welcher ich durch 18 Jahre ebenso treu gedient habe, wie nachher der Grazer 28 Jahre lang. Leider ist dieser homo trium literarum von dem hiesigen unendlich leitseligen Staatssekretär fürs Schulwesen, Freund Drtina, pardoniert worden. </p>
+        <closer>
+          <salute>Des hochverehrten Herrn Hofrats dankbarer </salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2371">J. Peisker.</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

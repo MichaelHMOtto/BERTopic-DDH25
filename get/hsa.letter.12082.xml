@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Georg Friederici an Hugo Schuchardt (03-03137)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1526">
+            <forename>Georg</forename>
+            <surname>Friederici</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger </forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset
+                  Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12082" type="PID">o:hsa.letter.12082</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">03-03137</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität
+                     Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">03137</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1526">
+                <forename>Georg</forename>
+                <surname>Friederici</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6634" ref="http://sws.geonames.org/3021035">Dorlisheim</origPlace>
+              <origDate ana="dcterms:created" when="1913-09-04">1913-09-04</origDate>
+            </origin>
+            <provenance> Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz. </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger </forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Georg Friederici und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1526"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>, <ref
+            target="https://www.ediarum.org/">ediarum</ref> und
+               der <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und
+               befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des
+               Nachlasses von Hugo Schuchardt (1842-1927). Die Onlinepräsentation stellt alle
+               Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung. Die Bearbeitung
+               des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz, die
+               zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12082">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1526" ref="https://viaf.org/viaf/2571292">
+            <forename>Georg</forename>
+            <surname>Friederici</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6634" key="#GID.1" ref="http://sws.geonames.org/3021035">Dorlisheim</placeName>
+          <date when="1913-09-04">1913-09-04</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>France</country>
+                <settlement>Dorlisheim</settlement>
+                <name ref="http://geonames.org/3021035" type="fcode:PPL">Dorlisheim</name>
+                <location>
+                  <geo>7.48624,48.52485</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1526" type="context"> Korrespondenz Georg
+                        Friederici - Hugo Schuchardt </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12082" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC
+                  https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12082" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Dorlisheim, E. 4. 9. 13. </dateline>
+        <opener>Sehr geehrter Herr Professor!</opener>
+        <p> Ich danke Ihnen sehr für die freundliche Übersendung Ihrer Untersuchung über
+               “Baskisch und Hamitisch”. Ich habe die Einleitung (S. 1-9 / sowie einige Abschnitte
+               mit dem lebhaftesten Interesse sogleich gelesen. </p>
+        <p>Das Kapitel “Hund”<note n="1" place="foot" type="editorial">Vgl. Schuchardt (1913:
+                  310-312). Es handelt sich aber nicht um den kurzen Aufsatz <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.100">“Baskisch
+                        und Hamitisch" von 1914</ref>
+            </bibl> der sich nur ergänzend mit dem Wort für "Nabel" beschäftigt, sondern
+                  vielmehr um <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.393">“Baskisch-hamitische Wortvergleichungen” von 1913</ref>
+
+            </bibl>. Der Abschnitt “Hund” ist der bei weitem ausführlichste der vergleichenden
+                  Arbeit. </note> hat mich schon seit langer Zeit <pb
+            facs="#IMG.2"
+            n="2"/> in
+               verschiedener Richtung beschäftigt. Ich habe nicht nur in meinen Leutnants-Jahren mit
+               meinen Hunden eigener Zucht die Hunde Ausstellungen unsicher gemacht und mir manchen
+               I. Preis erworben, sondern ich habe mich auch einmal als Oberleutnant im “Globus”
+               (Bd. LXXVI, No. 23; <pb
+            facs="#IMG.3" n="3"/> 16. 12. 1899) einen Aufsatz über den
+               “Indianerhund in Nordamerika” verbrochen, der auch einige linguistische Hinweise
+               erhält. </p>
+
+        <p>Sehr beachtenswert ist mir immer die scheinbare Übertragung von Hunde-Worten auf
+               andere ähnliche Tiere erschienen. So zu dem von Ihnen angesprochenen Typus Ku (p.
+               22): <pb
+            facs="#IMG.4"
+            n="4"/> an M.P. kuri (cf. mir [?] “Mel. Wanderstraße”, p.
+               104), begr. von Guanchen:<note
+            n="2" place="foot" type="editorial">Ureinwohner
+                  Teneriffas.</note> kuna Ca und kuncha (Ten.) (Gass. p. 50) [NB. Sie haben concha,
+               p. 24] erinnere: </p>
+        <p>1) Uea (Loyalty-I.)<note n="3" place="foot" type="editorial">Wohl: Ouvéa auf den
+                  französischen Loyalitätsinseln im Pazifik.</note> kuri, Schwein (Inglis: “Rep.” p.
+               76.) </p>
+        <p> 2) Salomonen-Insel Buka; kori und kore, Opossum (von mir festgestellt). </p>
+        <p>3) Aguti Arten (Hundeähnliche Nagetiere in Amerika): </p>
+        <p> a) Cavia: curi (Las Casas in Herrera) </p>
+        <p>cori (Oviedo) </p>
+        <pb facs="#IMG.5" n="5"/>
+        <p>cuy (Herrera): diese alle auf Cuba u. Haiti. </p>
+        <p>acurito in <placeName> Venezuela</placeName>
+        </p>
+        <p>b) Dasyprocta aguti acure in Venezuela (mit Antillen: aguti, akuti, akutši, kotia,
+               kutia, etc.) </p>
+
+        <p> c) Crelogenys subniger: pecuri im nördl. Süd-Amerika (Simón), und noch heute pikuri
+               in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5916">Peru</placeName>. </p>
+        <p>4) rakún, der Waschbär in Algonquin-Dialekten von Va., noch heute racoon in den
+                  <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5995"> U.S.A.</placeName>
+        </p>
+        <pb facs="#IMG.6" n="6"/>
+
+        <p> Ich erwähne dies nur, weil ich denke, daß es Sie interessieren mag und auf die
+               Gefahr hin, daß <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2881">
+                  Trombetti</persName> in seiner von Ihnen (p.22) aufgeführten mir aber leider
+               unbekannten Arbeit schon dasselbe gesagt hat. </p>
+        <closer>
+          <salute>In vorzüglicher Hochachtung</salute>
+          <lb/>
+          <salute> Ihr ganz ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1526">
+                     Friederici</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

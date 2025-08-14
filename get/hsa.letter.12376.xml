@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Julius Sponholz an Hugo Schuchardt (01-11216)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2766">
+            <forename>Julius</forename>
+            <surname>Sponholz</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12376" type="PID">o:hsa.letter.12376</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-11216</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11216</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2766">
+                <forename>Julius</forename>
+                <surname>Sponholz</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.216" ref="http://sws.geonames.org/2895044">Jena</origPlace>
+              <origDate ana="dcterms:created" when="1875-02-09">1875-02-09</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Julius Sponholz und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2766"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12376">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2766" ref="https://viaf.org/viaf/30269112">
+            <forename>Julius</forename>
+            <surname>Sponholz</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.216" key="#GID.1" ref="http://sws.geonames.org/2895044">Jena</placeName>
+          <date when="1875-02-09">1875-02-09</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Jena</settlement>
+                <name ref="http://geonames.org/2895044" type="fcode:PPLA3">Jena</name>
+                <location>
+                  <geo>11.5899,50.92878</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2766" type="context">
+                        Korrespondenz Julius Sponholz - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12376" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12376" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12376" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12376" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12376" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <p>Bericht der Finanz-Commission </p>
+        <p>S. E. </p>
+        <p>Die in Folge des E. C. Beschlusses vom 6/6 74 zusammengetretene unterzeichnete Finanz-Commission hat sich der Aufgabe unterzogen, die Verpflichtungen des E. gegen den früheren Tannenwirth Fr. Maempel zu lösen und zwar auf eine für das E. ehrenvolle Weise. </p>
+
+        <p>Die Einsicht in die bezüglichen Papiere, soweit sie der Finanz-C. vorgelegen, hat ergeben, daß E. dem p. p. Maempel eine Summe von 634 r. zu zahlen verpflichtet. Sei und daß die Ehre und der Vortheil des E. gleich sehr eine <hi
+            rend="unknown" rendition="#none">baldige</hi> Zahlung dieser Schuldsumme forderten. </p>
+        <p>Wir verzichten darauf hier den Ursprung dieser Schuld zu erörtern u. dürfen dies um so mehr, als keine Stimme sich erhoben hat, die eine Verweigerung der Zahlung Seitens des E.s befürwortet hätte. Im Gegentheil: alle Herren C.brüder ohne Ausnahme haben die Zahlung als Ehrensache u. baldigste Zahlung als wünschenswerth erkannt. </p>
+
+        <p>So schritte denn die Finanz-C. dazu schon wenige Tage nach dem Stiftungstage 1874 die betreffenden Circulare an die Herren C. Brüder zu er- <pb
+            facs="#IMG.2" n="2"/> lassen, wobei sie bezüglich des modus die Winke des C. Bruder Weller<note n="1"
+            place="foot" type="editorial">Wohl identisch mit <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2993">Fr. Weller</persName>, Schulfreund Schuchardts; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.2993">HSA 12739-12742</ref>. – C. Bruder = Corps-Bruder.</note> dankbarlichst benutzte. </p>
+
+        <p> Das über Erwarten rasche Eingehen von Zahlungen, in zum Theil beträchtlicher Höhe, wie besonders der edle Entschluß eines unserer Herrn C. Brüder, machte es möglich, sofort die Verhandlungen mit p. p. Maempel zu beginnen. Nach langen Besprechungen bewog man endlich den zaehen Mann mit 530 sich zufrieden zu geben (50 hatte das active Corps bereits aus eigenen Mitteln gezahlt) u. die drei silbernen Pokale zurück zu erstatten. Dabei erklärte er hinter her, daß er nun noch viele Ehrenscheine einzelner Mitglieder in Händen habe, deren Verfallzeit noch nicht eingetreten. Für diese Ehrenscheine bürgt das C. jetzt <hi
+            rend="unknown" rendition="#none">nicht</hi> weiter u. ist mit seiner Ehre dem Maempel überall nicht mehr verhaftet, was Maempel in der Quittung anerkannt hat, indem er sagt. Daß das C. seine Verpflichtung völlig erfüllt habe. Wir empfehlen aber allen betreffenden C. Brüdern aus den letzten Jahren eindringlichst, daß sie baldigst ihre Ehrenscheine einlösen um die Thuringia nicht indirect zu compromittiren. </p>
+        <p>Durch diesen<note n="2" place="foot" type="editorial">„Schritt“??</note> hat die F. C. geglaubt ihre Aufgabe gelöst zu haben. </p>
+        <p> Die inzwischen in Circulation gesetzten Anschreiben lieferten nun fortwährend überaus günstige <pb
+            facs="#IMG.3" n="3"/> und erfreuliche Sendungen u. Zeichnungen, so daß sich voraussehen ließ, es werde ein Ueberschuß aufkommen. Die F. C. hielt sich nicht berechtigt diesen so erfreulichen Fortgang zu hemmen, sondern sah mit Ruhe dem weiteren Verlauf u. endlichen Abschluß entgegen. </p>
+        <p>Der aufgekommene Ueberschuß beträgt jetzt (9<hi rendition="#sup">ten</hi> Februar 1875) [Lücke] und sind 1100 zu 4 ½ % angelegt. Es entsteht nun die Frage, was ist mit diesem Kapital zu beginnen? Eine Rückzahlung ist nicht gut möglich, weil kein modus dafür existirt, und dürfte eine solche auch nicht im Sinne eines der Herren C. Brüder sein. Es dem activen Corps zur freien Verfügung zu überlassen, ist keine Veranlassung da und möchte auch noch weniger nach dem Sinne der alten Herren sein. Vielseitige Erwägungen haben daher zu dem Gedanken geführt, dies Geld sicher anzulegen und dem C. als „Stiftung seiner alten Herrn“ zu überweisen, und zwar in der Art, daß die Verwaltung des Kapitals drei alten Herrn verbleibt, die Zinsen dem activen Corps zugehen. </p>
+        <p> Diesen Vorschlag macht hiermit die F. C. den bezüglichen Herrn C. Brüdern und sucht [um] deren Zustimmung nach. </p>
+
+        <p>Wenn diese erfolgt, so wird am nächsten Stiftungs-Tage im C. C. die detaillirte Rechnungslegung und Vorlage der Acten erfolgen und damit die <pb
+            facs="#IMG.4" n="4"/> Finanz=Commission ihre Aufgabe als gelöst erachten. </p>
+        <p>Mit dieser Regulirung der Sache wird zugleich für die Zukunft eine Wiederholung ähnlicher Gesuche, die im Grunde doch eine Bettelei sind, abgeschnitten und die Activen werden in Zukunft durch eine verständige Finanz-Wirthschaft die Wiederkehr solcher Unordnungen vorbeugen. Besuchende alte Herren werden bedenken, daß sie fortan hier nicht auf Rechnung des Corps, sondern auf eigene zu leben haben. </p>
+        <closer>
+          <dateline>Jena, d. 9.<hi rendition="#sup">n</hi> Febr. 1875.</dateline>
+          <signed>Im Namen der Finanz-Commission <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2766">Sponholz</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

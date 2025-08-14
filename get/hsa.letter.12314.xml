@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Leopold von Schroeder an Hugo Schuchardt (22-10226)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2676">
+            <forename>Leopold von</forename>
+            <surname>Schroeder</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12314" type="PID">o:hsa.letter.12314</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">22-10226</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">10226</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2676">
+                <forename>Leopold von</forename>
+                <surname>Schroeder</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.97" ref="http://sws.geonames.org/2761369">Wien</origPlace>
+              <origDate ana="dcterms:created" when="1916-05-30">1916-05-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Leopold von Schroeder und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2676"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12314">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2676" ref="https://viaf.org/viaf/49326904">
+            <forename>Leopold von</forename>
+            <surname>Schroeder</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.97" key="#GID.1" ref="http://sws.geonames.org/2761369">Wien</placeName>
+          <date when="1916-05-30">1916-05-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Vienna</settlement>
+                <name ref="http://geonames.org/2761369" type="fcode:PPLC">Vienna</name>
+                <location>
+                  <geo>16.37208,48.20849</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2676" type="context">
+                        Korrespondenz Leopold von Schroeder - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.939" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kaiserliche Akademie der Wissenschaften (Wien)</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12314" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12314" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12314" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12314" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Wien, d. 30<hi rendition="#sup">sten</hi> Mai 1916</dateline>
+        <opener>Hochverehrter Herr Kollege!</opener>
+
+        <p> Leider sind die Dinge so gegangen, wie es nach der Aufstellung von <persName>
+
+Bersoviczy</persName> erwartet werden mußte. Der Letztere ist gewählt worden, und <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2738">
+Simonyi</persName> gefallen. Das ist mir sehr leid, da ich weiß, wie empfindlich es Ihnen sein wird. Aber es war da nicht aufzukommen. In der ganzen Liste stand B. oben und war daher von vornherein – d. h. nach der Classenwahl – an seiner Wahl nicht zu zweifeln. Damit fiel der andre Ungar, Simonyi, obgleich er in der Classe eine ansehnliche Stimmenzahl erhalten hatte und auf dem Zettel an dritter Stelle stand. <pb
+            facs="#IMG.2" n="2"/> Aber nicht nur der vor ihm stehende Historiker Below<note n="1" place="foot" type="editorial">
+
+            <persName>
+
+Georg von Below</persName> (1858-1927), deutscher Verfassungs- und Wirtschaftshistoriker.</note>, sondern auch die nach ihm kommenden E. Schroeder (Germanist in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.20">Göttingen</placeName>)<note n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2673">Edward Schroeder</persName> (1858-1942), Germanist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2673">HSA 10202</ref>.</note> und Wissowa (Klass. Philologe in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.77">Halle</placeName>)<note n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.3024">Georg Wissowa</persName> (1859-1931), klassischer Philologe, vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.3024">HSA 12862</ref>.</note> erhielten gleich absolute Majorität – offenbar weil man nicht mehr als einen Ungarn wählen wollte und die anderen 3 Stellen lieber an Gelehrte in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6101">
+Deutschland</placeName> austheilte. </p>
+        <p>Haben Sie noch vielen Dank für Ihre beiden Briefe in dieser leider durch die Uebermacht der Historiker verlorenen Sache. </p>
+        <p>Die Wahlen haben mir überhaupt nur Enttäuschungen gebracht, – oder fast nur solche. Einzig Höfler<note n="4"
+            place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1782">Max Höfler</persName> (1848-1914), Folklorist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.1782">HSA 04765-04769</ref>.</note>, den Meinong<note
+            n="5" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2159">Alexius Meinong</persName> (1853-1921), Prof. der Philosophie; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2159">HSA 06965-06967</ref>.</note> vorgeschlagen, ist von meinen Candidaten durchgegangen. Ich bin es jetzt schon sehr gewöhnt, in der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.939">Akademie</ref> zu unterliegen <pb facs="#IMG.3"
+            n="3"/> Reinisch<note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2494">Leo Reinisch</persName> (1832-1919), Ägyptologe; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.2494?locale=de">HSA 09191-09341; 09341A-09355</ref>.</note> ist auch in hohem Grade verstimmt. Wir wußten so gut wie nichts auszurichten, einer fest geschlossen an Zahl mit überlegener Phalanx gegenüber. Es thut mir leid, Ihnen keine bessere Nachricht geben zu können. </p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <lb/>
+          <salute>In aufrichtiger Verehrung</salute>
+          <lb/>
+          <salute>Ihr sehr ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2676">LSchroeder<note n="7" place="foot"
+                  type="editorial">Vgl. zum Vorgang in der Akademie auch den <ref target="https://gams.uni-graz.at/o:hsa.letter.8463/sdef:TEI/get?context=context:hsa.letters.1878">
+Brief an Karabacek</ref>.</note>
+            </persName>
+          </signed>
+        </closer>
+        <postscript>
+          <p>P. S. Goldziher, auch ein <hi rend="unknown" rendition="#none">großer</hi> Gelehrter in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5936">
+              <hi rend="unknown" rendition="#none">Ungarn</hi>
+            </placeName>, von Karabaček<note n="8" place="foot" type="editorial">
+              <persName
+                ref="https://gams.uni-graz.at/o:hsa.persons#P.1878">Josef von Karabaček</persName> (1845-1918), Orientalist; vgl. <ref target="https://gams.uni-graz.at/context:hsa.letters.1878?locale=de">HSA 05270-05294</ref>.</note> vorgeschlagen, erhielt nur wenige Stimmen, stand in der Liste ganz unten.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

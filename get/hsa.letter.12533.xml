@@ -1,0 +1,279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Iwan Müller an Hugo Schuchardt (01-07586)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2253">
+            <forename>Iwan</forename>
+            <surname>Müller</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12533" type="PID">o:hsa.letter.12533</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-07586</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07586</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2253">
+                <forename>Iwan</forename>
+                <surname>Müller</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="3" unit="pages">3 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6757" ref="http://sws.geonames.org/2805762">Wunsiedel</origPlace>
+              <origDate ana="dcterms:created" when="1874">1874</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Iwan Müller und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2253"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12533">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2253" ref="https://viaf.org/viaf/29607954">
+            <forename>Iwan</forename>
+            <surname>Müller</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6757" key="#GID.1" ref="http://sws.geonames.org/2805762">Wunsiedel</placeName>
+          <date when="1874">1874</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Wunsiedel</settlement>
+                <name ref="http://geonames.org/2805762" type="fcode:PPLA3">Wunsiedel</name>
+                <location>
+                  <geo>12.00342,50.03923</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2253" type="context">
+                        Korrespondenz Iwan Müller - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.5317" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Erlangen</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.226" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Französisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.227" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Altfranzösisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12533" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12533" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12533" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12533" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Wunsiedel im Fichtelgebirg 1874.</dateline>
+        <opener>Hochverehrter Herr College!</opener>
+        <p> An der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.5317">Universität Erlangen</ref> soll vom nächsten Wintersemester an eine ordentliche Professur für neuere Sprachen, wozu die Mittel von der Staatsregierung und den Kammern endlich bewilligt worden sind, errichtet werden. Nach der Meinung unserer philosophischen Facultät würde die Hauptaufgabe des zu berufenden Professors darin zu bestehen haben, daß er über <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.226"> Französische</ref> und <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.891">Englische Sprache</ref> wie Literatur Vorlesungen hielte und das wissenschaftliche Verständnis dieser Sprachen einschlösse. Nun ist es nicht leicht wahrscheinlich eine Kraft zu erhalten, welche in beiden Sprachen und Literaturen gleichmäßig zu Hause ist und mit gleichem Erfolg wissenschaftlich gearbeitet hat, daher wir uns auch mit einem Docenten zufrieden geben, der in dem einem Gebiete etwas tüchtiges geleistert hat und das andre doch auch <pb
+            facs="#IMG.2"
+            n="2"/> auf eine des Universitätslebens würdige Weise zu vertreten im Stande ist. Am liebsten wäre uns ein Docent, der im <ref target="https://gams.uni-graz.at/o:hsa.languages#L.227">Altfranzösischen</ref> gute literarische Leistungen aufzuweisen hätte, aber zugleich das Neufranzösische in seiner Gewalt hätte und auch des Englischen so weit mächtig wäre, daß er Studierende darin fördern könnte. Sollten wir keinen solchen bekommen können so wäre uns natürlich auch einer willkommen, dessen Hauptstärke das Englische wäre, der aber auch das Französische entsprechend zu lesen vermöchte. </p>
+
+        <p>Sie würden, hochgeehrter Herr College, unsere Facultät und Universität zu großem Danke verpflichten, wenn Sie uns behilflich sein wollten geeignete Persönlichkeiten für den neuen Lehrstuhl in Vorschlag zu bringen. Bei der Auswahl möchten wir aber noch auf den Umstand aufmerksam machen, daß unsere Universität, weil sie eine kleine ist, nur solche Männer zu gewinnen sucht, mit welchen sich collegialisch gut ver- <pb
+            facs="#IMG.3"
+            n="3"/> kehren läßt, da das Gedeihen der kleineren Universitäten wesentlich von dem einträchtigen Zusammenleben der Lehrer bedingt ist.<note
+            n="1" place="foot" type="editorial">Berufen wurde <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.5316">Alfons Kissner</persName> (1844-1926), der aber schon 1878 nach <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.476">Königsberg</placeName> wechselte. Auf ihn folgte <persName> Hermann Varnhagen</persName> (1850-1923), der 1929 em wurde.</note>
+        </p>
+        <p>Ich bemerke noch, daß der Anfangsgehalt des neu zu berufenden Ordinarius 2000 fl beträgt, wozu sofort 350 fl Theuerungszulage kommen, zusammen also 2350 fl = 1343 Thlr ungefähr, und daß nach fünf Jahren eine Gehaltszulage von 200 fl = 115 Thlr ungefähr, und nach weiteren 5 Jahren immer eine von 100 fl erfolgt, endlich daß für die nächste Zeit die Gründung eines Seminars mit zureichenden Mitteln in Aussicht gestellt werden kann. </p>
+
+        <p>Wenn Sie in der Lage sind, geeignete Persönlichkeiten für die in Rede stehende Professur namhaft zu machen, dürfte ich Sie vielleicht bitten, mir Ihre Meinung kundzugeben? Bis 15. Sept. ist für diesen Fall meine Adresse NN bei Förster Herzer in Tröstau bei Wunsiedel (Bayern), v. 18. an erreichen die Briefe mich wieder in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.458"> Erlangen</placeName>. </p>
+        <closer>
+          <salute>Es zeichnet mit ausgezeichneter Hochachtung</salute>
+          <lb/>
+          <salute>Ihr</salute>
+          <lb/>
+          <salute> ergebener College</salute>
+          <lb/>
+          <signed>Dr. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2253"> Iwan Müller </persName>ord. Prof. der Klass. Philologie in Erlangen </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

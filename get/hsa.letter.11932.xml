@@ -1,0 +1,286 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Enno Littmann an Hugo Schuchardt (05-06567)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2051">
+            <forename>Enno</forename>
+            <surname>Littmann</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11932" type="PID">o:hsa.letter.11932</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-06567</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">06567</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2051">
+                <forename>Enno</forename>
+                <surname>Littmann</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Karte (Postkarte)</objectType>
+                </support>
+                <extent>
+                  <measure quantity="2" unit="pages">2 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.351" ref="http://sws.geonames.org/2820860">Tübingen</origPlace>
+              <origDate ana="dcterms:created" when="1922-06-30">1922-06-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Enno Littmann und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2051"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11932">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2051" ref="https://viaf.org/viaf/24700612">
+            <forename>Enno</forename>
+            <surname>Littmann</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.351" key="#GID.1" ref="http://sws.geonames.org/2820860">Tübingen</placeName>
+          <date when="1922-06-30">1922-06-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Tübingen</settlement>
+                <name ref="http://geonames.org/2820860" type="fcode:PPLA2">Tübingen</name>
+                <location>
+                  <geo>9.05222,48.52266</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2051" type="context">
+                        Korrespondenz Enno Littmann - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.881" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Iberisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11932" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11932" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11932" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Tübingen, Melanchthonstr. 16 30/6/22</dateline>
+        <opener>Hochverehrter u. lieber Herr Kollege:-</opener>
+
+        <p> Schon längst hätte ich Ihnen für Ihre liebenswürdige Karte, die mich sehr erfreut hat, danken sollen. Es kamen aber allerhand Abhaltungen dazwischen. Nun will ich noch vor Toresschluß (morgen wird das Porto wieder teurer) Ihnen rasch ein paar Zeilen schreiben. – Seit Jahren habe ich die Epigraphik ganz ruhen lassen müssen. Durch den Krieg habe ich fast drei Jahre verloren. Seitdem arbeite ich hauptsächlich an meiner Übersetzung von 1001 Nacht:<note
+            n="1" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8706">
+                <hi rend="unknown" rendition="#none">Die Erzählung aus den Tausendunein Nächten</hi>. Zum ersten Mal nach dem arabischen Urtext der Calcuttaer Ausgabe vom Jahr 1893 übertr. von Enno Littmann. Vollst. dt. Ausg. in 6 Bd.. - Leipzig: Insel-Verl., 1921ff.</ref>
+            </bibl>
+
+          </note> Die Arbeit wird wenigstens gedruckt und bezahlt. Über 1/3 des Ganzen ist fertig. – Wegen meiner lydischen Entzifferungen<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8707">Enno Littmann, <hi rend="unknown" rendition="#none">Zur Entzifferung der Ṣafâ-Inschriften</hi>, Leipzig: Harrassowitz, 1901.</ref>
+            </bibl>
+
+          </note> hatte ich viel Ärger. Nun habe ich auch das ganz aufgegeben. Dagegen hoffe ich nach einigen Jahren wieder zu den Inschriften, die ich in <placeName>
+
+Syrien</placeName> gesammelt habe, zurückzukehren. – Die rätselhafte Sprache Stummes kenne ich auch nicht;<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2811">Hans Stumme</persName> (1864-1936), Orientalist; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2811?locale=de">HSA 11356-11394</ref>.</note> vor Jahren schrieb er mir auch darin.<note
+            n="4" place="foot" type="editorial">Vgl. z. B. <ref
+            target="https://gams.uni-graz.at/o:hsa.letter.10821/sdef:TEI/get?context=context:hsa.letters.2811&amp;amp;locale=de">
+HSA 11391</ref>.</note> Fein, daß Sie ihm <pb
+            facs="#IMG.2" n="2"/> mit der Durchschrift von Alcoy so gut gedient haben.<note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.625">
+                <hi rend="unknown" rendition="#none">Abhandlungen der Preußischen Akademie der Wissenschaften, Philosophisch-historische Klasse</hi> 9,5, 1922, 82-86.</ref>
+
+            </bibl> Die Schuchardtschen Veröffentlichungen zur Bleitafel von Alcoy sind allerdings sehr fragwürdig. </note> Ich werde ihm demnächst einmal eine Harari-Karte<note
+            n="6" place="foot"
+            type="editorial">
+
+
+Harari ist eine semitische Sprache, die in der Stadt <placeName>
+Harar</placeName> in <placeName>
+Äthiopien</placeName> von den Aderi gesprochen wird.</note> schreiben, da ich in letzter Zeit mich mit dieser Sprache näher abgegeben habe. – Inzwischen habe ich Schulten’s Durchziehung<note
+            n="7" place="foot" type="editorial">Nicht ermittelt.</note> an Thurneysen<note n="8" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2865">
+Rudolf Thurneysen</persName> (1857-1940), Schweizer Keltologe, seit 1913 in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.585">
+Bonn</placeName>.</note> weiter geschickt, der sich ja mit <ref target="https://gams.uni-graz.at/o:hsa.languages#L.881">Iberisch</ref>, 
+Ligurisch u.s.w. viel beschäftigt hat. Ob er wohl etwas herausbringen wird? </p>
+        <closer>
+          <salute>Mit den besten Wünschen u. Grüßen Ihr sehr ergeb.</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2051">E. Littmann</persName>
+          </signed>
+        </closer>
+        <dateline>am 30/6 in den Briefkasten geworfen.</dateline>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

@@ -1,0 +1,351 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gerhard Moldenhauer an Hugo Schuchardt (02-07432)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2213">
+            <forename>Gerhard</forename>
+            <surname>Moldenhauer</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2022">2022</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/3602" type="PID">o:hsa.letter.3602</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-07432</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">07432</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2213">
+                <forename>Gerhard</forename>
+                <surname>Moldenhauer</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.482" ref="http://sws.geonames.org/2740637">Coimbra</origPlace>
+              <origDate ana="dcterms:created">Unbekannt</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2016">2016</date>
+          <title>Die Korrespondenz zwischen Gerhard Moldenhauer und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2213"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.3602">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2213" ref="https://viaf.org/viaf/199894008">
+            <forename>Gerhard</forename>
+            <surname>Moldenhauer</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.482" key="#GID.1" ref="http://sws.geonames.org/2740637">Coimbra</placeName>
+          <date>Unbekannt</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Portugal</country>
+                <settlement>Coimbra</settlement>
+                <name ref="http://geonames.org/2740637" type="fcode:PPLA">Coimbra</name>
+                <location>
+                  <geo>-8.41955,40.20564</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2213" type="context">
+                        Korrespondenz Gerhard Moldenhauer - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3786" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Geschichte der Sprachforschung</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.922" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Romanische Philologie</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.277" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Halle</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4943" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Doktorprüfung</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4449" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universitäre Lehre</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4347" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Coimbra</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.835" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Festschrift</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4944" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Universität Madrid</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4941" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Arbeitsstelle für deutsch-spanische Wissenschaftsbeziehungen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.317" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Hugo-Schuchardt-Brevier</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.3602" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.3602" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.3602" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.3602" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.3602" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Coimbra, 25.6.24.</dateline>
+        <opener>Sehr verehrter Herr Geheimrat!</opener>
+        <p>Ihre freundlichen Zeilen vom 17.6. erreichen mich am Ufer des Mondego<note n="1" place="foot"
+              type="editorial">Der Mondego ist der längste Fluss, der nur durch <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5895">
+Portugal</placeName> fließt, u.a. an <placeName>
+
+Coimbra</placeName> vorbei.</note>, wo einst der liebte und lebte, dem Sie 1880 (?) einen Festgruß sandten<note
+            n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.650">
+                <hi rend="unknown" rendition="#none">Camoens. Ein Festgruss nach Portugal zum X. Juni MDCCCLXXX</hi>
+              </ref>
+
+            </bibl>, Graz 1880.</note>. – Ihre Hallenser Tätigkeit und Hauptveröffentlichung wurde in meiner mündlichen Doktorprüfung gestreift. Aus der Kenntnis der Geschichte der romanischen Philologie habe ich in den schweren Kampfjahren um den Aufenthalt im Ausland oft Kraft und Ausdauer geschöpft und <pb
+            facs="#IMG.2"
+            n="2"/> jetzt auch endgültig gesiegt, wie ich hoffe, ohne mich überheben zu wollen, was besonders vor Ihrer ehrwürdigen Größe vermessen wäre. In einigen Tagen hoffe ich eine andere unserer Größen, Frau <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2194">Michaëlis de Vasconcellos</persName> in (Oporto) <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.65">Porto</placeName> begrüßen zu können<note n="3"
+            place="foot" type="editorial">Vgl. Bernhard Hurch, <hi rend="unknown" rendition="#none">Grazer Linguistische Studien </hi>72, Herbst 2009, <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1550">
+19-111</ref>
+            </bibl> u. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1548">
+113-133</ref>
+            </bibl>.</note>, die mit ihren 75 Jahren hier noch ihre Lehrtätigkeit ausübt und fleißig veröffentlicht.</p>
+        <p>Erlauben Sie mir, die Einladung zur Bonillafestschrift zu erklären. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1174">Adolfo Bonilla y San Martín</persName>, Dekan der philosophischen Fakultät in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5">Madrid</placeName>, Lieblingsschüler <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2165">Menéndez y Pelayo</persName>’s und <pb facs="#IMG.3"
+            n="3"/> dessen pietätvoller Biograph<note n="4" place="foot" type="editorial">
+            <hi rend="unknown" rendition="#none">
+              <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2165">
+Marcelino Menéndez y Pelayo</persName> (1856-1912)</hi>, Madrid 1915.</note> und Fortsetzer, sprach vor etwa ¾ Jahren von Ihnen.<note
+            n="5" place="foot" type="editorial">Im HSA gibt es einen Brief <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1174">Bonillas</persName> vom 27.3.1922 (<ref
+            target="https://gams.uni-graz.at/o:hsa.persons#P.1174">Brief 01216</ref>).</note> Sie hatten damals geschrieben, wie ich verstand, an ihn, er möge entschuldigen, wenn Sie infolge Ihres Alters schon etwas mühsam schrieben. Obwohl ich dies später geltend machte, bestand Herr Prof. <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2324">H. Obermaier</persName>
+          <note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2324">Hugo Obermaier</persName> (1877-1946) arbeitete ab 1914 am 
+Museo Nacional de Ciencias Naturales in Madrid und bekleidete von 1922-1939 einen eigens für ihn eingerichteten Lehrstuhl an der Complutense. Auch <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2324">Obermaier</persName> findet sich unter Schuchardts Korrespondenten (HSA, Briefe <ref
+            target="https://gams.uni-graz.at/o:hsa.persons#P.2324">08372-08374</ref>, alle aus dem Jahr 1922).</note>, Prof. für Vorgeschichte an der <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4944">Madrider Universität</ref>, darauf, Ihnen eine Einladung zu schicken. Sie hätten erst kürzlich eine baskische Studie veröffentlicht. B. soll eine gediegene europäische Festschrift haben.<note
+            n="7" place="foot" type="editorial">Da die Festschrift zu Lebzeiten des Geehrten nicht mehr fertig wurde, erschien sie als Gedenkschrift: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1855">
+                <hi rend="unknown" rendition="#none">Estudios eruditos in memoriam de Adolfo Bonilla y San Martín: 1875-1926, con un prólogo de Jacinto Benavente</hi>
+              </ref>
+            </bibl>, 2 Bde. Madrid <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1855">1927</ref>
+            </bibl> u. <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1854">
+1930</ref>
+            </bibl>. Zum 2. Bd. heißt es: „Dirigieron este homenaje: Lucio Gil Fagoaga y Gerhard Moldenhauer“.</note>
+          <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2017">J. Leite de Vasconcellos</persName> ist noch fleißig an seiner vielseitigen Arbeit.<note
+            n="8" place="foot" type="editorial">José <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2017">Leite de Vasconcelos</persName>, „<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1853">Linguagem portuguésa de Alamedilla ou ,Almedilha‘</ref>
+            </bibl>“, <hi rend="unknown"
+              rendition="#none">Estudios eruditos </hi>2, 627-33. Der Verfasser (1858-1941) war ein portugiesischer Romanist, der von 1882-1926 intensiv mit Schuchardt korrespondierte (HSA, Nr. <ref target="https://gams.uni-graz.at/o:hsa.persons#P.2017">
+06319-06366</ref>).</note>
+          <pb facs="#IMG.4" n="4"/> Er regte mich zu einem D.<hi rendition="#sup">a</hi> Carolina-Brevier<note n="9"
+            place="foot" type="editorial">Immerhin stammt aus <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2213">
+Moldenhauer</persName>s Feder eine „<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1852">Bibliografia de D. Carolina Michaëlis de Vasconcellos</ref>
+            </bibl>", <hi rend="unknown"
+            rendition="#none">Revista da Universidade de Coimbra XI: Miscelânea de Estudos em Honra de D. Carolina Michaëlis de Vasconcellos, Professora da Faculdade de Letras da Universidade de Coimbra</hi>, Coimbra, Imprensa da Universidade, 1933, VI-XXIII.</note> nach Art des Schuchardt-Breviers an, fügte aber gleich hinzu, daß er es noch nicht gesehen hätte, worauf ich es ihm beschreiben konnte. Etwas Ähnliches kann man für D.<hi rendition="#sup">a</hi>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2194">Carolina</persName> nicht zusammenstellen.</p>
+        <p>Daß Sie meiner Madrider Arbeitsstelle künftig gedenken wollen, danke ich Ihnen sehr. Mein Wunsch geht dahin, sie zu einem kleinen Institut auszubauen, mehr mit entschiedenem Arbeitswillen als Geld.</p>
+        <closer>
+          <salute>In tiefer Hochachtung grüßt Sie ganz ergebenst</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2213">G. Moldenhauer</persName>.</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

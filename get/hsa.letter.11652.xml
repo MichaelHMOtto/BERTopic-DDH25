@@ -1,0 +1,400 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Paul Kahle an Hugo Schuchardt (02-05257)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1870">
+            <forename>Paul</forename>
+            <surname>Kahle</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11652" type="PID">o:hsa.letter.11652</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">02-05257</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">05257</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.1870">
+                <forename>Paul</forename>
+                <surname>Kahle</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="8" unit="pages">8 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.508" ref="http://sws.geonames.org/2945024">Braunschweig</origPlace>
+              <origDate ana="dcterms:created" when="1919-07-30">1919-07-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2022">2022</date>
+          <title>Die Korrespondenz zwischen Paul Kahle und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/1870"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11652">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.1870" ref="https://viaf.org/viaf/309914811">
+            <forename>Paul</forename>
+            <surname>Kahle</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.508" key="#GID.1" ref="http://sws.geonames.org/2945024">Braunschweig</placeName>
+          <date when="1919-07-30">1919-07-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Germany</country>
+                <settlement>Braunschweig</settlement>
+                <name ref="http://geonames.org/2945024" type="fcode:PPLA3">Braunschweig</name>
+                <location>
+                  <geo>10.52673,52.26594</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.1870" type="context">
+                        Korrespondenz Paul Kahle - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3085" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Zeitschrift für romanische Philologie</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.837" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Baskisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11652" xml:id="IMG.8">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11652" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Braunschweig, 30.7.19</dateline>
+        <opener>Hochgeehrter Herr Hofrat!</opener>
+
+        <p>Von einer Reise zurückgekehrt erhielt ich zu meiner Freude Ihre gütige Auskunft vom 14 und danke Ihnen herzlich dafür. Von den von Ihnen genannten Zeitschriften kann ich hier oder in Wolfenbüttel nur die <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3085">Zeitschr. f. rom. Phil.</ref>
+          <note n="1" place="foot" type="editorial">
+            <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3085">
+              <hi rend="unknown" rendition="#none">Zeitschrift für romanische Philologie (ZrP)</hi>
+
+            </ref>.</note> einsehen und freue mich herzlich auf die demnächstige Muße, die es mir gestatten wird, Ihre Abhandlung <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.837">Baskisch</ref> und Romanisch<note n="2" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.157">Schuchardt, Hugo (1906). <hi
+                  rend="unknown" rendition="#none">Baskisch und Romanisch. Zu de Azkues baskischem Wörterbuch. I. Band</hi>. Halle: Niemeyer.</ref>
+            </bibl>
+          </note> in Ruhe zu genießen. Die übrigen Zeitschriften hoffe ich bei einem Urlaubsbesuch auf der Jenaer Bibliothek einsehen zu können.</p>
+
+        <p>Ich besitze eine Abhandlung von A. Grimm: Über die bask. Sprache und Sprachforschung. I. Allgemeiner Teil,<note
+            n="3" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4343">Arno Grimm, <hi rend="unknown" rendition="#none">Über die baskische Sprache und Sprachforschung: allgemeiner Teil</hi>, Ratibor: Riedlinger, 1884, 46 S.</ref>
+            </bibl>
+
+          </note> die mir mancherlei zur Einführung gebracht hat. Leider ist eine Fortsetzung davon, die nun wohl näher auf die Grammatik eingegangen wäre, infolge frühzeitigen <pb
+            facs="#IMG.2" n="2"/> Ablebens des Verfassers nicht erschienen. – Das Buch von <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.5475">Mahn</persName> über baskische Sprachdenkmäler<note
+            n="4" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4386">Carl August F. Mahn, <hi
+                  rend="unknown" rendition="#none">Denkmaeler der baskischen Sprache: mit einer Einl., welche von dem Studium der baskischen Sprache handelt und zugleich eine Beschreibung und Charakteristik derselben enthält</hi>, Berlin [u.a.]: Duemmler [u.a.], 1857.</ref>
+            </bibl>
+
+          </note> konnte ich inzwischen auf der Kieler Bibliothek einsehen und vielerlei zur Einführung daraus entnehmen. Es wird im Reisehandbuch für Spanien empfohlen<note
+            n="5" place="foot"
+            type="editorial">Es handelt sich bei dem Titel um einen Reiseführer Karl Baedekers, der in verschiedenen Aufl. erschien.</note>; doch war dem Berichterstatter wohl nicht bekannt, wie schwer es zu erlangen ist (da nur 200 Stück gedruckt wurden<note
+            n="6" place="foot"
+            type="editorial">Diese geringe Zahl ist kaum glaublich!</note>). Es ist zu bedauern, daß Mahn seinen Sprachproben keine Interlinear-Übersetzung (wie sie <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1487">Finck</persName> in seinen Haupttypen des Sprachbaues<note
+            n="7" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3346">Franz Nikolaus Finck, <hi
+                  rend="unknown" rendition="#none">Die Haupttypen des Sprachbaus</hi>, Leipzig: Teubner, 1910 (Aus Natur und Geisteswelt; 268).</ref>
+            </bibl>
+
+          </note> mit großem Vorteil für die Erfassung der sprachlichen Eigenart gibt) beigefügt hat. – Keine der mir bisher zugänglich gewordenen Sprachproben (in den Veröff. von Humboldt, Francisque-Michel, Mahu, Stoll, Gerland) enthält ein vollständiges Paradigma der Deklination und Konjugation; ich gebe mich der Hoffnung hin, in der Abhandlung von <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2898">Uhlenbeck</persName>
+          <note n="8" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2898">Christianus C. Uhlenbeck</persName> (1867-1951), niederl. Sprachwissenschaftler u. Anthropologe; Uhlenbeck (1903) u.a., vgl. HSA 11908-11992.</note> solche zu finden. <pb
+            facs="#IMG.3"
+            n="3"/> Wenn unser Markkurs wieder gestiegen sein wird und die Buchhändlerverbindungen wiederhergestellt sind, möchte ich mir aus gleichzeitigem Interesse am Sprachbau de Aszkues Gramm. euskara<note
+            n="9" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1062">Resurrección Maria de Aukue y Aberasturi</persName> (1864-1951), span. Baskologe; vgl. HSA 00375-00395; Azkueko Resurreccion Maria ... eratu ta biurturiko Euskal-izkindea: [bask. u. span.] ; <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4247">
+                <hi rend="unknown" rendition="#none">gramática eúskara</hi>, Bilbao (Bilbon), 1891</ref>
+            </bibl>. Vgl. HSA 00375-00393.</note> erwerben, falls der Preis nicht so hoch ist, wie der des <hi
+            rend="unknown" rendition="#none">
+Diccionario</hi>
+          <note n="10" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.4026">Azkue, Diccionario <hi rend="unknown" rendition="#none">vasco-español-français</hi>, Bilbao: chez l’Auteur 1905-06, 2 vols.</ref>
+            </bibl>
+          </note>; und dazu einige baskische Volkskalender oder Fibeln, falls es noch solche gibt, aus den span. und franz. Gebieten. Zu heutiger Zeit, wo nun dort mutmaßlich unsere deutschen industriellen Firmen gänzlich verdrängt sein werden, wird man schwer Auskunft über derartige volkstümliche Erscheinungen erhalten können.</p>
+
+        <p>Ich bin technischer Beamter mit einem vielseitigen Betrieb und betreibe nur in Mußestunden etwas Sprach-, Schrift- und Altertumskunde und sammle außerdem Eigentumsmarken, Stammes- und Steinmetzzeichen; und es bedeuten die sonntäglichen Mußestunden, in denen ich diesen Neigungen nachgehen kann, für mich immer eine <pb
+            facs="#IMG.4"
+            n="4"/> Reise in ein Gebirge voller Romantik. Da ich in früheren Jahren, insbesondere als Assistent an der Hochschule, von verschiedenen Zeitschriften geographische und geodätische auch in nichtdeutschen Sprachen erhielt (viele davon verdanke ich Professor <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1038">
+Andree</persName>
+          <note n="11" place="foot" type="editorial">
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1038">Richard Andree</persName> (1835-1912), deutscher Geograph, Kartograph und Ethnograph; vgl. HSA 00088-00093; 00093A; 0093B¸ 00098.</note>, war ich genötigt, mich mannigfach mit fremden Sprachen, darunter auch Portug. und Finnisch, zu beschäftigen und habe viel Genuß dabei gehabt. Im Laufe der Jahre machte ich mich auch mit der Sprachwissenschaft der verschiedenen europ. Sprachstämme etwas vertraut, sodaß es mir jetzt nicht zu schwer fällt, sprachwissenschaftlichen Darlegungen zu folgen. Die Neigung zur Sprachen- und Altertumskunde hat mir in den Stunden in denen kein Dienstbetrieb die Aufmerksamkeit beansprucht, zu einer Ablenkung der Gedanken von schwerem Kriegsleid verholfen.</p>
+        <pb facs="#IMG.5" n="5"/>
+
+        <p>Zu dem Interesse an der in ihrem Aufbau so eigenartigen und in ihrer Ausdrucksfähigkeit so vielseitigen Sprache, das durch die Mannigfalitgkeit der Dialekte noch erhöht wird, trat vor dem Krieg ein weiteres an der iberischen Schrift und an den präiberischen Schriftzeichen von Alvão<note
+            n="12" place="foot"
+            type="editorial">Nordportugal.</note> und anderen Orten, denen die altiberischen, altsemitischen, phönizischen und sibirischen Schriftzeichen, Runen, Stammeszeichen, Hausmarken und Steinmetzzeichen so ähnlich sehen, wie das bei der Einfachheit ihrer Zusammensetzung wohl kaum anders zu erwarten ist. Manche der iberischen Inschriften könnte man ohne Kenntnis ihrer Heimat als Runenschriften ansehen. Ich habe mich seit dem Gymnasium gern mit fremden Schriftzeichen beschäftigt und mancherlei, namentlich an Bibliographie hierzu gesammelt. Außer einer Veröff. in der Portugália, der Veröff. <pb
+            facs="#IMG.6" n="6"/> Wilkes im Mannus<note n="13" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8650">Georg Wilke, <hi rend="unknown" rendition="#none">Kulturbeziehungen zwischen Indien, Orient und Europa</hi>, Würzburg: Kabitzsch, 1913 (Mannus-Bibliothek; 10).</ref>
+            </bibl>
+          </note>, einer Abhandlung von v. Lichtenbergs<note n="14" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8651">R. von Lichtenberg, <hi rend="unknown" rendition="#none">Die ägäische Kultur</hi>, 2. verb. Aufl., Leipzig: Quelle und Meyer, 1918.</ref>
+            </bibl>
+          </note> und Entgegnung Hommels im Archiv für Schriftkunde 1914<note n="15" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8652">Fritz Hommel, „Die Anordnung unseres Alphabets“, <hi
+                  rend="unknown" rendition="#none">Archiv für Schriftkunde</hi> 1, Nr. 1, 1914, 30-51.</ref>
+            </bibl>
+          </note> ist mir keine Veröffentlichung mehr über jene vorgeschichtlichen Zeichen zugänglich geworden.</p>
+
+        <p>In Prof. Andrees Bibliothek im hies. Städt. Museum fand ich auch Ihre für Ethnographen und Sprachforscher so bedeutsamen Darlegungen aus dem Anthropos 1911 „Zur gegenwärtigen Lage der baskischen Studien“.<note
+            n="16" place="foot" type="editorial">
+            <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.122">
+Schuchardt, „Zur gegenwärtigen Lage der baskischen Studien. Einige Bemerkungen aus Anlaß von Telesforo de Aranzadi, Antropologia y Etnologia del Pais Vasco-navarro“, <hi
+                  rend="unknown" rendition="#none">Anthropos</hi> 6, H. 5, 1911, 941-950.</ref>
+            </bibl>
+          </note> – Von Aranzadi habe ich die Abhandlung La flora forestal en la toponimia euskara<note n="17"
+            place="foot" type="editorial">
+            <hi rend="unknown" rendition="#none">La Flora forestal en la toponimia euskara</hi> / Memoria escrita por Telesforo de Aranzadi y Unamuno con ocasión de las Fiestas de la Tradición del Pueblo Vasco, San Sebastián: Imprenta de la Provincia, 1905</note> mit vielem Gefallen an den schönen Baum- und Ortsnamen eingesehen. Eigentlich ist ja im Baskischen fast jedes Wort eine Schönheit für sich.</p>
+
+        <p>Wie ein lebendiges Wesen aus vorgeschichtlicher [Zeit] ragt die baskische Sprache zu uns herein. In verschiedenen Veröffentlichungen fand ich die Klage, <pb
+            facs="#IMG.7" n="7"/> in wie raschem Schwinden die baskische Eigenart begriffen sei. Sollte sich dies nicht durch neuerwachte Energie der Bewohner aufhalten lassen, so würde ich den Untergang, die Versteinerung dieser so lebendigen Sprache herzlich bedauern, die, an Vokalklang der finnischen Sprache gleicht, diese in grammat. Mannigfaltigkeit und Ausdrucksfähigkeit und durch eine gewisse lautliche Urwüchsigkeit noch zu übertreffen scheint. Auch die niedersächsische Eigenart ist im Schwinden begriffen; aber die Sprache, die in vielem dem Urgermanischen so nahe steht, war es: nachdem sehr einflußreiche Kreise, namentlich die Geistlichen, sich ihrer Pflege wieder angenommen haben, auch in ihren Predigten sich ihrer wieder bedienen, sodann auch mancherlei volkstümliche Vereinigungen sie pflegen, lebt sie dem Anschein nach jetzt wieder auf.</p>
+        <pb facs="#IMG.8" n="8"/>
+
+        <p>Sollte Ihnen, hochgeehrter Herr Hofrat, späterhin einmal eine Veröffentlichung in deutscher Sprache bekannt werden die sich insbesondere mit der <hi
+            rend="unknown" rendition="#none">Grammatik</hi> der baskischen Sprache beschäftigt so erlaube ich mir ergebenst die Bitte um gütige Nachricht darüber anzufügen.</p>
+        <closer>
+          <salute>In dankbarer ergebener Hochachtung</salute>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1870">P. Kahle</persName>
+          </signed>
+          <dateline>Braunschweig, Pestalozzistr. 9.</dateline>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

@@ -1,0 +1,424 @@
+# newdoc id = ParlaMint-DK_20220224190006
+# newpar id = ParlaMint-DK_20220224190006.seg1
+# lang = en
+# sent_id = ParlaMint-DK_20220224190006.seg1.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.826
+# text = The meeting is open.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	open	open	ADJ	A10p	Degree=Pos	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.886
+# text = I think I will take this opportunity to say a little about the process that I can see before me.
+1	I	I	PRON	Z4	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	think	think	VERB	Z4	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+4	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+5	take	take	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+6	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+7	opportunity	opportunity	NOUN	A1.4	Number=Sing	0	_	_	NER=O
+8	to	to	PART	Z5	_	0	_	_	NER=O
+9	say	say	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O
+10	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+11	little	little	ADJ	N3.2n	Degree=Pos	0	_	_	NER=O
+12	about	about	ADP	Z5	_	0	_	_	NER=O
+13	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+14	process	process	NOUN	A1.1.1	Number=Sing	0	_	_	NER=O
+15	that	that	PRON	A13.3	PronType=Rel	0	_	_	NER=O
+16	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+17	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+18	see	see	VERB	X3.4	VerbForm=Inf	0	_	_	NER=O
+19	before	before	ADP	Z5	_	0	_	_	NER=O
+20	me	I	PRON	Z8	Case=Acc|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O|SpaceAfter=No
+21	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.007
+# text = It is the case that the foreign policy name is still going on.
+1	It	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+2	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+4	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O
+5	that	that	SCONJ	Z5	_	0	_	_	NER=O
+6	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+7	foreign	foreign	ADJ	M7	Degree=Pos	0	_	_	NER=O
+8	policy	policy	NOUN	X7p	Number=Sing	0	_	_	NER=O
+9	name	name	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+10	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+11	still	still	ADV	T2p	_	0	_	_	NER=O
+12	going	go	VERB	M1	Tense=Pres|VerbForm=Part	0	_	_	NER=O
+13	on	on	ADP	Z5	_	0	_	_	NER=O|SpaceAfter=No
+14	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.4
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 3.010
+# text = The expectation is that it may be over around 2:00 a.m. 7:30.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	expectation	expectation	NOUN	X2.6p	Number=Sing	0	_	_	NER=O
+3	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	that	that	SCONJ	Z5	_	0	_	_	NER=O
+5	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+6	may	may	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+7	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+8	over	over	ADV	N5.2p	_	0	_	_	NER=O
+9	around	around	ADP	A13.4	_	0	_	_	NER=O
+10	2:00	2:00	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+11	a.m.	a.m.	NOUN	T1.3	Number=Sing	0	_	_	NER=O
+12	7:30	7:30	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+13	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.5
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.658
+# text = When the meeting of the Foreign Affairs Committee is finished, it will be the case that I am presenting the resolution here from the platform, and then there will have to be a technical break of about 10 minutes, and then there can be a first reading of the resolution.
+1	When	when	SCONJ	Z5	PronType=Int	0	_	_	NER=O
+2	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+3	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O
+4	of	of	ADP	Z5	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	Foreign	foreign	ADJ	Z1	Degree=Pos	0	_	_	NER=B-ORG
+7	Affairs	affair	PROPN	Z1	Number=Plur	0	_	_	NER=I-ORG
+8	Committee	Committee	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG
+9	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+10	finished	finish	VERB	T2n	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z9	_	0	_	_	NER=O
+12	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+13	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+14	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+15	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+16	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O
+17	that	that	SCONJ	Z5	_	0	_	_	NER=O
+18	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+19	am	be	AUX	A3p	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+20	presenting	present	VERB	A9n	Tense=Pres|VerbForm=Part	0	_	_	NER=O
+21	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+22	resolution	resolution	NOUN	X6p	Number=Sing	0	_	_	NER=O
+23	here	here	ADV	M6	PronType=Dem	0	_	_	NER=O
+24	from	from	ADP	Z5	_	0	_	_	NER=O
+25	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+26	platform	platform	NOUN	M3|M7	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+27	,	,	PUNCT	Z9	_	0	_	_	NER=O
+28	and	and	CCONJ	Z5	_	0	_	_	NER=O
+29	then	then	ADV	N4	PronType=Dem	0	_	_	NER=O
+30	there	there	PRON	Z5	_	0	_	_	NER=O
+31	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+32	have	have	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+33	to	to	PART	Z5	_	0	_	_	NER=O
+34	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+35	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+36	technical	technical	ADJ	Y1	Degree=Pos	0	_	_	NER=O
+37	break	break	NOUN	K1|T1.3	Number=Sing	0	_	_	NER=O
+38	of	of	ADP	Z5	_	0	_	_	NER=O
+39	about	about	ADV	A13.4	_	0	_	_	NER=O
+40	10	10	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+41	minutes	minute	NOUN	T1.3	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+42	,	,	PUNCT	Z9	_	0	_	_	NER=O
+43	and	and	CCONJ	Z5	_	0	_	_	NER=O
+44	then	then	ADV	N4	PronType=Dem	0	_	_	NER=O
+45	there	there	PRON	Z5	_	0	_	_	NER=O
+46	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+47	be	be	VERB	A3p	VerbForm=Inf	0	_	_	NER=O
+48	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+49	first	first	ADJ	N4	Degree=Pos|NumType=Ord	0	_	_	NER=O
+50	reading	reading	NOUN	A5.1p	Number=Sing	0	_	_	NER=O
+51	of	of	ADP	A5.1p	_	0	_	_	NER=O
+52	the	the	DET	A5.1p	Definite=Def|PronType=Art	0	_	_	NER=O
+53	resolution	resolution	NOUN	A5.1p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+54	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.6
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.688
+# text = Once we have finished the first reading of the resolution, it will have to go back to the Defence Committee, where the report will have to be written, and only then will we have to vote at second reading.
+1	Once	once	SCONJ	Z5	_	0	_	_	NER=O
+2	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+3	have	have	AUX	A9p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	finished	finish	VERB	T2n	Tense=Past|VerbForm=Part	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	first	first	ADJ	N4	Degree=Pos|NumType=Ord	0	_	_	NER=O
+7	reading	reading	NOUN	A5.1p	Number=Sing	0	_	_	NER=O
+8	of	of	ADP	A5.1p	_	0	_	_	NER=O
+9	the	the	DET	A5.1p	Definite=Def|PronType=Art	0	_	_	NER=O
+10	resolution	resolution	NOUN	A5.1p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	,	,	PUNCT	Z9	_	0	_	_	NER=O
+12	it	it	PRON	Z8	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	_	_	NER=O
+13	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+14	have	have	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+15	to	to	PART	Z5	_	0	_	_	NER=O
+16	go	go	VERB	M6	VerbForm=Inf	0	_	_	NER=O
+17	back	back	ADV	M6	_	0	_	_	NER=O
+18	to	to	ADP	Z5	_	0	_	_	NER=O
+19	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+20	Defence	Defence	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+21	Committee	Committee	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+22	,	,	PUNCT	Z9	_	0	_	_	NER=O
+23	where	where	SCONJ	M6	PronType=Rel	0	_	_	NER=O
+24	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+25	report	report	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+26	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+27	have	have	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+28	to	to	PART	Z5	_	0	_	_	NER=O
+29	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+30	written	write	VERB	Q1.2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+31	,	,	PUNCT	Z9	_	0	_	_	NER=O
+32	and	and	CCONJ	Z5	_	0	_	_	NER=O
+33	only	only	ADV	A14	_	0	_	_	NER=O
+34	then	then	ADV	N4	PronType=Dem	0	_	_	NER=O
+35	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+36	we	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+37	have	have	VERB	A9p	VerbForm=Inf	0	_	_	NER=O
+38	to	to	PART	Z5	_	0	_	_	NER=O
+39	vote	vote	VERB	G1.2	VerbForm=Inf	0	_	_	NER=O
+40	at	at	ADP	Z5	_	0	_	_	NER=O
+41	second	second	ADJ	G1.1	Degree=Pos|NumType=Ord	0	_	_	NER=O
+42	reading	reading	NOUN	G1.1	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+43	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.7
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.707
+# text = So the times I can give here are, of course, subject to very, very great uncertainty, but my expectation is that about 1 p.m. We can be close to being able to deal first with the motion for a resolution.
+1	So	so	ADV	Z5	_	0	_	_	NER=O
+2	the	the	DET	N6p	Definite=Def|PronType=Art	0	_	_	NER=O
+3	times	time	NOUN	N6p	Number=Plur	0	_	_	NER=O
+4	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+5	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+6	give	give	VERB	A9n	VerbForm=Inf	0	_	_	NER=O
+7	here	here	ADV	M6	PronType=Dem	0	_	_	NER=O
+8	are	be	AUX	A3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O|SpaceAfter=No
+9	,	,	PUNCT	Z9	_	0	_	_	NER=O
+10	of	of	ADP	Z5	ExtPos=ADV	0	_	_	NER=O
+11	course	course	NOUN	M6	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+12	,	,	PUNCT	Z9	_	0	_	_	NER=O
+13	subject	subject	ADJ	S7.1n	Degree=Pos	0	_	_	NER=O
+14	to	to	ADP	Z5	_	0	_	_	NER=O
+15	very	very	ADV	A13.3	_	0	_	_	NER=O|SpaceAfter=No
+16	,	,	PUNCT	Z9	_	0	_	_	NER=O
+17	very	very	ADV	A13.3	_	0	_	_	NER=O
+18	great	great	ADJ	A5.1p	Degree=Pos	0	_	_	NER=O
+19	uncertainty	uncertainty	NOUN	A7n	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+20	,	,	PUNCT	Z9	_	0	_	_	NER=O
+21	but	but	CCONJ	Z5	_	0	_	_	NER=O
+22	my	my	PRON	Z8	Number=Sing|Person=1|Poss=Yes|PronType=Prs	0	_	_	NER=O
+23	expectation	expectation	NOUN	X2.6p	Number=Sing	0	_	_	NER=O
+24	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+25	that	that	SCONJ	Z5	_	0	_	_	NER=O
+26	about	about	ADV	A13.4	_	0	_	_	NER=O
+27	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+28	p.m	p.m	NOUN	Z99	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+29	.	.	PUNCT	Z9	_	0	_	_	NER=O
+30	We	we	PRON	Z8	Case=Nom|Number=Plur|Person=1|PronType=Prs	0	_	_	NER=O
+31	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+32	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+33	close	close	ADV	N3.3n	Degree=Pos	0	_	_	NER=O
+34	to	to	SCONJ	Z5	_	0	_	_	NER=O
+35	being	be	AUX	A3p	VerbForm=Ger	0	_	_	NER=O
+36	able	able	ADJ	X9.1p	Degree=Pos	0	_	_	NER=O
+37	to	to	PART	Z5	_	0	_	_	NER=O
+38	deal	deal	VERB	A1.1.1	VerbForm=Inf	0	_	_	NER=O
+39	first	first	ADV	N4	NumType=Ord	0	_	_	NER=O
+40	with	with	ADP	Z5	_	0	_	_	NER=O
+41	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+42	motion	motion	NOUN	M1	Number=Sing	0	_	_	NER=O
+43	for	for	ADP	T1.3	_	0	_	_	NER=O
+44	a	a	DET	T1.3	Definite=Ind|PronType=Art	0	_	_	NER=O
+45	resolution	resolution	NOUN	T1.3	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+46	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.8
+# senti_3 = Negative
+# senti_6 = mixed negative
+# senti_n = 1.337
+# text = That is what I can say at this stage, so everyone must arm themselves with patience.
+1	That	that	PRON	Z5	Number=Sing|PronType=Dem	0	_	_	NER=O
+2	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	what	what	PRON	Z8	PronType=Int	0	_	_	NER=O
+4	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+5	can	can	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+6	say	say	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O
+7	at	at	ADP	Z5	_	0	_	_	NER=O
+8	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+9	stage	stage	NOUN	T1.2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+10	,	,	PUNCT	Z9	_	0	_	_	NER=O
+11	so	so	SCONJ	Z5	_	0	_	_	NER=O
+12	everyone	everyone	PRON	Z8|N5.1p	Number=Sing	0	_	_	NER=O
+13	must	must	AUX	S6p	VerbForm=Fin	0	_	_	NER=O
+14	arm	arm	VERB	A5.4p	VerbForm=Inf	0	_	_	NER=O
+15	themselves	themselves	PRON	A5.4p	Case=Acc|Number=Plur|Person=3|PronType=Prs|Reflex=Yes	0	_	_	NER=O
+16	with	with	ADP	Z5	_	0	_	_	NER=O
+17	patience	patience	NOUN	E3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+18	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224190006.seg1.9
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.505
+# text = I would just like to say that the sitting is suspended.
+1	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+2	would	would	AUX	A7p	VerbForm=Fin	0	_	_	NER=O
+3	just	just	ADV	A14	_	0	_	_	NER=O
+4	like	like	VERB	E2p	VerbForm=Inf	0	_	_	NER=O
+5	to	to	PART	Z5	_	0	_	_	NER=O
+6	say	say	VERB	Q2.1	VerbForm=Inf	0	_	_	NER=O
+7	that	that	SCONJ	Z5	_	0	_	_	NER=O
+8	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+9	sitting	sitting	NOUN	M8	Number=Sing	0	_	_	NER=O
+10	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+11	suspended	suspend	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+12	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# newdoc id = ParlaMint-DK_20220224192958
+# newpar id = ParlaMint-DK_20220224192958.seg2
+# lang = en
+# sent_id = ParlaMint-DK_20220224192958.seg2.1
+# senti_3 = Positive
+# senti_6 = mixed positive
+# senti_n = 3.997
+# text = The sitting is resumed.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	sitting	sitting	NOUN	M8	Number=Sing	0	_	_	NER=O
+3	is	be	AUX	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+4	resumed	resume	VERB	T2p|N6p	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O|SpaceAfter=No
+5	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224192958.seg2.2
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.589
+# text = The only thing to do in this sitting is to table motions for resolutions.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	only	only	ADJ	A14	Degree=Pos	0	_	_	NER=O
+3	thing	thing	NOUN	O2	Number=Sing	0	_	_	NER=O
+4	to	to	PART	Z5	_	0	_	_	NER=O
+5	do	do	VERB	S1.1.3p	VerbForm=Inf	0	_	_	NER=O
+6	in	in	ADP	Z5	_	0	_	_	NER=O
+7	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+8	sitting	sitting	NOUN	M8	Number=Sing	0	_	_	NER=O
+9	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+10	to	to	PART	Z5	_	0	_	_	NER=O
+11	table	table	VERB	H5	VerbForm=Inf	0	_	_	NER=O
+12	motions	motion	NOUN	M1	Number=Plur	0	_	_	NER=O
+13	for	for	ADP	Z5	_	0	_	_	NER=O
+14	resolutions	resolution	NOUN	X6p	Number=Plur	0	_	_	NER=O|SpaceAfter=No
+15	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224192958.seg2.3
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.384
+# text = President. - I call the Group of the European People's Party (Kofod Group). B 127 (Proposal for a Parliament resolution on the insertion of Danish military contributions to NATO's collective defence).
+1	President	President	PROPN	G1.1|S7.1p|S2	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+2	.	.	PUNCT	Z9	_	0	_	_	NER=O
+3	-	-	PUNCT	Z9	_	0	_	_	NER=O
+4	I	I	PRON	Z8	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	_	_	NER=O
+5	call	call	VERB	Q2.2	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+6	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+7	Group	Group	PROPN	S5p	Number=Sing	0	_	_	NER=B-ORG
+8	of	of	ADP	Z5	_	0	_	_	NER=I-ORG
+9	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=I-ORG
+10	European	European	ADJ	Z1	Degree=Pos	0	_	_	NER=I-ORG
+11	People	People	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+12	's	's	PART	Z5	_	0	_	_	NER=I-ORG
+13	Party	Party	PROPN	K1|S1.1.3p	Number=Sing	0	_	_	NER=I-ORG
+14	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	Kofod	Kofod	PROPN	Z1	Number=Sing	0	_	_	NER=B-ORG
+16	Group	Group	PROPN	Z1	Number=Sing	0	_	_	NER=I-ORG|SpaceAfter=No
+17	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+18	.	.	PUNCT	Z9	_	0	_	_	NER=O
+19	B	b	NOUN	Z5	Number=Sing	0	_	_	NER=O
+20	127	127	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+21	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+22	Proposal	proposal	NOUN	Q2.2	Number=Sing	0	_	_	NER=O
+23	for	for	ADP	Z5	_	0	_	_	NER=O
+24	a	a	DET	Z5	Definite=Ind|PronType=Art	0	_	_	NER=O
+25	Parliament	parliament	NOUN	T1.3	Number=Sing	0	_	_	NER=O
+26	resolution	resolution	NOUN	T1.3	Number=Sing	0	_	_	NER=O
+27	on	on	ADP	Z5	_	0	_	_	NER=O
+28	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+29	insertion	insertion	NOUN	Z99	Number=Sing	0	_	_	NER=O
+30	of	of	ADP	Z5	_	0	_	_	NER=O
+31	Danish	Danish	ADJ	Z2	Degree=Pos	0	_	_	NER=B-MISC
+32	military	military	ADJ	G3	Degree=Pos	0	_	_	NER=O
+33	contributions	contribution	NOUN	A9n	Number=Plur	0	_	_	NER=O
+34	to	to	ADP	Z5	_	0	_	_	NER=O
+35	NATO	NATO	PROPN	Z3	Abbr=Yes|Number=Sing	0	_	_	NER=B-ORG|SpaceAfter=No
+36	's	's	PART	Z5	_	0	_	_	NER=O
+37	collective	collective	ADJ	S5p	Degree=Pos	0	_	_	NER=O
+38	defence	defence	NOUN	S8p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+39	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+40	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224192958.seg2.4
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.466
+# text = The title of the notified case will appear in www.folketingstidende.dk (cf. above).
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	title	title	NOUN	Q4	Number=Sing	0	_	_	NER=O
+3	of	of	ADP	Z5	_	0	_	_	NER=O
+4	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+5	notified	notify	VERB	Q2.2	Tense=Past|VerbForm=Part	0	_	_	NER=O
+6	case	case	NOUN	A4.1	Number=Sing	0	_	_	NER=O
+7	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+8	appear	appear	VERB	A8	VerbForm=Inf	0	_	_	NER=O
+9	in	in	ADP	Z5	_	0	_	_	NER=O
+10	www.folketingstidende.dk	www.folketingstidende.dk	PROPN	Z99	Number=Sing	0	_	_	NER=O
+11	(	(	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+12	cf.	cf.	NOUN	Z5|A6	Number=Sing	0	_	_	NER=O
+13	above	above	ADV	M6	_	0	_	_	NER=O|SpaceAfter=No
+14	)	)	PUNCT	Z9	_	0	_	_	NER=O|SpaceAfter=No
+15	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224192958.seg2.5
+# senti_3 = Neutral
+# senti_6 = neutral negative
+# senti_n = 2.339
+# text = There is nothing more to be done in this meeting.
+1	There	there	PRON	Z5	_	0	_	_	NER=O
+2	is	be	VERB	A3p	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	_	_	NER=O
+3	nothing	nothing	PRON	Z6|Z8	Number=Sing	0	_	_	NER=O
+4	more	more	ADJ	A13.3	Degree=Cmp	0	_	_	NER=O
+5	to	to	PART	Z5	_	0	_	_	NER=O
+6	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+7	done	do	VERB	A1.1.1	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+8	in	in	ADP	Z5	_	0	_	_	NER=O
+9	this	this	DET	M6	Number=Sing|PronType=Dem	0	_	_	NER=O
+10	meeting	meeting	NOUN	S1.1.3p	Number=Sing	0	_	_	NER=O|SpaceAfter=No
+11	.	.	PUNCT	Z9	_	0	_	_	NER=O
+
+# sent_id = ParlaMint-DK_20220224192958.seg2.6
+# senti_3 = Neutral
+# senti_6 = neutral positive
+# senti_n = 2.773
+# text = The next meeting of the Danish Parliament will be held today at 1 p.m. 19.40.
+1	The	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+2	next	next	ADJ	T1.1.3	Degree=Pos	0	_	_	NER=O
+3	meeting	meeting	NOUN	T1.1.3	Number=Sing	0	_	_	NER=O
+4	of	of	ADP	Z5	_	0	_	_	NER=O
+5	the	the	DET	Z5	Definite=Def|PronType=Art	0	_	_	NER=O
+6	Danish	Danish	ADJ	Z1	Degree=Pos	0	_	_	NER=B-MISC
+7	Parliament	Parliament	PROPN	Z1	Number=Sing	0	_	_	NER=O
+8	will	will	AUX	T1.1.3	VerbForm=Fin	0	_	_	NER=O
+9	be	be	AUX	A3p	VerbForm=Inf	0	_	_	NER=O
+10	held	hold	VERB	M2	Tense=Past|VerbForm=Part|Voice=Pass	0	_	_	NER=O
+11	today	today	NOUN	T1.1.2	Number=Sing	0	_	_	NER=O
+12	at	at	ADP	Z5	_	0	_	_	NER=O
+13	1	1	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O
+14	p.m.	p.m.	NOUN	Z99	Number=Sing	0	_	_	NER=O
+15	19.40	19.40	NUM	N1	NumForm=Digit|NumType=Card	0	_	_	NER=O|SpaceAfter=No
+16	.	.	PUNCT	Z9	_	0	_	_	NER=O
+

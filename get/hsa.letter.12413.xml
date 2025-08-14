@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Oskar Stübel an Hugo Schuchardt (01-11276)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2784">
+            <forename>Oskar</forename>
+            <surname>Stübel</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/12413" type="PID">o:hsa.letter.12413</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">01-11276</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">11276</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2784">
+                <forename>Oskar</forename>
+                <surname>Stübel</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="7" unit="pages">7 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6745" ref="http://sws.geonames.org/4035413">Apia</origPlace>
+              <origDate ana="dcterms:created" when="1883-10-30">1883-10-30</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2024">2024</date>
+          <title>Die Korrespondenz zwischen Oskar Stübel und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2784"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.12413">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2784" ref="https://viaf.org/viaf/77099518">
+            <forename>Oskar</forename>
+            <surname>Stübel</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6745" key="#GID.1" ref="http://sws.geonames.org/4035413">Apia</placeName>
+          <date when="1883-10-30">1883-10-30</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Samoa</country>
+                <settlement>Apia</settlement>
+                <name ref="http://geonames.org/4035413" type="fcode:PPLC">Apia</name>
+                <location>
+                  <geo>-171.76666,-13.83333</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2784" type="context">
+                        Korrespondenz Oskar Stübel - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.555" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Pidgins (Englisch)</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.891" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Englisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.5">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.6">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.12413" xml:id="IMG.7">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.12413" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Kaiserlich Deutsches Konsulat<lb/> für die Südsee Inseln<lb/>Apia, den 30. October 1883</dateline>
+        <p>Euerer Wohlgeboren gefälliges Schreiben vom 14. August v. J. habe ich seiner Zeit erhalten und bedauere, dasselbe erst jetzt beantworten zu können. Ich hoffe, daß das Wenige, was ich mittheilen kann, Ihnen noch von Nutzen sein wird. </p>
+        <p>Unter den Samoanern und Tonganern existirt kein derartiges <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.555">Pigeon English</ref>, wie dies in <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.5946">
+China</placeName> der Fall ist. Nur ein sehr geringer Theil der Eingeborenen der Samoa und Tonga Inseln lernt in den Missionsschulen etwas <ref target="https://gams.uni-graz.at/o:hsa.languages#L.891">Englisch</ref>. Auch diese haben für das Erlernte nur wenig Verwendung. Sie bedienen sich fast ausschließlich ihrer Muttersprachen. Es fehlt daher in <placeName>
+
+Samoa</placeName> und <placeName>
+
+Tonga</placeName> an derjenigen Voraussetzung,</p>
+        <p> Herrn Dr. Hugo Schuchardt<lb/> K. K. Universitätsprofessor<lb/> Graz Steyermark<lb/> JN° 740</p>
+        <pb facs="#IMG.2" n="2"/>
+        <p> unter welcher anderwärts durch den Einfluß einheimischer grammatischer Formen eine Modification englischer Sprachformen stattgefunden hat. </p>
+
+        <p>Anders liegen die Verhältnisse für die Eingeborenen der Melanesischen Inselgruppen. Dieselben werden gegenwärtig in großer Anzahl als Arbeiter für die Pflanzungen in Queensland, <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.6092">
+Fiji</placeName> und Samoa angeworben. Da ihre heimischen Sprachen nur in den kleinsten Distrikten gesprochen werden, so stehen den überall bunt durcheinander gewürfelten farbigen Arbeitern für den Verkehr unter sich selbst in der Hauptsache nur englische Worte zur Verfügung. Daneben werden Worte der Fiji und Samoa Sprache theils lokal theils allgemein angewendet. </p>
+
+        <p>In diesem beständigen Verkehr der Arbeiter unter einander und mit ihren meisten Arbeitgebern hat sich nun in der That ein englischer Jargon entwickelt. In demselben findet sich ein Minimum, dem Bedürfniß eben genügenden Wort- <pb
+            facs="#IMG.3" n="3"/>begriffe vor. Durch ein Wort wird die Gesammtheit aller ähnlichen oder verwandten Begriffe wiedergegeben. So bedeutet das Zeitwort „stop“ wohnen, bleiben, ausbleiben, leben, sich aufhalten, übrig sein und dergl. </p>
+        <p>Mit dem Zeitwort „belong“ wird der Genitiv, jedes Besitzverhältniß, jede Zusammengehörigkeit, jede Abhängigkeit, wiedergegeben. </p>
+        <p>Alle Vergleichung wird mit „all (the) same“ ausgedrückt. Die grammatischen Formen sind wohl meist die grammatischen Formen der in der Südsee heimischen Sprachen. </p>
+        <p> Nur die Worte sind in der Hauptsache englisch. Als persönliche Fürwörter hört man nur me, you, he und him, me für Nominativ und Accusativ. Das Fürwort he (und him) dient auch als einziger Artikel. Dem Substantivum wird in der Regel das Wort „fellow“ vorgesetzt, belebten und unbelebten Begriffen. Das Wort scheint als den Begriff erst substanitivirend. </p>
+
+        <p> „Der schwarze Junge des Deutschen Konsuls“ wird wiedergegeben mit „He black fellow boy belong German Consul“ <pb
+            facs="#IMG.4" n="4"/> Ist dagegen unter den schwarzen Jungen die Rede von dem Deutschen Konsul und ist ihnen das Wort deutsch und Konsul noch nicht bekannt, wohl aber der Name seines Jungens z. B. „Sakori“, so wird er mit „he white fellow man belong Sakori“ näher bezeichnet werden. </p>
+        <p>Eine Konjugation der Zeitwörter ist nicht vorhanden. Die umschreibende Form mit do ist unbekannt. Nur die Präsensformen finden Anwendung. Die Negation wird nur durch no ausgedrückt. </p>
+        <p>„me no go“ kann heißen: „Ich bin nicht gegangen, ich war nicht dort, ich werde nicht gehen“. </p>
+        <p>Die verneinende Frage wird mit ja beantwortet, wo wir nein antworten würden. </p>
+        <p>You no see him? Yes. d. h. „nein, ich habe ihn nicht gesehen“. </p>
+        <p>Gezählt wird nach Zehnern, two ten and four ist = 24. </p>
+        <p> Einige Proben folgen bei. </p>
+        <p>Das Wort „kaikai“ für Essen, Esswaaren etc. soll schon durch die Wallfischfänger ein- <pb facs="#IMG.5" n="5"/> geführt worden sein. Es hängt jedenfalls mit den betr. Worten der pollynesischen Sprachen zusammen. </p>
+        <p>Samoanisch: das Zeitwort essen = ai </p>
+        <p>Nahrungsmittel: mea e aig = Dinge zum Essen </p>
+        <p>Das Wort „save“ für wissen, können, kennen u. s. w. ist zweifellos spanischen Ursprungs. Das Wort „pulumakau“ welches auch im Samoanischen für Rindvieh gebraucht wird soll aus „bull and cow“ entstanden sein. </p>
+        <p>Die bedingende Konjunktion ist ganz allgemein suppose. Der Gebrauch von cocanut für Kopf und grass für Haar mag anfangs vielleicht scherzweise gebraucht worden sein. </p>
+        <p>Mit grass wird Haar, Federn und ähnliche Begriffe wiedergegeben. Alles schlagen, kämpfen, streiten, züchtigen u. s. w. wird mit „fight“ ausgedrückt. </p>
+        <closer>
+          <signed>Der Kaiserliche Konsulatsverweser <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2784"> O. Stuebel</persName>
+          </signed>
+        </closer>
+        <pb facs="#IMG.6" n="6"/>
+        <pb facs="#IMG.7" n="7"/>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

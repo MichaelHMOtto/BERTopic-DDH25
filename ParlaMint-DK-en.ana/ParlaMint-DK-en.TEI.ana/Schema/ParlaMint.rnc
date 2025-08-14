@@ -1,0 +1,550 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace xi = "http://www.w3.org/2001/XInclude"
+
+a:documentation [
+  "RelaxNG XML schema for ParlaMint corpora: common definitions and ParlaMint\x{a}" ~
+  "  mandated vocabularis of attributes."
+]
+
+## Prefix definition for extended TEI pointers.
+prefixDef =
+  element prefixDef {
+    attribute ident {
+      xsd:token { pattern = "[a-z][a-z0-9\+\.\-]*" }
+    },
+    attribute matchPattern { xsd:token },
+    attribute replacementPattern { xsd:token },
+    paras
+  }
+
+## Taxonomy element included directly in the teiHeader of corpus root or stored
+##     in a separate file.
+taxonomy =
+  element taxonomy {
+    id.att,
+    lang.att,
+    element desc {
+      lang.att
+      >> a:documentation [
+           "Optional @n attribute for storing the name of the source corpus for a taxonomy."
+         ],
+      attribute n { xsd:string }?,
+      catDesc.content
+    }+,
+    category+
+  }
+category =
+  element category {
+    id.att,
+    ana.att?,
+    attribute n { xsd:string }?,
+    element catDesc {
+      lang.att
+      >> a:documentation [
+           "Optional @n attribute for storing the name of the source corpus for a taxonomy."
+         ],
+      attribute n { xsd:string }?,
+      catDesc.content
+    }+,
+    category*
+  }
+
+## Content of a category (or taxomony) description. Contains a term followed by
+##     (lighlty) annotated text.
+catDesc.content =
+  element term { normalized-space.string },
+  annotated.text
+
+## Organization list element included directly in the teiHeader of corpus root or
+##     stored in a separate file.
+listOrg =
+  element listOrg { id.att?, lang.att, head*, org+, listRelation? }
+
+## Organization element for storing info on political parties, government,
+##     etc.
+org =
+  element org {
+    global.atts,
+    (ana.att?) >> a:documentation [ "The type of organization" ],
+    attribute role { orgRole.val },
+    orgName+,
+    event*,
+    idno*,
+    element desc { lang.att, normalized-space.string }?,
+    listEvent?,
+    state*
+  }
+
+## The name of an organisation.
+orgName =
+  element orgName {
+    lang.att,
+    
+    ## Used when "the same" party changes its name:
+    (temporal.atts?),
+    attribute full { "yes" | "abb" },
+    normalized-space.string
+  }
+
+## Element defining political metadata of a politicalParty or parliamentaryGroup.
+state =
+  
+  ## The type (indication of what kind) of contained information.
+  element state {
+    (attribute type { stateType.val }?)
+    >> a:documentation [ "URI of the source of the given data." ],
+    source.att
+    >> a:documentation [
+         "Optional key containing e.g. the name of the organisation in the source data."
+       ],
+    attribute key { xsd:string }?,
+    
+    ## The value of a some metadatum.
+    (attribute n { xsd:string }?)
+    >> a:documentation [
+         "Optional pointer to the category of a metadatum."
+       ],
+    (attribute ana { xsd:anyURI }?)
+    >> a:documentation [ "From and to when this information holds." ],
+    (temporal.atts?) >> a:documentation [ "Optional note(s)." ],
+    (element note { lang.att, normalized-space.string }*)
+    >> a:documentation [
+         "Subsidiary states giving more detailed information, e.g. by type of metadatum or by year."
+       ],
+    state*
+  }
+
+## A list of events connected to organisations.
+listEvent = element listEvent { head*, event+ }
+
+## Used to specify relations between politicalParties and/or
+##     parliamentaryGroups.
+listRelation =
+  element listRelation {
+    element relation {
+      ana.att?,
+      temporal.atts?,
+      attribute name { relationName.val },
+      (attribute mutual { anyURIs }
+       | (attribute active { anyURIs },
+          attribute passive { anyURIs }))
+    }+
+  }
+
+## A list of persons. This element can be included directly in the teiHeader of a
+##     corpus root or stored in a separate file.
+listPerson = element listPerson { id.att?, lang.att, head*, person+ }
+
+## All informaton pertaining to a person.
+person =
+  element person {
+    global.atts,
+    
+    ## We can have person name in several languages, or, rather,
+    ##         scripts or several names with different temporal information.
+    (persName+),
+    (element sex {
+       attribute value { "M" | "F" | "U" | "O" | "N" },
+       empty
+     }
+     & element birth { life-event.content }?
+     & element death { life-event.content }?
+     & affiliation*
+     & occupation*
+     & education*
+     & idno*
+     & figure*)
+  }
+
+## The name of a person.
+persName =
+  element persName {
+    lang.att
+    >> a:documentation [
+         "Names can change, and are then marked by @from / @to."
+       ],
+    attribute from { temporal.val }?,
+    attribute to { temporal.val }?,
+    
+    ## Special persons (like 'group') have their name in term. This possibility
+    ##         might have to be revisited.
+    (element term { normalized-space.string }
+     | (element surname {
+          attribute type { "birth" | "patronym" | "married" }?,
+          name.att,
+          normalized-space.string
+        }+
+        & element forename {
+            attribute type { "first" | "middle" | "unused" }?,
+            name.att,
+            normalized-space.string
+          }+
+        & element addName { name.att, normalized-space.string }*
+        & element roleName { name.att, normalized-space.string }*
+        & element nameLink { normalized-space.string }*))
+  }
+
+## The affiliation of a person, with temporal attributes, its type and possibly some content.
+affiliation =
+  element affiliation {
+    ana.att?,
+    temporal.atts?,
+    ref.att,
+    source.att,
+    attribute role { affiliationRole.val }
+    >> a:documentation [ "The written out name of the role." ],
+    (element roleName { lang.att, normalized-space.string }*)
+    >> a:documentation [
+         "The name of the organisation they are affiliated with."
+       ],
+    (orgName*)
+    >> a:documentation [
+         "Optional note for free-text description of the affiliation period."
+       ],
+    element note {
+      attribute type { "period" },
+      lang.att,
+      normalized-space.string
+    }?
+  }
+
+## The occupation of a person.
+occupation =
+  element occupation {
+    global.atts, temporal.atts?, normalized-space.string
+  }
+
+## The education of a person.
+education =
+  element education {
+    global.atts, temporal.atts?, normalized-space.string
+  }
+
+## Figure element is used to give a photo of person.
+figure =
+  element figure {
+    element head { normalized-space.string }?,
+    element graphic {
+      attribute url { xsd:anyURI },
+      attribute scale {
+        xsd:double
+        | xsd:token { pattern = '(\-?[\d]+/\-?[\d]+)"/>' }
+        | xsd:decimal
+      }?
+    }
+  }
+
+## The content of elements that describe life events: they can have an partial
+##     date (e.g. year only) in temporal attributes. The content can be empty, or gives the placeName
+##     where the event happened. There can be several placenames in different langauges or scripts.
+life-event.content =
+  attribute when { xsd:date | xsd:gYearMonth | xsd:gYear },
+  element placeName { lang.att, ref.att, normalized-space.string }*
+
+## The event (or duration) connected with an organisatoin, e.g. the period of its
+##     existence.
+event =
+  element event {
+    global.atts,
+    temporal.atts,
+    element label { lang.att, normalized-space.string }+
+  }
+
+## The reference element also giving a target URI.
+ref =
+  element ref {
+    attribute target { xsd:anyURI },
+    attribute xml:lang { lang.val }?,
+    normalized-space.string
+  }
+
+## The heading element.
+head =
+  element head {
+    attribute type { xsd:token }?,
+    global.atts,
+    # ref name="normalized-space.string"/
+    mixed { pb* }
+  }
+
+## A page break, possibly with its source URI.
+pb = element pb { global.atts, source.att, empty }
+
+## A series of paragraphs. Paragraphs are only used in the teiHeader.
+paras = element p { global.atts, annotated.text }+
+
+## The identification element identifies a corpus element with an URI, and specifies its type and subtype.
+idno =
+  element idno {
+    lang.att,
+    attribute type { "URI" | "VIAF" },
+    attribute subtype {
+      "business"
+      | "facebook"
+      | "government"
+      | "handle"
+      | "instagram"
+      | "ministry"
+      | "parliament"
+      | "personal"
+      | "politicalParty"
+      | "publicService"
+      | "tiktok"
+      | "twitter"
+      | "wikimedia"
+    }?,
+    xsd:anyURI { pattern = "https?://.+" }
+  }
+
+## The specification of a time.  It can have textual content with the date
+##     type-set according to the object language.
+time = element time { global.atts, temporal.atts, text }
+
+## A date with with all possible temporal information. It can have textual
+##     content with the date type-set according to the object language.
+date = element date { global.atts, temporal.atts, ana.att?, text }
+
+## A simple date, just with @when. It can have textual content with the date
+##     type-set according to the object language.
+date-simple = element date { when.att, text }
+
+## Attribute for the form of a person or organisation name,
+##     cf. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-att.personal.html
+name.att =
+  lang.att,
+  attribute full { "yes" | "abb" | "init" }?
+
+## Attributes on the u element.
+utterance.atts =
+  global.atts
+  >> a:documentation [
+       "Utterance has obligatory @ana, for the role of the speaker."
+     ],
+  ana.att,
+  who.att
+  >> a:documentation [
+       "@prev and @next are used to link split utterances."
+     ]?,
+  attribute prev { xsd:anyURI }?,
+  (attribute next { xsd:anyURI }?)
+  >> a:documentation [ "Possible source URI of the utterance." ],
+  attribute source { anyURIs }?
+
+## Attributes giving temporal information on the current
+##     element.
+temporal.atts =
+  when.att
+  | (attribute from { temporal.val },
+     attribute to { temporal.val }?)
+  | (attribute from { temporal.val }?,
+     attribute to { temporal.val })
+  | (attribute notBefore { temporal.val },
+     attribute notAfter { temporal.val }?)
+
+## When attributes specifying when the content of the curret element
+##     happened.
+when.att = attribute when { temporal.val }
+
+## The who attribute, giving the reference to the person who spoke the text of
+##     the current element.
+who.att = attribute who { xsd:anyURI }
+
+## The source attribute, giving the reference to the source of the element
+##     content.
+source.att = attribute source { anyURIs }?
+
+## Reference attribute, pointing to element(s) containing analyses of the current
+##     element.
+ref.att = attribute ref { xsd:anyURI }?
+
+## The analysis attribute, pointing to element(s) containing interpretations of
+##     the current element.
+ana.att = attribute ana { anyURIs }
+
+## The corresponds attribute, pointing to element(s) that correspond to the
+##     current element in some way.
+corresp.att = attribute corresp { anyURIs }?
+
+## Attributes allowed on most elements.
+global.atts =
+  id.att?,
+  lang.att,
+  corresp.att,
+  attribute n { xsd:string }?
+
+## The identifier attribute, giving the unique ID of the
+##     element.
+id.att = attribute xml:id { xsd:ID }
+
+## The language attribute, which specifies the langauge of the element
+##     content. Optional everywhere except on TEI and teiCorpus elements, where its is defined
+##     separately.
+lang.att = attribute xml:lang { lang.val }?
+
+## A temporal value, from less to more specific.
+temporal.val = xsd:gYear | xsd:gYearMonth | xsd:date | xsd:dateTime
+
+## A possible value for @xml:lang
+lang.val = xsd:language
+
+## A list of URIs, including fragment references.
+anyURIs = list { xsd:anyURI+ }
+
+## Text maybe containing a reference to some other document.
+annotated.text = mixed { ref* }
+
+## A string that is non-empty and does not contain white-space.
+non-empty.string = xsd:string { pattern = "\S+" }
+
+## A string that is non-empty, does not start or end with white-space, and
+##     contains only ordinary spaces as spacing characters.
+normalized-space.string = xsd:string { pattern = "(\S)|(\S[\S ]*\S)" }
+
+## XInclude element, which is explicitly allowed at some points in a ParlaMint
+##     corpus root.
+XInclude =
+  element xi:include {
+    attribute href { xsd:anyURI }
+  }
+a:documentation [ "Fixed ParlaMint vocabularies of attribute values:" ]
+
+## The types of states of organisations distinguished.
+stateType.val =
+  
+  ## Data from Chapel Hill Survey.
+  (
+   ## A CHES variable.
+   "CHES"
+   | 
+     ## A value of a CHES variable.
+     "variable"
+   | 
+     ## Data on political orientation.
+     "value"
+   | 
+     ## Data from Wikipedia.
+     "politicalOrientation"
+   | 
+     ## Data by an encoder.
+     "Wikipedia"
+   | "encoder")
+
+## Legal values of the names of relation between
+##     organisations.
+relationName.val =
+  "coalition" | "opposition" | "renaming" | "successor" | "representing"
+
+## Legal values of the org/@role attribute.
+orgRole.val =
+  
+  ## Common values:
+  ("country"
+   | "republic"
+   | "government"
+   | "ministry"
+   | "parliament"
+   | "politicalParty"
+   | 
+     ## The following used only by AT:
+     "parliamentaryGroup"
+   | "europeanCommission"
+   | "europeanInstitution"
+   | 
+     ## The following used only by BG:
+     "federatedState"
+   | 
+     ## The following used only by LT:
+     "ngo"
+   | "conferenceOfChairs"
+   | 
+     ## The following used only by CZ:
+     "boardOfParliament"
+   | "institution"
+   | "senate"
+   | "committee"
+   | "subcommittee"
+   | "commission"
+   | "delegation"
+   | "supervisoryBoard"
+   | "workingGroup"
+   | "interparliamentaryFriendshipGroup"
+   | "nationalCouncil"
+   | "chamberOfThePeople"
+   | "chamberOfTheNations"
+   | "europeanParliament"
+   | "internationalOrganisation"
+   | 
+     ## The following used only by SI:
+     "boardOfDirectors"
+   | "ethnicCommunity")
+
+## Legal values of the affiliation/@role attribute.
+affiliationRole.val =
+  "member"
+  | "head"
+  | "deputyHead"
+  | 
+    ## The following used only by FR:
+    "minister"
+  | "associateMember"
+  | "nonAttachedMember"
+  | "ministerDelegate"
+  | 
+    ## The following used only by CZ:
+    "secretaryOfState"
+  | "observer"
+  | "verifier"
+  | "vicePublicDefenderOfRights"
+  | "publicDefenderOfRights"
+  | "alternateOfDelegation"
+  | "replacement"
+  | 
+    ## The following used only by BG:
+    "representative"
+  | "academician"
+  | "candidateChairman"
+  | "constitutionalJudge"
+  | "deputyMinister"
+  | "ombudsman"
+  | "prosecutorGeneral"
+  | "secretary"
+  | "secretaryGeneral"
+
+## Legal values of the kinesic/@type attribute.
+kinesicType.val =
+  "kinesic"
+  | "applause"
+  | "ringing"
+  | "signal"
+  | "playback"
+  | "gesture"
+  | "smiling"
+  | "laughter"
+  | "snapping"
+  | "noise"
+
+## Legal values of the incident/@type attribute.
+incidentType.val =
+  "action"
+  | "incident"
+  | "leaving"
+  | "entering"
+  | "break"
+  | "pause"
+  | "sound"
+  | "editorial"
+
+## Legal values of the vocal/@type attribute.
+vocalType.val =
+  "greeting"
+  | "question"
+  | "clarification"
+  | "speaking"
+  | "interruption"
+  | "exclamat"
+  | "laughter"
+  | "shouting"
+  | "murmuring"
+  | "noise"
+  | "signal"

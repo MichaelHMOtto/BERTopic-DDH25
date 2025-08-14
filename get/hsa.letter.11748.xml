@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Gaston Paris an Hugo Schuchardt (41-08578)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Ursula</forename>
+            <surname>Bähler</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+          </persName>
+        </editor>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Nicolas</forename>
+            <surname>Morel</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft,
+                  Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für
+                  Informationsmodellierung - Austrian Centre for Digital Humanities,
+                  Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches
+                  Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons
+                  BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11748" type="PID">o:hsa.letter.11748</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">41-08578</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Österreich</country>
+            <region>Steiermark</region>
+            <settlement>Graz</settlement>
+            <institution>Karl-Franzens-Universität Graz</institution>
+            <repository ref="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</repository>
+            <idno type="shelfmark">08578</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="fr"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.2350">
+                <forename>Gaston</forename>
+                <surname>Paris</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="4" unit="pages">4 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace>Unbekannt</origPlace>
+              <origDate ana="dcterms:created" when="1882">1882</origDate>
+            </origin>
+            <provenance>
+                     Hugo Schuchardts wissenschaftlicher Nachlass (Bibliothek,
+                     Werkmanuskripte und wissenschaftliche Korrespondenz) kam nach seinem Tod 1927
+                     laut Verfügung in seinem Testament als Geschenk an die UB Graz.
+                  </provenance>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Ursula</forename>
+              <surname>Bähler</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </persName>
+          </author>
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Nicolas</forename>
+              <surname>Morel</surname>
+            </persName>
+          </author>
+          <date when="2023">2023</date>
+          <title>Die Korrespondenz zwischen Gaston Paris und Hugo Schuchardt</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2350"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11748">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2350" ref="https://viaf.org/viaf/39382261">
+            <forename>Gaston</forename>
+            <surname>Paris</surname>
+          </persName>
+          <placeName>Unbekannt</placeName>
+          <date when="1882">1882</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item/>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2350" type="context">
+                        Korrespondenz Gaston Paris - Hugo Schuchardt
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4994" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Le Moniteur de La Réunion</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.503" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Malaiisch</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="fr">Französisch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11748" xml:id="IMG.1">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11748" xml:id="IMG.2">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11748" xml:id="IMG.3">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11748" xml:id="IMG.4">
+        <desc>
+          <ref
+            target="https://ub.uni-graz.at/de/bibliotheken/sondersammlungen">Universitätsbibliothek Graz Abteilung für Sondersammlungen</ref>, <ref target="https://creativecommons.org/licenses/by-nc/4.0/">Creative commons CC BY-NC https://creativecommons.org/licenses/by-nc/4.0/</ref>
+        </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.7462" xml:lang="fr">
+        <pb facs="#IMG.4" n="1"/>
+        <dateline>[s. l.] [s. d.]</dateline>
+        <opener> Mon cher ami,</opener>
+        <p>je vous envoie cette lettre que je reçois ce matin. Je verrai donc M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4995">Lahuppe</persName>; si vous avez des questions particulières à lui adresser; communiquez-les moi. Vous ai-je écrit que l’adresse de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1181">Bos</persName> est à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.6005">Marseille</placeName>, 75, rue Forbin? Il est revenu avant-hier, et sera certainement heureux de vous être utile<note
+            n="1" place="foot" type="editorial">Schuchardt écrit sans doute à <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1181">Bos</persName> à ce moment-là. La première réponse de Bos à Schuchardt qui nous est connue date du 19 mai 1882 (<ref target="https://gams.uni-graz.at/context:hsa.letters.1181">Hausmann 2021</ref>). </note>. </p>
+        <p> Excusez la hâte. A vous </p>
+        <p> GParis </p>
+        <pb facs="#IMG.1" n="2"/>
+        <p>
+          <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.5988">S<hi
+            rendition="#sup">te</hi> des Galets (Réunion)</placeName> 21 mars 82<note n="2" place="foot"
+              type="editorial">G. Paris complète et transmet à Schuchardt une lettre qu’il a reçue de son ami <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6514">Jules Fleury</persName> et que nous transcrivons ci-dessous. L’ajout non daté de G. Paris figure à la fin de la lettre sur le manuscrit. Nous l’avons replacé en tête.</note>
+        </p>
+        <p>Mon cher ami,</p>
+        <p>
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.6516">Mme Taine</persName>
+          <note n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6516">Thérèse Taine</persName> (1846-1907), épouse d’<persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6318">Hippolyte Taine</persName>, entretient une correspondance amicale avec G. Paris entre 1875 et 1887. Cousine de la femme de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6514">Jules Fleury</persName> (voir l. du 4 octobre 1882 [<ref target="https://gams.uni-graz.at/o:hsa.letter.11755">HS 48-24457</ref>]), c’est elle qui sert d’intermédiaire entre G. Paris et ses correspondants de la Réunion. </note> nous a transmis très exactement à ma femme et à moi ta commission relative au langage créole de Bourbon. Nous nous occupons et nous continuerons à nous occuper de rassembler ce qui peut exister de cette littérature rudimentaire.</p>
+
+        <p>Je me suis d’abord inquiété de chercher s’il existait du créole imprimé: il en a existé, paraît-il, mais il est devenu introuvable. Un <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1753">M. Héry</persName>
+          <note n="4" place="foot" type="editorial">
+            <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1753">Louis Héry</persName> (1801-1856) passe pour le premier auteur de textes littéraires en langue créole. </note>, mort aujourd’hui, a rassemblé dans deux petits volumes intitulés «Fables créoles» et «Mélanges Africains»<note
+            n="5" place="foot" type="editorial">Les <hi
+              rendition="#i">Fables créoles dédiées aux dames de l’Île Bourbon</hi> de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1753">Héry</persName> paraissent en 1828. Davantage qu’une simple traduction de La Fontaine ou de Florian, ce premier ouvrage littéraire imprimé à la Réunion marque bien un effort de littérarisation de la langue créole, jusque-là essentiellement orale. L’ouvrage est ensuite augmenté et prend le titre de <hi
+              rendition="#i">Esquisses africaines, fables créoles et explorations à l’intérieur de l’Île Bourbon</hi> en 1849 (et non «Mélanges africains» comme le pense Fleury), puis <hi rendition="#i">Nouvelles esquisses africaines</hi> en 1856. C’est ce rare exemplaire imprimé à Saint-Denis que possède Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.454">1882b</ref>
+
+            </bibl>, 592) en plus de l’édition rééditée par Cerisier en 1883.</note> les récits populaires, les principales chansons et aussi des traductions d’un certain nombre de fables de Lafontaine, Florian etc. – Impossible d’en trouver ici un exemplaire. – On m’affirme qu’un <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.1285">M. Cerisier</persName>
+          <note n="6" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1285">Charles Cerisier</persName> (1849-1906), ancien officier de la marine né à Cayenne, en Guyane française. Ami de la famille Héry, il réédite les ouvrages de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1753">Louis Héry</persName> en 1883, à la demande de son fils (<ref
+              target="https://gams.uni-graz.at/context:hsa.letters.1754?locale=de">Morel 2022b</ref>). Intitulée <hi rendition="#i">Fables créoles et explorations dans l’intérieur de l’Île Bourbon: esquisses africaines</hi>, son édition est recensée par Schuchardt (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.683">1884c</ref>
+            </bibl>), auquel Cerisier écrit deux lettres les 8 et 20 mai 1882 (<ref target="https://gams.uni-graz.at/context:hsa.letters.1285">Morel 2022c</ref>). </note>
+          <pb facs="#IMG.2" n="3"/> commissaire de Marine, et attaché au Ministère de la Marine à Paris, possède ces ouvrages et songerait à les rééditer. Tu pourrais, mieux que moi, pousser des recherches de ce côté. Ce serait peut-être ce que tu trouverais de mieux. </p>
+
+        <p> En attendant, je fais écrire les chansons de nos nègres, et si quelqu’une en vaut la peine, je te l’enverrai par le prochain courrier<note
+            n="7" place="foot"
+              type="editorial">Nous ne saurons dire si, et si oui sous quelle forme Fleury a donné suite à cette proposition, mais c’est vraisemblablement lui que remercie Schuchardt au début de son article «Sur le créole de la Réunion», paru dans la <hi rendition="#i">Romania</hi> 11/44 (<bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.454">Schuchardt 1882b, 589</ref>
+            </bibl>). Voir <ref target="https://gams.uni-graz.at/o:hsa.letter.11750">GP 43-08579</ref>.</note>. – </p>
+
+        <p> Ne voulant pas, toutefois, que celui-ci parte sans te rien porter, je t’adresse un document humain (pas de ceux de <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4208">Zola</persName>) en la personne de M. <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.4995">Thomy Lahuppe</persName>, conseiller général, directeur du «<ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4994">Moniteur de la Réunion</ref>» et qui s’est occupé jadis, m’a-t-on dit, de recherches sur le langage créole et même, je crois, sur le <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.503">Malgache</ref>. Il va passer quelque temps à <placeName
+            ref="https://gams.uni-graz.at/o:hsa.places#PL.666">Paris</placeName>, et s’est offert à mettre ses ressources linguistiques à ta disposition<note
+            n="8" place="foot" type="editorial">On trouve en effet une lettre de <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.6514">Fleury</persName> à G. Paris datée de la Réunion, le 14 mars 1882, qui semble faire office de lettre d’introduction: «M. <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.4995">Thomy Lahuppe</persName>, membre du Conseil Général de la Réunion et directeur du journal le plus lu de la colonie, va passer quelques mois en France. Le langage créole est un sujet qui l’intéresse et dont il s’est occupé. – Aux premiers mots que je lui ai dits, il s’est offert à te fournir, pendant son séjour en France, tous les renseignements qu’il possède, et j’ai accepté, avec empressement, sa proposition. Aussi, en remettant ce billet à M. Lahuppe, crois-je remplir, beaucoup mieux que par mes propres moyens, la mission pour laquelle tu avais bien voulu penser à moi» (<ref
+            target="https://gallica.bnf.fr/ark:/12148/btv1b52514429d/f635.item">BnF, NAF 24439, f° 317</ref>).</note>. J’ai cru pouvoir <pb
+            facs="#IMG.3"
+            n="4"/> accepter, et lui ai remis une lettre d’introduction auprès de toi. Tu es juge de l’emploi qu’il te conviendra de faire de lui. – Je dois te prévenir qu’il n’est pas des amis de la C<hi rendition="#sup">ie</hi> pour laquelle je travaille, et que je le connais peu. – Je connais d’ailleurs très peu de monde ici: je suis, en effet, dans un désert, loin des villes et les occasions de lier connaissance sont rares. Je ne m’en plains pas: mon travail et les joies paisibles de la famille suffisent à remplir mon temps. </p>
+
+        <p> Je termine, cher ami, en te remerciant d’avoir pensé à moi, malgré mon insuffisance en la matière. C’est une preuve que malgré ma longue absence, je ne suis pas tout à fait oublié, et j’y <pb
+            facs="#IMG.4" n="5"/> suis sensible. – Crois bien que de mon côté, je me suis toujours intéressé de toute la force d’une vieille amitié à tout ce qui depuis mon départ est arrivé d’heureux ou de triste à toi ou aux tiens. Je conserve l’espoir de retrouver à mon retour la place qu’une amitié traditionnelle nous faisait au milieu de vous. – </p>
+        <closer>
+          <salute> Rappelle moi; cher ami, au souvenir de tous, et crois au profond attachement de ton tout dévoué </salute>
+          <signed> JFleury </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>

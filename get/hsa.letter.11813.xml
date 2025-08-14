@@ -1,0 +1,370 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="de">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Hugo Schuchardt an Wilhelm Streitberg (05-HSWS-02)</title>
+        <author ana="marcrelator:aut">
+          <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+        </author>
+        <editor ana="marcrelator:edt">
+          <persName>
+            <forename>Frank-Rutger</forename>
+            <surname>Hausmann</surname>
+          </persName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher ana="marcrelator:pbl">
+          <orgName corresp="https://sprachwissenschaft.uni-graz.at" ref="http://d-nb.info/gnd/807328-4">Institut für Sprachwissenschaft, Karl-Franzens-Universität Graz</orgName>
+        </publisher>
+        <authority ana="marcrelator:his">
+          <orgName corresp="https://informationsmodellierung.uni-graz.at" ref="http://d-nb.info/gnd/1137284463">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz</orgName>
+        </authority>
+        <distributor ana="marcrelator:rps">
+          <orgName ref="https://gams.uni-graz.at">GAMS - Geisteswissenschaftliches Asset Management System</orgName>
+        </distributor>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc/4.0">Creative Commons BY-NC 4.0</licence>
+        </availability>
+        <date ana="dcterms:issued" when="2023">2023</date>
+        <pubPlace ana="marcrelator:pup">Graz</pubPlace>
+        <idno corresp="http://schuchardt.uni-graz.at/id/letter/11813" type="PID">o:hsa.letter.11813</idno>
+        <idno source="http://schuchardt.uni-graz.at" type="altIdentifier">05-HSWS-02</idno>
+      </publicationStmt>
+      <seriesStmt>
+        <title ref="https://schuchardt.uni-graz.at">Hugo Schuchardt Archiv</title>
+        <respStmt ana="marcrelator:pbl">
+          <resp>Herausgeber</resp>
+          <persName ref="http://d-nb.info/gnd/111679893">
+            <forename>Bernhard</forename>
+            <surname>Hurch</surname>
+            <orgName ref="http://d-nb.info/gnd/36157-4">Karl-Franzens-Universität Graz</orgName>
+          </persName>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>Deutschland</country>
+            <settlement>Leipzig</settlement>
+            <repository ref="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</repository>
+            <idno type="shelfmark">HSWS</idno>
+          </msIdentifier>
+          <msContents>
+            <textLang mainLang="de"/>
+            <msItem>
+              <author ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+                <forename>Hugo</forename>
+                <surname>Schuchardt</surname>
+              </author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <material ref="http://vocab.getty.edu/aat/300014109">Papier</material>
+                  <objectType>Brief</objectType>
+                </support>
+                <extent>
+                  <measure quantity="6" unit="pages">6 Seiten</measure>
+                </extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origPlace ana="marcrelator:prp" corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" ref="http://sws.geonames.org/2778067">Graz</origPlace>
+              <origDate ana="dcterms:created" when="1894-07-08">1894-07-08</origDate>
+            </origin>
+          </history>
+        </msDesc>
+        <bibl type="online">
+          <author ana="marcrelator:aut">
+            <persName>
+              <forename>Frank-Rutger</forename>
+              <surname>Hausmann</surname>
+            </persName>
+          </author>
+          <date when="2020">2020</date>
+          <title>Die Korrespondenz zwischen Hugo Schuchardt und Wilhelm Streitberg</title>
+          <series>
+            <title>Hugo Schuchardt Archiv</title>
+            <editor>
+              <forename>Bernhard</forename>
+              <surname>Hurch</surname>
+            </editor>
+          </series>
+          <ref target="http://schuchardt.uni-graz.at/id/letters/2801"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Die Datenmodellierung orientiert sich am <ref
+            target="https://www.deutschestextarchiv.de/doku/basisformat/">DTA-Basisformat</ref>,
+               <ref
+            target="https://www.ediarum.org/">ediarum</ref> und der
+               <ref target="https://github.com/TEI-Correspondence-SIG/correspDesc">CorrespDesc-SIG</ref>.</p>
+        <p>Das auf DTABf-Modellierungsschema wurde für die Zwecke des Projektes angepasst und befindet sich unter <ref target="https://gams.uni-graz.at/o:hsa.odd"/>
+        </p>
+      </editorialDecl>
+      <projectDesc>
+        <ab>
+          <ref target="info:fedora/context:hsa" type="context">Hugo Schuchardt Archiv</ref>
+        </ab>
+        <p>Das Hugo Schuchardt Archiv widmet sich der Aufarbeitung des Gesamtwerks und des Nachlasses von Hugo Schuchardt (1842-1927).
+               Die Onlinepräsentation stellt alle Schriften sowie eine umfangreiche Sekundärbibliografie zur Verfügung.
+               Die Bearbeitung des Nachlasses legt besonderes Augenmerk auf die Erschließung der Korrespondenz,
+               die zu großen Teilen bereits ediert vorliegt, und der Werkmanuskripte.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="marcrelator" matchPattern="([a-z]+)" replacementPattern="http://id.loc.gov/vocabulary/relators/$1">
+          <p>Rollen-Taxonomie</p>
+        </prefixDef>
+        <prefixDef ident="dcterms" matchPattern="([a-z]+)" replacementPattern="http://purl.org/dc/terms/$1">
+          <p>Datumstaxonomie</p>
+        </prefixDef>
+        <prefixDef ident="skos" matchPattern="([a-z]+)" replacementPattern="http://www.w3.org/2004/02/skos/core#$1">
+          <p>Thesaurustaxonomie</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
+    <profileDesc>
+      <correspDesc ref="https://gams.uni-graz.at/o:hsa.letter.11813">
+        <correspAction type="sent">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.109" ref="https://viaf.org/viaf/261931943">
+            <forename>Hugo</forename>
+            <surname>Schuchardt</surname>
+          </persName>
+          <placeName corresp="https://gams.uni-graz.at/o:hsa.places#PL.6" key="#GID.1" ref="http://sws.geonames.org/2778067">Graz</placeName>
+          <date when="1894-07-08">1894-07-08</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName corresp="https://gams.uni-graz.at/o:hsa.persons#P.2801" ref="https://viaf.org/viaf/76441249">
+            <forename>Wilhelm</forename>
+            <surname>Streitberg</surname>
+          </persName>
+        </correspAction>
+      </correspDesc>
+      <textClass>
+        <keywords scheme="cirilo:normalizedPlaceNames">
+          <list>
+            <item>
+              <placeName xml:id="GID.1">
+                <country>Austria</country>
+                <settlement>Graz</settlement>
+                <name ref="http://geonames.org/2778067" type="fcode:PPLA">Graz</name>
+                <location>
+                  <geo>15.45,47.06667</geo>
+                </location>
+              </placeName>
+            </item>
+          </list>
+        </keywords>
+        <keywords ana="correspondence">
+          <list>
+            <item>
+              <ref target="info:fedora/context:hsa.letters.2801" type="context">
+                        Korrespondenz Hugo Schuchardt - Wilhelm Streitberg
+                     </ref>
+            </item>
+            <item>
+              <ref target="info:fedora/context:hsa.letters" type="context">Korrespondenz</ref>
+            </item>
+          </list>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.subjects">
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.4182" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indogermanische Forschungen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.839" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Kreolsprachen</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3125" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literarisches Centralblatt für Deutschland</term>
+          </term>
+          <term ref="https://gams.uni-graz.at/o:hsa.subjects#S.3144" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Literaturblatt für germanische und romanische Philologie</term>
+          </term>
+        </keywords>
+        <keywords scheme="https://gams.uni-graz.at/o:hsa.languages">
+          <term ref="https://gams.uni-graz.at/o:hsa.languages#L.4423" type="skos:Concept">
+            <term type="skos:prefLabel" xml:lang="de">Indoportugiesische Kreolsprachen</term>
+          </term>
+        </keywords>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Wissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Sprachwissenschaft</classCode>
+        <classCode scheme="https://www.deutschestextarchiv.de/doku/klassifikation">Brief</classCode>
+      </textClass>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.1">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.2">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.3">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.4">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.5">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+    <surface>
+      <graphic mimeType="image/jpeg" url="info:fedora/o:hsa.letter.11813" xml:id="IMG.6">
+
+        <desc>
+                  
+         Die Publikation der vorliegenden Materialien im „Hugo Schuchardt Archiv” erfolgt mit freundlicher Genehmigung der <ref target="https://www.ub.uni-leipzig.de/start/">Universitätsbibliothek Leipzig</ref>.
+             </desc>
+      </graphic>
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div subtype="original" type="letter" xml:id="L.11813" xml:lang="de">
+        <pb facs="#IMG.1" n="1"/>
+        <dateline>Graz 8 Juli 1894</dateline>
+        <opener> Sehr geehrter Herr Kollege,</opener>
+
+        <p> Ich bin sehr gern bereit mein Bedauern über das Missverständniss öffentlich auszusprechen. Vielleicht wäre es das Beste wenn <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1215">Brugmann</persName> meinen an Sie gerichteten Brief – mit Weglassung der auf <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2358">H. Paul</persName> bezüglichen Stelle – in den <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.4182">I. F.</ref> abdruckte.<note n="1" place="foot" type="editorial">Kein Nachweis, dafür eine Stellungnahme in den <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8664">
+                <hi rend="unknown" rendition="#none">Indogermanische Forschungen</hi> 4, 1894, (Anzeiger für indogermanische Sprach- und Altertumskunde,168-169)</ref>
+            </bibl>, Anhang zur Leskien-Festschrift! </note>
+        </p>
+        <p>Von einer <hi rend="unknown"
+            rendition="#none">mala fides</hi> die ich Ihnen zugetraut hätte, kann doch trotz meiner Worte kaum die Rede sein. Und anderseits gehen auch Sie wohl zu weit, wenn Sie sagen dass von Ihrer Seite nicht einmal ein <hi
+            rend="unknown" rendition="#none">Versehen</hi> vorliege. Ein solches ist ja immerhin möglich: <pb
+            facs="#IMG.2" n="2"/>der Brief ist nicht in den Briefkasten geworfen worden. Neulich ging ich hinter einem Dienstmädchen her das einen Brief verlor ohne es zu bemerken. Solch ein Vorkommniss ist vielleicht nicht gar zu selten. </p>
+        <p>Setzen wir kurz den Fall, Sie wären rechtlich verpflichtet gewesen mir zu schreiben, so würden alle Nachtheile die sich aus dem Nichtempfang des Briefes von meiner Seite ergeben hätten, auf Ihre Rechnung kommen. Wie die Sache liegt, können wir nur etwa von einem elementaren Missgeschick reden dessen Folgen beide Theile zu tragen haben. </p>
+
+        <p> Denn ich wiederhole Ihnen, für mich musste die Annahme dass eine Sendung an mich verloren gegangen sei, im höchsten Grad unwahrscheinlich sein. Ich kann mich, trotz dem ich ausserordentlich viele Briefe in meinem Leben gewechselt habe, kaum des Falles entsinnen dass der Verlust eines an mich gerichteten Briefes festgestellt worden wäre. In der langen Zeit seit Ausgabe der Aufforderungen habe ich – was ja z. B. auf dem Wege <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.2185">G. Meyer</persName>
+          <pb facs="#IMG.3" n="3"/> leicht möglich gewesen wäre – kein Anzeichen erhalten dass auch ich mit einer solchen bedacht worden war. Musste ich also nicht glauben dass ich übergangen worden sei? Durfte ich so schreiben wie ich gethan habe? Ich antworte auch jetzt mit Ja. G. Meyer nahm auch das Erstere an und was das Letztere betrifft, so hat er gar Nichts dazu gesagt, während er sonst in dergleichen Fällen mit drastischen, hyperbolischen Ausdrücken nicht kargt. </p>
+
+        <p>Und nun gestatten Sie einige allgemeine Betrachtungen die ich Ihnen schon angekündigt habe. Ich bin seit meiner Jugend – seitdem ich <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2528">Ritschls</persName> „Schüler“ war – sehr stark gegen Alles was Schule heisst oder Koterie ist, eingenommen. Ich habe bemerkt dass eine theilweise Meinungsverschiedenheit oft zu den tiefstgehenden Spaltungen, zu den heftigsten Befehdungen führt. Dafür brauche ich Ihnen aus den Gruppen der Germanisten, Indogermanisten, klassischen Philologen u.s.w. keine Beispiele anzuführen. Sind solche nun alle, wie sehr auch das Hervorkehren <pb
+            facs="#IMG.4"
+            n="4"/> der persönlichen Stimmung bei ihnen missbilligt werden mag, mit dem Brugmannschen Ausdruck als „alberne Wichte“ zu bezeichnen? Erinnert sich Brugmann nicht mehr dessen was Curtius<note
+            n="2" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.1349">Georg Curtius</persName> (1820-1885), klass. Philologe, seit 1862 Prof. in <placeName ref="https://gams.uni-graz.at/o:hsa.places#PL.177">Leipzig</placeName>, Lehrer Brugmanns.</note> ihm gethan? </p>
+
+        <p>Um nun von mir zu reden, so habe ich, da ich in meinen Kritiken meine Freunde nicht anders behandle als die mir ganz Fremden, immer wieder Gelegenheit zu beobachten wie manche doch selbst gegen ganz objektive Ausstellungen empfindlich sind. Und was die Lautgesetze anlangt, so hätte ich mich über diese, d. h. nicht im Allgemeinen, sondern im Anschluss an gewisse Aeusserungen von Joh. Schmidt<note
+            n="3" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2651">
+Johannes Schmidt</persName> (1843-1901), Sprachwissenschaftler und Indogermanist, zuletzt in <placeName>
+
+Berlin</placeName>, zuvor in <placeName
+              ref="https://gams.uni-graz.at/o:hsa.places#PL.6">Graz</placeName>; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2651?locale=de">HSA 10093-10104</ref>.</note>, Psichari<note
+            n="4" place="foot" type="editorial">
+            <persName
+              ref="https://gams.uni-graz.at/o:hsa.persons#P.2455">Jean Psichari</persName> (1854-1929), franz. Sprach- u. Literaturwissenschaftler; vgl. <ref
+            target="https://gams.uni-graz.at/context:hsa.letters.2455">HSA 09049-09051</ref>.</note> u. A. sehr gern einmal in den I. F. ausgelassen; aber, offen gestanden, ich glaubte nicht (und auch G. Meyer nicht), dass Sie Betrachtungen über einen solchen Gegenstand von mir aufnehmen würden. Oder habe ich Ihnen Unrecht gethan? Meine Objektivität werden Sie doch nicht in Zweifel stellen; ich führe immer wo ich auf diese Dinge zu reden komme, Thatsächliches an, nur dass ich zuweilen eine doch wohl berechtigte Ungeduld darüber verrathe dass man uns trotz all der vielen Worte immer und immer wieder wie mit Absicht missversteht, als ob wir an die Stelle ausnahmsloser Lautgesetze ausnahmsvolle setzen wollten, und darüber dass man die Sache kurzerhand für abgethan erklärt und die Argumente der Gegen- <pb
+            facs="#IMG.5"
+            n="5"/>partei todtschweigt. – G. Meyer hat in einem zweimal gedruckten Feuilleton, dem über <hi
+            rend="unknown" rendition="#none">W. u. W.</hi>
+          <note n="5" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.8667">Gustav Meyer, „Weltsprache und Weltsprachen“, Schlesische Zeitung 1901, Nr. 400 u. 406</ref>
+            </bibl>; auch in: <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.3694">Meyer, <hi rend="unknown" rendition="#none">Essays und Studien zur Sprachgeschichte und Volkskunde</hi>, Straßburg: Trübner, 1893, II, 23-46.</ref>
+            </bibl> Dazu <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.675">„<hi rend="unknown" rendition="#none">Weltsprache und Weltsprachen</hi>”. An Gustav Meyer von Hugo Schuchardt. Straßburg: Trübner, 1894</ref>
+            </bibl>.</note>, meine sprachwissenschaftlichen Ausführungen im <hi rend="unknown" rendition="#none">A. A. d. V</hi>
+          <note n="6" place="foot" type="editorial">
+            <bibl>
+              <ref target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.486">Schuchardt, <hi rend="unknown" rendition="#none">Auf Anlass des Volapüks</hi>, Berlin: Oppenheim, 1888.</ref>
+            </bibl>
+
+          </note>. (welches in keiner Weise sich mit ihm beschäftigte) höflich, aber energisch angegriffen. Das was er sagt, schien mir in journalistischem Sinne recht gut gesagt, aber durchaus nicht stichhaltig und gar nicht gründlich; wie kommt er z. B. dazu über das <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.839">Kreolische</ref>, insbes. das <ref
+            target="https://gams.uni-graz.at/o:hsa.languages#L.4423">
+Indoportugiesische</ref> zu urtheilen mit dem er sich nie und ich so lange Jahre hindurch [mich] beschäftigt habe? Mein Wunsch diesen freundschaftlichen Angriff zurückzuweisen, war begreiflich; wie hätten Sie mein Ansinnen gefunden wenn ich an die <hi
+            rend="unknown"
+            rendition="#none">I. F.</hi> als Organ für meine Erwiderung gedacht hätte? Ich war also auf einen der off enen Briefe angewiesen, für die Sie mir eine so grosse Vorliebe zutrauen. Hätte nun aber G. Meyer auf meine Vertheidigung repliziren wollen, würden ihm nicht dann die Thore der <hi
+            rend="unknown"
+            rendition="#none">I. F.</hi> sperrangelweit offen gestanden haben? Sie dürfen nicht glauben dass Ihre Kritik im <ref
+            target="https://gams.uni-graz.at/o:hsa.subjects#S.3125">Centralblatt</ref> mich verletzt habe;<note n="7"
+            place="foot" type="editorial">Die Rez. im <hi rend="unknown"
+              rendition="#none">LCBl</hi> 8, Sp. 243-244 ist unterzeichnet mit „W. Str.“, also <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.2801">
+Wilhelm Streitberg</persName>.</note> ganz im Gegentheil ich war – wie ich auch Meyer gegenüber aussprach – sehr erfreut darüber dass Jemand der in <pb
+            facs="#IMG.6"
+            n="6"/> der Sache so ganz von mir abweicht, sich so rücksichtsvoll äussert (wie unbillig, fast unanständig äussert sich hingegen B. Kauffmann<note
+            n="8" place="foot" type="editorial">Nicht B. Kauffmann, sondern <bibl>
+              <ref
+                  target="https://gams.uni-graz.at/o:hsa.bibliography#BIBL.1898">Friedrich Kauffmann, Rez. von Otto Jespersen, <hi
+                  rend="unknown"
+                  rendition="#none">
+Fremskridt i Sproget. Studier fra sprog- og oldtidsforskning, Kjøbenhavn</hi>; Klein; 1891, <hi
+                  rend="unknown" rendition="#none">
+Literaturblatt für german. u. roman. Philol.</hi> 15, 1894, Nr. 6 (Juni), Sp. 177-178</ref>
+
+            </bibl>. Die Rez. endet: „Es ist nicht erfreulich, einen phonetischen Praktikus modernster Tendenz längst begrabene Theorieen wieder auffrischen zu sehen“.</note> über <persName
+            ref="https://gams.uni-graz.at/o:hsa.persons#P.1844">Jespersen</persName> in der neuesten Nummer des <ref target="https://gams.uni-graz.at/o:hsa.subjects#S.3144">
+Lit.</ref>, weil er seinen Standpunkt nicht theilt). Einen kleinen Vorwurf mache ich Ihnen allerdings, so wie den Übrigen Recensenten; bezüglich der Argumente haben Sie zwischen Meyer und mir nicht entschieden – und das war doch das worauf es mir ankam. Also etwas Parteilichkeit besteht doch auch bei Ihnen obwohl ich Ihnen im Allgemeinen den Ruhm der Objektivität und massvoller Behandlung von Strittigem nicht absprechen will. </p>
+
+        <p>Ich würde Ihnen sehr verbunden sein wenn Sie diese Ausführungen zur Kenntnis von Prof. Brugmann gelangen liessen. Sie sind doch zum grössten Theil für die Redaktion der <hi
+            rend="unknown" rendition="#none">I. F.</hi> bestimmt, ich bin aber jetzt zu leidend um identische Noten an jeden der Herren zu senden. </p>
+        <closer>
+          <salute>Mit hochachtungsvollem Grusse</salute>
+          <lb/>
+          <salute>Ihr ergebener</salute>
+          <lb/>
+          <signed>
+            <persName ref="https://gams.uni-graz.at/o:hsa.persons#P.109">
+HSchuchardt</persName>
+          </signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://gams.uni-graz.at/o:hsa.odd/RNG" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
