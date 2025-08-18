@@ -1,0 +1,1 @@
+This repository was created during an academic internship at the university of Graz. The data provided here was used purely for research purposes and originates from CLARIN ParlaMint corpora [under CC-BY 4.0] and Hugo Suchardt Archiv [under CC-BY 4.0].
