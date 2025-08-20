@@ -1,0 +1,41 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	5	38	49	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg1.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	s	English	Positive	mixed positive	3.678	1	6	9	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg1.2	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	s	English	Neutral	neutral positive	2.730	1	5	6	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg1.3	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	s	English	Neutral	neutral positive	2.770	1	14	17	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg1.4	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	s	English	Positive	mixed positive	3.687	1	4	6	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg1.5	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u1	s	English	Neutral	neutral positive	3.184	1	9	11	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u2	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	1	32	35	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg2.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u2	s	English	Neutral	neutral negative	1.990	1	32	35	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u3	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	4	90	102	6	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg3.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u3	s	English	Neutral	neutral positive	2.941	1	4	5	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg3.2	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u3	s	English	Neutral	neutral positive	2.794	1	24	28	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg4.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u3	s	English	Neutral	neutral negative	2.366	1	24	27	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg4.2	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u3	s	English	Neutral	neutral negative	2.328	1	38	42	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u4	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	1	5	6	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg5.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u4	s	English	Neutral	neutral positive	2.888	1	5	6	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u5	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	1	7	8	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg6.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u5	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	18	381	458	37	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Neutral	neutral positive	2.781	1	3	7	3	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.2	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	mixed negative	0.650	1	12	14	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.3	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Neutral	neutral negative	2.443	1	16	19	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.4	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.189	1	39	44	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.5	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.394	1	34	39	4	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.6	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	mixed negative	0.681	1	11	15	3	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.7	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.091	1	43	48	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.8	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	-0.010	1	14	20	3	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.9	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.347	1	22	29	2	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.10	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.445	1	15	19	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.11	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.197	1	12	14	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.12	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Neutral	neutral negative	2.159	1	20	23	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.13	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.256	1	17	20	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.14	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.246	1	12	13	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.15	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Neutral	neutral positive	2.538	1	4	5	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.16	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.048	1	55	69	15	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.17	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Negative	negative	0.152	1	47	54	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg7.18	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u6	s	English	Positive	mixed positive	3.902	1	5	6	0	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u7	ParlaMint-IT-en_2022-01-24-LEG18-Senato-sed-398	u	English	-	-	-	3	60	69	4	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg8.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u7	s	English	Neutral	neutral negative	2.081	1	46	53	3	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg9.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u7	s	English	Neutral	neutral negative	2.430	1	7	8	1	
+ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.seg10.1	ParlaMint-IT_2022-01-24-LEG18-Senato-sed-398.ana.u7	s	English	Neutral	neutral positive	3.081	1	7	8	0	

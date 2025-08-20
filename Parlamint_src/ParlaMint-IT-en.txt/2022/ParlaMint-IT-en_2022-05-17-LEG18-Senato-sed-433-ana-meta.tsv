@@ -1,0 +1,581 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	5	40	48	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg1.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	s	English	Positive	mixed positive	3.626	1	7	7	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg1.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	s	English	Neutral	neutral positive	2.730	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg1.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	s	English	Neutral	neutral positive	2.689	1	15	18	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg1.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	s	English	Positive	mixed positive	3.687	1	4	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg1.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u1	s	English	Neutral	neutral positive	3.184	1	9	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u2	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	32	35	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg2.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u2	s	English	Neutral	neutral negative	1.990	1	32	35	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u3	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	4	73	103	25	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg3.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u3	s	English	Neutral	neutral positive	2.591	1	17	19	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg4.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u3	s	English	Neutral	neutral positive	2.962	1	9	10	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg4.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u3	s	English	Neutral	neutral negative	2.159	1	33	57	22	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg5.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u3	s	English	Neutral	neutral positive	2.701	1	14	17	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u4	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	59	67	6	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg6.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u4	s	English	Neutral	neutral negative	2.378	1	45	50	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg6.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u4	s	English	Neutral	neutral positive	3.114	1	14	17	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	19	388	428	11	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg7.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	3.215	1	16	17	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg8.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.443	1	25	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg8.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.926	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg8.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.074	1	33	35	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg9.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.308	1	19	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg9.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.987	1	10	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg10.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.917	1	24	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg11.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.445	1	16	17	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg11.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Positive	positive	4.826	1	2	3	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg12.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.600	1	29	31	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg12.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.457	1	28	31	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg12.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.607	1	10	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg12.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.177	1	8	9	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg13.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.225	1	32	36	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg13.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral positive	2.608	1	22	25	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg14.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.325	1	29	32	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg15.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Negative	mixed negative	1.478	1	16	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg15.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	1.979	1	41	46	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg15.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u5	s	English	Neutral	neutral negative	2.261	1	19	21	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u6	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	4	123	144	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg16.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u6	s	English	Neutral	neutral positive	2.722	1	52	58	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg17.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u6	s	English	Neutral	neutral negative	2.377	1	26	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg18.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u6	s	English	Neutral	neutral negative	2.209	1	22	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg19.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u6	s	English	Neutral	neutral negative	2.305	1	23	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u7	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg20.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u7	s	English	Neutral	neutral positive	2.888	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u8	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg21.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u8	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	8	188	217	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral positive	2.701	1	5	11	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral positive	3.109	1	9	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Negative	mixed negative	0.692	1	61	66	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral negative	1.856	1	29	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral negative	2.029	1	24	28	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral positive	2.976	1	8	9	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral negative	1.859	1	37	42	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg22.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u9	s	English	Neutral	neutral positive	3.198	1	15	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u10	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	3	93	101	7	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg23.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u10	s	English	Negative	mixed negative	1.308	1	45	48	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg24.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u10	s	English	Neutral	neutral positive	2.505	1	44	48	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg25.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u10	s	English	Negative	mixed negative	1.376	1	4	5	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u11	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	4	48	56	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg26.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u11	s	English	Neutral	neutral positive	2.612	1	18	20	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg27.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u11	s	English	Neutral	neutral negative	2.296	1	14	17	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg27.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u11	s	English	Neutral	neutral positive	3.256	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg28.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u11	s	English	Neutral	neutral positive	2.961	1	7	9	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u12	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	56	66	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg29.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u12	s	English	Neutral	neutral positive	2.739	1	32	37	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg29.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u12	s	English	Neutral	neutral negative	2.287	1	24	29	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u13	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	4	62	73	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg30.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u13	s	English	Neutral	neutral positive	3.287	1	27	32	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg30.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u13	s	English	Negative	negative	0.265	1	14	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg30.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u13	s	English	Negative	mixed negative	1.338	1	18	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg31.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u13	s	English	Positive	mixed positive	3.603	1	3	5	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	40	1522	1680	30	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg32.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Positive	positive	4.661	1	3	5	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg33.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.436	1	69	72	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg33.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.464	1	19	20	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg34.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.441	1	34	35	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg34.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.233	1	45	49	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg34.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Positive	positive	4.655	1	23	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg34.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.431	1	20	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg34.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.466	1	58	62	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.565	1	32	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.481	1	32	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.950	1	28	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.896	1	34	36	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.226	1	89	99	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.266	1	42	46	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.771	1	22	24	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.958	1	16	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.199	1	20	22	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.386	1	16	17	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.272	1	26	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.416	1	45	48	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.267	1	50	56	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.315	1	40	44	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.300	1	63	71	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.374	1	123	134	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.379	1	26	27	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.574	1	51	58	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.417	1	37	42	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.609	1	31	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.21	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.411	1	30	33	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.22	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.602	1	37	40	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.23	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.471	1	30	34	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.24	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.376	1	74	85	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.25	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	3.488	1	6	7	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.26	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.509	1	62	70	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.27	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.181	1	67	75	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.28	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.861	1	30	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.29	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral negative	2.479	1	72	82	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.30	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.994	1	10	12	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.31	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Positive	mixed positive	3.687	1	4	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg35.32	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u14	s	English	Neutral	neutral positive	2.952	1	6	8	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	31	1432	1555	23	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg36.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Positive	mixed positive	3.991	1	9	11	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg37.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.816	1	18	19	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg37.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.381	1	206	224	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.444	1	59	63	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.778	1	19	20	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.428	1	18	20	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.378	1	78	90	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.411	1	55	61	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Negative	mixed negative	1.060	1	88	96	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.799	1	35	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	3.014	1	24	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.480	1	60	64	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.492	1	62	65	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.581	1	30	33	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.120	1	25	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.388	1	43	49	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.657	1	42	43	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.801	1	44	46	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.611	1	60	66	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.768	1	71	76	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.670	1	51	54	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.717	1	18	20	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.329	1	25	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.21	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.600	1	28	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.22	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.578	1	38	40	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.23	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.373	1	52	55	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.24	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.251	1	35	37	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.25	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.333	1	69	76	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.26	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral negative	2.465	1	26	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.27	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.518	1	33	36	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg38.28	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u15	s	English	Neutral	neutral positive	2.698	1	11	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u16	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	3	19	22	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg39.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u16	s	English	Neutral	neutral positive	2.505	1	6	7	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg40.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u16	s	English	Neutral	neutral positive	2.844	1	6	7	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg40.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u16	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	30	1084	1189	19	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg41.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	positive	4.875	1	11	14	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg41.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.356	1	50	61	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg42.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	3.791	1	26	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg42.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.172	1	24	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg42.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	mixed negative	0.802	1	2	3	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg42.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.255	1	23	27	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg43.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	positive	5.339	1	27	31	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg43.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	positive	4.642	1	23	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	3.071	1	13	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.150	1	14	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	mixed negative	0.846	1	30	31	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.480	1	34	38	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral negative	1.638	1	36	38	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.254	1	56	62	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.223	1	47	50	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg44.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.357	1	78	86	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	mixed positive	4.391	1	72	76	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	mixed negative	0.563	1	54	57	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	2.883	1	36	41	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	2.563	1	36	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.403	1	35	37	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral negative	2.301	1	93	106	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	2.745	1	47	50	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	2.935	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.084	1	48	52	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral negative	1.622	1	24	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	positive	4.805	1	26	27	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Neutral	neutral positive	3.283	1	27	29	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Negative	negative	0.290	1	66	70	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg45.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u17	s	English	Positive	positive	5.273	1	17	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u18	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	14	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg46.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u18	s	English	Neutral	neutral positive	2.675	1	7	8	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg46.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u18	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	21	950	1041	16	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg47.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	mixed negative	0.562	1	76	84	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	5.028	1	60	65	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Neutral	neutral negative	2.175	1	27	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	negative	0.023	1	52	55	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	mixed positive	4.306	1	96	105	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Neutral	neutral positive	3.188	1	51	54	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	negative	0.029	1	68	74	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	mixed positive	3.632	1	19	24	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	mixed negative	0.599	1	26	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	negative	0.270	1	32	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	4.511	1	29	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	mixed negative	0.803	1	39	43	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Neutral	neutral negative	2.264	1	38	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	4.995	1	55	61	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	4.610	1	30	35	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	negative	0.346	1	48	52	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Neutral	neutral negative	2.193	1	72	79	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Neutral	neutral positive	3.132	1	46	51	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	5.289	1	28	31	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Negative	mixed negative	1.209	1	42	43	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg48.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u19	s	English	Positive	positive	4.833	1	16	19	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u20	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	13	15	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg49.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u20	s	English	Neutral	neutral positive	2.978	1	6	7	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg49.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u20	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	10	273	309	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg50.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Neutral	neutral positive	2.969	1	13	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg51.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Neutral	neutral positive	2.945	1	32	37	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg52.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	mixed negative	0.849	1	37	41	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg53.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	negative	0.109	1	27	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg53.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	mixed negative	0.637	1	9	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg53.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	negative	0.259	1	21	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg53.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	negative	0.054	1	34	36	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg54.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	mixed negative	0.521	1	14	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg54.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	negative	0.186	1	48	55	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg55.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u21	s	English	Negative	negative	0.260	1	38	47	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u22	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	38	43	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg56.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u22	s	English	Neutral	neutral negative	1.911	1	30	34	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg56.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u22	s	English	Positive	mixed positive	3.890	1	8	9	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	13	304	364	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Neutral	neutral negative	2.061	1	22	35	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Neutral	neutral positive	3.044	1	10	19	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Positive	mixed positive	3.652	1	10	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	mixed negative	1.088	1	19	24	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Positive	mixed positive	3.827	1	41	44	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Neutral	neutral positive	3.174	1	29	30	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	negative	0.028	1	20	22	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	negative	0.469	1	32	37	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Neutral	neutral positive	2.622	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	negative	-0.006	1	27	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	mixed negative	1.467	1	40	49	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Negative	mixed negative	1.103	1	32	36	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg57.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u23	s	English	Positive	positive	4.534	1	13	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u24	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	13	15	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg58.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u24	s	English	Neutral	neutral positive	2.804	1	6	7	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg58.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u24	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	45	1375	1538	24	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg59.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.634	1	48	53	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg59.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.503	1	47	54	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg59.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	1.434	1	21	22	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg59.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	1.011	1	17	18	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg60.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.626	1	34	36	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg60.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.868	1	38	41	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg60.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.662	1	57	63	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.812	1	37	41	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.463	1	53	61	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.205	1	26	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.994	1	13	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral negative	2.181	1	38	44	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.879	1	22	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.424	1	56	61	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	mixed positive	3.691	1	18	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.227	1	26	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	2.970	1	25	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	5.294	1	33	37	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.914	1	27	30	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	-0.002	1	36	42	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.311	1	14	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral negative	1.516	1	23	24	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.028	1	48	54	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.285	1	21	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.889	1	31	36	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.711	1	25	27	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.170	1	18	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.21	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.762	1	31	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.22	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.437	1	16	18	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.23	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.308	1	32	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.24	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral negative	1.917	1	41	46	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.25	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.185	1	23	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.26	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.464	1	27	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.27	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.276	1	34	41	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.28	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	0.577	1	49	55	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.29	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.387	1	24	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.30	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.234	1	23	25	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.31	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	3.112	1	12	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.32	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Positive	positive	4.704	1	11	13	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.33	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral negative	2.324	1	25	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.34	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral negative	2.235	1	47	51	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.35	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	mixed negative	1.055	1	77	87	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.36	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Negative	negative	0.418	1	32	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.37	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	2.965	1	12	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg61.38	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u25	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	41	1452	1614	22	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	3.029	1	10	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	0.758	1	25	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.650	1	15	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.332	1	36	41	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	-0.010	1	34	37	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	1.404	1	78	85	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	0.533	1	33	39	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.062	1	96	105	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.582	1	43	47	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.008	1	81	87	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.649	1	3	4	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	1.241	1	24	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.754	1	50	53	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.485	1	63	65	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral negative	2.013	1	16	18	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral negative	1.653	1	6	7	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral negative	2.380	1	46	54	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.852	1	13	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	1.111	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.206	1	54	59	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.21	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.030	1	52	63	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.22	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.181	1	24	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.23	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.029	1	28	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.24	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	mixed negative	1.001	1	59	67	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.25	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.479	1	18	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.26	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	2.644	1	33	35	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.27	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	-0.039	1	91	99	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.28	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Positive	mixed positive	4.001	1	21	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.29	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	-0.059	1	37	40	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.30	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.145	1	24	27	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.31	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.324	1	73	82	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.32	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.361	1	58	66	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.33	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.117	1	14	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.34	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.102	1	17	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.35	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.040	1	40	44	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.36	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral negative	1.847	1	22	24	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.37	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.304	1	22	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.38	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Negative	negative	0.103	1	28	33	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.39	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Positive	mixed positive	3.685	1	18	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.40	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Neutral	neutral positive	3.400	1	23	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg62.41	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u26	s	English	Positive	positive	4.783	1	19	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u27	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	14	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg63.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u27	s	English	Neutral	neutral positive	2.840	1	7	8	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg63.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u27	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	25	830	934	14	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg64.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	mixed negative	1.246	1	34	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg64.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.066	1	35	39	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg65.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Neutral	neutral negative	2.080	1	23	24	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg65.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Neutral	neutral negative	1.743	1	13	14	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg65.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.013	1	46	53	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg65.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.391	1	27	30	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg66.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.234	1	23	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg66.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Positive	mixed positive	3.569	1	15	18	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg66.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Positive	mixed positive	3.991	1	45	51	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg67.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Neutral	neutral positive	3.253	1	11	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg68.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.147	1	29	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg68.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.165	1	36	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg68.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.123	1	56	65	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.133	1	41	48	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.015	1	49	54	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.038	1	57	65	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	mixed negative	0.731	1	50	58	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.253	1	60	71	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Neutral	neutral positive	3.011	1	26	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.132	1	31	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.240	1	26	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	mixed negative	1.173	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.488	1	23	24	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.380	1	26	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg69.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u28	s	English	Negative	negative	0.109	1	39	42	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u29	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	14	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg70.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u29	s	English	Neutral	neutral positive	2.804	1	7	8	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg70.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u29	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	62	1420	1618	40	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.084	1	26	31	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.319	1	28	31	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.681	1	29	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.296	1	44	47	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.006	1	19	22	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.096	1	34	39	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Positive	mixed positive	4.452	1	42	47	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.046	1	25	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.218	1	28	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.086	1	48	53	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	1.072	1	12	19	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.850	1	33	37	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.265	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.358	1	22	24	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.920	1	49	57	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	-0.017	1	22	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.193	1	12	13	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.016	1	22	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg71.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	1.014	1	15	17	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg72.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	1.107	1	32	36	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg72.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.153	1	16	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg73.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.666	1	61	73	9	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg73.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Positive	mixed positive	3.703	1	11	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg73.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.066	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.512	1	9	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.785	1	11	13	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.716	1	11	13	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.441	1	44	50	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.666	1	13	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg74.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.588	1	25	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.342	1	4	5	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.176	1	17	19	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	3.201	1	18	22	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.516	1	10	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.063	1	20	22	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.352	1	15	18	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg75.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.143	1	13	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg76.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	2.908	1	4	5	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg76.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.119	1	41	47	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg77.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.673	1	18	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg77.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.949	1	18	20	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg77.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.336	1	15	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg77.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	2.269	1	32	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg77.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.826	1	12	15	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg78.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.420	1	44	49	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.733	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.768	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.667	1	24	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.449	1	52	57	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	3.170	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.356	1	35	38	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.536	1	22	25	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	3.305	1	30	33	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.152	1	16	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	0.631	1	25	27	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.280	1	24	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.558	1	21	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	negative	0.284	1	36	40	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Negative	mixed negative	1.172	1	30	31	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral negative	1.764	1	20	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	3.278	1	6	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg79.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u30	s	English	Neutral	neutral positive	3.308	1	18	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	26	987	1086	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg80.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	3.164	1	61	68	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg80.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	3.140	1	8	9	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg80.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	mixed negative	0.760	1	28	31	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg80.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	3.337	1	31	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg80.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	2.649	1	27	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg81.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.940	1	36	38	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg81.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.794	1	37	44	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg81.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	5.136	1	59	67	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg81.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.316	1	20	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg82.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral negative	1.684	1	95	103	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg83.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.905	1	51	54	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg84.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	mixed positive	3.685	1	44	49	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg84.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral negative	2.336	1	10	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg84.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	mixed positive	3.785	1	31	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg84.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	5.091	1	39	42	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg84.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	3.283	1	40	43	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg85.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.560	1	27	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg85.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.590	1	66	71	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral positive	3.099	1	24	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.005	1	17	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Positive	positive	4.722	1	49	50	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.090	1	79	89	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.309	1	23	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.235	1	18	20	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Neutral	neutral negative	1.796	1	38	42	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg86.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u31	s	English	Negative	negative	0.414	1	29	34	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u32	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	13	15	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg87.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u32	s	English	Neutral	neutral positive	2.829	1	6	7	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg87.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u32	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	29	1056	1154	15	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg88.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	3.183	1	88	97	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg88.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	4.003	1	22	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg88.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	4.139	1	29	32	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	4.430	1	38	40	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Negative	mixed negative	0.910	1	39	42	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Negative	mixed negative	1.372	1	43	46	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.547	1	35	37	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.515	1	37	40	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg89.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Negative	negative	0.165	1	22	22	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg90.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.676	1	11	12	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg90.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.557	1	23	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg91.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.720	1	8	9	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg91.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	2.997	1	47	50	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg91.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.782	1	54	59	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.915	1	18	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	3.305	1	37	42	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	2.805	1	24	28	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.501	1	36	41	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	4.150	1	59	62	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg92.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.949	1	28	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg93.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	2.995	1	35	37	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg94.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	3.351	1	68	79	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg95.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Neutral	neutral positive	3.241	1	65	74	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg95.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Negative	mixed negative	0.867	1	35	38	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg96.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.603	1	32	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg97.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.706	1	31	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg98.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	positive	4.717	1	44	47	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg99.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Positive	mixed positive	3.932	1	32	33	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg99.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u33	s	English	Negative	mixed negative	0.639	1	16	17	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u34	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	14	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg100.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u34	s	English	Neutral	neutral positive	2.837	1	7	8	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg100.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u34	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	32	1240	1365	26	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg101.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.383	1	19	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg101.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.040	1	26	29	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg101.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	mixed negative	0.545	1	83	88	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg102.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	2.965	1	33	35	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	mixed positive	3.781	1	26	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	mixed positive	4.162	1	34	40	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.046	1	58	70	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	2.873	1	24	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	2.752	1	13	14	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	mixed negative	0.767	1	25	28	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.132	1	47	51	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.282	1	44	47	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	positive	5.026	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	mixed positive	4.003	1	116	130	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.11	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.256	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.12	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	mixed negative	0.604	1	10	11	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.13	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	mixed negative	0.517	1	12	14	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.14	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.078	1	50	56	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.15	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.149	1	81	85	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.16	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.416	1	20	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.17	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	3.033	1	21	25	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.18	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral positive	2.838	1	60	66	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.19	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.206	1	17	18	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.20	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.137	1	20	21	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg103.21	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Neutral	neutral negative	2.069	1	78	85	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg104.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	mixed positive	4.158	1	74	82	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg105.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.479	1	15	16	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg105.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.247	1	59	63	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg105.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	positive	4.906	1	44	49	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg106.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Negative	negative	0.321	1	38	43	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg106.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	mixed positive	4.406	1	54	59	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg106.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u35	s	English	Positive	positive	4.751	1	25	27	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u36	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	26	29	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg107.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u36	s	English	Neutral	neutral positive	2.636	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg108.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u36	s	English	Neutral	neutral negative	1.880	1	21	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u37	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg109.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u37	s	English	Neutral	neutral positive	2.888	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u38	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg110.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u38	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	20	492	554	28	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg111.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Neutral	neutral positive	3.173	1	5	11	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg111.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	mixed negative	0.518	1	12	15	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg111.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Positive	mixed positive	4.205	1	25	27	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg112.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Neutral	neutral positive	3.474	1	9	10	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg112.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.251	1	19	21	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg113.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.142	1	52	60	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg113.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	-0.023	1	41	44	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg114.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Positive	positive	4.963	1	35	37	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg114.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Positive	mixed positive	4.395	1	9	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg115.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Positive	positive	4.884	1	43	49	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg116.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.058	1	14	16	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg116.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.170	1	21	24	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg117.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.168	1	27	32	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg118.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.363	1	16	19	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg119.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.140	1	24	26	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg119.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.146	1	21	23	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg120.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Neutral	neutral negative	2.319	1	41	45	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg121.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Negative	negative	0.062	1	55	58	4	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg122.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Neutral	neutral positive	3.415	1	19	21	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg122.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u39	s	English	Positive	mixed positive	3.979	1	4	5	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u40	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg123.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u40	s	English	Neutral	neutral positive	2.888	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u41	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg124.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u41	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	10	162	188	10	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Neutral	neutral positive	2.958	1	3	6	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Neutral	neutral negative	2.418	1	26	29	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Neutral	neutral positive	2.637	1	25	31	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Positive	mixed positive	4.047	1	14	16	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Negative	negative	0.328	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Neutral	neutral positive	3.239	1	2	3	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Negative	negative	0.115	1	31	38	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Negative	negative	0.313	1	22	23	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg125.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Negative	negative	0.069	1	10	11	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg126.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u42	s	English	Negative	mixed negative	0.528	1	22	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u43	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg127.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u43	s	English	Neutral	neutral positive	2.888	1	5	6	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u44	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg128.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u44	s	English	Neutral	neutral positive	2.705	1	7	8	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	10	291	328	9	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Neutral	neutral positive	2.856	1	2	5	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Neutral	neutral positive	3.371	1	48	52	5	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.3	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Neutral	neutral positive	3.152	1	24	30	2	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.4	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Negative	negative	0.177	1	27	29	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.5	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Negative	negative	0.050	1	21	24	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.6	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Negative	negative	0.215	1	57	66	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.7	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Positive	mixed positive	3.709	1	28	30	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.8	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Positive	mixed positive	4.392	1	54	59	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.9	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Positive	mixed positive	4.170	1	24	26	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg129.10	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u45	s	English	Positive	positive	4.576	1	6	7	0	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u46	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	1	46	53	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg130.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u46	s	English	Neutral	neutral negative	2.081	1	46	53	3	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u47	ParlaMint-IT-en_2022-05-17-LEG18-Senato-sed-433	u	English	-	-	-	2	28	35	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg131.1	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u47	s	English	Neutral	neutral positive	2.647	1	19	23	1	
+ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.seg131.2	ParlaMint-IT_2022-05-17-LEG18-Senato-sed-433.ana.u47	s	English	Neutral	neutral positive	2.615	1	9	12	0	

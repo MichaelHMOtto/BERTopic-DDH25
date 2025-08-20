@@ -1,0 +1,924 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+ParlaMint-IS_2022-03-22-54.u1	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	4	143	174	8	
+ParlaMint-IS_2022-03-22-54.seg317.1	ParlaMint-IS_2022-03-22-54.u1	s	English	Negative	mixed negative	0.945	1	33	39	5	
+ParlaMint-IS_2022-03-22-54.seg317.2	ParlaMint-IS_2022-03-22-54.u1	s	English	Neutral	neutral negative	2.249	1	26	32	2	
+ParlaMint-IS_2022-03-22-54.seg318.1	ParlaMint-IS_2022-03-22-54.u1	s	English	Neutral	neutral positive	2.667	1	63	80	1	
+ParlaMint-IS_2022-03-22-54.seg318.2	ParlaMint-IS_2022-03-22-54.u1	s	English	Neutral	neutral negative	2.408	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.u2	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	2	28	31	1	
+ParlaMint-IS_2022-03-22-54.seg319.1	ParlaMint-IS_2022-03-22-54.u2	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg319.2	ParlaMint-IS_2022-03-22-54.u2	s	English	Neutral	neutral positive	3.164	1	26	28	1	
+ParlaMint-IS_2022-03-22-54.u3	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	2	48	51	5	
+ParlaMint-IS_2022-03-22-54.seg320.1	ParlaMint-IS_2022-03-22-54.u3	s	English	Positive	mixed positive	3.553	1	26	27	2	
+ParlaMint-IS_2022-03-22-54.seg320.2	ParlaMint-IS_2022-03-22-54.u3	s	English	Negative	mixed negative	0.504	1	22	24	3	
+ParlaMint-IS_2022-03-22-54.u4	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	1	18	19	3	
+ParlaMint-IS_2022-03-22-54.seg321.1	ParlaMint-IS_2022-03-22-54.u4	s	English	Positive	mixed positive	4.398	1	18	19	3	
+ParlaMint-IS_2022-03-22-54.u5	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	159	176	2	
+ParlaMint-IS_2022-03-22-54.seg322.1	ParlaMint-IS_2022-03-22-54.u5	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg322.2	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	mixed negative	1.188	1	24	25	0	
+ParlaMint-IS_2022-03-22-54.seg322.3	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	mixed negative	0.582	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg322.4	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	negative	0.283	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.seg322.5	ParlaMint-IS_2022-03-22-54.u5	s	English	Neutral	neutral positive	2.879	1	24	26	0	
+ParlaMint-IS_2022-03-22-54.seg323.1	ParlaMint-IS_2022-03-22-54.u5	s	English	Neutral	neutral negative	1.669	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg323.2	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	negative	0.172	1	33	38	1	
+ParlaMint-IS_2022-03-22-54.seg323.3	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	negative	0.490	1	10	12	1	
+ParlaMint-IS_2022-03-22-54.seg323.4	ParlaMint-IS_2022-03-22-54.u5	s	English	Negative	negative	0.105	1	25	27	0	
+ParlaMint-IS_2022-03-22-54.u6	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	166	184	2	
+ParlaMint-IS_2022-03-22-54.seg324.1	ParlaMint-IS_2022-03-22-54.u6	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg324.2	ParlaMint-IS_2022-03-22-54.u6	s	English	Neutral	neutral positive	3.079	1	48	50	0	
+ParlaMint-IS_2022-03-22-54.seg324.3	ParlaMint-IS_2022-03-22-54.u6	s	English	Negative	negative	0.144	1	31	36	1	
+ParlaMint-IS_2022-03-22-54.seg324.4	ParlaMint-IS_2022-03-22-54.u6	s	English	Negative	negative	0.428	1	20	22	1	
+ParlaMint-IS_2022-03-22-54.seg324.5	ParlaMint-IS_2022-03-22-54.u6	s	English	Negative	negative	0.145	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg324.6	ParlaMint-IS_2022-03-22-54.u6	s	English	Negative	mixed negative	0.648	1	15	18	0	
+ParlaMint-IS_2022-03-22-54.seg324.7	ParlaMint-IS_2022-03-22-54.u6	s	English	Neutral	neutral positive	3.175	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.u7	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	10	313	341	2	
+ParlaMint-IS_2022-03-22-54.seg325.1	ParlaMint-IS_2022-03-22-54.u7	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg325.2	ParlaMint-IS_2022-03-22-54.u7	s	English	Neutral	neutral positive	2.589	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.seg325.3	ParlaMint-IS_2022-03-22-54.u7	s	English	Neutral	neutral positive	2.582	1	32	35	0	
+ParlaMint-IS_2022-03-22-54.seg325.4	ParlaMint-IS_2022-03-22-54.u7	s	English	Negative	negative	0.224	1	46	49	0	
+ParlaMint-IS_2022-03-22-54.seg326.1	ParlaMint-IS_2022-03-22-54.u7	s	English	Negative	negative	0.399	1	28	29	0	
+ParlaMint-IS_2022-03-22-54.seg326.2	ParlaMint-IS_2022-03-22-54.u7	s	English	Neutral	neutral positive	2.791	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg326.3	ParlaMint-IS_2022-03-22-54.u7	s	English	Positive	mixed positive	3.513	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg326.4	ParlaMint-IS_2022-03-22-54.u7	s	English	Negative	mixed negative	0.706	1	48	55	1	
+ParlaMint-IS_2022-03-22-54.seg326.5	ParlaMint-IS_2022-03-22-54.u7	s	English	Negative	negative	0.400	1	27	34	0	
+ParlaMint-IS_2022-03-22-54.seg327.1	ParlaMint-IS_2022-03-22-54.u7	s	English	Positive	mixed positive	4.229	1	71	73	1	
+ParlaMint-IS_2022-03-22-54.u8	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	11	270	293	3	
+ParlaMint-IS_2022-03-22-54.seg328.1	ParlaMint-IS_2022-03-22-54.u8	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg328.2	ParlaMint-IS_2022-03-22-54.u8	s	English	Negative	mixed negative	1.013	1	25	28	1	
+ParlaMint-IS_2022-03-22-54.seg328.3	ParlaMint-IS_2022-03-22-54.u8	s	English	Negative	mixed negative	1.185	1	30	32	0	
+ParlaMint-IS_2022-03-22-54.seg328.4	ParlaMint-IS_2022-03-22-54.u8	s	English	Negative	negative	0.261	1	23	26	0	
+ParlaMint-IS_2022-03-22-54.seg328.5	ParlaMint-IS_2022-03-22-54.u8	s	English	Negative	negative	0.265	1	11	12	0	
+ParlaMint-IS_2022-03-22-54.seg328.6	ParlaMint-IS_2022-03-22-54.u8	s	English	Neutral	neutral positive	3.001	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg328.7	ParlaMint-IS_2022-03-22-54.u8	s	English	Negative	mixed negative	1.122	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg329.1	ParlaMint-IS_2022-03-22-54.u8	s	English	Neutral	neutral negative	2.311	1	42	44	0	
+ParlaMint-IS_2022-03-22-54.seg329.2	ParlaMint-IS_2022-03-22-54.u8	s	English	Positive	positive	5.224	1	54	56	2	
+ParlaMint-IS_2022-03-22-54.seg330.1	ParlaMint-IS_2022-03-22-54.u8	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg330.2	ParlaMint-IS_2022-03-22-54.u8	s	English	Positive	positive	4.605	1	38	42	0	
+ParlaMint-IS_2022-03-22-54.u9	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	288	327	14	
+ParlaMint-IS_2022-03-22-54.seg331.1	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg331.2	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral negative	2.019	1	28	31	1	
+ParlaMint-IS_2022-03-22-54.seg331.3	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	2.862	1	21	23	1	
+ParlaMint-IS_2022-03-22-54.seg331.4	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	2.825	1	19	23	2	
+ParlaMint-IS_2022-03-22-54.seg331.5	ParlaMint-IS_2022-03-22-54.u9	s	English	Positive	mixed positive	3.795	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg331.6	ParlaMint-IS_2022-03-22-54.u9	s	English	Positive	mixed positive	4.397	1	21	26	3	
+ParlaMint-IS_2022-03-22-54.seg331.7	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	3.068	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg331.8	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	2.606	1	22	29	5	
+ParlaMint-IS_2022-03-22-54.seg331.9	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	3.053	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg332.1	ParlaMint-IS_2022-03-22-54.u9	s	English	Negative	negative	0.261	1	46	50	1	
+ParlaMint-IS_2022-03-22-54.seg332.2	ParlaMint-IS_2022-03-22-54.u9	s	English	Positive	mixed positive	4.103	1	61	67	0	
+ParlaMint-IS_2022-03-22-54.seg333.1	ParlaMint-IS_2022-03-22-54.u9	s	English	Neutral	neutral positive	3.362	1	34	36	1	
+ParlaMint-IS_2022-03-22-54.u10	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	13	309	344	1	
+ParlaMint-IS_2022-03-22-54.seg334.1	ParlaMint-IS_2022-03-22-54.u10	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg334.2	ParlaMint-IS_2022-03-22-54.u10	s	English	Neutral	neutral negative	1.603	1	34	38	1	
+ParlaMint-IS_2022-03-22-54.seg334.3	ParlaMint-IS_2022-03-22-54.u10	s	English	Positive	positive	4.865	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg334.4	ParlaMint-IS_2022-03-22-54.u10	s	English	Positive	mixed positive	4.362	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg334.5	ParlaMint-IS_2022-03-22-54.u10	s	English	Positive	mixed positive	4.112	1	39	46	0	
+ParlaMint-IS_2022-03-22-54.seg334.6	ParlaMint-IS_2022-03-22-54.u10	s	English	Neutral	neutral positive	2.685	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg335.1	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	negative	0.420	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg335.2	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	negative	0.191	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg335.3	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	mixed negative	0.817	1	46	51	0	
+ParlaMint-IS_2022-03-22-54.seg335.4	ParlaMint-IS_2022-03-22-54.u10	s	English	Neutral	neutral positive	3.039	1	24	25	0	
+ParlaMint-IS_2022-03-22-54.seg335.5	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	negative	0.425	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg335.6	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	negative	0.286	1	78	85	0	
+ParlaMint-IS_2022-03-22-54.seg335.7	ParlaMint-IS_2022-03-22-54.u10	s	English	Negative	negative	0.102	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.u11	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	15	317	357	3	
+ParlaMint-IS_2022-03-22-54.seg336.1	ParlaMint-IS_2022-03-22-54.u11	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg336.2	ParlaMint-IS_2022-03-22-54.u11	s	English	Positive	mixed positive	4.136	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg336.3	ParlaMint-IS_2022-03-22-54.u11	s	English	Neutral	neutral positive	3.438	1	11	12	0	
+ParlaMint-IS_2022-03-22-54.seg336.4	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.344	1	28	30	1	
+ParlaMint-IS_2022-03-22-54.seg336.5	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.246	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg336.6	ParlaMint-IS_2022-03-22-54.u11	s	English	Positive	positive	5.127	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg336.7	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.310	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg336.8	ParlaMint-IS_2022-03-22-54.u11	s	English	Positive	positive	4.747	1	27	28	0	
+ParlaMint-IS_2022-03-22-54.seg336.9	ParlaMint-IS_2022-03-22-54.u11	s	English	Neutral	neutral negative	1.582	1	46	54	1	
+ParlaMint-IS_2022-03-22-54.seg336.10	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.056	1	25	29	1	
+ParlaMint-IS_2022-03-22-54.seg336.11	ParlaMint-IS_2022-03-22-54.u11	s	English	Neutral	neutral negative	2.132	1	47	50	0	
+ParlaMint-IS_2022-03-22-54.seg336.12	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.085	1	11	13	0	
+ParlaMint-IS_2022-03-22-54.seg336.13	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.091	1	32	35	0	
+ParlaMint-IS_2022-03-22-54.seg336.14	ParlaMint-IS_2022-03-22-54.u11	s	English	Neutral	neutral positive	2.671	1	10	13	0	
+ParlaMint-IS_2022-03-22-54.seg336.15	ParlaMint-IS_2022-03-22-54.u11	s	English	Negative	negative	0.211	1	17	22	0	
+ParlaMint-IS_2022-03-22-54.u12	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	14	253	280	2	
+ParlaMint-IS_2022-03-22-54.seg337.1	ParlaMint-IS_2022-03-22-54.u12	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg337.2	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral negative	1.824	1	15	18	0	
+ParlaMint-IS_2022-03-22-54.seg337.3	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral positive	2.811	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg337.4	ParlaMint-IS_2022-03-22-54.u12	s	English	Positive	mixed positive	4.189	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg337.5	ParlaMint-IS_2022-03-22-54.u12	s	English	Negative	negative	0.368	1	11	12	0	
+ParlaMint-IS_2022-03-22-54.seg337.6	ParlaMint-IS_2022-03-22-54.u12	s	English	Negative	negative	0.341	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg337.7	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral positive	3.369	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg337.8	ParlaMint-IS_2022-03-22-54.u12	s	English	Negative	negative	0.139	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg338.1	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral negative	1.721	1	41	44	0	
+ParlaMint-IS_2022-03-22-54.seg338.2	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral positive	2.682	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg338.3	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral positive	3.296	1	23	25	1	
+ParlaMint-IS_2022-03-22-54.seg338.4	ParlaMint-IS_2022-03-22-54.u12	s	English	Neutral	neutral negative	1.582	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg338.5	ParlaMint-IS_2022-03-22-54.u12	s	English	Positive	mixed positive	4.206	1	29	32	1	
+ParlaMint-IS_2022-03-22-54.seg338.6	ParlaMint-IS_2022-03-22-54.u12	s	English	Negative	negative	0.183	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.u13	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	293	324	10	
+ParlaMint-IS_2022-03-22-54.seg339.1	ParlaMint-IS_2022-03-22-54.u13	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg339.2	ParlaMint-IS_2022-03-22-54.u13	s	English	Negative	mixed negative	0.694	1	24	26	3	
+ParlaMint-IS_2022-03-22-54.seg339.3	ParlaMint-IS_2022-03-22-54.u13	s	English	Positive	mixed positive	3.940	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg339.4	ParlaMint-IS_2022-03-22-54.u13	s	English	Neutral	neutral positive	3.098	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg339.5	ParlaMint-IS_2022-03-22-54.u13	s	English	Neutral	neutral positive	2.874	1	29	33	1	
+ParlaMint-IS_2022-03-22-54.seg340.1	ParlaMint-IS_2022-03-22-54.u13	s	English	Negative	mixed negative	0.504	1	27	30	1	
+ParlaMint-IS_2022-03-22-54.seg340.2	ParlaMint-IS_2022-03-22-54.u13	s	English	Negative	negative	0.133	1	34	36	1	
+ParlaMint-IS_2022-03-22-54.seg340.3	ParlaMint-IS_2022-03-22-54.u13	s	English	Positive	mixed positive	4.148	1	53	56	0	
+ParlaMint-IS_2022-03-22-54.seg341.1	ParlaMint-IS_2022-03-22-54.u13	s	English	Positive	positive	4.848	1	29	37	0	
+ParlaMint-IS_2022-03-22-54.seg341.2	ParlaMint-IS_2022-03-22-54.u13	s	English	Negative	mixed negative	0.517	1	27	28	2	
+ParlaMint-IS_2022-03-22-54.seg341.3	ParlaMint-IS_2022-03-22-54.u13	s	English	Negative	negative	0.306	1	8	10	0	
+ParlaMint-IS_2022-03-22-54.seg342.1	ParlaMint-IS_2022-03-22-54.u13	s	English	Positive	mixed positive	4.392	1	38	41	2	
+ParlaMint-IS_2022-03-22-54.u14	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	16	309	349	9	
+ParlaMint-IS_2022-03-22-54.seg343.1	ParlaMint-IS_2022-03-22-54.u14	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg343.2	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	mixed negative	0.818	1	22	24	1	
+ParlaMint-IS_2022-03-22-54.seg343.3	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral positive	2.899	1	20	21	1	
+ParlaMint-IS_2022-03-22-54.seg343.4	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral positive	2.626	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg343.5	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral positive	3.168	1	27	32	1	
+ParlaMint-IS_2022-03-22-54.seg343.6	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	negative	0.307	1	18	19	1	
+ParlaMint-IS_2022-03-22-54.seg343.7	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	mixed negative	1.050	1	19	21	1	
+ParlaMint-IS_2022-03-22-54.seg343.8	ParlaMint-IS_2022-03-22-54.u14	s	English	Positive	mixed positive	3.692	1	15	17	1	
+ParlaMint-IS_2022-03-22-54.seg343.9	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral positive	3.169	1	25	29	0	
+ParlaMint-IS_2022-03-22-54.seg343.10	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	negative	0.334	1	19	22	1	
+ParlaMint-IS_2022-03-22-54.seg343.11	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	mixed negative	0.815	1	11	12	1	
+ParlaMint-IS_2022-03-22-54.seg343.12	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	negative	0.268	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg343.13	ParlaMint-IS_2022-03-22-54.u14	s	English	Negative	negative	0.237	1	39	47	0	
+ParlaMint-IS_2022-03-22-54.seg343.14	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral negative	1.862	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg343.15	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral negative	1.908	1	20	21	0	
+ParlaMint-IS_2022-03-22-54.seg343.16	ParlaMint-IS_2022-03-22-54.u14	s	English	Neutral	neutral positive	2.772	1	23	26	0	
+ParlaMint-IS_2022-03-22-54.u15	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	20	320	375	1	
+ParlaMint-IS_2022-03-22-54.seg344.1	ParlaMint-IS_2022-03-22-54.u15	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg344.2	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral positive	2.974	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg344.3	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral positive	2.919	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg344.4	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	mixed negative	0.626	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg344.5	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.408	1	25	28	0	
+ParlaMint-IS_2022-03-22-54.seg345.1	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral positive	3.154	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg345.2	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral negative	1.612	1	25	27	1	
+ParlaMint-IS_2022-03-22-54.seg345.3	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.386	1	30	34	0	
+ParlaMint-IS_2022-03-22-54.seg345.4	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral negative	1.783	1	26	30	0	
+ParlaMint-IS_2022-03-22-54.seg345.5	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	mixed negative	0.779	1	16	19	0	
+ParlaMint-IS_2022-03-22-54.seg345.6	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	mixed negative	1.003	1	12	16	0	
+ParlaMint-IS_2022-03-22-54.seg345.7	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.201	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg345.8	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.150	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg345.9	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.325	1	22	29	0	
+ParlaMint-IS_2022-03-22-54.seg345.10	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral negative	1.593	1	9	12	0	
+ParlaMint-IS_2022-03-22-54.seg345.11	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.317	1	6	8	0	
+ParlaMint-IS_2022-03-22-54.seg345.12	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	negative	0.436	1	27	31	0	
+ParlaMint-IS_2022-03-22-54.seg345.13	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	mixed negative	0.719	1	16	20	0	
+ParlaMint-IS_2022-03-22-54.seg345.14	ParlaMint-IS_2022-03-22-54.u15	s	English	Negative	mixed negative	0.529	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg345.15	ParlaMint-IS_2022-03-22-54.u15	s	English	Neutral	neutral negative	1.568	1	7	9	0	
+ParlaMint-IS_2022-03-22-54.u16	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	1	22	25	0	
+ParlaMint-IS_2022-03-22-54.seg346.1	ParlaMint-IS_2022-03-22-54.u16	s	English	Neutral	neutral positive	2.922	1	22	25	0	
+ParlaMint-IS_2022-03-22-54.u17	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	16	360	396	6	
+ParlaMint-IS_2022-03-22-54.seg347.1	ParlaMint-IS_2022-03-22-54.u17	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg347.2	ParlaMint-IS_2022-03-22-54.u17	s	English	Neutral	neutral negative	1.958	1	25	28	1	
+ParlaMint-IS_2022-03-22-54.seg347.3	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	mixed negative	0.679	1	31	33	1	
+ParlaMint-IS_2022-03-22-54.seg347.4	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	negative	0.256	1	23	24	0	
+ParlaMint-IS_2022-03-22-54.seg347.5	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	negative	0.269	1	33	34	0	
+ParlaMint-IS_2022-03-22-54.seg347.6	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	negative	0.442	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg347.7	ParlaMint-IS_2022-03-22-54.u17	s	English	Neutral	neutral positive	2.762	1	21	23	1	
+ParlaMint-IS_2022-03-22-54.seg347.8	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	negative	0.374	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg347.9	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	mixed negative	1.055	1	43	46	0	
+ParlaMint-IS_2022-03-22-54.seg347.10	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	mixed negative	1.135	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg347.11	ParlaMint-IS_2022-03-22-54.u17	s	English	Negative	mixed negative	1.301	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg347.12	ParlaMint-IS_2022-03-22-54.u17	s	English	Neutral	neutral negative	2.004	1	27	35	2	
+ParlaMint-IS_2022-03-22-54.seg348.1	ParlaMint-IS_2022-03-22-54.u17	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg348.2	ParlaMint-IS_2022-03-22-54.u17	s	English	Neutral	neutral negative	2.364	1	33	35	1	
+ParlaMint-IS_2022-03-22-54.seg348.3	ParlaMint-IS_2022-03-22-54.u17	s	English	Neutral	neutral negative	2.346	1	32	35	0	
+ParlaMint-IS_2022-03-22-54.seg348.4	ParlaMint-IS_2022-03-22-54.u17	s	English	Positive	mixed positive	3.608	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.u18	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	13	279	307	3	
+ParlaMint-IS_2022-03-22-54.seg349.1	ParlaMint-IS_2022-03-22-54.u18	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg349.2	ParlaMint-IS_2022-03-22-54.u18	s	English	Negative	mixed negative	0.528	1	41	46	1	
+ParlaMint-IS_2022-03-22-54.seg349.3	ParlaMint-IS_2022-03-22-54.u18	s	English	Positive	mixed positive	3.950	1	16	19	0	
+ParlaMint-IS_2022-03-22-54.seg349.4	ParlaMint-IS_2022-03-22-54.u18	s	English	Neutral	neutral positive	3.249	1	30	32	1	
+ParlaMint-IS_2022-03-22-54.seg350.1	ParlaMint-IS_2022-03-22-54.u18	s	English	Negative	negative	0.260	1	10	13	0	
+ParlaMint-IS_2022-03-22-54.seg350.2	ParlaMint-IS_2022-03-22-54.u18	s	English	Negative	negative	0.365	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg350.3	ParlaMint-IS_2022-03-22-54.u18	s	English	Positive	mixed positive	4.395	1	13	14	1	
+ParlaMint-IS_2022-03-22-54.seg350.4	ParlaMint-IS_2022-03-22-54.u18	s	English	Positive	mixed positive	3.563	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg350.5	ParlaMint-IS_2022-03-22-54.u18	s	English	Positive	mixed positive	3.869	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg351.1	ParlaMint-IS_2022-03-22-54.u18	s	English	Neutral	neutral positive	2.997	1	34	35	0	
+ParlaMint-IS_2022-03-22-54.seg351.2	ParlaMint-IS_2022-03-22-54.u18	s	English	Neutral	neutral negative	1.862	1	27	28	0	
+ParlaMint-IS_2022-03-22-54.seg351.3	ParlaMint-IS_2022-03-22-54.u18	s	English	Negative	negative	0.265	1	38	42	0	
+ParlaMint-IS_2022-03-22-54.seg351.4	ParlaMint-IS_2022-03-22-54.u18	s	English	Negative	negative	0.036	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.u19	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	11	289	327	3	
+ParlaMint-IS_2022-03-22-54.seg352.1	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg352.2	ParlaMint-IS_2022-03-22-54.u19	s	English	Neutral	neutral positive	2.592	1	11	12	0	
+ParlaMint-IS_2022-03-22-54.seg352.3	ParlaMint-IS_2022-03-22-54.u19	s	English	Neutral	neutral negative	1.523	1	18	24	1	
+ParlaMint-IS_2022-03-22-54.seg352.4	ParlaMint-IS_2022-03-22-54.u19	s	English	Neutral	neutral negative	1.651	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.seg352.5	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	mixed positive	4.253	1	34	38	2	
+ParlaMint-IS_2022-03-22-54.seg352.6	ParlaMint-IS_2022-03-22-54.u19	s	English	Neutral	neutral positive	3.478	1	46	51	0	
+ParlaMint-IS_2022-03-22-54.seg352.7	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	mixed positive	3.869	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.seg352.8	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	positive	5.265	1	37	44	0	
+ParlaMint-IS_2022-03-22-54.seg352.9	ParlaMint-IS_2022-03-22-54.u19	s	English	Negative	mixed negative	0.968	1	38	42	0	
+ParlaMint-IS_2022-03-22-54.seg353.1	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg353.2	ParlaMint-IS_2022-03-22-54.u19	s	English	Positive	mixed positive	3.606	1	43	48	0	
+ParlaMint-IS_2022-03-22-54.u20	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	13	288	317	21	
+ParlaMint-IS_2022-03-22-54.seg354.1	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg354.2	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral positive	2.683	1	29	33	5	
+ParlaMint-IS_2022-03-22-54.seg354.3	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral positive	3.242	1	17	19	2	
+ParlaMint-IS_2022-03-22-54.seg354.4	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	mixed negative	0.526	1	40	43	0	
+ParlaMint-IS_2022-03-22-54.seg354.5	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	mixed negative	0.895	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg354.6	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral negative	2.338	1	35	37	3	
+ParlaMint-IS_2022-03-22-54.seg354.7	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	mixed negative	0.715	1	13	14	1	
+ParlaMint-IS_2022-03-22-54.seg355.1	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg355.2	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral negative	1.603	1	53	57	5	
+ParlaMint-IS_2022-03-22-54.seg355.3	ParlaMint-IS_2022-03-22-54.u20	s	English	Neutral	neutral negative	1.732	1	9	12	0	
+ParlaMint-IS_2022-03-22-54.seg355.4	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	negative	0.166	1	26	27	0	
+ParlaMint-IS_2022-03-22-54.seg355.5	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	negative	0.132	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg355.6	ParlaMint-IS_2022-03-22-54.u20	s	English	Negative	negative	0.361	1	43	47	5	
+ParlaMint-IS_2022-03-22-54.u21	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	261	287	14	
+ParlaMint-IS_2022-03-22-54.seg356.1	ParlaMint-IS_2022-03-22-54.u21	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg356.2	ParlaMint-IS_2022-03-22-54.u21	s	English	Negative	negative	0.112	1	27	29	1	
+ParlaMint-IS_2022-03-22-54.seg356.3	ParlaMint-IS_2022-03-22-54.u21	s	English	Negative	mixed negative	0.702	1	60	66	2	
+ParlaMint-IS_2022-03-22-54.seg356.4	ParlaMint-IS_2022-03-22-54.u21	s	English	Positive	mixed positive	4.089	1	36	39	3	
+ParlaMint-IS_2022-03-22-54.seg356.5	ParlaMint-IS_2022-03-22-54.u21	s	English	Negative	mixed negative	0.624	1	12	13	1	
+ParlaMint-IS_2022-03-22-54.seg356.6	ParlaMint-IS_2022-03-22-54.u21	s	English	Neutral	neutral negative	1.513	1	41	44	3	
+ParlaMint-IS_2022-03-22-54.seg356.7	ParlaMint-IS_2022-03-22-54.u21	s	English	Neutral	neutral negative	2.413	1	38	44	4	
+ParlaMint-IS_2022-03-22-54.seg356.8	ParlaMint-IS_2022-03-22-54.u21	s	English	Negative	negative	0.244	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.seg356.9	ParlaMint-IS_2022-03-22-54.u21	s	English	Negative	negative	0.147	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.u22	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	368	407	15	
+ParlaMint-IS_2022-03-22-54.seg357.1	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg357.2	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral positive	2.806	1	31	38	4	
+ParlaMint-IS_2022-03-22-54.seg357.3	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral positive	2.953	1	48	51	1	
+ParlaMint-IS_2022-03-22-54.seg357.4	ParlaMint-IS_2022-03-22-54.u22	s	English	Negative	negative	0.244	1	46	50	2	
+ParlaMint-IS_2022-03-22-54.seg357.5	ParlaMint-IS_2022-03-22-54.u22	s	English	Negative	negative	0.202	1	42	46	2	
+ParlaMint-IS_2022-03-22-54.seg358.1	ParlaMint-IS_2022-03-22-54.u22	s	English	Positive	mixed positive	3.631	1	33	36	1	
+ParlaMint-IS_2022-03-22-54.seg358.2	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral negative	2.280	1	27	28	0	
+ParlaMint-IS_2022-03-22-54.seg358.3	ParlaMint-IS_2022-03-22-54.u22	s	English	Negative	negative	0.231	1	50	54	3	
+ParlaMint-IS_2022-03-22-54.seg359.1	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg359.2	ParlaMint-IS_2022-03-22-54.u22	s	English	Positive	mixed positive	4.153	1	51	56	2	
+ParlaMint-IS_2022-03-22-54.seg359.3	ParlaMint-IS_2022-03-22-54.u22	s	English	Positive	mixed positive	4.381	1	11	15	0	
+ParlaMint-IS_2022-03-22-54.seg359.4	ParlaMint-IS_2022-03-22-54.u22	s	English	Neutral	neutral negative	2.362	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.u23	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	168	189	4	
+ParlaMint-IS_2022-03-22-54.seg360.1	ParlaMint-IS_2022-03-22-54.u23	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg360.2	ParlaMint-IS_2022-03-22-54.u23	s	English	Neutral	neutral positive	2.775	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg360.3	ParlaMint-IS_2022-03-22-54.u23	s	English	Neutral	neutral negative	2.404	1	28	31	1	
+ParlaMint-IS_2022-03-22-54.seg360.4	ParlaMint-IS_2022-03-22-54.u23	s	English	Negative	negative	0.254	1	20	23	2	
+ParlaMint-IS_2022-03-22-54.seg360.5	ParlaMint-IS_2022-03-22-54.u23	s	English	Negative	mixed negative	0.515	1	31	34	0	
+ParlaMint-IS_2022-03-22-54.seg360.6	ParlaMint-IS_2022-03-22-54.u23	s	English	Negative	negative	0.260	1	24	28	0	
+ParlaMint-IS_2022-03-22-54.seg360.7	ParlaMint-IS_2022-03-22-54.u23	s	English	Neutral	neutral negative	2.093	1	26	29	1	
+ParlaMint-IS_2022-03-22-54.seg360.8	ParlaMint-IS_2022-03-22-54.u23	s	English	Negative	mixed negative	1.475	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.u24	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	2	52	57	1	
+ParlaMint-IS_2022-03-22-54.seg361.1	ParlaMint-IS_2022-03-22-54.u24	s	English	Negative	mixed negative	1.039	1	33	37	1	
+ParlaMint-IS_2022-03-22-54.seg361.2	ParlaMint-IS_2022-03-22-54.u24	s	English	Neutral	neutral positive	2.797	1	19	20	0	
+ParlaMint-IS_2022-03-22-54.u25	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	188	207	4	
+ParlaMint-IS_2022-03-22-54.seg362.1	ParlaMint-IS_2022-03-22-54.u25	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg362.2	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	mixed negative	1.316	1	7	10	0	
+ParlaMint-IS_2022-03-22-54.seg362.3	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	negative	0.184	1	41	44	2	
+ParlaMint-IS_2022-03-22-54.seg362.4	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	negative	0.223	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg362.5	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	negative	0.475	1	21	22	1	
+ParlaMint-IS_2022-03-22-54.seg362.6	ParlaMint-IS_2022-03-22-54.u25	s	English	Neutral	neutral negative	2.384	1	50	56	0	
+ParlaMint-IS_2022-03-22-54.seg362.7	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	negative	0.265	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg362.8	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	mixed negative	0.983	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg362.9	ParlaMint-IS_2022-03-22-54.u25	s	English	Negative	mixed negative	1.371	1	22	23	1	
+ParlaMint-IS_2022-03-22-54.u26	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	1	41	47	2	
+ParlaMint-IS_2022-03-22-54.seg363.1	ParlaMint-IS_2022-03-22-54.u26	s	English	Neutral	neutral negative	2.460	1	41	47	2	
+ParlaMint-IS_2022-03-22-54.u27	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	5	112	120	0	
+ParlaMint-IS_2022-03-22-54.seg364.1	ParlaMint-IS_2022-03-22-54.u27	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg364.2	ParlaMint-IS_2022-03-22-54.u27	s	English	Positive	mixed positive	4.321	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg364.3	ParlaMint-IS_2022-03-22-54.u27	s	English	Negative	negative	0.382	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg364.4	ParlaMint-IS_2022-03-22-54.u27	s	English	Negative	mixed negative	0.817	1	52	55	0	
+ParlaMint-IS_2022-03-22-54.seg364.5	ParlaMint-IS_2022-03-22-54.u27	s	English	Negative	negative	0.296	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.u28	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	1	39	42	1	
+ParlaMint-IS_2022-03-22-54.seg365.1	ParlaMint-IS_2022-03-22-54.u28	s	English	Neutral	neutral positive	2.787	1	39	42	1	
+ParlaMint-IS_2022-03-22-54.u29	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	13	173	191	1	
+ParlaMint-IS_2022-03-22-54.seg366.1	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg366.2	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	mixed negative	1.156	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg366.3	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	mixed negative	0.948	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg366.4	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	negative	0.403	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg366.5	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral negative	2.452	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg366.6	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral negative	2.360	1	5	6	0	
+ParlaMint-IS_2022-03-22-54.seg366.7	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral positive	3.334	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg366.8	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral negative	2.255	1	31	35	0	
+ParlaMint-IS_2022-03-22-54.seg366.9	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral positive	2.655	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg366.10	ParlaMint-IS_2022-03-22-54.u29	s	English	Neutral	neutral positive	3.167	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg366.11	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	mixed negative	0.537	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg366.12	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	negative	0.216	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg366.13	ParlaMint-IS_2022-03-22-54.u29	s	English	Negative	mixed negative	0.761	1	17	18	0	
+ParlaMint-IS_2022-03-22-54.u30	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	2	76	86	3	
+ParlaMint-IS_2022-03-22-54.seg367.1	ParlaMint-IS_2022-03-22-54.u30	s	English	Negative	mixed negative	0.952	1	37	43	2	
+ParlaMint-IS_2022-03-22-54.seg367.2	ParlaMint-IS_2022-03-22-54.u30	s	English	Neutral	neutral negative	2.371	1	39	43	1	
+ParlaMint-IS_2022-03-22-54.u31	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	34	712	809	19	
+ParlaMint-IS_2022-03-22-54.seg368.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg368.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Positive	mixed positive	4.101	1	27	32	1	
+ParlaMint-IS_2022-03-22-54.seg368.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.628	1	29	32	3	
+ParlaMint-IS_2022-03-22-54.seg368.4	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral negative	1.897	1	23	27	0	
+ParlaMint-IS_2022-03-22-54.seg368.5	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral negative	2.317	1	11	12	1	
+ParlaMint-IS_2022-03-22-54.seg368.6	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.659	1	29	34	3	
+ParlaMint-IS_2022-03-22-54.seg369.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.836	1	30	34	0	
+ParlaMint-IS_2022-03-22-54.seg369.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.696	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg369.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.319	1	25	27	1	
+ParlaMint-IS_2022-03-22-54.seg370.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.681	1	23	25	1	
+ParlaMint-IS_2022-03-22-54.seg370.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.708	1	18	21	0	
+ParlaMint-IS_2022-03-22-54.seg370.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	1.131	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg370.4	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral positive	2.697	1	43	47	1	
+ParlaMint-IS_2022-03-22-54.seg370.5	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	1.092	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg370.6	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.592	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg370.7	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.689	1	11	13	2	
+ParlaMint-IS_2022-03-22-54.seg370.8	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.207	1	50	56	0	
+ParlaMint-IS_2022-03-22-54.seg371.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.598	1	30	33	1	
+ParlaMint-IS_2022-03-22-54.seg371.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.341	1	18	22	0	
+ParlaMint-IS_2022-03-22-54.seg371.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	0.629	1	29	35	2	
+ParlaMint-IS_2022-03-22-54.seg371.4	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	1.039	1	16	17	1	
+ParlaMint-IS_2022-03-22-54.seg372.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.092	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg372.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.192	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg372.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral negative	1.842	1	15	18	1	
+ParlaMint-IS_2022-03-22-54.seg372.4	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.292	1	27	31	0	
+ParlaMint-IS_2022-03-22-54.seg372.5	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.112	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg372.6	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.187	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.seg372.7	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral positive	2.871	1	8	10	0	
+ParlaMint-IS_2022-03-22-54.seg372.8	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.374	1	20	24	0	
+ParlaMint-IS_2022-03-22-54.seg372.9	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	negative	0.311	1	17	20	0	
+ParlaMint-IS_2022-03-22-54.seg373.1	ParlaMint-IS_2022-03-22-54.u31	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg373.2	ParlaMint-IS_2022-03-22-54.u31	s	English	Neutral	neutral negative	2.040	1	33	38	0	
+ParlaMint-IS_2022-03-22-54.seg373.3	ParlaMint-IS_2022-03-22-54.u31	s	English	Negative	mixed negative	1.183	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.seg373.4	ParlaMint-IS_2022-03-22-54.u31	s	English	Positive	mixed positive	3.652	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.u32	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	39	901	1000	30	
+ParlaMint-IS_2022-03-22-54.seg374.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg374.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	positive	4.539	1	25	28	2	
+ParlaMint-IS_2022-03-22-54.seg374.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.097	1	16	19	0	
+ParlaMint-IS_2022-03-22-54.seg374.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral negative	2.496	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg374.5	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.117	1	36	39	0	
+ParlaMint-IS_2022-03-22-54.seg374.6	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.320	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg375.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral negative	1.679	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg375.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral negative	1.844	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg375.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.377	1	38	45	1	
+ParlaMint-IS_2022-03-22-54.seg375.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	mixed negative	1.353	1	13	14	1	
+ParlaMint-IS_2022-03-22-54.seg375.5	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.226	1	31	33	1	
+ParlaMint-IS_2022-03-22-54.seg375.6	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	mixed negative	0.689	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg375.7	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.116	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg376.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.136	1	42	46	3	
+ParlaMint-IS_2022-03-22-54.seg376.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	mixed negative	1.486	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg376.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral positive	3.041	1	24	27	0	
+ParlaMint-IS_2022-03-22-54.seg376.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.257	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg377.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	mixed negative	1.424	1	25	29	2	
+ParlaMint-IS_2022-03-22-54.seg377.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.283	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg377.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.366	1	33	36	3	
+ParlaMint-IS_2022-03-22-54.seg377.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	4.112	1	44	49	2	
+ParlaMint-IS_2022-03-22-54.seg378.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	4.008	1	25	29	2	
+ParlaMint-IS_2022-03-22-54.seg378.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.387	1	18	21	1	
+ParlaMint-IS_2022-03-22-54.seg378.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral positive	3.284	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg378.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.148	1	34	36	0	
+ParlaMint-IS_2022-03-22-54.seg379.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	3.765	1	20	21	1	
+ParlaMint-IS_2022-03-22-54.seg379.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	3.687	1	5	6	1	
+ParlaMint-IS_2022-03-22-54.seg379.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	3.536	1	23	26	2	
+ParlaMint-IS_2022-03-22-54.seg379.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	mixed negative	0.524	1	8	10	1	
+ParlaMint-IS_2022-03-22-54.seg379.5	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	4.315	1	23	27	2	
+ParlaMint-IS_2022-03-22-54.seg379.6	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	3.876	1	23	24	1	
+ParlaMint-IS_2022-03-22-54.seg380.1	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral positive	2.676	1	24	26	1	
+ParlaMint-IS_2022-03-22-54.seg380.2	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	mixed positive	4.065	1	27	30	0	
+ParlaMint-IS_2022-03-22-54.seg380.3	ParlaMint-IS_2022-03-22-54.u32	s	English	Positive	positive	4.598	1	29	31	1	
+ParlaMint-IS_2022-03-22-54.seg380.4	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.189	1	7	10	0	
+ParlaMint-IS_2022-03-22-54.seg380.5	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.125	1	5	6	0	
+ParlaMint-IS_2022-03-22-54.seg380.6	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.331	1	30	33	1	
+ParlaMint-IS_2022-03-22-54.seg380.7	ParlaMint-IS_2022-03-22-54.u32	s	English	Negative	negative	0.417	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg380.8	ParlaMint-IS_2022-03-22-54.u32	s	English	Neutral	neutral positive	2.527	1	53	57	1	
+ParlaMint-IS_2022-03-22-54.u33	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	232	265	6	
+ParlaMint-IS_2022-03-22-54.seg381.1	ParlaMint-IS_2022-03-22-54.u33	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg381.2	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	negative	0.419	1	42	47	1	
+ParlaMint-IS_2022-03-22-54.seg381.3	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	negative	0.440	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg381.4	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	negative	0.384	1	60	68	3	
+ParlaMint-IS_2022-03-22-54.seg381.5	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	negative	0.387	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.seg381.6	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	mixed negative	0.506	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg381.7	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	mixed negative	1.067	1	21	25	1	
+ParlaMint-IS_2022-03-22-54.seg381.8	ParlaMint-IS_2022-03-22-54.u33	s	English	Negative	negative	0.129	1	50	58	1	
+ParlaMint-IS_2022-03-22-54.u34	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	230	270	9	
+ParlaMint-IS_2022-03-22-54.seg382.1	ParlaMint-IS_2022-03-22-54.u34	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg382.2	ParlaMint-IS_2022-03-22-54.u34	s	English	Positive	positive	4.673	1	37	44	1	
+ParlaMint-IS_2022-03-22-54.seg382.3	ParlaMint-IS_2022-03-22-54.u34	s	English	Neutral	neutral positive	3.419	1	59	68	3	
+ParlaMint-IS_2022-03-22-54.seg382.4	ParlaMint-IS_2022-03-22-54.u34	s	English	Neutral	neutral positive	3.328	1	32	37	2	
+ParlaMint-IS_2022-03-22-54.seg382.5	ParlaMint-IS_2022-03-22-54.u34	s	English	Positive	mixed positive	3.737	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg382.6	ParlaMint-IS_2022-03-22-54.u34	s	English	Negative	negative	0.200	1	11	14	0	
+ParlaMint-IS_2022-03-22-54.seg382.7	ParlaMint-IS_2022-03-22-54.u34	s	English	Negative	negative	0.355	1	26	30	3	
+ParlaMint-IS_2022-03-22-54.seg382.8	ParlaMint-IS_2022-03-22-54.u34	s	English	Negative	negative	0.215	1	36	44	0	
+ParlaMint-IS_2022-03-22-54.seg382.9	ParlaMint-IS_2022-03-22-54.u34	s	English	Neutral	neutral negative	2.221	1	11	13	0	
+ParlaMint-IS_2022-03-22-54.u35	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	13	309	343	8	
+ParlaMint-IS_2022-03-22-54.seg383.1	ParlaMint-IS_2022-03-22-54.u35	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg383.2	ParlaMint-IS_2022-03-22-54.u35	s	English	Positive	positive	4.914	1	17	19	1	
+ParlaMint-IS_2022-03-22-54.seg383.3	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	mixed negative	1.328	1	31	34	0	
+ParlaMint-IS_2022-03-22-54.seg384.1	ParlaMint-IS_2022-03-22-54.u35	s	English	Neutral	neutral negative	1.574	1	11	13	0	
+ParlaMint-IS_2022-03-22-54.seg384.2	ParlaMint-IS_2022-03-22-54.u35	s	English	Neutral	neutral positive	3.240	1	18	19	1	
+ParlaMint-IS_2022-03-22-54.seg384.3	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	mixed negative	0.611	1	20	23	1	
+ParlaMint-IS_2022-03-22-54.seg384.4	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	negative	0.354	1	23	24	0	
+ParlaMint-IS_2022-03-22-54.seg384.5	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	mixed negative	0.557	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg384.6	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	negative	0.478	1	22	23	0	
+ParlaMint-IS_2022-03-22-54.seg385.1	ParlaMint-IS_2022-03-22-54.u35	s	English	Neutral	neutral positive	3.180	1	24	29	1	
+ParlaMint-IS_2022-03-22-54.seg385.2	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	negative	0.297	1	49	56	3	
+ParlaMint-IS_2022-03-22-54.seg385.3	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	negative	0.160	1	20	22	1	
+ParlaMint-IS_2022-03-22-54.seg385.4	ParlaMint-IS_2022-03-22-54.u35	s	English	Negative	negative	0.199	1	34	36	0	
+ParlaMint-IS_2022-03-22-54.u36	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	15	329	370	8	
+ParlaMint-IS_2022-03-22-54.seg386.1	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg386.2	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	negative	0.354	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg386.3	ParlaMint-IS_2022-03-22-54.u36	s	English	Positive	positive	4.923	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg386.4	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	negative	0.165	1	22	27	0	
+ParlaMint-IS_2022-03-22-54.seg386.5	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral positive	2.675	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg387.1	ParlaMint-IS_2022-03-22-54.u36	s	English	Positive	mixed positive	3.973	1	32	36	1	
+ParlaMint-IS_2022-03-22-54.seg387.2	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	negative	0.188	1	21	24	0	
+ParlaMint-IS_2022-03-22-54.seg387.3	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral negative	1.691	1	24	26	1	
+ParlaMint-IS_2022-03-22-54.seg387.4	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	negative	0.262	1	16	17	1	
+ParlaMint-IS_2022-03-22-54.seg387.5	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral positive	2.877	1	28	30	1	
+ParlaMint-IS_2022-03-22-54.seg387.6	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral negative	1.565	1	10	12	0	
+ParlaMint-IS_2022-03-22-54.seg388.1	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	mixed negative	0.530	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg388.2	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	mixed negative	0.795	1	33	42	4	
+ParlaMint-IS_2022-03-22-54.seg388.3	ParlaMint-IS_2022-03-22-54.u36	s	English	Negative	negative	0.196	1	36	38	0	
+ParlaMint-IS_2022-03-22-54.seg388.4	ParlaMint-IS_2022-03-22-54.u36	s	English	Neutral	neutral positive	3.042	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.u37	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	216	240	3	
+ParlaMint-IS_2022-03-22-54.seg389.1	ParlaMint-IS_2022-03-22-54.u37	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg389.2	ParlaMint-IS_2022-03-22-54.u37	s	English	Neutral	neutral negative	2.020	1	58	63	0	
+ParlaMint-IS_2022-03-22-54.seg390.1	ParlaMint-IS_2022-03-22-54.u37	s	English	Negative	mixed negative	0.577	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg390.2	ParlaMint-IS_2022-03-22-54.u37	s	English	Negative	negative	0.193	1	25	29	0	
+ParlaMint-IS_2022-03-22-54.seg390.3	ParlaMint-IS_2022-03-22-54.u37	s	English	Negative	negative	0.234	1	38	42	1	
+ParlaMint-IS_2022-03-22-54.seg391.1	ParlaMint-IS_2022-03-22-54.u37	s	English	Negative	mixed negative	0.507	1	23	27	1	
+ParlaMint-IS_2022-03-22-54.seg391.2	ParlaMint-IS_2022-03-22-54.u37	s	English	Negative	mixed negative	1.259	1	32	34	1	
+ParlaMint-IS_2022-03-22-54.u38	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	312	353	3	
+ParlaMint-IS_2022-03-22-54.seg392.1	ParlaMint-IS_2022-03-22-54.u38	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg392.2	ParlaMint-IS_2022-03-22-54.u38	s	English	Neutral	neutral positive	2.890	1	13	16	0	
+ParlaMint-IS_2022-03-22-54.seg392.3	ParlaMint-IS_2022-03-22-54.u38	s	English	Positive	mixed positive	3.831	1	50	55	0	
+ParlaMint-IS_2022-03-22-54.seg392.4	ParlaMint-IS_2022-03-22-54.u38	s	English	Positive	mixed positive	3.931	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg392.5	ParlaMint-IS_2022-03-22-54.u38	s	English	Neutral	neutral positive	3.281	1	18	19	1	
+ParlaMint-IS_2022-03-22-54.seg392.6	ParlaMint-IS_2022-03-22-54.u38	s	English	Positive	mixed positive	4.210	1	17	20	2	
+ParlaMint-IS_2022-03-22-54.seg392.7	ParlaMint-IS_2022-03-22-54.u38	s	English	Neutral	neutral positive	2.948	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg392.8	ParlaMint-IS_2022-03-22-54.u38	s	English	Neutral	neutral positive	3.413	1	17	20	0	
+ParlaMint-IS_2022-03-22-54.seg392.9	ParlaMint-IS_2022-03-22-54.u38	s	English	Negative	negative	0.295	1	25	29	0	
+ParlaMint-IS_2022-03-22-54.seg392.10	ParlaMint-IS_2022-03-22-54.u38	s	English	Negative	mixed negative	0.883	1	66	73	0	
+ParlaMint-IS_2022-03-22-54.seg393.1	ParlaMint-IS_2022-03-22-54.u38	s	English	Positive	positive	4.929	1	41	48	0	
+ParlaMint-IS_2022-03-22-54.seg393.2	ParlaMint-IS_2022-03-22-54.u38	s	English	Negative	mixed negative	1.022	1	25	28	0	
+ParlaMint-IS_2022-03-22-54.u39	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	14	303	341	15	
+ParlaMint-IS_2022-03-22-54.seg394.1	ParlaMint-IS_2022-03-22-54.u39	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg394.2	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	positive	4.554	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg394.3	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	positive	4.932	1	30	32	1	
+ParlaMint-IS_2022-03-22-54.seg394.4	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	mixed positive	4.294	1	20	21	1	
+ParlaMint-IS_2022-03-22-54.seg394.5	ParlaMint-IS_2022-03-22-54.u39	s	English	Neutral	neutral positive	2.564	1	39	44	6	
+ParlaMint-IS_2022-03-22-54.seg394.6	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	positive	5.273	1	5	6	0	
+ParlaMint-IS_2022-03-22-54.seg395.1	ParlaMint-IS_2022-03-22-54.u39	s	English	Negative	mixed negative	1.247	1	11	14	1	
+ParlaMint-IS_2022-03-22-54.seg395.2	ParlaMint-IS_2022-03-22-54.u39	s	English	Negative	mixed negative	0.646	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg395.3	ParlaMint-IS_2022-03-22-54.u39	s	English	Negative	mixed negative	0.913	1	26	30	0	
+ParlaMint-IS_2022-03-22-54.seg395.4	ParlaMint-IS_2022-03-22-54.u39	s	English	Negative	negative	0.144	1	22	29	1	
+ParlaMint-IS_2022-03-22-54.seg395.5	ParlaMint-IS_2022-03-22-54.u39	s	English	Negative	negative	0.215	1	36	40	0	
+ParlaMint-IS_2022-03-22-54.seg396.1	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	mixed positive	3.745	1	21	22	1	
+ParlaMint-IS_2022-03-22-54.seg396.2	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	mixed positive	3.692	1	30	33	2	
+ParlaMint-IS_2022-03-22-54.seg396.3	ParlaMint-IS_2022-03-22-54.u39	s	English	Positive	mixed positive	3.916	1	28	31	1	
+ParlaMint-IS_2022-03-22-54.u40	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	14	297	336	9	
+ParlaMint-IS_2022-03-22-54.seg397.1	ParlaMint-IS_2022-03-22-54.u40	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg397.2	ParlaMint-IS_2022-03-22-54.u40	s	English	Positive	positive	4.872	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.seg397.3	ParlaMint-IS_2022-03-22-54.u40	s	English	Negative	mixed negative	1.212	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg397.4	ParlaMint-IS_2022-03-22-54.u40	s	English	Negative	mixed negative	0.639	1	42	48	2	
+ParlaMint-IS_2022-03-22-54.seg397.5	ParlaMint-IS_2022-03-22-54.u40	s	English	Positive	mixed positive	3.617	1	18	21	1	
+ParlaMint-IS_2022-03-22-54.seg397.6	ParlaMint-IS_2022-03-22-54.u40	s	English	Positive	mixed positive	3.687	1	7	9	0	
+ParlaMint-IS_2022-03-22-54.seg397.7	ParlaMint-IS_2022-03-22-54.u40	s	English	Positive	mixed positive	3.962	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg397.8	ParlaMint-IS_2022-03-22-54.u40	s	English	Negative	mixed negative	0.630	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg398.1	ParlaMint-IS_2022-03-22-54.u40	s	English	Negative	mixed negative	0.762	1	25	26	1	
+ParlaMint-IS_2022-03-22-54.seg398.2	ParlaMint-IS_2022-03-22-54.u40	s	English	Neutral	neutral negative	2.125	1	23	28	2	
+ParlaMint-IS_2022-03-22-54.seg398.3	ParlaMint-IS_2022-03-22-54.u40	s	English	Negative	mixed negative	0.988	1	33	37	1	
+ParlaMint-IS_2022-03-22-54.seg398.4	ParlaMint-IS_2022-03-22-54.u40	s	English	Neutral	neutral negative	2.443	1	26	28	2	
+ParlaMint-IS_2022-03-22-54.seg398.5	ParlaMint-IS_2022-03-22-54.u40	s	English	Neutral	neutral positive	3.480	1	32	37	0	
+ParlaMint-IS_2022-03-22-54.seg398.6	ParlaMint-IS_2022-03-22-54.u40	s	English	Neutral	neutral positive	3.363	1	18	21	0	
+ParlaMint-IS_2022-03-22-54.u41	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	276	304	5	
+ParlaMint-IS_2022-03-22-54.seg399.1	ParlaMint-IS_2022-03-22-54.u41	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg399.2	ParlaMint-IS_2022-03-22-54.u41	s	English	Positive	positive	4.852	1	25	26	1	
+ParlaMint-IS_2022-03-22-54.seg399.3	ParlaMint-IS_2022-03-22-54.u41	s	English	Negative	mixed negative	0.539	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg399.4	ParlaMint-IS_2022-03-22-54.u41	s	English	Positive	positive	5.201	1	34	38	0	
+ParlaMint-IS_2022-03-22-54.seg399.5	ParlaMint-IS_2022-03-22-54.u41	s	English	Neutral	neutral positive	3.163	1	11	13	0	
+ParlaMint-IS_2022-03-22-54.seg399.6	ParlaMint-IS_2022-03-22-54.u41	s	English	Neutral	neutral positive	2.532	1	34	37	0	
+ParlaMint-IS_2022-03-22-54.seg399.7	ParlaMint-IS_2022-03-22-54.u41	s	English	Negative	mixed negative	0.612	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg399.8	ParlaMint-IS_2022-03-22-54.u41	s	English	Negative	negative	0.341	1	11	12	0	
+ParlaMint-IS_2022-03-22-54.seg399.9	ParlaMint-IS_2022-03-22-54.u41	s	English	Neutral	neutral positive	2.968	1	10	12	0	
+ParlaMint-IS_2022-03-22-54.seg400.1	ParlaMint-IS_2022-03-22-54.u41	s	English	Negative	negative	0.442	1	17	18	0	
+ParlaMint-IS_2022-03-22-54.seg400.2	ParlaMint-IS_2022-03-22-54.u41	s	English	Positive	mixed positive	4.015	1	38	41	4	
+ParlaMint-IS_2022-03-22-54.seg400.3	ParlaMint-IS_2022-03-22-54.u41	s	English	Positive	positive	4.900	1	44	50	0	
+ParlaMint-IS_2022-03-22-54.u42	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	14	277	304	14	
+ParlaMint-IS_2022-03-22-54.seg401.1	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg401.2	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	positive	4.792	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg401.3	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral negative	2.437	1	18	20	2	
+ParlaMint-IS_2022-03-22-54.seg401.4	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	mixed positive	4.036	1	32	35	2	
+ParlaMint-IS_2022-03-22-54.seg401.5	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral positive	3.079	1	14	15	1	
+ParlaMint-IS_2022-03-22-54.seg401.6	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	mixed positive	4.059	1	21	23	2	
+ParlaMint-IS_2022-03-22-54.seg402.1	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral positive	2.900	1	30	32	1	
+ParlaMint-IS_2022-03-22-54.seg402.2	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral negative	1.507	1	36	41	2	
+ParlaMint-IS_2022-03-22-54.seg402.3	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral negative	1.599	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg402.4	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral positive	2.923	1	5	6	0	
+ParlaMint-IS_2022-03-22-54.seg403.1	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral negative	1.518	1	31	33	3	
+ParlaMint-IS_2022-03-22-54.seg403.2	ParlaMint-IS_2022-03-22-54.u42	s	English	Neutral	neutral positive	2.625	1	22	24	1	
+ParlaMint-IS_2022-03-22-54.seg403.3	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	mixed positive	4.076	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg403.4	ParlaMint-IS_2022-03-22-54.u42	s	English	Positive	positive	4.516	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.u43	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	228	245	5	
+ParlaMint-IS_2022-03-22-54.seg404.1	ParlaMint-IS_2022-03-22-54.u43	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg404.2	ParlaMint-IS_2022-03-22-54.u43	s	English	Negative	mixed negative	1.488	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg404.3	ParlaMint-IS_2022-03-22-54.u43	s	English	Neutral	neutral negative	2.476	1	30	33	1	
+ParlaMint-IS_2022-03-22-54.seg404.4	ParlaMint-IS_2022-03-22-54.u43	s	English	Negative	negative	0.187	1	27	29	1	
+ParlaMint-IS_2022-03-22-54.seg404.5	ParlaMint-IS_2022-03-22-54.u43	s	English	Negative	mixed negative	0.601	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg404.6	ParlaMint-IS_2022-03-22-54.u43	s	English	Neutral	neutral negative	1.538	1	34	37	2	
+ParlaMint-IS_2022-03-22-54.seg404.7	ParlaMint-IS_2022-03-22-54.u43	s	English	Negative	mixed negative	0.927	1	42	45	0	
+ParlaMint-IS_2022-03-22-54.seg404.8	ParlaMint-IS_2022-03-22-54.u43	s	English	Negative	negative	0.238	1	23	24	1	
+ParlaMint-IS_2022-03-22-54.seg404.9	ParlaMint-IS_2022-03-22-54.u43	s	English	Positive	mixed positive	4.244	1	40	41	0	
+ParlaMint-IS_2022-03-22-54.u44	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	17	308	343	11	
+ParlaMint-IS_2022-03-22-54.seg405.1	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg405.2	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	positive	5.055	1	26	31	1	
+ParlaMint-IS_2022-03-22-54.seg405.3	ParlaMint-IS_2022-03-22-54.u44	s	English	Neutral	neutral positive	2.631	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg405.4	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	negative	0.430	1	20	22	2	
+ParlaMint-IS_2022-03-22-54.seg405.5	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	mixed positive	3.569	1	43	47	3	
+ParlaMint-IS_2022-03-22-54.seg405.6	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	mixed negative	0.956	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg405.7	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	mixed positive	3.945	1	25	29	0	
+ParlaMint-IS_2022-03-22-54.seg405.8	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	mixed positive	3.806	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg405.9	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	negative	0.358	1	10	12	1	
+ParlaMint-IS_2022-03-22-54.seg405.10	ParlaMint-IS_2022-03-22-54.u44	s	English	Positive	positive	4.675	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg406.1	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	mixed negative	1.109	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg406.2	ParlaMint-IS_2022-03-22-54.u44	s	English	Neutral	neutral positive	3.097	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg406.3	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	mixed negative	1.414	1	30	31	3	
+ParlaMint-IS_2022-03-22-54.seg406.4	ParlaMint-IS_2022-03-22-54.u44	s	English	Neutral	neutral positive	2.705	1	36	40	1	
+ParlaMint-IS_2022-03-22-54.seg406.5	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	negative	0.294	1	22	23	0	
+ParlaMint-IS_2022-03-22-54.seg406.6	ParlaMint-IS_2022-03-22-54.u44	s	English	Negative	negative	0.405	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg406.7	ParlaMint-IS_2022-03-22-54.u44	s	English	Neutral	neutral negative	2.098	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.u45	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	14	312	347	10	
+ParlaMint-IS_2022-03-22-54.seg407.1	ParlaMint-IS_2022-03-22-54.u45	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg407.2	ParlaMint-IS_2022-03-22-54.u45	s	English	Neutral	neutral positive	3.124	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg407.3	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	negative	0.410	1	22	25	0	
+ParlaMint-IS_2022-03-22-54.seg407.4	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	negative	0.118	1	25	27	0	
+ParlaMint-IS_2022-03-22-54.seg407.5	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	mixed negative	0.563	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg407.6	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	mixed negative	0.779	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg407.7	ParlaMint-IS_2022-03-22-54.u45	s	English	Positive	positive	4.667	1	10	11	1	
+ParlaMint-IS_2022-03-22-54.seg407.8	ParlaMint-IS_2022-03-22-54.u45	s	English	Positive	mixed positive	3.595	1	29	31	2	
+ParlaMint-IS_2022-03-22-54.seg408.1	ParlaMint-IS_2022-03-22-54.u45	s	English	Positive	mixed positive	3.840	1	32	35	1	
+ParlaMint-IS_2022-03-22-54.seg408.2	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	negative	0.333	1	32	36	1	
+ParlaMint-IS_2022-03-22-54.seg408.3	ParlaMint-IS_2022-03-22-54.u45	s	English	Neutral	neutral negative	2.349	1	22	29	4	
+ParlaMint-IS_2022-03-22-54.seg408.4	ParlaMint-IS_2022-03-22-54.u45	s	English	Neutral	neutral negative	1.511	1	28	30	1	
+ParlaMint-IS_2022-03-22-54.seg408.5	ParlaMint-IS_2022-03-22-54.u45	s	English	Neutral	neutral positive	2.776	1	33	38	0	
+ParlaMint-IS_2022-03-22-54.seg408.6	ParlaMint-IS_2022-03-22-54.u45	s	English	Negative	negative	0.244	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.u46	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	16	299	343	5	
+ParlaMint-IS_2022-03-22-54.seg409.1	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg409.2	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	positive	4.643	1	19	23	0	
+ParlaMint-IS_2022-03-22-54.seg409.3	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	4.345	1	27	30	0	
+ParlaMint-IS_2022-03-22-54.seg409.4	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	positive	5.366	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg409.5	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.190	1	23	31	0	
+ParlaMint-IS_2022-03-22-54.seg409.6	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.231	1	25	28	1	
+ParlaMint-IS_2022-03-22-54.seg409.7	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.415	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg410.1	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg410.2	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.301	1	47	54	1	
+ParlaMint-IS_2022-03-22-54.seg410.3	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.364	1	30	33	1	
+ParlaMint-IS_2022-03-22-54.seg410.4	ParlaMint-IS_2022-03-22-54.u46	s	English	Negative	negative	0.329	1	23	26	0	
+ParlaMint-IS_2022-03-22-54.seg410.5	ParlaMint-IS_2022-03-22-54.u46	s	English	Neutral	neutral negative	1.831	1	7	9	0	
+ParlaMint-IS_2022-03-22-54.seg410.6	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	4.263	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.seg410.7	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	4.255	1	22	24	1	
+ParlaMint-IS_2022-03-22-54.seg410.8	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	4.090	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg410.9	ParlaMint-IS_2022-03-22-54.u46	s	English	Positive	mixed positive	4.190	1	16	19	1	
+ParlaMint-IS_2022-03-22-54.u47	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	17	365	410	11	
+ParlaMint-IS_2022-03-22-54.seg411.1	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	3.179	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg411.2	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	positive	5.135	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg411.3	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	3.294	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg411.4	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	3.412	1	31	33	3	
+ParlaMint-IS_2022-03-22-54.seg411.5	ParlaMint-IS_2022-03-22-54.u47	s	English	Negative	negative	0.496	1	30	34	1	
+ParlaMint-IS_2022-03-22-54.seg411.6	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	2.795	1	22	24	1	
+ParlaMint-IS_2022-03-22-54.seg411.7	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	2.936	1	21	24	2	
+ParlaMint-IS_2022-03-22-54.seg411.8	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	2.846	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg412.1	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	positive	4.775	1	26	31	0	
+ParlaMint-IS_2022-03-22-54.seg412.2	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	mixed positive	3.514	1	25	27	0	
+ParlaMint-IS_2022-03-22-54.seg412.3	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	mixed positive	3.602	1	38	45	2	
+ParlaMint-IS_2022-03-22-54.seg412.4	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	positive	4.688	1	11	13	1	
+ParlaMint-IS_2022-03-22-54.seg412.5	ParlaMint-IS_2022-03-22-54.u47	s	English	Positive	mixed positive	4.317	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.seg412.6	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral positive	3.353	1	20	25	0	
+ParlaMint-IS_2022-03-22-54.seg412.7	ParlaMint-IS_2022-03-22-54.u47	s	English	Negative	negative	0.053	1	23	25	0	
+ParlaMint-IS_2022-03-22-54.seg412.8	ParlaMint-IS_2022-03-22-54.u47	s	English	Negative	mixed negative	0.964	1	22	24	1	
+ParlaMint-IS_2022-03-22-54.seg412.9	ParlaMint-IS_2022-03-22-54.u47	s	English	Neutral	neutral negative	2.344	1	30	32	0	
+ParlaMint-IS_2022-03-22-54.u48	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	35	985	1070	12	
+ParlaMint-IS_2022-03-22-54.seg413.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg413.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	5.342	1	32	33	1	
+ParlaMint-IS_2022-03-22-54.seg413.3	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	4.839	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.seg414.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.085	1	18	22	2	
+ParlaMint-IS_2022-03-22-54.seg414.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	4.693	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg414.3	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.138	1	38	40	0	
+ParlaMint-IS_2022-03-22-54.seg414.4	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.311	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.seg414.5	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	1.579	1	40	43	1	
+ParlaMint-IS_2022-03-22-54.seg414.6	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.287	1	31	33	0	
+ParlaMint-IS_2022-03-22-54.seg415.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Negative	mixed negative	1.035	1	41	42	1	
+ParlaMint-IS_2022-03-22-54.seg415.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	2.903	1	28	32	0	
+ParlaMint-IS_2022-03-22-54.seg415.3	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	mixed positive	3.961	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg415.4	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	mixed positive	3.858	1	29	33	0	
+ParlaMint-IS_2022-03-22-54.seg415.5	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	mixed positive	4.290	1	26	27	0	
+ParlaMint-IS_2022-03-22-54.seg415.6	ParlaMint-IS_2022-03-22-54.u48	s	English	Negative	mixed negative	0.569	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg415.7	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.133	1	35	37	0	
+ParlaMint-IS_2022-03-22-54.seg415.8	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	1.700	1	32	36	1	
+ParlaMint-IS_2022-03-22-54.seg416.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.008	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg416.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.450	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg416.3	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	2.705	1	34	38	0	
+ParlaMint-IS_2022-03-22-54.seg416.4	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.465	1	36	38	1	
+ParlaMint-IS_2022-03-22-54.seg416.5	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	2.870	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg416.6	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	5.005	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg416.7	ParlaMint-IS_2022-03-22-54.u48	s	English	Negative	mixed negative	1.087	1	45	51	0	
+ParlaMint-IS_2022-03-22-54.seg416.8	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	2.602	1	54	56	1	
+ParlaMint-IS_2022-03-22-54.seg416.9	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.271	1	50	53	0	
+ParlaMint-IS_2022-03-22-54.seg417.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.375	1	19	20	0	
+ParlaMint-IS_2022-03-22-54.seg417.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	2.759	1	22	25	0	
+ParlaMint-IS_2022-03-22-54.seg417.3	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	4.751	1	20	21	0	
+ParlaMint-IS_2022-03-22-54.seg417.4	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	mixed positive	3.522	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.seg417.5	ParlaMint-IS_2022-03-22-54.u48	s	English	Negative	mixed negative	1.011	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg417.6	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.198	1	50	54	1	
+ParlaMint-IS_2022-03-22-54.seg417.7	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral positive	3.088	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg418.1	ParlaMint-IS_2022-03-22-54.u48	s	English	Neutral	neutral negative	2.121	1	42	47	0	
+ParlaMint-IS_2022-03-22-54.seg418.2	ParlaMint-IS_2022-03-22-54.u48	s	English	Positive	positive	4.650	1	38	41	2	
+ParlaMint-IS_2022-03-22-54.u49	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	11	222	249	0	
+ParlaMint-IS_2022-03-22-54.seg419.1	ParlaMint-IS_2022-03-22-54.u49	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg419.2	ParlaMint-IS_2022-03-22-54.u49	s	English	Positive	mixed positive	4.218	1	11	14	0	
+ParlaMint-IS_2022-03-22-54.seg419.3	ParlaMint-IS_2022-03-22-54.u49	s	English	Neutral	neutral positive	3.235	1	39	44	0	
+ParlaMint-IS_2022-03-22-54.seg419.4	ParlaMint-IS_2022-03-22-54.u49	s	English	Negative	mixed negative	1.475	1	36	39	0	
+ParlaMint-IS_2022-03-22-54.seg419.5	ParlaMint-IS_2022-03-22-54.u49	s	English	Negative	negative	0.300	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg419.6	ParlaMint-IS_2022-03-22-54.u49	s	English	Negative	mixed negative	0.780	1	46	50	0	
+ParlaMint-IS_2022-03-22-54.seg419.7	ParlaMint-IS_2022-03-22-54.u49	s	English	Negative	negative	0.421	1	42	46	0	
+ParlaMint-IS_2022-03-22-54.seg419.8	ParlaMint-IS_2022-03-22-54.u49	s	English	Neutral	neutral negative	1.701	1	10	13	0	
+ParlaMint-IS_2022-03-22-54.seg419.9	ParlaMint-IS_2022-03-22-54.u49	s	English	Neutral	neutral positive	3.164	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg419.10	ParlaMint-IS_2022-03-22-54.u49	s	English	Negative	mixed negative	0.775	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg419.11	ParlaMint-IS_2022-03-22-54.u49	s	English	Neutral	neutral positive	3.200	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.u50	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	258	281	0	
+ParlaMint-IS_2022-03-22-54.seg420.1	ParlaMint-IS_2022-03-22-54.u50	s	English	Positive	mixed positive	3.862	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg420.2	ParlaMint-IS_2022-03-22-54.u50	s	English	Negative	negative	0.341	1	32	38	0	
+ParlaMint-IS_2022-03-22-54.seg420.3	ParlaMint-IS_2022-03-22-54.u50	s	English	Negative	mixed negative	1.009	1	61	63	0	
+ParlaMint-IS_2022-03-22-54.seg420.4	ParlaMint-IS_2022-03-22-54.u50	s	English	Neutral	neutral negative	2.100	1	39	43	0	
+ParlaMint-IS_2022-03-22-54.seg420.5	ParlaMint-IS_2022-03-22-54.u50	s	English	Positive	mixed positive	4.358	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg421.1	ParlaMint-IS_2022-03-22-54.u50	s	English	Neutral	neutral positive	2.705	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg421.2	ParlaMint-IS_2022-03-22-54.u50	s	English	Negative	mixed negative	0.964	1	37	39	0	
+ParlaMint-IS_2022-03-22-54.seg421.3	ParlaMint-IS_2022-03-22-54.u50	s	English	Neutral	neutral positive	3.144	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.seg421.4	ParlaMint-IS_2022-03-22-54.u50	s	English	Neutral	neutral positive	3.120	1	28	31	0	
+ParlaMint-IS_2022-03-22-54.u51	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	6	150	168	1	
+ParlaMint-IS_2022-03-22-54.seg422.1	ParlaMint-IS_2022-03-22-54.u51	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg422.2	ParlaMint-IS_2022-03-22-54.u51	s	English	Negative	mixed negative	1.046	1	59	66	1	
+ParlaMint-IS_2022-03-22-54.seg422.3	ParlaMint-IS_2022-03-22-54.u51	s	English	Positive	mixed positive	3.972	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg422.4	ParlaMint-IS_2022-03-22-54.u51	s	English	Negative	negative	0.452	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.seg422.5	ParlaMint-IS_2022-03-22-54.u51	s	English	Negative	mixed negative	0.613	1	29	32	0	
+ParlaMint-IS_2022-03-22-54.seg422.6	ParlaMint-IS_2022-03-22-54.u51	s	English	Neutral	neutral negative	1.590	1	38	42	0	
+ParlaMint-IS_2022-03-22-54.u52	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	3	118	127	2	
+ParlaMint-IS_2022-03-22-54.seg423.1	ParlaMint-IS_2022-03-22-54.u52	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg423.2	ParlaMint-IS_2022-03-22-54.u52	s	English	Positive	positive	5.214	1	57	60	2	
+ParlaMint-IS_2022-03-22-54.seg423.3	ParlaMint-IS_2022-03-22-54.u52	s	English	Neutral	neutral negative	2.026	1	58	63	0	
+ParlaMint-IS_2022-03-22-54.u53	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	193	214	1	
+ParlaMint-IS_2022-03-22-54.seg424.1	ParlaMint-IS_2022-03-22-54.u53	s	English	Neutral	neutral positive	3.120	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg424.2	ParlaMint-IS_2022-03-22-54.u53	s	English	Positive	positive	4.609	1	12	14	1	
+ParlaMint-IS_2022-03-22-54.seg424.3	ParlaMint-IS_2022-03-22-54.u53	s	English	Neutral	neutral negative	2.385	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg424.4	ParlaMint-IS_2022-03-22-54.u53	s	English	Negative	negative	0.446	1	35	37	0	
+ParlaMint-IS_2022-03-22-54.seg424.5	ParlaMint-IS_2022-03-22-54.u53	s	English	Neutral	neutral positive	3.206	1	19	22	0	
+ParlaMint-IS_2022-03-22-54.seg424.6	ParlaMint-IS_2022-03-22-54.u53	s	English	Negative	negative	0.067	1	32	38	0	
+ParlaMint-IS_2022-03-22-54.seg424.7	ParlaMint-IS_2022-03-22-54.u53	s	English	Neutral	neutral negative	1.726	1	36	38	0	
+ParlaMint-IS_2022-03-22-54.seg424.8	ParlaMint-IS_2022-03-22-54.u53	s	English	Neutral	neutral positive	2.670	1	31	34	0	
+ParlaMint-IS_2022-03-22-54.u54	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	5	142	156	1	
+ParlaMint-IS_2022-03-22-54.seg425.1	ParlaMint-IS_2022-03-22-54.u54	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg425.2	ParlaMint-IS_2022-03-22-54.u54	s	English	Positive	mixed positive	3.684	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg425.3	ParlaMint-IS_2022-03-22-54.u54	s	English	Neutral	neutral positive	2.857	1	25	28	1	
+ParlaMint-IS_2022-03-22-54.seg425.4	ParlaMint-IS_2022-03-22-54.u54	s	English	Positive	mixed positive	3.750	1	56	61	0	
+ParlaMint-IS_2022-03-22-54.seg425.5	ParlaMint-IS_2022-03-22-54.u54	s	English	Neutral	neutral positive	2.570	1	51	55	0	
+ParlaMint-IS_2022-03-22-54.u55	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	118	132	2	
+ParlaMint-IS_2022-03-22-54.seg426.1	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral positive	3.120	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg426.2	ParlaMint-IS_2022-03-22-54.u55	s	English	Positive	mixed positive	4.165	1	7	9	0	
+ParlaMint-IS_2022-03-22-54.seg426.3	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral negative	2.330	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg426.4	ParlaMint-IS_2022-03-22-54.u55	s	English	Negative	mixed negative	0.505	1	35	37	1	
+ParlaMint-IS_2022-03-22-54.seg426.5	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral negative	1.964	1	19	20	1	
+ParlaMint-IS_2022-03-22-54.seg426.6	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral positive	2.993	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg426.7	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral negative	1.980	1	16	18	0	
+ParlaMint-IS_2022-03-22-54.seg426.8	ParlaMint-IS_2022-03-22-54.u55	s	English	Neutral	neutral positive	3.166	1	9	11	0	
+ParlaMint-IS_2022-03-22-54.u56	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	6	97	108	0	
+ParlaMint-IS_2022-03-22-54.seg427.1	ParlaMint-IS_2022-03-22-54.u56	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg427.2	ParlaMint-IS_2022-03-22-54.u56	s	English	Positive	mixed positive	4.146	1	7	9	0	
+ParlaMint-IS_2022-03-22-54.seg427.3	ParlaMint-IS_2022-03-22-54.u56	s	English	Neutral	neutral positive	2.924	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg427.4	ParlaMint-IS_2022-03-22-54.u56	s	English	Neutral	neutral negative	2.110	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg427.5	ParlaMint-IS_2022-03-22-54.u56	s	English	Neutral	neutral negative	1.691	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.seg427.6	ParlaMint-IS_2022-03-22-54.u56	s	English	Neutral	neutral negative	1.700	1	37	40	0	
+ParlaMint-IS_2022-03-22-54.u57	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	9	204	227	3	
+ParlaMint-IS_2022-03-22-54.seg428.1	ParlaMint-IS_2022-03-22-54.u57	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg428.2	ParlaMint-IS_2022-03-22-54.u57	s	English	Negative	mixed negative	0.685	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.seg428.3	ParlaMint-IS_2022-03-22-54.u57	s	English	Negative	negative	0.455	1	29	34	0	
+ParlaMint-IS_2022-03-22-54.seg428.4	ParlaMint-IS_2022-03-22-54.u57	s	English	Neutral	neutral negative	2.098	1	23	26	0	
+ParlaMint-IS_2022-03-22-54.seg428.5	ParlaMint-IS_2022-03-22-54.u57	s	English	Neutral	neutral negative	2.281	1	20	22	0	
+ParlaMint-IS_2022-03-22-54.seg428.6	ParlaMint-IS_2022-03-22-54.u57	s	English	Neutral	neutral negative	2.043	1	24	26	0	
+ParlaMint-IS_2022-03-22-54.seg428.7	ParlaMint-IS_2022-03-22-54.u57	s	English	Neutral	neutral positive	2.611	1	37	42	2	
+ParlaMint-IS_2022-03-22-54.seg428.8	ParlaMint-IS_2022-03-22-54.u57	s	English	Positive	mixed positive	4.039	1	30	31	1	
+ParlaMint-IS_2022-03-22-54.seg428.9	ParlaMint-IS_2022-03-22-54.u57	s	English	Neutral	neutral positive	2.571	1	10	12	0	
+ParlaMint-IS_2022-03-22-54.u58	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	138	153	4	
+ParlaMint-IS_2022-03-22-54.seg429.1	ParlaMint-IS_2022-03-22-54.u58	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg429.2	ParlaMint-IS_2022-03-22-54.u58	s	English	Positive	mixed positive	4.056	1	10	12	0	
+ParlaMint-IS_2022-03-22-54.seg429.3	ParlaMint-IS_2022-03-22-54.u58	s	English	Neutral	neutral positive	3.119	1	28	30	1	
+ParlaMint-IS_2022-03-22-54.seg429.4	ParlaMint-IS_2022-03-22-54.u58	s	English	Neutral	neutral negative	1.838	1	27	29	1	
+ParlaMint-IS_2022-03-22-54.seg429.5	ParlaMint-IS_2022-03-22-54.u58	s	English	Positive	mixed positive	4.013	1	16	19	1	
+ParlaMint-IS_2022-03-22-54.seg429.6	ParlaMint-IS_2022-03-22-54.u58	s	English	Neutral	neutral positive	2.934	1	32	34	0	
+ParlaMint-IS_2022-03-22-54.seg429.7	ParlaMint-IS_2022-03-22-54.u58	s	English	Neutral	neutral positive	2.670	1	22	25	1	
+ParlaMint-IS_2022-03-22-54.u59	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	122	135	1	
+ParlaMint-IS_2022-03-22-54.seg430.1	ParlaMint-IS_2022-03-22-54.u59	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg430.2	ParlaMint-IS_2022-03-22-54.u59	s	English	Negative	mixed negative	1.371	1	27	28	0	
+ParlaMint-IS_2022-03-22-54.seg430.3	ParlaMint-IS_2022-03-22-54.u59	s	English	Neutral	neutral negative	1.695	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg430.4	ParlaMint-IS_2022-03-22-54.u59	s	English	Neutral	neutral negative	1.713	1	15	19	1	
+ParlaMint-IS_2022-03-22-54.seg430.5	ParlaMint-IS_2022-03-22-54.u59	s	English	Negative	mixed negative	0.660	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg430.6	ParlaMint-IS_2022-03-22-54.u59	s	English	Neutral	neutral positive	2.786	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg430.7	ParlaMint-IS_2022-03-22-54.u59	s	English	Positive	positive	4.543	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.u60	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	122	135	0	
+ParlaMint-IS_2022-03-22-54.seg431.1	ParlaMint-IS_2022-03-22-54.u60	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg431.2	ParlaMint-IS_2022-03-22-54.u60	s	English	Positive	mixed positive	4.179	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg431.3	ParlaMint-IS_2022-03-22-54.u60	s	English	Positive	mixed positive	3.547	1	24	25	0	
+ParlaMint-IS_2022-03-22-54.seg431.4	ParlaMint-IS_2022-03-22-54.u60	s	English	Neutral	neutral positive	2.996	1	14	16	0	
+ParlaMint-IS_2022-03-22-54.seg431.5	ParlaMint-IS_2022-03-22-54.u60	s	English	Positive	mixed positive	3.666	1	37	40	0	
+ParlaMint-IS_2022-03-22-54.seg431.6	ParlaMint-IS_2022-03-22-54.u60	s	English	Neutral	neutral positive	2.711	1	19	22	0	
+ParlaMint-IS_2022-03-22-54.seg431.7	ParlaMint-IS_2022-03-22-54.u60	s	English	Positive	positive	5.177	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.u61	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	29	1073	1174	12	
+ParlaMint-IS_2022-03-22-54.seg432.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.120	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg432.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	1.973	1	63	68	1	
+ParlaMint-IS_2022-03-22-54.seg432.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	2.586	1	41	47	1	
+ParlaMint-IS_2022-03-22-54.seg433.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	1.856	1	29	31	0	
+ParlaMint-IS_2022-03-22-54.seg433.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.066	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg433.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	2.961	1	44	46	1	
+ParlaMint-IS_2022-03-22-54.seg433.4	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.023	1	15	18	0	
+ParlaMint-IS_2022-03-22-54.seg433.5	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.112	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg434.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	2.605	1	31	34	0	
+ParlaMint-IS_2022-03-22-54.seg435.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	1.844	1	35	37	1	
+ParlaMint-IS_2022-03-22-54.seg435.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	2.237	1	31	39	0	
+ParlaMint-IS_2022-03-22-54.seg436.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	1.942	1	44	49	0	
+ParlaMint-IS_2022-03-22-54.seg436.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	2.592	1	55	58	0	
+ParlaMint-IS_2022-03-22-54.seg436.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Negative	mixed negative	1.189	1	80	84	1	
+ParlaMint-IS_2022-03-22-54.seg437.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.186	1	28	29	0	
+ParlaMint-IS_2022-03-22-54.seg437.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Negative	negative	0.378	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg437.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	mixed positive	4.171	1	24	27	0	
+ParlaMint-IS_2022-03-22-54.seg437.4	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.257	1	69	73	0	
+ParlaMint-IS_2022-03-22-54.seg438.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	2.473	1	31	35	2	
+ParlaMint-IS_2022-03-22-54.seg438.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Negative	mixed negative	0.546	1	21	22	0	
+ParlaMint-IS_2022-03-22-54.seg438.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral negative	2.261	1	19	20	0	
+ParlaMint-IS_2022-03-22-54.seg438.4	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.618	1	48	52	0	
+ParlaMint-IS_2022-03-22-54.seg439.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	3.158	1	81	87	1	
+ParlaMint-IS_2022-03-22-54.seg440.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Neutral	neutral positive	2.881	1	100	110	2	
+ParlaMint-IS_2022-03-22-54.seg440.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.698	1	25	28	0	
+ParlaMint-IS_2022-03-22-54.seg440.3	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.799	1	28	30	1	
+ParlaMint-IS_2022-03-22-54.seg440.4	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.681	1	54	59	1	
+ParlaMint-IS_2022-03-22-54.seg441.1	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.976	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg441.2	ParlaMint-IS_2022-03-22-54.u61	s	English	Positive	positive	4.573	1	30	36	0	
+ParlaMint-IS_2022-03-22-54.u62	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	11	267	302	1	
+ParlaMint-IS_2022-03-22-54.seg442.1	ParlaMint-IS_2022-03-22-54.u62	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg442.2	ParlaMint-IS_2022-03-22-54.u62	s	English	Positive	positive	4.710	1	16	17	1	
+ParlaMint-IS_2022-03-22-54.seg442.3	ParlaMint-IS_2022-03-22-54.u62	s	English	Positive	mixed positive	3.817	1	27	30	0	
+ParlaMint-IS_2022-03-22-54.seg442.4	ParlaMint-IS_2022-03-22-54.u62	s	English	Negative	negative	0.134	1	40	46	0	
+ParlaMint-IS_2022-03-22-54.seg442.5	ParlaMint-IS_2022-03-22-54.u62	s	English	Negative	mixed negative	1.175	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg442.6	ParlaMint-IS_2022-03-22-54.u62	s	English	Neutral	neutral positive	3.045	1	30	36	0	
+ParlaMint-IS_2022-03-22-54.seg442.7	ParlaMint-IS_2022-03-22-54.u62	s	English	Neutral	neutral negative	1.708	1	30	35	0	
+ParlaMint-IS_2022-03-22-54.seg442.8	ParlaMint-IS_2022-03-22-54.u62	s	English	Negative	mixed negative	1.333	1	44	49	0	
+ParlaMint-IS_2022-03-22-54.seg442.9	ParlaMint-IS_2022-03-22-54.u62	s	English	Negative	negative	0.430	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg442.10	ParlaMint-IS_2022-03-22-54.u62	s	English	Negative	mixed negative	1.487	1	34	38	0	
+ParlaMint-IS_2022-03-22-54.seg442.11	ParlaMint-IS_2022-03-22-54.u62	s	English	Neutral	neutral negative	2.445	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.u63	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	10	229	258	0	
+ParlaMint-IS_2022-03-22-54.seg443.1	ParlaMint-IS_2022-03-22-54.u63	s	English	Neutral	neutral positive	3.120	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg443.2	ParlaMint-IS_2022-03-22-54.u63	s	English	Positive	mixed positive	4.005	1	8	11	0	
+ParlaMint-IS_2022-03-22-54.seg443.3	ParlaMint-IS_2022-03-22-54.u63	s	English	Neutral	neutral positive	2.666	1	12	15	0	
+ParlaMint-IS_2022-03-22-54.seg443.4	ParlaMint-IS_2022-03-22-54.u63	s	English	Neutral	neutral negative	2.212	1	36	38	0	
+ParlaMint-IS_2022-03-22-54.seg443.5	ParlaMint-IS_2022-03-22-54.u63	s	English	Positive	positive	5.274	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg443.6	ParlaMint-IS_2022-03-22-54.u63	s	English	Neutral	neutral negative	2.473	1	27	31	0	
+ParlaMint-IS_2022-03-22-54.seg443.7	ParlaMint-IS_2022-03-22-54.u63	s	English	Negative	negative	0.381	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg443.8	ParlaMint-IS_2022-03-22-54.u63	s	English	Negative	mixed negative	0.512	1	27	28	0	
+ParlaMint-IS_2022-03-22-54.seg443.9	ParlaMint-IS_2022-03-22-54.u63	s	English	Neutral	neutral positive	3.208	1	23	27	0	
+ParlaMint-IS_2022-03-22-54.seg443.10	ParlaMint-IS_2022-03-22-54.u63	s	English	Positive	positive	4.796	1	56	62	0	
+ParlaMint-IS_2022-03-22-54.u64	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	15	278	311	1	
+ParlaMint-IS_2022-03-22-54.seg444.1	ParlaMint-IS_2022-03-22-54.u64	s	English	Positive	mixed positive	3.689	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg444.2	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral positive	2.621	1	18	20	1	
+ParlaMint-IS_2022-03-22-54.seg444.3	ParlaMint-IS_2022-03-22-54.u64	s	English	Positive	positive	5.303	1	21	24	0	
+ParlaMint-IS_2022-03-22-54.seg444.4	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	mixed negative	0.807	1	9	10	0	
+ParlaMint-IS_2022-03-22-54.seg444.5	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	mixed negative	1.038	1	21	25	0	
+ParlaMint-IS_2022-03-22-54.seg444.6	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	negative	0.271	1	26	27	0	
+ParlaMint-IS_2022-03-22-54.seg444.7	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral positive	2.674	1	40	44	0	
+ParlaMint-IS_2022-03-22-54.seg444.8	ParlaMint-IS_2022-03-22-54.u64	s	English	Positive	mixed positive	4.149	1	42	46	0	
+ParlaMint-IS_2022-03-22-54.seg444.9	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	mixed negative	0.641	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg444.10	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	negative	0.101	1	22	24	0	
+ParlaMint-IS_2022-03-22-54.seg444.11	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral positive	2.513	1	42	48	0	
+ParlaMint-IS_2022-03-22-54.seg444.12	ParlaMint-IS_2022-03-22-54.u64	s	English	Negative	mixed negative	0.833	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg444.13	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral positive	3.470	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg444.14	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral negative	1.640	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg444.15	ParlaMint-IS_2022-03-22-54.u64	s	English	Neutral	neutral positive	2.885	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.u65	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	10	193	219	1	
+ParlaMint-IS_2022-03-22-54.seg445.1	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg445.2	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral positive	3.446	1	12	15	0	
+ParlaMint-IS_2022-03-22-54.seg445.3	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral negative	2.367	1	22	23	1	
+ParlaMint-IS_2022-03-22-54.seg445.4	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral negative	2.326	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg445.5	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral positive	3.469	1	49	54	0	
+ParlaMint-IS_2022-03-22-54.seg446.1	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral negative	1.585	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg446.2	ParlaMint-IS_2022-03-22-54.u65	s	English	Negative	negative	0.420	1	20	22	0	
+ParlaMint-IS_2022-03-22-54.seg446.3	ParlaMint-IS_2022-03-22-54.u65	s	English	Positive	positive	4.672	1	13	16	0	
+ParlaMint-IS_2022-03-22-54.seg446.4	ParlaMint-IS_2022-03-22-54.u65	s	English	Neutral	neutral negative	2.082	1	13	15	0	
+ParlaMint-IS_2022-03-22-54.seg446.5	ParlaMint-IS_2022-03-22-54.u65	s	English	Positive	mixed positive	4.446	1	30	35	0	
+ParlaMint-IS_2022-03-22-54.u66	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	216	236	2	
+ParlaMint-IS_2022-03-22-54.seg447.1	ParlaMint-IS_2022-03-22-54.u66	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg447.2	ParlaMint-IS_2022-03-22-54.u66	s	English	Negative	negative	0.272	1	20	22	1	
+ParlaMint-IS_2022-03-22-54.seg447.3	ParlaMint-IS_2022-03-22-54.u66	s	English	Negative	negative	0.117	1	36	39	1	
+ParlaMint-IS_2022-03-22-54.seg447.4	ParlaMint-IS_2022-03-22-54.u66	s	English	Negative	mixed negative	0.513	1	53	57	0	
+ParlaMint-IS_2022-03-22-54.seg447.5	ParlaMint-IS_2022-03-22-54.u66	s	English	Negative	negative	0.210	1	41	46	0	
+ParlaMint-IS_2022-03-22-54.seg447.6	ParlaMint-IS_2022-03-22-54.u66	s	English	Negative	mixed negative	1.076	1	27	29	0	
+ParlaMint-IS_2022-03-22-54.seg447.7	ParlaMint-IS_2022-03-22-54.u66	s	English	Neutral	neutral negative	2.463	1	8	9	0	
+ParlaMint-IS_2022-03-22-54.seg447.8	ParlaMint-IS_2022-03-22-54.u66	s	English	Neutral	neutral negative	1.504	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.u67	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	10	189	211	2	
+ParlaMint-IS_2022-03-22-54.seg448.1	ParlaMint-IS_2022-03-22-54.u67	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg448.2	ParlaMint-IS_2022-03-22-54.u67	s	English	Neutral	neutral positive	3.428	1	8	10	1	
+ParlaMint-IS_2022-03-22-54.seg448.3	ParlaMint-IS_2022-03-22-54.u67	s	English	Neutral	neutral negative	2.366	1	15	17	0	
+ParlaMint-IS_2022-03-22-54.seg448.4	ParlaMint-IS_2022-03-22-54.u67	s	English	Negative	negative	0.294	1	36	41	0	
+ParlaMint-IS_2022-03-22-54.seg448.5	ParlaMint-IS_2022-03-22-54.u67	s	English	Negative	negative	0.231	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg448.6	ParlaMint-IS_2022-03-22-54.u67	s	English	Negative	mixed negative	0.565	1	63	68	0	
+ParlaMint-IS_2022-03-22-54.seg448.7	ParlaMint-IS_2022-03-22-54.u67	s	English	Negative	negative	0.144	1	23	24	0	
+ParlaMint-IS_2022-03-22-54.seg449.1	ParlaMint-IS_2022-03-22-54.u67	s	English	Neutral	neutral negative	1.686	1	31	34	1	
+ParlaMint-IS_2022-03-22-54.seg449.2	ParlaMint-IS_2022-03-22-54.u67	s	English	Neutral	neutral positive	3.353	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg449.3	ParlaMint-IS_2022-03-22-54.u67	s	English	Positive	mixed positive	3.628	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.u68	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	12	280	306	1	
+ParlaMint-IS_2022-03-22-54.seg450.1	ParlaMint-IS_2022-03-22-54.u68	s	English	Positive	mixed positive	3.977	1	3	4	0	
+ParlaMint-IS_2022-03-22-54.seg450.2	ParlaMint-IS_2022-03-22-54.u68	s	English	Negative	mixed negative	0.786	1	25	27	0	
+ParlaMint-IS_2022-03-22-54.seg450.3	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral positive	2.783	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg450.4	ParlaMint-IS_2022-03-22-54.u68	s	English	Positive	mixed positive	4.203	1	44	45	0	
+ParlaMint-IS_2022-03-22-54.seg450.5	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral negative	1.859	1	20	25	0	
+ParlaMint-IS_2022-03-22-54.seg450.6	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral negative	1.592	1	17	20	0	
+ParlaMint-IS_2022-03-22-54.seg450.7	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral negative	1.864	1	53	58	0	
+ParlaMint-IS_2022-03-22-54.seg451.1	ParlaMint-IS_2022-03-22-54.u68	s	English	Negative	mixed negative	0.776	1	17	19	1	
+ParlaMint-IS_2022-03-22-54.seg451.2	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral negative	2.243	1	20	21	0	
+ParlaMint-IS_2022-03-22-54.seg451.3	ParlaMint-IS_2022-03-22-54.u68	s	English	Negative	negative	0.480	1	26	28	0	
+ParlaMint-IS_2022-03-22-54.seg451.4	ParlaMint-IS_2022-03-22-54.u68	s	English	Negative	negative	0.363	1	18	19	0	
+ParlaMint-IS_2022-03-22-54.seg451.5	ParlaMint-IS_2022-03-22-54.u68	s	English	Neutral	neutral negative	1.575	1	24	26	0	
+ParlaMint-IS_2022-03-22-54.u69	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	7	180	203	1	
+ParlaMint-IS_2022-03-22-54.seg452.1	ParlaMint-IS_2022-03-22-54.u69	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg452.2	ParlaMint-IS_2022-03-22-54.u69	s	English	Positive	positive	4.570	1	49	57	0	
+ParlaMint-IS_2022-03-22-54.seg452.3	ParlaMint-IS_2022-03-22-54.u69	s	English	Neutral	neutral positive	3.346	1	17	18	0	
+ParlaMint-IS_2022-03-22-54.seg452.4	ParlaMint-IS_2022-03-22-54.u69	s	English	Positive	positive	4.663	1	6	8	0	
+ParlaMint-IS_2022-03-22-54.seg452.5	ParlaMint-IS_2022-03-22-54.u69	s	English	Neutral	neutral positive	2.893	1	9	10	1	
+ParlaMint-IS_2022-03-22-54.seg452.6	ParlaMint-IS_2022-03-22-54.u69	s	English	Neutral	neutral negative	1.805	1	32	35	0	
+ParlaMint-IS_2022-03-22-54.seg452.7	ParlaMint-IS_2022-03-22-54.u69	s	English	Positive	mixed positive	3.526	1	66	73	0	
+ParlaMint-IS_2022-03-22-54.u70	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	46	1159	1269	5	
+ParlaMint-IS_2022-03-22-54.seg453.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg453.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.938	1	18	20	0	
+ParlaMint-IS_2022-03-22-54.seg453.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	3.234	1	33	36	1	
+ParlaMint-IS_2022-03-22-54.seg454.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.669	1	26	28	1	
+ParlaMint-IS_2022-03-22-54.seg454.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	0.709	1	23	24	1	
+ParlaMint-IS_2022-03-22-54.seg454.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.903	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg454.4	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	negative	0.317	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg454.5	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.905	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg454.6	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.816	1	22	23	1	
+ParlaMint-IS_2022-03-22-54.seg454.7	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	0.594	1	21	23	0	
+ParlaMint-IS_2022-03-22-54.seg454.8	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	3.075	1	25	26	0	
+ParlaMint-IS_2022-03-22-54.seg455.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.776	1	39	45	0	
+ParlaMint-IS_2022-03-22-54.seg455.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.646	1	36	37	0	
+ParlaMint-IS_2022-03-22-54.seg455.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.340	1	41	45	0	
+ParlaMint-IS_2022-03-22-54.seg456.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.549	1	39	42	0	
+ParlaMint-IS_2022-03-22-54.seg456.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.934	1	36	39	0	
+ParlaMint-IS_2022-03-22-54.seg456.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.998	1	10	11	0	
+ParlaMint-IS_2022-03-22-54.seg457.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.312	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg457.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	0.515	1	30	33	0	
+ParlaMint-IS_2022-03-22-54.seg457.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.637	1	41	44	0	
+ParlaMint-IS_2022-03-22-54.seg457.4	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.645	1	44	48	0	
+ParlaMint-IS_2022-03-22-54.seg457.5	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.084	1	12	13	0	
+ParlaMint-IS_2022-03-22-54.seg457.6	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.506	1	34	36	0	
+ParlaMint-IS_2022-03-22-54.seg457.7	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.436	1	44	47	0	
+ParlaMint-IS_2022-03-22-54.seg458.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.964	1	22	23	0	
+ParlaMint-IS_2022-03-22-54.seg458.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Positive	mixed positive	3.698	1	19	21	0	
+ParlaMint-IS_2022-03-22-54.seg458.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	0.640	1	33	35	0	
+ParlaMint-IS_2022-03-22-54.seg458.4	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.660	1	43	47	0	
+ParlaMint-IS_2022-03-22-54.seg458.5	ParlaMint-IS_2022-03-22-54.u70	s	English	Positive	mixed positive	3.624	1	16	17	0	
+ParlaMint-IS_2022-03-22-54.seg458.6	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	negative	0.434	1	14	15	0	
+ParlaMint-IS_2022-03-22-54.seg458.7	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	0.993	1	23	24	0	
+ParlaMint-IS_2022-03-22-54.seg458.8	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.352	1	26	29	0	
+ParlaMint-IS_2022-03-22-54.seg459.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral negative	1.878	1	34	38	0	
+ParlaMint-IS_2022-03-22-54.seg459.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Positive	mixed positive	3.641	1	25	27	0	
+ParlaMint-IS_2022-03-22-54.seg459.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Positive	mixed positive	4.147	1	18	21	0	
+ParlaMint-IS_2022-03-22-54.seg460.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	3.031	1	14	15	1	
+ParlaMint-IS_2022-03-22-54.seg460.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.670	1	29	33	0	
+ParlaMint-IS_2022-03-22-54.seg460.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Negative	mixed negative	1.005	1	40	45	0	
+ParlaMint-IS_2022-03-22-54.seg461.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.623	1	17	19	0	
+ParlaMint-IS_2022-03-22-54.seg461.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.918	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg461.3	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.965	1	34	36	0	
+ParlaMint-IS_2022-03-22-54.seg461.4	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.506	1	20	24	0	
+ParlaMint-IS_2022-03-22-54.seg462.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.795	1	19	24	0	
+ParlaMint-IS_2022-03-22-54.seg462.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.859	1	27	31	0	
+ParlaMint-IS_2022-03-22-54.seg463.1	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	3.399	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg463.2	ParlaMint-IS_2022-03-22-54.u70	s	English	Neutral	neutral positive	2.970	1	25	28	0	
+ParlaMint-IS_2022-03-22-54.u71	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	176	197	0	
+ParlaMint-IS_2022-03-22-54.seg464.1	ParlaMint-IS_2022-03-22-54.u71	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg464.2	ParlaMint-IS_2022-03-22-54.u71	s	English	Negative	negative	0.261	1	19	22	0	
+ParlaMint-IS_2022-03-22-54.seg464.3	ParlaMint-IS_2022-03-22-54.u71	s	English	Negative	mixed negative	0.811	1	46	49	0	
+ParlaMint-IS_2022-03-22-54.seg465.1	ParlaMint-IS_2022-03-22-54.u71	s	English	Neutral	neutral positive	2.962	1	10	12	0	
+ParlaMint-IS_2022-03-22-54.seg466.1	ParlaMint-IS_2022-03-22-54.u71	s	English	Neutral	neutral positive	2.999	1	24	26	0	
+ParlaMint-IS_2022-03-22-54.seg467.1	ParlaMint-IS_2022-03-22-54.u71	s	English	Negative	negative	0.430	1	18	21	0	
+ParlaMint-IS_2022-03-22-54.seg467.2	ParlaMint-IS_2022-03-22-54.u71	s	English	Negative	mixed negative	0.505	1	29	32	0	
+ParlaMint-IS_2022-03-22-54.seg467.3	ParlaMint-IS_2022-03-22-54.u71	s	English	Negative	mixed negative	0.588	1	29	33	0	
+ParlaMint-IS_2022-03-22-54.u72	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	170	193	1	
+ParlaMint-IS_2022-03-22-54.seg468.1	ParlaMint-IS_2022-03-22-54.u72	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg468.2	ParlaMint-IS_2022-03-22-54.u72	s	English	Positive	mixed positive	4.076	1	8	10	1	
+ParlaMint-IS_2022-03-22-54.seg468.3	ParlaMint-IS_2022-03-22-54.u72	s	English	Negative	mixed negative	0.734	1	20	23	0	
+ParlaMint-IS_2022-03-22-54.seg468.4	ParlaMint-IS_2022-03-22-54.u72	s	English	Neutral	neutral positive	3.285	1	37	42	0	
+ParlaMint-IS_2022-03-22-54.seg468.5	ParlaMint-IS_2022-03-22-54.u72	s	English	Negative	mixed negative	1.101	1	35	39	0	
+ParlaMint-IS_2022-03-22-54.seg468.6	ParlaMint-IS_2022-03-22-54.u72	s	English	Neutral	neutral positive	2.914	1	28	30	0	
+ParlaMint-IS_2022-03-22-54.seg468.7	ParlaMint-IS_2022-03-22-54.u72	s	English	Neutral	neutral positive	2.989	1	12	14	0	
+ParlaMint-IS_2022-03-22-54.seg468.8	ParlaMint-IS_2022-03-22-54.u72	s	English	Negative	mixed negative	0.571	1	28	32	0	
+ParlaMint-IS_2022-03-22-54.u73	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	8	163	184	1	
+ParlaMint-IS_2022-03-22-54.seg469.1	ParlaMint-IS_2022-03-22-54.u73	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg469.2	ParlaMint-IS_2022-03-22-54.u73	s	English	Positive	positive	4.531	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg469.3	ParlaMint-IS_2022-03-22-54.u73	s	English	Negative	mixed negative	1.232	1	43	45	0	
+ParlaMint-IS_2022-03-22-54.seg469.4	ParlaMint-IS_2022-03-22-54.u73	s	English	Neutral	neutral negative	2.129	1	46	52	0	
+ParlaMint-IS_2022-03-22-54.seg470.1	ParlaMint-IS_2022-03-22-54.u73	s	English	Negative	negative	0.330	1	19	24	0	
+ParlaMint-IS_2022-03-22-54.seg471.1	ParlaMint-IS_2022-03-22-54.u73	s	English	Neutral	neutral positive	3.201	1	1	2	0	
+ParlaMint-IS_2022-03-22-54.seg471.2	ParlaMint-IS_2022-03-22-54.u73	s	English	Neutral	neutral negative	1.636	1	37	41	0	
+ParlaMint-IS_2022-03-22-54.seg471.3	ParlaMint-IS_2022-03-22-54.u73	s	English	Negative	mixed negative	0.730	1	9	10	1	
+ParlaMint-IS_2022-03-22-54.u74	ParlaMint-IS-en_2022-03-22-54	u	English	-	-	-	18	228	253	1	
+ParlaMint-IS_2022-03-22-54.seg472.1	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral positive	3.366	1	2	3	0	
+ParlaMint-IS_2022-03-22-54.seg472.2	ParlaMint-IS_2022-03-22-54.u74	s	English	Positive	mixed positive	3.725	1	5	7	0	
+ParlaMint-IS_2022-03-22-54.seg472.3	ParlaMint-IS_2022-03-22-54.u74	s	English	Positive	mixed positive	3.551	1	15	18	0	
+ParlaMint-IS_2022-03-22-54.seg472.4	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	negative	0.352	1	20	22	0	
+ParlaMint-IS_2022-03-22-54.seg472.5	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral positive	3.137	1	19	20	0	
+ParlaMint-IS_2022-03-22-54.seg472.6	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral positive	2.523	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg472.7	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral negative	1.790	1	15	16	0	
+ParlaMint-IS_2022-03-22-54.seg472.8	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	negative	0.270	1	6	7	0	
+ParlaMint-IS_2022-03-22-54.seg472.9	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	mixed negative	1.403	1	4	5	0	
+ParlaMint-IS_2022-03-22-54.seg472.10	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral negative	2.115	1	13	14	0	
+ParlaMint-IS_2022-03-22-54.seg472.11	ParlaMint-IS_2022-03-22-54.u74	s	English	Positive	positive	4.673	1	20	21	0	
+ParlaMint-IS_2022-03-22-54.seg472.12	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	mixed negative	1.279	1	26	30	0	
+ParlaMint-IS_2022-03-22-54.seg472.13	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	mixed negative	1.467	1	7	8	0	
+ParlaMint-IS_2022-03-22-54.seg472.14	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral positive	2.756	1	13	14	1	
+ParlaMint-IS_2022-03-22-54.seg472.15	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	mixed negative	1.113	1	17	18	0	
+ParlaMint-IS_2022-03-22-54.seg472.16	ParlaMint-IS_2022-03-22-54.u74	s	English	Negative	negative	0.352	1	5	6	0	
+ParlaMint-IS_2022-03-22-54.seg472.17	ParlaMint-IS_2022-03-22-54.u74	s	English	Positive	positive	4.844	1	19	20	0	
+ParlaMint-IS_2022-03-22-54.seg472.18	ParlaMint-IS_2022-03-22-54.u74	s	English	Neutral	neutral negative	1.934	1	15	16	0	
